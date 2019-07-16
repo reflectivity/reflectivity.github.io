@@ -6,6 +6,21 @@ layout: default
 
   {{ content }}
 
+  <h1>Agenda</h1>
+  <table>
+      <thead>
+          <tr>
+              <th colspan="2">Thursday (2019-10-24)</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>10:00-12:00</td>
+              <td>What's happening just now?</td>
+          </tr>
+      </tbody>
+  </table>
+
   <h1>News</h1>
 
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
