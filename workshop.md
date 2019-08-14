@@ -92,7 +92,7 @@ function initMap() {
 var cose = {lat: 51.669710, lng: -1.277652};
 // The map, centered at Uluru
 var map = new google.maps.Map(
-document.getElementById('map'), {zoom: 10, center: cose});
+document.getElementById('map'), {zoom: 11, center: cose});
 // The marker, positioned at Uluru
 var marker = new google.maps.Marker({position: cose, map: map});
 }
