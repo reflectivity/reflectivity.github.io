@@ -89,7 +89,7 @@ The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Pl
 // Initialize and add the map
 function initMap() {
 // The location of Uluru
-var cose = {lat: 51.6673028, lng: -1.2834022};
+var cose = {lat: 51.669710, lng: -1.277652};
 // The map, centered at Uluru
 var map = new google.maps.Map(
 document.getElementById('map'), {zoom: 10, center: cose});
