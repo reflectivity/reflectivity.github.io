@@ -82,7 +82,7 @@ During the feedback sessions, one of the organisers will minute the feedback, to
 
 <h1> Location </h1>
 
-The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
+The workshop will take place at [Cosener's House](https://www.thecosenershouse.co.uk) in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
 
 <div id="map"></div>
 <script>
