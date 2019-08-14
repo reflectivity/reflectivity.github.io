@@ -101,3 +101,10 @@ var marker = new google.maps.Marker({position: cose, map: map});
 <script async defer
 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdPFyTQTDaODygyYuTzQi5T7kHbpgQtE8&callback=initMap">
 </script>
+
+<h1> Organisers </h1>
+
+- Joshaniel Cooper (ISIS Neutron and Muon Source)
+- Andrew McCluskey (Diamond Light Source)
+- Tim Snow (Diamond Light Source)
+- Robert Dalgleish (ISIS Neutron and Muon Source)
