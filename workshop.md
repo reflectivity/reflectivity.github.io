@@ -84,20 +84,17 @@ During the feedback sessions, one of the organisers will minute the feedback, to
 
 The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
 
-
-<h3>My Google Maps Demo</h3>
-<!--The div element for the map -->
 <div id="map"></div>
 <script>
 // Initialize and add the map
 function initMap() {
 // The location of Uluru
-var uluru = {lat: -25.344, lng: 131.036};
+var cose = {lat: 51.6673028, lng: -1.2834022};
 // The map, centered at Uluru
 var map = new google.maps.Map(
-document.getElementById('map'), {zoom: 4, center: uluru});
+document.getElementById('map'), {zoom: 10, center: cose});
 // The marker, positioned at Uluru
-var marker = new google.maps.Marker({position: uluru, map: map});
+var marker = new google.maps.Marker({position: cose, map: map});
 }
 </script>
 
