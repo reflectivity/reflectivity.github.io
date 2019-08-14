@@ -84,6 +84,19 @@ During the feedback sessions, one of the organisers will minute the feedback, to
 
 The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
 
+<html>
+  <head>
+    <style>
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My Google Maps Demo</h3>
+    <!--The div element for the map -->
 <div id="map"></div>
   <script>
     // Initialize and add the map
@@ -101,3 +114,5 @@ The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Pl
   <script async defer
   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSVY4SUPFwjFJq57SC86CzcCKkF3J23rE&callback=initMap">
   </script>
+  </body>
+</html>
