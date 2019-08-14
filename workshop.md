@@ -1,0 +1,107 @@
+---
+layout: page
+title: "Workshop"
+permalink: /workshop/
+---
+
+On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Light Source will be hosting some global experts in X-ray and neutron reflectivity from various large-scale facilities at a workshop at Cosener's House, Abingdon.
+
+
+<h1>Agenda</h1>
+<center>
+<table width="70%">
+    <thead>
+        <tr>
+          <th colspan="2" align="center">Thursday (2019-10-24)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10:00-12:00</td>
+            <td>What currently exists?</td>
+
+        </tr>
+        <tr>
+            <td>12:00-13:00</td>
+            <td><b>Lunch</b></td>
+        </tr>
+        <tr>
+            <td>13:00-15:00</td>
+            <td>What should a NeXus application standard look like?</td>
+        </tr>
+        <tr>
+            <td>15:00-15:30</td>
+            <td><b>Coffee</b></td>
+        </tr>
+        <tr>
+            <td>15:30-17:30</td>
+            <td>What are the building blocks for data reduction?</td>
+        </tr>
+        <tr>
+            <td>17:30-19:00</td>
+            <td><b>Break</b></td>
+        </tr>
+        <tr>
+            <td>19:00-21:00</td>
+            <td>Dinner & Discussion</td>
+        </tr>
+        <tr>
+          <th colspan="2" align="center"><b>Friday (2019-10-25)</b></th>
+        </tr>
+        <tr>
+          <td>9:00-10:30</td>
+          <td>Can we work together on analysis I?</td>
+        </tr>
+        <tr>
+          <td>10:30-11:00</td>
+          <td><b>Coffee</b></td>
+        </tr>
+        <tr>
+          <td>11:00-12:30</td>
+          <td>Can we work together on analysis II?</td>
+        </tr>
+        <tr>
+          <td>12:30-13:30</td>
+          <td><b>Lunch</b></td>
+        </tr>
+        <tr>
+          <td>13:30-16:00</td>
+          <td>Conclusions and the way forward</td>
+        </tr>
+    </tbody>
+</table>
+</center>
+
+<h1> Structure </h1>
+
+Each of the sessions will be lead by a chair.
+The chair will set the scene for the session by providing information about the current state of the art, as well as their opinion on how the area may be advanced (these primers will be shared with participants before the event).
+Finally, the chair will set out 2-3 discussion topics to be tackled during the sessions.
+Attendees will then break into groups of ~5 to discuss each of the topics and feedback to the large group, gradually working through each topic.
+During the feedback sessions, one of the organisers will minute the feedback, to be shared on this web resource for posterity.
+
+<h1> Location <h1>
+
+The workshop will take place at [Cosener's House]() in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
+
+<div id="map"></div>
+<script>
+// Initialize and add the map
+function initMap() {
+// The location of Uluru
+var uluru = {lat: -25.344, lng: 131.036};
+// The map, centered at Uluru
+var map = new google.maps.Map(
+  document.getElementById('map'), {zoom: 4, center: uluru});
+// The marker, positioned at Uluru
+var marker = new google.maps.Marker({position: uluru, map: map});
+}
+</script>
+<!--Load the API from the specified URL
+* The async attribute allows the browser to render the page while the API loads
+* The key parameter will contain your own API key (which is not needed for this tutorial)
+* The callback parameter executes the initMap() function
+-->
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSVY4SUPFwjFJq57SC86CzcCKkF3J23rE&callback=initMap">
+</script>
