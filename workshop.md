@@ -19,6 +19,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
             <td>10:00-12:00</td>
             <td>What currently exists?</td>
         </tr>
+        <tr>
             <td></td>
             <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
         </tr>
@@ -40,7 +41,8 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         <tr>
             <td>15:30-17:30</td>
             <td>What are the building blocks for data reduction?</td>
-        </tr>
+        </tr>        
+        <tr>
             <td></td>
             <td>Chair: Thomas Saerbeck (ILL)</td>
         </tr>
@@ -58,7 +60,8 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         <tr>
           <td>9:00-10:30</td>
           <td>Can we work together on analysis I?</td>
-      </tr>
+        </tr>
+        <tr>
           <td></td>
           <td>Chair: Brian Maranville (NIST)</td>
         </tr>
@@ -69,7 +72,8 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         <tr>
           <td>11:00-12:30</td>
           <td>Can we work together on analysis II?</td>
-      </tr>
+        </tr>
+        <tr>
           <td></td>
           <td>Chair: Wojciech Potrzebowski (ESS)</td>
         </tr>
@@ -80,7 +84,8 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         <tr>
           <td>13:30-16:00</td>
           <td>Conclusions and the way forward</td>
-      </tr>
+        </tr>
+        <tr>
           <td></td>
           <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
         </tr>
