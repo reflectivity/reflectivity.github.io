@@ -21,7 +21,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td></td>
-            <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
+            <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Rob Dalgleish (ISIS/DLS)</td>
         </tr>
         <tr>
             <td>12:00-13:00</td>
@@ -88,7 +88,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td></td>
-          <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
+          <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Rob Dalgleish (ISIS/DLS)</td>
         </tr>
     </tbody>
 </table>
