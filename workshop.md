@@ -17,8 +17,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
     <tbody>
         <tr>
             <td>10:00-12:00</td>
-            <td>What currently exists?<br>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
-
+            <td>What currently exists?</td>
+        </tr>
+            <td></td>
+            <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
         </tr>
         <tr>
             <td>12:00-13:00</td>
@@ -26,7 +28,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>13:00-15:00</td>
-            <td>What should a NeXus application standard look like?<br>Chair: Andrew Nelson (ANSTO)</td>
+            <td>What should a NeXus application standard look like?</td>
+        </tr>
+            <td></td>
+            <td>Chair: Andrew Nelson (ANSTO)</td>
         </tr>
         <tr>
             <td>15:00-15:30</td>
@@ -34,7 +39,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>15:30-17:30</td>
-            <td>What are the building blocks for data reduction?<br>Chair: Thomas Saerbeck (ILL)</td>
+            <td>What are the building blocks for data reduction?</td>
+        </tr>
+            <td></td>
+            <td>Chair: Thomas Saerbeck (ILL)</td>
         </tr>
         <tr>
             <td>17:30-19:00</td>
@@ -49,7 +57,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>9:00-10:30</td>
-          <td>Can we work together on analysis I?<br>Chair: Brian Maranville (NIST)</td>
+          <td>Can we work together on analysis I?</td>
+      </tr>
+          <td></td>
+          <td>Chair: Brian Maranville (NIST)</td>
         </tr>
         <tr>
           <td>10:30-11:00</td>
@@ -57,7 +68,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>11:00-12:30</td>
-          <td>Can we work together on analysis II?<br>Chair: Wojciech Potrzebowski (ESS)</td>
+          <td>Can we work together on analysis II?</td>
+      </tr>
+          <td></td>
+          <td>Chair: Wojciech Potrzebowski (ESS)</td>
         </tr>
         <tr>
           <td>12:30-13:30</td>
@@ -65,7 +79,10 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>13:30-16:00</td>
-          <td>Conclusions and the way forward<br>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
+          <td>Conclusions and the way forward</td>
+      </tr>
+          <td></td>
+          <td>Chairs: Jos Cooper, Andrew McCluskey, Tim Snow, & Robert Dalgleish (ISIS/DLS)</td>
         </tr>
     </tbody>
 </table>
