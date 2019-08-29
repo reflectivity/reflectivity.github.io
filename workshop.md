@@ -31,6 +31,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
             <td>13:00-15:00</td>
             <td>What should a NeXus application standard look like?</td>
         </tr>
+        <tr>
             <td></td>
             <td>Chair: Andrew Nelson (ANSTO)</td>
         </tr>
