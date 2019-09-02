@@ -130,3 +130,20 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdPFyTQTDaODygyYuTzQi5T7k
 - Andrew McCluskey (Diamond Light Source)
 - Tim Snow (Diamond Light Source)
 - Robert Dalgleish (ISIS Neutron and Muon Source)
+
+<h3> List of Attendees </h3>
+
+The following have given permission to be listed among the list of attendees:
+
+- Brian Maranville (NIST)
+- Andrew Nelson (ANSTO)
+- Matts Bjork
+- Thomas Saerbeck (ILL)
+- Jochen Stahn (PSI)
+- Tom Arnold (ESS)
+- Artur Glavic (PSI/ESS)
+- Wojciech Potrzebowski (ESS)
+- Alexandros Koutsioumpas (JCNS-MLZ)
+- Dmitry Yurov (JCNS)
+- Adrian Rennie (Uppsala)
+- Francesco Carlo (Diamond Light Source)
