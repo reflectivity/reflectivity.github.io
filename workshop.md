@@ -29,7 +29,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>13:00-15:00</td>
-            <td>What should a NeXus application standard look like?</td>
+            <td><a href="./assets/nelson_reflectometry_standards.pdf">What should a NeXus application standard look like?</a></td>
         </tr>
         <tr>
             <td></td>
@@ -41,7 +41,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>15:30-17:30</td>
-            <td>What are the building blocks for data reduction?</td>
+            <td><a href="./assets/saerbeck_data_reduction.pdf">What are the building blocks for data reduction?</a></td>
         </tr>        
         <tr>
             <td></td>
@@ -72,7 +72,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>11:00-12:30</td>
-          <td>Can we work together on analysis II?</td>
+          <td><a href="./assets/potrzebowski_data_analysis_2.pdf">Can we work together on analysis II?</a></td>
         </tr>
         <tr>
           <td></td>
