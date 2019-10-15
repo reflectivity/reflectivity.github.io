@@ -110,7 +110,7 @@ The workshop will take place at [Cosener's House](https://www.thecosenershouse.c
 <script>
 // Initialize and add the map
 function initMap() {
-// The location of Uluru
+// The location of Coseners
 var cose = {lat: 51.669710, lng: -1.277652};
 // The map, centered at Uluru
 var map = new google.maps.Map(
@@ -129,7 +129,7 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdPFyTQTDaODygyYuTzQi5T7k
 - Joshaniel Cooper (ISIS Neutron and Muon Source)
 - Andrew McCluskey (Diamond Light Source)
 - Tim Snow (Diamond Light Source)
-- Robert Dalgleish (ISIS Neutron and Muon Source)
+- Robert Dalgliesh (ISIS Neutron and Muon Source)
 
 <h3> List of Attendees </h3>
 
