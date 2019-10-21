@@ -135,15 +135,16 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdPFyTQTDaODygyYuTzQi5T7k
 
 The following have given permission to be listed among the list of attendees:
 
+- Tom Arnold (ESS)
+- Matts Bjork
+- Francesco Carlo (Diamond Light Source)
+- Artur Glavic (PSI/ESS)
+- Arwel Hughes (ISIS)
+- Alexandros Koutsioumpas (JCNS-MLZ)
 - Brian Maranville (NIST)
 - Andrew Nelson (ANSTO)
-- Matts Bjork
+- Wojciech Potrzebowski (ESS)
+- Adrian Rennie (Uppsala)
 - Thomas Saerbeck (ILL)
 - Jochen Stahn (PSI)
-- Tom Arnold (ESS)
-- Artur Glavic (PSI/ESS)
-- Wojciech Potrzebowski (ESS)
-- Alexandros Koutsioumpas (JCNS-MLZ)
 - Dmitry Yurov (JCNS)
-- Adrian Rennie (Uppsala)
-- Francesco Carlo (Diamond Light Source)
