@@ -60,7 +60,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>9:00-10:30</td>
-          <td>Can we work together on analysis I?</td>
+          <td><a href="../assets/maranville_reflectivity_analysis_1.pdf">Can we work together on analysis I?</a></td>
         </tr>
         <tr>
           <td></td>
