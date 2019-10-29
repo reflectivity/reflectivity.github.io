@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: reflectivity
-author: reflectivity
+title: ORSO
+author: ORSO
 description: Forwards a collaborative neutron and X-ray reflectivity community.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://reflectivity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
