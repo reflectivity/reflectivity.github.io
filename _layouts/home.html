@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   {{ content }}
-  This is an online home for a collaborative network of scientists interested in neutron and X-ray reflectometry.
+  This is an online home for the open reflectivity standards organisation (ORSO), a collaborative network of scientists interested in neutron and X-ray reflectometry.
   <br><br>
   If you would like to be involved please contact <a href="mailto:andrew.mccluskey@diamond.ac.uk">Andrew</a> and he will make you an owner on the <a href="https://github.com/reflectivity">GitHub</a> organisation.
   <br><br>
@@ -20,13 +20,13 @@ layout: default
 
       <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
         <header class="post-header">
-          <h2 class="post-title">
+          <h3 class="post-title">
             {% if post.external-url %}
               <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
             {% else %}
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             {% endif %}
-          </h2>
+          </h3>
 
           <p class="post-meta">
             {{ post.date | date: "%b %-d, %Y" }}

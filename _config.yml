@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ORSO
 author: ORSO
-description: Forwards a collaborative neutron and X-ray reflectivity community.
+description: Torwards a collaborative neutron and X-ray reflectivity community.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://reflectivity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
