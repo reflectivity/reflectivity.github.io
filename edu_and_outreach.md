@@ -13,6 +13,7 @@ Open to all to read, however, an account is required to post.
 ### Members
 
 - Tom Arnold (ESS) -- **Chair**
+- Jos Cooper (ISIS)
 - Andrew McCluskey (Diamond)
 - Wojciech Potrzebowski (ESS)
 - Adrian Rennie (Uppsala)
