@@ -4,6 +4,10 @@ title: "Reproducibility"
 permalink: /reproducibility/
 ---
 
+[Message board](https://gitter.im/reflectivity/reproducibility) 
+
+Open to all to read, however, an account is required to post.
+
 ### Members 
 
 - Arwel Hughes (ISIS)
