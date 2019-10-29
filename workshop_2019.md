@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Workshop"
-permalink: /workshop/
+title: "Workshop 2019"
+permalink: /workshop_2019/
 ---
 
-On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Light Source will be hosting some global experts in X-ray and neutron reflectivity from various large-scale facilities at a workshop at Cosener's House, Abingdon.
+On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Light Source hosted some global experts in X-ray and neutron reflectivity from various large-scale facilities at a workshop at Cosener's House, Abingdon.
 
 <h3>Agenda</h3>
 <center>
@@ -96,15 +96,16 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
 
 <h3> Structure </h3>
 
-Each of the sessions will be lead by a chair.
-The chair will set the scene for the session by providing information about the current state of the art, as well as their opinion on how the area may be advanced (these primers will be shared with participants before the event).
-Finally, the chair will set out 2-3 discussion topics to be tackled during the sessions.
-Attendees will then break into groups of ~5 to discuss each of the topics and feedback to the large group, gradually working through each topic.
-During the feedback sessions, one of the organisers will minute the feedback, to be shared on this web resource for posterity.
+Each of the sessions was led by a chair.
+The chair set the scene for the session by providing information about the current state of the art, as well as their opinion on how the area may be advanced (these primers were shared with participants before the event).
+Finally, the chair set out 2-3 discussion topics to be tackled during the sessions.
+Attendees then broke into groups of ~5 to discuss each of the topics and feedback to the large group, gradually working through each topic.
+During the feedback sessions, one of the organisers minuted the feedback, which will be shared on this web resource imminently.
+
 
 <h3> Location </h3>
 
-The workshop will take place at [Cosener's House](https://www.thecosenershouse.co.uk) in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
+The workshop took place at [Cosener's House](https://www.thecosenershouse.co.uk) in Abingdon, Oxfordshire. Please see the map below for a more accurate location.
 
 <div id="map"></div>
 <script>
