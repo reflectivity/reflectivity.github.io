@@ -3,7 +3,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Workshop"
-    url: /workshop/
+  - title: "Workshops"
+    url: /workshops/
   - title: "GitHub"
     url: https://github.com/reflectivity
