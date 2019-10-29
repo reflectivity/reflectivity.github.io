@@ -3,6 +3,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Working Groups"
+    url: /working_groups
   - title: "Workshops"
     url: /workshops/
   - title: "GitHub"
