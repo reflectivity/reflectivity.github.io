@@ -4,7 +4,7 @@ title: "Analysis"
 permalink: /analysis/
 ---
 
-[Message board](https://gitter.im/reflectivity/analysis) 
+### [Message board](https://gitter.im/reflectivity/analysis) 
 
 Open to all to read, however, an account is required to post.
 
