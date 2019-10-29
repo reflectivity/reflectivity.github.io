@@ -4,4 +4,4 @@ title: "Workshops"
 permalink: /workshops/
 ---
 
-1. [Abingdon, UK](~/workshop_2019)
+Oct. 2019 -- [Abingdon, UK](https://reflectivity.github.io/workshop_2019/)
