@@ -14,6 +14,7 @@ Open to all to read, however, an account is required to post.
 ### Members
 
 - John Ankner (ORNL)
+- Jos Cooper (ISIS)
 - Artur Glavic (ESS/PSI)
 - Arwel Hughes (ISIS) 
 - Brian Maranville (NIST) -- **Chair**
