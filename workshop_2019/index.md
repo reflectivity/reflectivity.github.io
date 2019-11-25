@@ -41,7 +41,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>15:30-17:30</td>
-            <td><a href="../assets/saerbeck_data_reduction.pdf">What are the building blocks for data reduction?</a></td>
+            <td><a href="../assets/saerbeck_data_reduction.pdf">What are the building blocks for data reduction?</a> <a href="./data_reduction">(minutes)</a></td>
         </tr>        
         <tr>
             <td></td>
