@@ -16,5 +16,6 @@ Open to all to read, however, an account is required to post.
 - Alexandros Koutsioumpas (JCNS)
 - Brian Maranville (NIST)
 - Andrew McCluskey (Diamond) -- **Chair**
+- Andrew Nelson (ANSTO)
 - Thomas Saerbeck (ILL)
 - Adrian Rennie (Uppsala) 
