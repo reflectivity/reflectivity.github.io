@@ -60,7 +60,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>9:00-10:30</td>
-          <td><a href="../assets/potrzebowski_data_analysis_2..pdf">Can we work together on analysis I?</a> <a href=".data_analysis1">(minutes)</a></td>
+          <td><a href="../assets/potrzebowski_data_analysis_2..pdf">Can we work together on analysis I?</a> <a href="./data_analysis1">(minutes)</a></td>
         </tr>
         <tr>
           <td></td>
