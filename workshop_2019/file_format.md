@@ -52,7 +52,7 @@ The second discussion in this section developed possible conventions to be used 
 The following conventions were discussed and generally agreed on:
 
 - Q<sub>z</sub>: Wavevector perpendicular to the interface
-- Q<sub>z</sub> and Q<sub>z</sub>: Wavevectors projection of the beam on the sample
+- Q<sub>x</sub> and Q<sub>y</sub>: Wavevectors projection of the beam on the sample
 - R: Normalised dimensionless reflected intensity
 - I: Unnormalised reflected intensity
 - I<sub>dev</sub>: Standard deviation of I
