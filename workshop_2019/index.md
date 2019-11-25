@@ -29,7 +29,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
             <td>13:00-15:00</td>
-            <td><a href="../assets/nelson_reflectometry_standards.pdf">What should a NeXus application standard look like?</a></td>
+            <td><a href="../assets/nelson_reflectometry_standards.pdf">What should a NeXus application standard look like?</a> <a href="./file_format">(minutes)</a></td>
         </tr>
         <tr>
             <td></td>
