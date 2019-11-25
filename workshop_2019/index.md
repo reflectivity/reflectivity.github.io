@@ -17,7 +17,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
     <tbody>
         <tr>
             <td>10:00-12:00</td>
-            <td>What currently exists?</td>
+            <td>What currently exists? <a href="./what_currently_exists">(minutes)</a></td>
         </tr>
         <tr>
             <td></td>
