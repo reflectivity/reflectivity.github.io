@@ -84,7 +84,7 @@ On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Ligh
         </tr>
         <tr>
           <td>13:30-16:00</td>
-          <td>Conclusions and the way forward</td>
+          <td>Conclusions and the way forward <a href="./looing_ahead">(minutes)</a></td>
         </tr>
         <tr>
           <td></td>
