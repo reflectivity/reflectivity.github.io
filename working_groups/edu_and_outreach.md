@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Education and Outreach"
-permalink: /edu_and_outreach/
+permalink: /working_groups/edu_and_outreach/
 ---
 
 The education and outreach working group aims to develop understanding of reflectivity techniques and disseminate information about reflectivity analysis.

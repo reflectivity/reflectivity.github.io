@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reproducibility"
-permalink: /reproducibility/
+permalink: /working_groups/reproducibility/
 ---
 
 The reproducibility working group is focused on creating guidelines to ensure reproducibility of data reduction and analysis of neutron and X-ray reflectivity measurements. 

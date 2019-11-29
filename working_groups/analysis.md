@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Analysis"
-permalink: /analysis/
+permalink: /working_groups/analysis/
 ---
 
 The working group focused on data analysis is targetting a unviersal descriptive model language for reflectometry analysis. 

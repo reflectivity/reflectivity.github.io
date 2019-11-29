@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "File Formats"
-permalink: /file_formats/
+permalink: /working_groups/file_formats/
 ---
 
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. 
