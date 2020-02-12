@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Workshop Announcement"
-published: True
+published: False 
 ---
 
 The first reflectivity data, reduction, and analysis standardisation workshop will be held at Cosener's House, Abingdon in October 2019.
