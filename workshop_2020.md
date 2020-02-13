@@ -10,11 +10,8 @@ We will host a satellite workshop to the [SXNS16 meeting](https://www.sxns16.org
 
 The purpose of the meeting is to discuss the detail of the work that we have been doing since the last meeting in 
 [Abingdon, UK](https://reflectivity.github.io/workshop_2019/) and plan for what to do next. 
-This work is split into 4 working groups which will make up the Break-out sessions:
-    File Formats
-    Data Analysis
-    Reproducibility
-    Education and Outreach
+This work is split into 4 working groups which will make up the Break-out sessions: File Formats, Data Analysis, 
+Reproducibility, Education and Outreach
 
 ### Tentative agenda:
 
