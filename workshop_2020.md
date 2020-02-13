@@ -26,8 +26,9 @@ Friday 26.06.2020, Conference venue (open session)
 
 ### Registration:
 
-Registration is free though limitted. If you are interested in participating please contact Wojciech Potrzebowski 
-(wojciech.potrzebowski@ess.eu) or Thomas Arnold (tom.arnold@ess.eu)
+Registration for Monday meeting is free though limitted. If you are interested in participating please contact Wojciech Potrzebowski 
+(wojciech.potrzebowski@ess.eu) or Thomas Arnold (tom.arnold@ess.eu). 
+For Friday session you register at the [SXNS registroation page](https://indico.maxiv.lu.se/event/1175/registrations/289/)
 
 ### Location: 
 
