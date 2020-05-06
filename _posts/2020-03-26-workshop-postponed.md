@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 Workshop postponed"
+title: "2020 Workshop moving online"
 published: True
 ---
-2020 workshop planned to be held in Lund is postponed until further notice. 
+The in person workshop planned at the SXNS16 meeting in Lund has been moved [online](./workshop_2020) as a result of the current pandemic situation.
