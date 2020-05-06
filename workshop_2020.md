@@ -35,7 +35,7 @@ The expected working group sessions are:
   - Session 2: Website content and collation of online resources                      
   - Session 3: Future funding opportunities & formal support from facility management
   
-If you would like to attend any of the events, please contact [mailto: tom.arnold@ess.eu](Tom Arnold) to register your interest. 
+If you would like to attend any of the events, please contact [Tom Arnold](mailto:tom.arnold@ess.eu) to register your interest. 
 
 ### Organizers:
 
