@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Workshop 2020"
-permalink: /workshop_2020/
+title: "Workshop 2021"
+permalink: /workshop_2021/
 ---
 
 We will host a satellite workshop to the [SXNS16 meeting](https://www.sxns16.org) in Lund, Sweden in June 2020. 
