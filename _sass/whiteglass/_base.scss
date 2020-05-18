@@ -29,8 +29,11 @@ body {
 table {
   width: 100%;
   margin: 0 0 20px 0;
-  text-align: left;
-  border: 1px solid black;
+  text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
 }
 
 /**
