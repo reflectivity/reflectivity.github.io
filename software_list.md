@@ -2,7 +2,7 @@
 
 The following links provide information about computer programs used for the analysis of neutron reflectivity data. In some case copies of the software are made available to other users. Consult the pages for further details.
 
-*(original list from reflectivity.net, courtesy of Adrian Rennie)*
+*(original list from http://www.reflectometry.net, courtesy of Adrian Rennie)*
 
 *   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
     [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
@@ -17,14 +17,14 @@ The following links provide information about computer programs used for the ana
     [http://physchem.ox.ac.uk/~rkt/afit.html](http://physchem.ox.ac.uk/~rkt/afit.html)
 
 *   Neutron reflectometry programs available from the NIST Center for Neutron Research.  
-    [https://www.ncnr.nist.gov/programs/reflect/data_reduction/software/](https://www.ncnr.nist.gov/programs/reflect/data_reduction/software/)
+    [https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software](https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software)
 
 *   Interactive, Web-Based Calculator of Neutron and X-ray Reflectivity, provided by Brian Maranville at NIST Center for Neutron Research.  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
     There is also an extended version for magnetic samples and polarised neutrons:  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html).
 
-*   Calculate neutron reflectivity on the Web. Alan Munter has provided a WWW site at the NIST Center for Neutron Research.  
+*   Calculate neutron reflectivity on the Web. Alan Munter has provided a WWW site at the NIST Center for Neutron Research.  *(NOTE: requires Java applet, no longer functional in modern browsers.  Source code still available [here](https://www.ncnr.nist.gov/resources/ReflSimulator.java))*
     [https://www.ncnr.nist.gov/resources/reflcalc.html](https://www.ncnr.nist.gov/resources/reflcalc.html)
 
 *   Description of Norm Berk's Programs and Papers  
