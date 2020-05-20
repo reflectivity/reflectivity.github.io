@@ -42,10 +42,10 @@ Table of Neutron and X-ray reflectometry instruments
 | CMRR | China | Diting TPNR | Neutron | Vertical | Yes | Yes |
 | MIT Reactor | USA | 4DH4 | Neutron | -- | No | Yes | 
 | MURR | USA | GANS | Neutron | Vertical | Yes | No | 
-| NIST | USA | CANDOR | Neutron | Vertical | No | No | 
-| NIST | USA | MAGIK | Neutron | Vertical | No | No | 
-| NIST | USA | Polarized Beam Reflectometer | Neutron | Vertical | Yes | No | 
-| NIST | USA | NG7 Reflectometer | Neutron | Horizontal | No | No | 
+| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [CANDOR](https://www.nist.gov/ncnr/chrns-candor-white-beam-reflectometer) | Neutron | Vertical | No | No | 
+| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [MAGIK](https://www.nist.gov/ncnr/magik-reflectometer) | Neutron | Vertical | No | No | 
+| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [Polarized Beam Reflectometer](https://www.nist.gov/ncnr/polarized-beam-reflectometer) | Neutron | Vertical | Yes | No | 
+| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [NG7 Reflectometer](https://www.nist.gov/ncnr/ng7-horizontal-neutron-reflectometer) | Neutron | Horizontal | No | No | 
 | SNS | USA | Liquids Reflectometer | Neutron | Horizontal | No | Yes | 
 | SNS | USA | Magnetism Reflectometer | Neutron | Vertical | Yes | Yes | 
 | WRR-M, PNPI | Russia | NR-4M | Neutron | Vertical | Yes | Yes |
