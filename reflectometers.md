@@ -46,8 +46,8 @@ Table of Neutron and X-ray reflectometry instruments
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [MAGIK](https://www.nist.gov/ncnr/magik-reflectometer) | Neutron | Vertical | No | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [Polarized Beam Reflectometer](https://www.nist.gov/ncnr/polarized-beam-reflectometer) | Neutron | Vertical | Yes | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [NG7 Reflectometer](https://www.nist.gov/ncnr/ng7-horizontal-neutron-reflectometer) | Neutron | Horizontal | No | No | 
-| SNS | USA | Liquids Reflectometer | Neutron | Horizontal | No | Yes | 
-| SNS | USA | Magnetism Reflectometer | Neutron | Vertical | Yes | Yes | 
+| [SNS](https://neutrons.ornl.gov/) | USA | [Liquids Reflectometer](https://neutrons.ornl.gov/lr) | Neutron | Horizontal | No | Yes | 
+| [SNS](https://neutrons.ornl.gov/) | USA | [Magnetism Reflectometer](https://neutrons.ornl.gov/mr) | Neutron | Vertical | Yes | Yes | 
 | WRR-M, PNPI | Russia | NR-4M | Neutron | Vertical | Yes | Yes |
 | RINSC | USA | Reflectometer | Neutron | Variable | No | Yes |
 | SINQ, PSI | Switzerland | AMOR | Neutron | Horizontal | Yes | Yes |
