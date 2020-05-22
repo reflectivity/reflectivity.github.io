@@ -1,4 +1,8 @@
-### Software
+---
+layout: page
+title: "Software"
+permalink: /software/
+---
 
 The following links provide information about computer programs used for the analysis of neutron reflectivity data. In some case copies of the software are made available to other users. Consult the pages for further details.
 
