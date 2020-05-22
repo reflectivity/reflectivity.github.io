@@ -4,7 +4,7 @@ title: "Analysis"
 permalink: /working_groups/analysis/
 ---
 
-The working group focused on data analysis is targetting a unviersal descriptive model language for reflectometry analysis. 
+The working group focused on data analysis is targetting a universal descriptive model language for reflectometry analysis. 
 Additionally, they hope to develop test cases for reflectometry calculations to ensure robustivity across analysis software. 
 
 ### [Message board](https://gitter.im/reflectivity/analysis) 
