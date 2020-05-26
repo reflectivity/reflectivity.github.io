@@ -54,7 +54,7 @@ The working group sessions are roughly as follows but individual sessions may fo
   - Session 2: How to communicate the importance of reproducibility?                          
   - Session 3: What are our expectations for reproducibility?                             
                                
-- **Education and Outreach**: Chaired by Tom Arnold
+- **[Education and Outreach](./education_outreach_agenda)**: Chaired by Tom Arnold
   - Session 1: Detailed introduction & aims of this working group                 
   - Session 2: Website content and collation of online resources                      
   - Session 3: Future funding opportunities & formal support from facility management
