@@ -27,8 +27,7 @@ Table of Neutron and X-ray reflectometry instruments
 | ILL | France | D17 | Neutron | Vertical | Yes | Yes | 
 | ILL | France | D50 | Neutron | Horizontal | No | No | 
 | ILL | France | FIGARO | Neutron | Horizontal | No | Yes | 
-| IRI Delft | Netherlands | ROG | Neutron | Horizontal | Yes | Yes | 
-| ISIS | UK | CRISP | Neutron | Horizontal | Yes | Yes |
+| IRI Delft | Netherlands | ROG | Neutron | Horizontal | Yes | Yes |
 | ISIS | UK | SURF | Neutron | Horizontal | No | Yes | 
 | ISIS | UK | Inter | Neutron | Horizontal | No | Yes |
 | ISIS | UK | PolRef | Neutron | Horizontal | Yes | Yes |
