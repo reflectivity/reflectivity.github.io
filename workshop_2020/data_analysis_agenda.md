@@ -6,7 +6,7 @@ permalink: /workshop_2020/data_analysis_agenda
 
 ## [ORSO workshop 2020](/workshop_2020)
 
-### <span class="c22">Session 1: Detailed introduction and aims of the working group</span>
+### <span class="c22">Session 1: Detailed introduction and aims of the working group -- (26th 18:00/27th 08:00)</span>
 
 *   <span class="c4">Selection of a scribe</span>
 *   <span class="c4">Introduction to current members of group</span>
@@ -35,7 +35,7 @@ permalink: /workshop_2020/data_analysis_agenda
 
 <span class="c1"></span>
 
-### <span class="c22">Session 2: Toward a shared calculation engine</span>
+### <span class="c22">Session 2: Toward a shared calculation engine -- (26th 22:30/27th 18:00)</span>
 
 <span class="c4">...or at least a shared language for the inputs to the engine</span>
 
@@ -58,7 +58,7 @@ permalink: /workshop_2020/data_analysis_agenda
 
 <span class="c4"></span>
 
-### <span class="c22">Session 3: Specific problem definitions: building real models</span>
+### <span class="c22">Session 3: Specific problem definitions: building real models -- (27th 22:30/28th 08:00)</span>
 
 <span class="c4">Dealing with distinct reflectometry problem categories, e.g. magnetic layers, polymer melts, biological membranes...</span>
 
