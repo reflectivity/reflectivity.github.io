@@ -6,7 +6,7 @@ permalink: /workshop_2020/reproducibility_agenda
 
 ## [ORSO workshop 2020](/workshop_2020)
 
-<span class="c2 c20">Session 1: Detailed introduction & aims of this working group</span>
+<span class="c2 c20">Session 1: Detailed introduction & aims of this working group -- (26th 16:30/27th 08:00)</span>
 
 *   <span class="c1">The chair should briefly introduce the working group</span>
 *   <span class="c1">The working group is focused on Reproducibility, in measurement and analysis</span>
@@ -26,7 +26,7 @@ permalink: /workshop_2020/reproducibility_agenda
 
 <span class="c1"></span>
 
-<span class="c20 c2">Session 2: How to communicate the importance of reproducibility?</span>
+<span class="c20 c2">Session 2: How to communicate the importance of reproducibility? -- (26th 22:30/28th 10:00)</span>
 
 *   <span class="c1">Reproducibility is important but showing if can be difficult</span>
 *   <span class="c1">Most users are too busy chasing the “science” to worry about showing their analysis is reproducible</span>
@@ -41,7 +41,7 @@ permalink: /workshop_2020/reproducibility_agenda
 
 <span class="c1"></span>
 
-<span class="c2">Session 3: What are our expectations for reproducibility?</span>
+<span class="c2">Session 3: What are our expectations for reproducibility? -- (27th 11:00/27th 22:30)</span>
 
 *   <span class="c5">If we are going to evangelise reproducibility, we need to set reaso</span><span class="c5">nable expectations</span>
 *   <span class="c1">We should be the bar that we expect, for example when we peer review a publication?</span>
