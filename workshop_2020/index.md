@@ -63,23 +63,62 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 
 **Sessions**
-- 26th
+- 26th May
+
 16:30 File Formats 1a
 
 16:30 Reproducibility 1a
 
 18:00 Data Analysis 1a
 
-18:00 Education and outreach 1a
+18:00 Education and Outreach 1a
 
 22:30 Data Analysis 2a
 
 22:30 Reproducibility 2a
 
 
+- 27th May
+
+08:00 File Formats 1b
+
+08:00 Data Analysis 1b
+
+10:00 Reproducibility 1b
+
+10:00 Education and Outreach 1b
+
+11:00 File Formats 2a
+
+11:00 Reproducibility 3a
+
+15:00 Education and Outreach 2a
+
+15:00 File Formats 2b
+
+16:30 File Formats 3a
+
+16:30 Education and Outreach 3a
+
+18:00 File Formats 3b
+
+18:00 Data Analysis 2b
+
+22:30 Reproducibility 3b
+
+22:30 Data Analysis 3a
 
 
 
+- 28th May
+
+08:00 Data Analysis 3b
+
+08:00 Education and Outreach 2b
+
+10:00 Reproducibility 2b
+
+10:00 Education and Outreach 3b
 
 
 
