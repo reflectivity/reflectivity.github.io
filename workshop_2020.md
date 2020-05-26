@@ -14,15 +14,16 @@ The meeting will be spread over 3 days: **26-28th May**, consisting of:
 
 
 Opening Webinar Agenda:
--**Tuesday 26th May 15:00-16:15 UK**
+
+- **Tuesday 26th May 15:00-16:15 UK**:
 [https://diamondlight.zoom.us/j/94254346787](https://diamondlight.zoom.us/j/94254346787)
 Password 272922
 
--15:00 General introduction, how the meeting will work: Tom Arnold
--15:10 A brief recap of the previous meeting held in October 2019: Jos Cooper
--15:20 canSAS: Tim Snow
--15:35 PaNOSC: Thomas Holm Rod
--15:50 Very brief progress updates:
+- 15:00 General introduction, how the meeting will work: Tom Arnold
+- 15:10 A brief recap of the previous meeting held in October 2019: Jos Cooper
+- 15:20 canSAS: Tim Snow
+- 15:35 PaNOSC: Thomas Holm Rod
+- 15:50 Very brief progress updates:
 5 min File formats: Jochen Stahn
 5 min Reproducibility: Andrew McCluskey
 5 min Data analysis: Brian Maranville
