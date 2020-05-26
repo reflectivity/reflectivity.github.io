@@ -61,6 +61,28 @@ The working group sessions are roughly as follows but individual sessions may fo
   
 If you would like to attend any of the events, please contact [Tom Arnold](mailto:tom.arnold@ess.eu) to register your interest. 
 
+
+**Sessions**
+- 26th
+16:30 File Formats 1a
+
+16:30 Reproducibility 1a
+
+18:00 Data Analysis 1a
+
+18:00 Education and outreach 1a
+
+22:30 Data Analysis 2a
+
+22:30 Reproducibility 2a
+
+
+
+
+
+
+
+
 ### Organizers:
 
 - Thomas Arnold ([tom.arnold@ess.eu](mailto:tom.arnold@ess.eu))
