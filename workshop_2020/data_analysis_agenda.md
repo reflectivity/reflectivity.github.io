@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Agenda: Data Analysis (ORSO 2020)"
+title: "Agenda: Data Analysis"
 permalink: /workshop_2020/data_analysis_agenda
 ---
+
+## [ORSO workshop 2020](/workshop_2020)
 
 ### <span class="c22">Session 1: Detailed introduction and aims of the working group</span>
 
