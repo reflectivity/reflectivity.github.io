@@ -39,7 +39,7 @@ Password 272922
 
 The working group sessions are roughly as follows but individual sessions may focus on different aspects: 
 
-- **File Formats**: Chaired by Jochen Stahn
+- **[File Formats](./file_formats_agenda)**: Chaired by Jochen Stahn
   - Session 1: Detailed introduction & aims of this working group                     
   - Session 2: Required content for data files                             
   - Session 3: Definition of format standards   
