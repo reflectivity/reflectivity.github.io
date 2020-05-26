@@ -49,7 +49,7 @@ The working group sessions are roughly as follows but individual sessions may fo
   - Session 2: Requirements for a generic (shared) calculation engine                             
   - Session 3: First steps for creating a model-definition language (many dialects, one syntax?)                          
                                
-- **Reproducibility**: Chaired by Andrew McCluskey 
+- **[Reproducibility](./reproducibility_agenda)**: Chaired by Andrew McCluskey 
   - Session 1: Detailed introduction & aims of this working group                     
   - Session 2: How to communicate the importance of reproducibility?                          
   - Session 3: What are our expectations for reproducibility?                             
