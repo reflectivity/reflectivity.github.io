@@ -44,7 +44,7 @@ The working group sessions are roughly as follows but individual sessions may fo
   - Session 2: Required content for data files                             
   - Session 3: Definition of format standards   
   
-- **Data Analysis**: Chaired by Brian Maranville      
+- **[Data Analysis](./data_analysis_agenda)**: Chaired by Brian Maranville      
   - Session 1: Detailed introduction & aims of this working group                     
   - Session 2: Requirements for a generic (shared) calculation engine                             
   - Session 3: First steps for creating a model-definition language (many dialects, one syntax?)                          
