@@ -104,7 +104,7 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 18:00 Data Analysis 2b
 
-22:30 Reproducibility 3b
+22:30 Reproducibility 2b
 
 22:30 Data Analysis 3a
 
@@ -116,7 +116,7 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 08:00 Education and Outreach 2b
 
-10:00 Reproducibility 2b
+10:00 Reproducibility 3b
 
 10:00 Education and Outreach 3b
 
