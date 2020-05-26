@@ -6,7 +6,7 @@ permalink: /workshop_2020/file_formats_agenda
 
 ## [ORSO workshop 2020](/workshop_2020)
 
-### Session 1: Detailed introduction & aims of this working group
+### Session 1: Detailed introduction & aims of this working group -- (26th 16:30/27th 08:00)
 
 ####   1.1 26/16:30 Rob   target group
      - PRESENTATION of the state of the project including items under discussion
@@ -27,7 +27,7 @@ permalink: /workshop_2020/file_formats_agenda
      - from list of recommendations to (several) defined format(s)
        >> explicit formulation of the deliveries
 
-### Session 2: Required content for data files
+### Session 2: Required content for data files -- (27th 11:00/27th 15:00)
 
 ####   2.1 27/11:00 Jochen   principles vs. usability
      - balance between matching the principles and usability
@@ -43,7 +43,7 @@ permalink: /workshop_2020/file_formats_agenda
        > discussion outcome
        > probably list of definitions/requirements
 
-### Session 3: Definition of format standards
+### Session 3: Definition of format standards -- (27th 16:30/27th 18:00)
 
 ####   3.1 27/16:30 Jos   dictionaries
      - vocabulary
