@@ -7,7 +7,7 @@ permalink: /workshop_2020/education_outreach_agenda
 ## [ORSO workshop 2020](/workshop_2020)
 
 
-### Education & Outreach Session 1: Detailed introduction & aims of this working group.
+### Education & Outreach Session 1: Detailed introduction & aims of this working group -- (26th 18:00/27th 10:00)
 
 The education and outreach working group aims to develop understanding of reflectivity techniques and disseminate information about reflectivity analysis. In this session we will discuss
 
@@ -17,7 +17,7 @@ The education and outreach working group aims to develop understanding of reflec
 
  
 
-### Education & Outreach Session 2: Website content and collation of online resources.
+### Education & Outreach Session 2: Website content and collation of online resources  -- (27th 15:00/28th 08:00)
 
  * Current status of our website
  * How can it be maintained effectively?
@@ -26,7 +26,7 @@ The education and outreach working group aims to develop understanding of reflec
 
  
 
-### Education & Outreach Session 3: Funding opportunities & formal support from facility management.
+### Education & Outreach Session 3: Funding opportunities & formal support from facility management  -- (27th 16:30/28th 10:00)
 
  * How can we secure the long-term future of this collaboration?
  * Write a memorandum of understanding? – i.e. ensure that facility management value time spent on this topic and acknowledge that they will allow some resource to be spent on our activities.
