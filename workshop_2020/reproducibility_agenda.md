@@ -4,6 +4,8 @@ title: "Agenda: Reproducibility"
 permalink: /workshop_2020/reproducibility_agenda
 ---
 
+## [ORSO workshop 2020](/workshop_2020)
+
 <span class="c2 c20">Session 1: Detailed introduction & aims of this working group</span>
 
 *   <span class="c1">The chair should briefly introduce the working group</span>
