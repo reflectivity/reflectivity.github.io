@@ -63,10 +63,10 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 ### Organizers:
 
-- Thomas Arnold (tom.arnold@ess.eu)
-- Andrew McCluskey (andrew.mccluskey@diamond.ac.uk)
-- Brian Maranville (brian.maranville@nist.gov)
-- Jochen Stahn (jochen.stahn@psi.ch)
-- Jos Cooper (Jos.Cooper@stfc.ac.uk)
-- Rob Dalgliesh (robert.dalgliesh@stfc.ac.uk)
-- Tim Snow (tim.snow@diamond.ac.uk)
+- Thomas Arnold ([tom.arnold@ess.eu](mailto:tom.arnold@ess.eu))
+- Andrew McCluskey ([andrew.mccluskey@diamond.ac.uk](mailto:andrew.mccluskey@diamond.ac.uk))
+- Brian Maranville ([brian.maranville@nist.gov](mailto:brian.maranville@nist.gov))
+- Jochen Stahn ([jochen.stahn@psi.ch](mailto:jochen.stahn@psi.ch))
+- Jos Cooper ([Jos.Cooper@stfc.ac.uk](mailto:Jos.Cooper@stfc.ac.uk))
+- Rob Dalgliesh ([robert.dalgliesh@stfc.ac.uk](mailto:robert.dalgliesh@stfc.ac.uk))
+- Tim Snow ([tim.snow@diamond.ac.uk](mailto:tim.snow@diamond.ac.uk))
