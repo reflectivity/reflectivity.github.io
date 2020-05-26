@@ -1,4 +1,8 @@
-## <span>Agenda: Data Analysis</span>
+---
+layout: page
+title: "Agenda: Data Analysis (ORSO 2020)"
+permalink: /workshop_2020/data_analysis_agenda
+---
 
 ### <span class="c22">Session 1: Detailed introduction and aims of the working group</span>
 
