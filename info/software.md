@@ -42,6 +42,9 @@ The following links provide information about computer programs used for the ana
 
 *   POLLY - for simulation and analysis of polarised neutron reflectometry data S. Langridge, RAL  
     [https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx](https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx)
+    
+*   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
+    [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
 
 *   MultiFit, SuperFit and other Software for X-Ray Reflectivity and Polarised Neutron Reflectivity, K. Ritley & W. Donner, MPI f. Metallforschung, Stuttgart, Germany  
     [http://www.is.mpg.de/8137185/fitting](https://web.archive.org/web/20170423172513/http://www.is.mpg.de/8137185/fitting). Note: this site and software is no longer avaiable - an archive link is provided for information.
