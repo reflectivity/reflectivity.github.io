@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Agenda: Data Analysis"
-permalink: /workshop_2020/data_analysis_agenda
+permalink: /workshop_2020/data_analysis_agenda/
 ---
 
 ## [ORSO workshop 2020](/workshop_2020)
