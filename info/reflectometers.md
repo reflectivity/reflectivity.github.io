@@ -15,7 +15,7 @@ Table of Neutron and X-ray reflectometry instruments
 | CIAE, CARR | China | NR | Neutron | Horizontal | No | No |
 | CSNS | China | MR | Neutron | Vertical | Yes | Yes | 
 | Bhaba (BARC) | India | PNR | Neutron | Vertical | Yes | No | 
-| PETRA III (DESY) | Germany | LISA | X-ray | Both | No | No |  
+| Diamond | UK | I07 | X-ray | Both | No | No |
 | FRM2 | Germany | MARIA | Neutron | Vertical | Yes | No |
 | FRM2 | Germany | MIRA | Neutron | Vertical | Yes | No | 
 | FRM2 | Germany | N-REX | Neutron | Horizontal | Yes | No | 
@@ -45,7 +45,8 @@ Table of Neutron and X-ray reflectometry instruments
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [CANDOR](https://www.nist.gov/ncnr/chrns-candor-white-beam-reflectometer) | Neutron | Vertical | No | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [MAGIK](https://www.nist.gov/ncnr/magik-reflectometer) | Neutron | Vertical | No | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [Polarized Beam Reflectometer](https://www.nist.gov/ncnr/polarized-beam-reflectometer) | Neutron | Vertical | Yes | No | 
-| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [NG7 Reflectometer](https://www.nist.gov/ncnr/ng7-horizontal-neutron-reflectometer) | Neutron | Horizontal | No | No | 
+| [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [NG7 Reflectometer](https://www.nist.gov/ncnr/ng7-horizontal-neutron-reflectometer) | Neutron | Horizontal | No | No |
+| PETRA III (DESY) | Germany | LISA | X-ray | Both | No | No |  
 | [SNS](https://neutrons.ornl.gov/) | USA | [Liquids Reflectometer](https://neutrons.ornl.gov/lr) | Neutron | Horizontal | No | Yes | 
 | [SNS](https://neutrons.ornl.gov/) | USA | [Magnetism Reflectometer](https://neutrons.ornl.gov/mr) | Neutron | Vertical | Yes | Yes | 
 | WRR-M, PNPI | Russia | NR-4M | Neutron | Vertical | Yes | Yes |
