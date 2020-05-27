@@ -17,8 +17,7 @@ Opening Webinar Agenda:
 
 - **Tuesday 26th May 15:00-16:15 UK**:
 
-[https://diamondlight.zoom.us/j/94254346787](https://diamondlight.zoom.us/j/94254346787)
-Password 272922
+A recording of this webinar will be available here shortly
 
 - 15:00 General introduction, how the meeting will work: Tom Arnold
 - 15:10 A brief recap of the previous meeting held in October 2019: Jos Cooper
