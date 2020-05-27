@@ -16,6 +16,7 @@ Table of Neutron and X-ray reflectometry instruments
 | CSNS | China | MR | Neutron | Vertical | Yes | Yes | 
 | Bhaba (BARC) | India | PNR | Neutron | Vertical | Yes | No | 
 | Diamond | UK | I07 | X-ray | Both | No | No |
+| Diamond | UK | I16 | X-ray | Vertical | No | No |
 | FRM2 | Germany | MARIA | Neutron | Vertical | Yes | No |
 | FRM2 | Germany | MIRA | Neutron | Vertical | Yes | No | 
 | FRM2 | Germany | N-REX | Neutron | Horizontal | Yes | No | 
