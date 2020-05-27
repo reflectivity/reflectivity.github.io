@@ -29,6 +29,8 @@ The education and outreach working group aims to develop understanding of reflec
 ### Education & Outreach Session 3: Funding opportunities & formal support from facility management  -- (27th 16:30/28th 10:00)
 
  * How can we secure the long-term future of this collaboration?
- * Write a memorandum of understanding? – i.e. ensure that facility management value time spent on this topic and acknowledge that they will allow some resource to be spent on our activities.
- * How can we pay for things like domain registration / web server?
- * How do we publicize our efforts?
+ * Can we claim to speak for the reflectometry community?
+ * Write a memorandum of understanding? 
+ * How do we get formal recognition & publicize our efforts?
+
+
