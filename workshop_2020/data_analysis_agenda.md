@@ -14,16 +14,16 @@ permalink: /workshop_2020/data_analysis_agenda
 *   <span class="c4">This primarily means modeling and fitting - issues related to data reduction (standardisation of format, and reproducibility) have been sorted into the other working groups</span>
 *   <span class="c4">Tasks for the workgroup:</span>
 
-*   <span class="c4">Verifying that the various engines that perform reflectivity calculations give the same results for the same inputs (validation)</span>
-*   <span class="c4">Defining a shared vocabulary for describing reflectivity model problems (that can be used to verify the calculation engines)</span>
-*   <span class="c4">Defining “dialects” for domain-specific applications (e.g. magnetic layered structures, membrane protein systems, polymer melts, etc)</span>
+    *   <span class="c4">Verifying that the various engines that perform reflectivity calculations give the same results for the same inputs (validation)</span>
+    *   <span class="c4">Defining a shared vocabulary for describing reflectivity model problems (that can be used to verify the calculation engines)</span>
+    *   <span class="c4">Defining “dialects” for domain-specific applications (e.g. magnetic layered structures, membrane protein systems, polymer melts, etc)</span>
 
 *   <span class="c4">Some work (by A. Nelson) already done on verification task</span>
-*   <span class="c4">Discussion topics:</span>
 
-*   <span class="c4">Existing tasks: prioritize</span>
-*   <span class="c4">Existing tasks: identify “next step” (action item)</span>
-*   <span class="c4">Other tasks: what else can we do to share data analysis between reflectometrists?</span>
+*   <span class="c4">Discussion topics:</span>
+    *   <span class="c4">Existing tasks: prioritize</span>
+    *   <span class="c4">Existing tasks: identify “next step” (action item)</span>
+    *   <span class="c4">Other tasks: what else can we do to share data analysis between reflectometrists?</span>
 
 <span class="c4"></span>
 
@@ -41,10 +41,8 @@ permalink: /workshop_2020/data_analysis_agenda
 
 *   <span class="c4">Selection of a scribe</span>
 *   <span class="c4">What is the best way to collaborate on a shared reflectometry calculation engine?</span>
-
-*   <span>Just t</span><span>he kernel (writte</span><span>n in C or ?)</span>
-*   <span>A hig</span><span>her-level program that takes whole problem definitions (parameters, constraints, etc)</span>
-
+    *   <span>Just the kernel (written in C or ?)</span>
+    *   <span>A hig</span><span>her-level program that takes whole problem definitions (parameters, constraints, etc)</span>
 *   <span class="c4">What are the required elements for describing the inputs to a reflectivity calculation kernel?</span>
 *   <span class="c4">Build on the work already done on validation (a programmatic adapter for each engine being hand-crafted by A. Nelson)</span>
 
