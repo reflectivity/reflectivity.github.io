@@ -119,6 +119,9 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 10:00 Education and Outreach 3b
 
+**16:00 Wrap up webinar**
+
+Meeting ID: 979 8499 7988 The password has been emailed to you by Tom Arnold ([tom.arnold@ess.eu](mailto:tom.arnold@ess.eu))
 
 
 ### Organizers:
