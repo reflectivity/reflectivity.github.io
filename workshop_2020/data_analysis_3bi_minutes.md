@@ -1,15 +1,18 @@
-Minutes of the Data Analysis Session 3
- 
-Attendees:
- 
-Philipp Gutfreund
-Andrew McCluskey
-Becky Welbourn
-Alexandros Koutsioumpas
-Gaetano Mangiapia
-Chen Shen
-Randolf Beerwerth
-Arwel Hughes
+---
+layout: page
+title: "Data Analysis 3b(i) Minutes"
+permalink: /workshop_2020/data_analysis_3bi_minutes
+---
+
+Participants:
+- Philipp Gutfreund
+- Andrew McCluskey
+- Becky Welbourn
+- Alexandros Koutsioumpas
+- Gaetano Mangiapia
+- Chen Shen
+- Randolf Beerwerth
+- Arwel Hughes
  
 Topics:
  
