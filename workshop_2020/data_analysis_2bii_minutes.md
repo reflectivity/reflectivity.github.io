@@ -1,4 +1,10 @@
-Notes for Data Analysis Session 2B, 18:00 BST
+---
+layout: page
+title: "Data Analysis 2b(i) Minutes"
+permalink: /workshop_2020/data_analysis_2bi_minutes
+---
+
+Participants:
 Chair: Andrew McCluskey
 Scribe: Brian Maranville
 
