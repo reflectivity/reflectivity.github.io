@@ -1,0 +1,24 @@
+Jochen Stahn, Jos Cooper Gaetano Mangiapia, Adrian Rennie, Artur Glavic, Norfumi Yamada, Max Skoda
+
+
+Nobody will use Nexus coordinate system (z is along beam rather than perp to sample surface) if we impose it, but where/how do we make a coordinate system?
+
+Can use the reduced nexus standard to “rename” things i.e. Qz > Q_reduced_Z
+
+Units – default and optional choices, but do we accept others? 
+
+File format – Nexus won’t have much uptake with users as is a bit “clunky” for “looking” at data, .dat is easier, but less in line with standardisation.
+
+Two separate files may be better (if a little clunky) ascii and nexus. Link inside ascii to HDF? (probably need both)
+
+Polarisation – How to deal with the multiple columns? 
+
+Do we just define standard way to label and describe the process?
+
+When making the “standard” we have a minimum required, and options. If options are used then they MUST be done in the “right” way. Different Levels?
+
+Minimum: Q and/or (wavelength + angle), R and/or I, date, origin, units… but then too many options? Define a minimum.
+
+- TODO describe in detail the minimum for voting on at the next meeting, possible also levels above too.
+
+When writing down suggestions, also add the reasoning behind the choices as the discussion is as valuable as the results
