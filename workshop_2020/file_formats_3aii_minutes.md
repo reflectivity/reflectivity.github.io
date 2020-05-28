@@ -1,3 +1,8 @@
+---
+layout: page
+title: "File Formats 3a(ii) Minutes"
+permalink: /workshop_2020/file_formats_3aii_minutes
+---
 
 Huan-Hua Wang, Adrian Rennie, Mrinal Bera, Wei Bu, Jochen Stahn, Andrew Caruana, Jean-Francois Moulin, Jos Cooper
 
