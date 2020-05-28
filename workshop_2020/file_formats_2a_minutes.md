@@ -1,3 +1,9 @@
+---
+layout: page
+title: "File Formats 2a Minutes"
+permalink: /workshop_2020/file_formats_2a_minutes
+---
+
 ORSO File Formats Session 2
 Present in the session were
 Andrew Caruana, Thomas Saerbeck, Wei Bu, Mrinal Bera, Robert Dalgliesh, Tim Snow, Jean-Francois Moulin, Gaetano Mangiapia, Chen Shen
