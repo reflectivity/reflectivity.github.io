@@ -1,5 +1,9 @@
-# ORSO Workshop 2020
-## File Formats Workgroup - Session 3
+---
+layout: page
+title: "File Formats 3a(i) Minutes"
+permalink: /workshop_2020/file_formats_3ai_minutes
+---
+
 
 ### 2020-05-27 at 15:30 UTC
 
