@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Reproducibility 3b Minutes"
+permalink: /workshop_2020/reproducibility_3b_minutes
+---
+
+
 Reproducibility 3b
 
 Jos Cooper, Artur Glavic, Jochen Stahn, Francesco Carla, CJK
