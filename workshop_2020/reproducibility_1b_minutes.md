@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Reproducibility 1b Minutes"
-permalink: /workshop_2020/reproducibility_1b_minutes
+title: "Reproducibility 1b(i) Minutes"
+permalink: /workshop_2020/reproducibility_1bi_minutes
 ---
 
 people attending:
