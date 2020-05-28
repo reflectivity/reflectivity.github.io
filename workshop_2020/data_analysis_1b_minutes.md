@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Data Analysis 1a(ii) Minutes"
-permalink: /workshop_2020/data_analysis_1aii_minutes
+title: "Data Analysis 1b Minutes"
+permalink: /workshop_2020/data_analysis_1b_minutes
 ---
 
 Participants:
