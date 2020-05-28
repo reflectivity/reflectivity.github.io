@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Reproducibility 2a Minutes"
+permalink: /workshop_2020/reproducibility_2a_minutes
+---
+
 Jos Cooper, Christy Kinane,  Binhua lin, Mrinal Bera, Wei Bu, Mark Schlossman, Huan hua Wang
 
 
