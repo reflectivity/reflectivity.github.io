@@ -4,7 +4,15 @@ title: "Data Analysis 3b(ii) Minutes"
 permalink: /workshop_2020/data_analysis_3bii_minutes
 ---
 
-Model building
+## Participants
+
+- Andrew Nelson
+- Artur Glavic
+- missing persons to be added
+
+
+## Discussion
+
 - Can we find a common language to talk about systems, similar to CIFs?
 - Compare to other technique, allow joint refinement.
 - Do people share the same vocabulary, is it clear what we mean if we give parameter values?
