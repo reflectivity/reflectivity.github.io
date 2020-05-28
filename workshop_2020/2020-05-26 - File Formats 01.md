@@ -1,7 +1,7 @@
 # ORSO Workshop 2020
-## Data Formats Workgrpup - Session 1a
+## File Formats Workgroup - Session 1
 
-### 26.05.2020, 16:30hrs
+### 2020-05-26 at 15:30 UTC
 
 ### Participants:
 
