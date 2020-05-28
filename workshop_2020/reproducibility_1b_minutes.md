@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Reproducibility 1b Minutes"
+permalink: /workshop_2020/reproducibility_1b_minutes
+---
 
 people attending:
 
