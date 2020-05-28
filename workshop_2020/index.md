@@ -101,7 +101,7 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 18:00 [File Formats 3b](./file_formats_3b_minutes)
 
-18:00 [Data Analysis 2b(i)]/(./data_analysis_2bi_minutes)/[Data Analysis 2b(ii)]/(./data_analysis_2bii_minutes)
+18:00 [Data Analysis 2b(i)](./data_analysis_2bi_minutes)/[Data Analysis 2b(ii)](./data_analysis_2bii_minutes)
 
 22:30 [Reproducibility 2b](./reproducibility_2b_minutes)
 
@@ -111,7 +111,7 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 - 28th May
 
-08:00 [Data Analysis 3b(i)]/(./data_analysis_3bi_minutes)/[Data Analysis 3b(ii)]/(./data_analysis_3bii_minutes)
+08:00 [Data Analysis 3b(i)](./data_analysis_3bi_minutes)/[Data Analysis 3b(ii)](./data_analysis_3bii_minutes)
 
 08:00 [Education and Outreach 2b](./education_outreach_2b_minutes)
 
