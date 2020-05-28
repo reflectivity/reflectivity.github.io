@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Education and Outreach 3a Minutes"
+permalink: /workshop_2020/education_outreach_3a_minutes
+---
+
 participants:
 Tom Arnold (TA)
 Francesco Carla' (FC)
