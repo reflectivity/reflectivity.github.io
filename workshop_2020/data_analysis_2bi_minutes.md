@@ -1,6 +1,18 @@
-Chair : Tom Arnold
-Minutes : Jean-François Moulin
-Atendees : Gaetano Mangiapia, Mathieu Doucet, Andrew caruana, Ben Ocko, Tom Arnold, Jean-François Moulin
+---
+layout: page
+title: "Data Analysis 2b(ii) Minutes"
+permalink: /workshop_2020/data_analysis_2bii_minutes
+---
+
+Participants:
+- Tom Arnold (chair)
+- Jean-François Moulin (scribe)
+- Gaetano Mangiapia
+- Mathieu Doucet
+- Andrew caruana
+- Ben Ocko
+- Tom Arnold
+- Jean-François Moulin
 
 It was acknowledged that the bare-bones reflectivity calculation is easy and already available.
 
