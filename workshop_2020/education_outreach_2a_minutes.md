@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Education and Outreach 2a Minutes"
+permalink: /workshop_2020/education_outreach_2a_minutes
+---
+
 Attendees:
  
 Tom Arnold
