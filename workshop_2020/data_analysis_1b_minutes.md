@@ -1,10 +1,10 @@
-# ORSO Workshop 2020
-## Data Analysis Workgroup - Session 1
+---
+layout: page
+title: "Data Analysis 1a(ii) Minutes"
+permalink: /workshop_2020/data_analysis_1aii_minutes
+---
 
-### 2020-05-27 at 07:00 UTC
-
-### Participants:
-
+Participants:
 - Arwel Hughes (AH)
 - Andrew McCluskey (AM; Chair)
 - Andrew Nelson (AN)
@@ -85,12 +85,12 @@ AH – We should always be open about such inconsistencies and why and how they 
 
 AM – Perhaps a ‘gotcha’ page with common inconsistencies might be of use in order to highlight certain issues and provide clarity for the wider community as to what to look out for when developing their own algorithms
 
-Actions:
+**Actions:**
 
-1)	Agreement was reached on the prioritisation of tasks
-2)	Verification should include comparison of roughness calculations and resolution considerations
-3)	A shared vocabulary should be split into a magnetic and non-magnetic lexicon
-4)	The non-magnetic vocabulary is already, largely, defined and so should have a group created to write a white paper that can be discussed at a future meeting
-5)	The magnetic vocabulary will require more thought however with a group assembled to “hash it out” 
-6)	Domain dialects could be as broad as the systems themselves, we should focus on a vocabulary and suggest the inclusion of this in publications (alongside domain specific language) 
-7)	It was also highlighted that a ‘gotchas’ page for developers/analysts could be developed to highlight differences in results arising from differences in underlying algorithms, dependencies, OS/platform inconsistencies, etc.
+1. Agreement was reached on the prioritisation of tasks
+2. Verification should include comparison of roughness calculations and resolution considerations
+3. A shared vocabulary should be split into a magnetic and non-magnetic lexicon
+4. The non-magnetic vocabulary is already, largely, defined and so should have a group created to write a white paper that can be discussed at a future meeting
+5. The magnetic vocabulary will require more thought however with a group assembled to “hash it out” 
+6. Domain dialects could be as broad as the systems themselves, we should focus on a vocabulary and suggest the inclusion of this in publications (alongside domain specific language) 
+7. It was also highlighted that a ‘gotchas’ page for developers/analysts could be developed to highlight differences in results arising from differences in underlying algorithms, dependencies, OS/platform inconsistencies, etc.
