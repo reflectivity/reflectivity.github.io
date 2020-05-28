@@ -1,3 +1,8 @@
+---
+layout: page
+title: "File Formats 3b Minutes"
+permalink: /workshop_2020/file_formats_3b_minutes
+---
 Protocol of the File Formats session 3.3
 
 library of standardised actions to describe reduction steps already performed
