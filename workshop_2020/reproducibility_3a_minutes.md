@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Reproducibility 3a Minutes"
+permalink: /workshop_2020/reproducibility_3a_minutes
+---
+
 introduction of everyone
 
 Chair: Andrew Nelson (AN)
