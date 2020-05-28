@@ -1,4 +1,11 @@
-Attendees: Tom Arnold, Binhua Lin, Adrian Rennie, Andrew McCluskey, Thomas Saerbeck, Francesco Carla
+---
+layout: page
+title: "Education and Outreach 1a Minutes"
+permalink: /workshop_2020/education_outreach_1a_minutes
+---
+
+Participants:
+Tom Arnold, Binhua Lin, Adrian Rennie, Andrew McCluskey, Thomas Saerbeck, Francesco Carla
 
 What should the scope of this working group be?
 
