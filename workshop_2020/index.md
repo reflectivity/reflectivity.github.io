@@ -87,37 +87,37 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 10:00 [Education and Outreach 1b](./education_outreach_1b_minutes)
 
-11:00 File Formats 2a
+11:00 [File Formats 2a](./file_formats_2a_minutes)
 
-11:00 Reproducibility 3a
+11:00 [Reproducibility 3a](./reproducibility_3a_minutes)
 
-15:00 Education and Outreach 2a
+15:00 [Education and Outreach 2a](./education_outreach_2a_minutes)
 
-15:00 File Formats 2b
+15:00 [File Formats 2b(i)](./file_formats_2bi_minutes)/[File Formats 2b(ii)](./file_formats_2bii_minutes)
 
-16:30 File Formats 3a
+16:30 [File Formats 3a(i)](./file_formats_3ai_minutes)/[File Formats 3a(ii)](./file_formats_3aii_minutes)
 
-16:30 Education and Outreach 3a
+16:30 [Education and Outreach 3a](./education_outreach_3a_minutes)
 
-18:00 File Formats 3b
+18:00 [File Formats 3b](./file_formats_3b_minutes)
 
-18:00 Data Analysis 2b
+18:00 [Data Analysis 2b(i)]/(./data_analysis_2bi_minutes)/[Data Analysis 2b(ii)]/(./data_analysis_2bii_minutes)
 
-22:30 Reproducibility 2b
+22:30 [Reproducibility 2b](./reproducibility_2b_minutes)
 
-22:30 Data Analysis 3a
+22:30 [Data Analysis 3a](./data_analysis_3a_minutes)
 
 
 
 - 28th May
 
-08:00 Data Analysis 3b
+08:00 [Data Analysis 3b(i)]/(./data_analysis_3bi_minutes)/[Data Analysis 3b(ii)]/(./data_analysis_3bii_minutes)
 
-08:00 Education and Outreach 2b
+08:00 [Education and Outreach 2b](./education_outreach_2b_minutes)
 
-10:00 Reproducibility 3b
+10:00 [Reproducibility 3b](./reproducibility_3b_minutes)
 
-10:00 Education and Outreach 3b
+10:00 [Education and Outreach 3b](./education_outreach_3b_minutes)
 
 **16:00 Wrap up webinar**
 
