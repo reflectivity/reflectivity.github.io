@@ -5,6 +5,13 @@ permalink: /workshop_2020/data_analysis_3a_minutes
 ---
 
 ## Participants
+- Brian Maranville
+- Mark Schlossman
+- Binhua Lin
+- Mrinal Bera
+- Wei Bu
+- Ben Ocko
+- two more unrecorded
 
 ## Discussion: First steps for creating a model-definition language
 - To develop a common platform (hardest part)
