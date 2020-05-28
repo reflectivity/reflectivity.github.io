@@ -79,13 +79,13 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 - 27th May
 
-08:00 File Formats 1b
+08:00 [File Formats 1b](./file_formats_1b_minutes)
 
-08:00 Data Analysis 1b
+08:00 [Data Analysis 1b](./data_analysis_1b_minutes)
 
-10:00 Reproducibility 1b
+10:00 [Reproducibility 1b(i)](./reproducibility_1bi_minutes)/[Reproducibility 1b(ii)](./reproducibility_1bii_minutes)
 
-10:00 Education and Outreach 1b
+10:00 [Education and Outreach 1b](./education_outreach_1b_minutes)
 
 11:00 File Formats 2a
 
