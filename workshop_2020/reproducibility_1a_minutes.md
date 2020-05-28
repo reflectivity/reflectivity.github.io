@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Reproducibility 1a Minutes"
+permalink: /workshop_2020/reproducibility_1a_minutes
+---
+
 **Reproducibility 1a**
 
 
