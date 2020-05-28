@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Reproducibility 2b Minutes"
+permalink: /workshop_2020/reproducibility_2b_minutes
+---
 Reproducibility 2
 
 Chen Shen,
