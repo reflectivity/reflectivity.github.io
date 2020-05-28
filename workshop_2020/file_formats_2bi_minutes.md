@@ -1,5 +1,9 @@
-# ORSO Workshop 2020
-## Data Formats Workgrpup - Session 2
+---
+layout: page
+title: "File Formats 2b(i) Minutes"
+permalink: /workshop_2020/file_formats_2bi_minutes
+---
+
 
 ### 2020-05-27 at 14:00 UTC
 
