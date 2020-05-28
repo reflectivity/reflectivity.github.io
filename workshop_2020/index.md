@@ -64,7 +64,7 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 **Sessions**
 - 26th May
 
-16:30 [File Formats 1a(i)](./file_formats_1ai_minutes)/File Formats 1a(ii)
+16:30 [File Formats 1a(i)](./file_formats_1ai_minutes)/[File Formats 1a(ii)](./file_formats_1aii_minutes)
 
 16:30 [Reproducibility 1a](./reproducibility_1a_minutes)
 
