@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Education and Outreach 2b Minutes"
+permalink: /workshop_2020/education_outreach_2b_minutes
+---
 Participants:
 
 Thomas Arnold
