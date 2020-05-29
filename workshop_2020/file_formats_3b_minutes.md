@@ -7,13 +7,16 @@ Protocol of the File Formats session 3.3
 
 library of standardised actions to describe reduction steps already performed
 
+
 participants:
 
 Jochen Stahn (chair), Artur Glavic, Alexandros Koutsioumpas
 
+
 initial idea:
 
 In an human-readable file, the reduction steps already performed should be mentioned, probably also the actual state of the data reduction (footprint corrected, backgroung not subtracted, ...)
+
 
 elaboration on this:
 
