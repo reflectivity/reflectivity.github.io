@@ -22,3 +22,4 @@ Open to all to read, however, an account is required to post.
 - Andrew Nelson (ANSTO)
 - Wojciech Potrzebowski (ESS)
 - Andrew Caruana (ISIS)
+- Christy Kinane (ISIS)
