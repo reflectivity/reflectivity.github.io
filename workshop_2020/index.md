@@ -4,13 +4,14 @@ title: "Workshop 2020 (Online)"
 permalink: /workshop_2020/
 ---
 
-Due to the cancellation of the SXNS16 conference, the planned ORSO satellite workshop has been taken online. 
+Due to the cancellation of the SXNS16 conference, the planned ORSO satellite workshop was taken online. Over 40 of the worlds experts in X-ray and neutron reflectivity from various large-scale facilities took part in a successful meeting. Each of the working groups had a number of fruitful discussions and a list of actions has been created for each of the [working groups](https://www.reflectometry.org/working_groups/) 
 
-The meeting will be spread over 3 days: **26-28th May**, consisting of:
+
+The meeting was held over 3 days: **26-28th May** and consisted of:
 
 - **26th May**: An introductory webinar explaining how to participate in the event, with some brief presentations on the progress of ORSO to date.
 - **26th-28th May**: small working groups sessions (typically an hour in length) to discuss specific topics.
-- **28th May**: Closing webinar. One individual nominated from each of the sessions presents a summary to the whole group.                    
+- **28th May**: Closing webinar. One individual nominated from each of the sessions presented a summary to the whole group.                    
 
 
 Opening Webinar Agenda:
@@ -34,9 +35,7 @@ A recording of this webinar will be available here shortly
 5 min Education & outreach: Tom Arnold
 
 
-
-
-The working group sessions are roughly as follows but individual sessions may focus on different aspects: 
+The working group sessions were roughly as follows but individual sessions may have focussed on different aspects: 
 
 - **[File Formats](./file_formats_agenda)**: Chaired by Jochen Stahn
   - Session 1: Detailed introduction & aims of this working group                     
@@ -58,10 +57,9 @@ The working group sessions are roughly as follows but individual sessions may fo
   - Session 2: Website content and collation of online resources                      
   - Session 3: Future funding opportunities & formal support from facility management
   
-If you would like to attend any of the events, please contact [Tom Arnold](mailto:tom.arnold@ess.eu) to register your interest. 
 
 
-**Sessions**
+**Minutes for each of the sessions**
 - 26th May
 
 16:30 [File Formats 1a(i)](./file_formats_1ai_minutes)/[File Formats 1a(ii)](./file_formats_1aii_minutes)
@@ -119,9 +117,6 @@ If you would like to attend any of the events, please contact [Tom Arnold](mailt
 
 10:00 [Education and Outreach 3b](./education_outreach_3b_minutes)
 
-**16:00 Wrap up webinar**
-
-Meeting ID: 979 8499 7988 The password has been emailed to you by Tom Arnold ([tom.arnold@ess.eu](mailto:tom.arnold@ess.eu))
 
 
 ### Organizers:
