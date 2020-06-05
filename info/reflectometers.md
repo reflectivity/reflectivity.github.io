@@ -57,6 +57,7 @@ Table of Neutron reflectometry instruments
 Table of X-ray reflectometry instruments
 
 | Facility | Country | Instrument | Radiation | Geometry | Polarisation | ToF |
+| --- | --- | --- | --- | --- | --- | --- | 
 | [APS](https://www.aps.anl.gov/) | USA | [15-ID](https://chemmatcars.uchicago.edu/): [Liquid Interface Scattering](https://chemmatcars.uchicago.edu/experimental-facility/experimental-techniques/liquid-surface-x-ray-scattering/)  | X-ray | Horizontal | No | No |  
 | [Diamond](https://www.diamond.ac.uk) | UK | [I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07) | X-ray | Both | No | No |
 | [ESRF](https://www.esrf.eu/) | France | [ID10](https://www.esrf.eu/UsersAndScience/Experiments/CBS/ID10) | X-ray | Both | No | No |  
