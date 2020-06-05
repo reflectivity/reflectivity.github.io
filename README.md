@@ -1,5 +1,7 @@
 # reflectometry.org
 
+[![DOI](https://zenodo.org/badge/197004552.svg)](https://zenodo.org/badge/latestdoi/197004552)
+
 This is the repository for the Open Reflectometry Standards Organisation (ORSO), which is currently hosted at [reflectometry.org](reflectometry.org).
 
 ## Contributing guidence
