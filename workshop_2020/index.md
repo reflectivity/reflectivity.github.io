@@ -6,6 +6,7 @@ permalink: /workshop_2020/
 
 Due to the cancellation of the SXNS16 conference, the planned ORSO satellite workshop was taken online. Over 40 of the worlds experts in X-ray and neutron reflectivity from various large-scale facilities took part in a successful meeting. Each of the working groups had a number of fruitful discussions and a list of actions has been created for each of the [working groups](https://www.reflectometry.org/working_groups/) 
 
+![closing webinar](workshop_2020/Screen Shot 2020-05-28 at 16.31.24.png)
 
 The meeting was held over 3 days: **26-28th May** and consisted of:
 
@@ -14,7 +15,7 @@ The meeting was held over 3 days: **26-28th May** and consisted of:
 - **28th May**: Closing webinar. One individual nominated from each of the sessions presented a summary to the whole group.                    
 
 
-Opening Webinar Agenda:
+### Opening Webinar Agenda:
 
 - **Tuesday 26th May 15:00-16:15 UK**:
 
@@ -34,6 +35,8 @@ A recording of this webinar will be available here shortly
 
 5 min Education & outreach: Tom Arnold
 
+
+### Sessions
 
 The working group sessions were roughly as follows but individual sessions may have focussed on different aspects: 
 
