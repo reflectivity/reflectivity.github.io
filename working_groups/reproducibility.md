@@ -12,6 +12,7 @@ Open to all to read, however, an account is required to post.
 
 ### Members 
 
+- Mathieu Doucet (ORNL)
 - Arwel Hughes (ISIS)
 - Christy Kinane (ISIS)
 - Alexandros Koutsioumpas (JCNS)
