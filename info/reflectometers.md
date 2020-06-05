@@ -4,7 +4,7 @@ title: "Reflectometers"
 permalink: /info/reflectometers/
 ---
 
-Table of Neutron and X-ray reflectometry instruments
+Table of Neutron reflectometry instruments
 
 | Facility | Country | Instrument | Radiation | Geometry | Polarisation | ToF |
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -15,8 +15,6 @@ Table of Neutron and X-ray reflectometry instruments
 | CIAE, CARR | China | NR | Neutron | Horizontal | No | No |
 | CSNS | China | MR | Neutron | Vertical | Yes | Yes | 
 | Bhaba (BARC) | India | PNR | Neutron | Vertical | Yes | No | 
-| Diamond | UK | I07 | X-ray | Both | No | No |
-| Diamond | UK | I16 | X-ray | Vertical | No | No |
 | FRM2 | Germany | MARIA | Neutron | Vertical | Yes | No |
 | FRM2 | Germany | MIRA | Neutron | Vertical | Yes | No | 
 | FRM2 | Germany | N-REX | Neutron | Horizontal | Yes | No | 
@@ -47,7 +45,6 @@ Table of Neutron and X-ray reflectometry instruments
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [MAGIK](https://www.nist.gov/ncnr/magik-reflectometer) | Neutron | Vertical | No | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [Polarized Beam Reflectometer](https://www.nist.gov/ncnr/polarized-beam-reflectometer) | Neutron | Vertical | Yes | No | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [NG7 Reflectometer](https://www.nist.gov/ncnr/ng7-horizontal-neutron-reflectometer) | Neutron | Horizontal | No | No |
-| PETRA III (DESY) | Germany | LISA | X-ray | Both | No | No |  
 | [SNS](https://neutrons.ornl.gov/) | USA | [Liquids Reflectometer](https://neutrons.ornl.gov/lr) | Neutron | Horizontal | No | Yes | 
 | [SNS](https://neutrons.ornl.gov/) | USA | [Magnetism Reflectometer](https://neutrons.ornl.gov/mr) | Neutron | Vertical | Yes | Yes | 
 | WRR-M, PNPI | Russia | NR-4M | Neutron | Vertical | Yes | Yes |
@@ -55,3 +52,12 @@ Table of Neutron and X-ray reflectometry instruments
 | SINQ, PSI | Switzerland | AMOR | Neutron | Horizontal | Yes | Yes |
 | SINQ, PSI | Switzerland | Morpheus | Neutron | Vertical | Yes | No |
 | SINQ, PSI | Switzerland | Narziss | Neutron | Vertical | Yes | No |
+
+
+Table of X-ray reflectometry instruments
+
+| Facility | Country | Instrument | Radiation | Geometry | Polarisation | ToF |
+| [APS](https://www.aps.anl.gov/) | USA | [15-ID](https://chemmatcars.uchicago.edu/): [Liquid Interface Scattering](https://chemmatcars.uchicago.edu/experimental-facility/experimental-techniques/liquid-surface-x-ray-scattering/)  | X-ray | Horizontal | No | No |  
+| [Diamond](https://www.diamond.ac.uk) | UK | [I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07) | X-ray | Both | No | No |
+| [ESRF](https://www.esrf.eu/) | France | [ID10](https://www.esrf.eu/UsersAndScience/Experiments/CBS/ID10) | X-ray | Both | No | No |  
+| [PETRA III](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (DESY) | Germany | [P08](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_highres_diffraction/index_eng.html): LISA | X-ray | Both | No | No |  
