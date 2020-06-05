@@ -23,7 +23,7 @@ Open to all to read, however, an account is required to post to the message boar
 
 ### Members
 
-- [Tom Arnold (ESS)](tom.arnold@ess.eu) -- **Chair**
+- [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu) -- **Chair**
 - Jos Cooper (ISIS)
 - Andrew McCluskey (Diamond)
 - Wojciech Potrzebowski (ESS)
