@@ -7,7 +7,7 @@ permalink: /workshop_2019/
 On the 24th and 25th October 2019, ISIS Neutron and Muon Source and Diamond Light Source hosted some global experts in X-ray and neutron reflectivity from various large-scale facilities at a workshop at Cosener's House, Abingdon.
 
 
-![Group Photo](/workshop_2019/L1020118_cropped.jpeg)
+![Group Photo](/workshop_2019/L1020118_cropped.jpg)
 
 
 <h3>Agenda</h3>
