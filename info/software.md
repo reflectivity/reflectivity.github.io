@@ -81,7 +81,7 @@ The following links provide information about computer programs used for the ana
 
 *   StochFit: StochFit utilizes stochastic fitting methods to model specular x-ray reflectivity or neutron reflectivity data. Written by S. M. Danauskas et al, University of Chicago. [http://stochfit.sourceforge.net/](http://stochfit.sourceforge.net/)
 
-*   DANSE - Reflectometry. As part of larger project on software development the University of Maryland provides libraries and applications for reduction, analysis, modeling and simulation of reflectometry data. [http://reflectometry.org/danse/index.html](http://reflectometry.org/danse/index.html)
+*   DANSE - Reflectometry. As part of larger project on software development the University of Maryland provides libraries and applications for reduction, analysis, modeling and simulation of reflectometry data. [https://refl1d.readthedocs.io/en/latest/#](https://refl1d.readthedocs.io/en/latest/#)
 
 *   FitSuite - a program for fitting reflectometry and other data (such as Mossbauer resonant reflection data) from KFKI, Hungary. [http://www.fs.kfki.hu/](http://www.fs.kfki.hu/)
 
