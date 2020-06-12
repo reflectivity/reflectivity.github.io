@@ -56,6 +56,8 @@ Table of Neutron reflectometry instruments
 
 Table of X-ray reflectometry instruments
 
+For European Light Sources [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) host a database of beamlines that can be searched by technique.
+
 | Facility | Country | Instrument | Radiation | Geometry | Polarisation | ToF |
 | --- | --- | --- | --- | --- | --- | --- | 
 | [APS](https://www.aps.anl.gov/) | USA | [15-ID](https://chemmatcars.uchicago.edu/): [Liquid Interface Scattering](https://chemmatcars.uchicago.edu/experimental-facility/experimental-techniques/liquid-surface-x-ray-scattering/)  | X-ray | Horizontal | No | No |  
