@@ -58,7 +58,7 @@ permalink: /info/reflectometers/
 
 For European Light Sources, [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) host a database of beamlines that can be searched by technique.
 
-Facility | Country | Instrument | Liquid surfaces | Polarisation | Energy Range | Other techniques
+Facility | Country | Instrument | Liquid surfaces | Polarisation | Energy Range | Other techniques | 
 | --- | --- | --- | --- | --- | --- | --- | 
 | [APS](https://www.aps.anl.gov/) | USA | [15-ID](https://chemmatcars.uchicago.edu/): [Liquid Interface Scattering](https://chemmatcars.uchicago.edu/experimental-facility/experimental-techniques/liquid-surface-x-ray-scattering/)  | Yes | No | 5-70keV | GID, GISAXS & more |  
 | [Diamond](https://www.diamond.ac.uk) | UK | [I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07) | Yes | No | 6-30keV | GID, GISAXS |  
