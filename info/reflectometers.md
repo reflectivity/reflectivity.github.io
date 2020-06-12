@@ -56,7 +56,7 @@ Table of Neutron reflectometry instruments
 
 Table of X-ray reflectometry instruments
 
-For European Light Sources [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) host a database of beamlines that can be searched by technique.
+For European Light Sources, [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) host a database of beamlines that can be searched by technique.
 
 | Facility | Country | Instrument | Radiation | Geometry | Polarisation | ToF |
 | --- | --- | --- | --- | --- | --- | --- | 
