@@ -7,7 +7,7 @@ permalink: /working_groups/file_formats/
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. 
 This is an important goal to move towards interoperability across facilities. 
 
-#### outcome of the workshop in May 2020
+### Summary of the May 2020 workshop
 The outcome of the discussions during the workshop can be
 summed up as
 > *We want to stick to the principles whenever possible -
@@ -22,17 +22,17 @@ Acting in this spirit a broad support for developing
 
 * The **strict format** who's aim is to fulfil the principles of 
   *inter-operability* and *reusability*,
-  most likely using a NeXus-based the hierarchical data format (HDF).
+  most likely using a NeXus-based the hierarchical data format (HDF).   
   This format should fulfil high scientific standards, it will allow
   future analysis software to do more than just fit R(q) curves and
   it should match the national data policies.
 
 * The **pragmatic format**, which should be easily human-readable
-  (i.e. ASCII format with a YAML like structure) and  
-  contain the essential information to trace back its origin and some
+  (i.e. ASCII format with a YAML like structure) and contain the
+  essential information to trace back its origin and some
   basics about the state of the data reduction. The standardised
   minimum content of this format can be expanded as seen appropriate
-  by the user.
+  by the user.   
   This format is compatible with most actual analysis software.
   It is easy to understand and read by new users and thus
   unburdens beam line scientists. And it allows fast and easy comparison
@@ -47,8 +47,8 @@ further discussions.
 The main work for the (near) future will be to create a series of
 **dictionaries** describing the vocabulary used in either of the
 two file formats:
-* list of **symbols** and their definitions (e.g. "alpha_i := angle of
-  incidence on the sample surface")
+* list of **symbols** and their definitions (e.g. *alpha_i := angle of
+  incidence on the sample surface ...*)
 * dictionary of **key words** (e.g. what is the meaning of *reflectivity*
   in the context of the *reflectivity data file*)
 * dictionary of standard(ised) **data reduction steps** (e.g.
