@@ -8,12 +8,12 @@ permalink: /info/reflectometers/
 
 | Facility | Country | Instrument | Geometry | Polarisation | ToF |
 | --- | --- | --- | --- | --- | --- | 
-| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Neutron | Horizontal | Yes | Yes |
-| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Neutron | Vertical | No | Yes |
+| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes |
+| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes |
 | BRR, KFKI | Hungary | GINA | Vertical | Yes | No |
 | BRR, KFKI | Hungary | REF | Vertical | Yes | No |
 | CIAE, CARR | China | NR | Horizontal | No | No |
-| CSNS | China | MR | Neutron | Vertical | Yes | Yes | 
+| CSNS | China | MR | Vertical | Yes | Yes | 
 | Bhaba (BARC) | India | PNR | Vertical | Yes | No | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No |
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MIRA | Vertical | Yes | No | 
