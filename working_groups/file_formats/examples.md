@@ -18,11 +18,11 @@ One major outcome of the workshop in May 2020 was that there should be
   least the most essential information.
 
 #### table of content
-- [HDF file](#comprehensive_hdf_file)
-- [ASCII file](#pragmatic_ascii_file)
-  - [minimum content](#minimum_content)
-  - [recommended content](#recommended_content)
-  - [optional content](#optional_content)
+- [HDF file](#comprehensive-hdf-file)
+- [ASCII file](#pragmatic-ascii-file)
+  - [minimum content](#minimum-content)
+  - [recommended content](#recommended-content)
+  - [optional content](#optional-content)
 
 ---
 
