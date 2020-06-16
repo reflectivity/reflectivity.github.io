@@ -10,9 +10,9 @@ This is an important goal to move towards interoperability across facilities.
 ### Summary of the May 2020 workshop
 The outcome of the discussions during the workshop can be
 summed up as
-> *We want to stick to the principles whenever possible -
+> We want to stick to the principles whenever possible -
 > and at the same time we are flexible and pragmatic and pay respect to
-> traditions.* 
+> traditions.
 
 This attitude shows up in the agreement to use SI units,
 but to also allow Angstrom.
@@ -73,7 +73,7 @@ there (as well as to the general discussions):
 - [ ] Try to implement the *pragmatic* file format in existing
       data reduction software and report on problems and
       successes.
-- [x] Draft a header for an ASCII file. (J. Stahn)
+- [x] [Draft a header for an ASCII file.](file_formats/examples.md) (J. Stahn)
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
 
 ---
