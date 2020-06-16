@@ -26,11 +26,17 @@ One major outcome of the workshop in May 2020 was that there should be
 
 ---
 
+<a name="comprehensive-hdf-file></a>
+         
 ### comprehensive HDF file 
 
 (A. Nelson) under development ...
 
+<a name="pragmatic-ascii-file"></a>
+
 ### pragmatic ASCII file 
+
+<a name="minimum-content"></a>
 
 #### minimum content 
 
