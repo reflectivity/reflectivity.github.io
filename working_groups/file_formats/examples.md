@@ -54,7 +54,8 @@ For sure it should contain:
   used for reduction.
 
 - the **probe** (neutrons or x-rays)
-Probably also
+
+and probably also
 
 - a description of the data reduction steps performed so far
 
