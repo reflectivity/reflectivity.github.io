@@ -1,4 +1,4 @@
-## Example reflectometry files
+## Example reflectivity files
   
 The examples presented and discussed below are NOT the orso standard.
 Their purpose is to illustrate ideas and to form the basis for
@@ -81,6 +81,8 @@ A made up example (using YAML for structuring) of a minimum file could look like
     1.03563296e-02  3.88100068e+00  4.33909068e+00
     1.06717294e-02  1.16430511e+01  8.89252719e+00
     ...
+
+<a name="recommended-content"></a>
 
 #### recommended content 
 
@@ -175,6 +177,8 @@ Adding the recommended content the file looks like
     1.03563296e-02  3.88100068e+00  4.33909068e+00  5.17816478e-05
     1.06717294e-02  1.16430511e+01  8.89252719e+00  5.33586471e-05
     ...
+
+<a name="optional-content"></a>
 
 #### optional content
 
