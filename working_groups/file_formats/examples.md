@@ -18,23 +18,20 @@ One major outcome of the workshop in May 2020 was that there should be
   least the most essential information.
 
 #### table of content
-- [HDF file](#hdf_file)
-- [ASCII file](#a_minimum)
-  - [minimum content](#a_minimum)
-  - [recommended content](#a_recommended)
-  - [optional content](#a_optional)
+- [HDF file](#comprehensive_hdf_file)
+- [ASCII file](#pragmatic_ascii_file)
+  - [minimum content](#minimum_content)
+  - [recommended content](#recommended_content)
+  - [optional content](#optional_content)
 
 ---
 
-<a name="hdf_file"\>
 ### comprehensive HDF file 
 
 (A. Nelson) under development ...
 
-<a name="a_file"\>
 ### pragmatic ASCII file 
 
-<a name="a_minimum"\>
 #### minimum content 
 
 It is still under debate what the minimum content of this file should be.
@@ -85,7 +82,6 @@ A made up example (using YAML for structuring) of a minimum file could look like
     1.06717294e-02  1.16430511e+01  8.89252719e+00
     ...
 
-<a name="a_recommended"\>
 #### recommended content 
 
 On top of this minimum set, a wide variety of information and content
@@ -180,7 +176,6 @@ Adding the recommended content the file looks like
     1.06717294e-02  1.16430511e+01  8.89252719e+00  5.33586471e-05
     ...
 
-<a name="a_optional"\>
 #### optional content
 
 And including some user-defined content leads to
