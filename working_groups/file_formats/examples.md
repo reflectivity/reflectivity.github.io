@@ -59,7 +59,7 @@ Probably also
 - a 4th column with sigma\_Qz
 
 A made up example (using YAML for structuring) of a minimum file could look like
-[this](file:./pragmatic-minimum.txt) (J. Stahn):
+[this](pragmatic-minimum.txt) (J. Stahn):
 
     # creator:
     #   name        : Jochen Stahn
@@ -92,7 +92,7 @@ The rest in almost free form - as long as it does not interfere with the
 minimum content and the format rules.
 
 Adding the recommended content the file looks like
-[this](file:./pragmatic-recommended.txt) (J. Stahn):
+[this](pragmatic-recommended.txt) (J. Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
@@ -179,7 +179,7 @@ Adding the recommended content the file looks like
 #### optional content
 
 And including some user-defined content leads to
-[this](file:./pragmatic-options.txt) (J. Stahn):
+[this](pragmatic-options.txt) (J. Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
