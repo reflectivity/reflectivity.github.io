@@ -30,7 +30,7 @@ One major outcome of the workshop in May 2020 was that there should be
 You can help to improve the formats in various ways:
 - **Add a comment** below the examples. Please start with "(Your Name)".
 - Add a commented alternative heading below.
-- Send an [e-mail to Jochen](mailto:jochen.stahn@psi.ch?subject="... or so!")
+- Send an [e-mail to Jochen](mailto:jochen.stahn@psi.ch)
   if you have no writing privileges or are uncertain how to edit the
   markdown source file.
 - Write on the [message bord](https://gitter.im/reflectivity/file_formats).
