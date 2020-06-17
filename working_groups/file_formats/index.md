@@ -41,7 +41,7 @@ Acting in this spirit a broad support for developing
   experimental influences (e.g. resolution) it might be.
 
 It is in the nature of the *pragmatic* approach that a lot of input
-has been given and [example files](file_formats/examples.md) were created as a basis for
+has been given and [example files](examples.md) were created as a basis for
 further discussions.
 
 The main work for the (near) future will be to create a series of
@@ -73,7 +73,7 @@ there (as well as to the general discussions):
 - [ ] Try to implement the *pragmatic* file format in existing
       data reduction software and report on problems and
       successes.
-- [x] [Draft a header for an ASCII file.](file_formats/examples.md) (J. Stahn)
+- [x] [Draft a header for an ASCII file.](examples.md) (J. Stahn)
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
 
 ---
