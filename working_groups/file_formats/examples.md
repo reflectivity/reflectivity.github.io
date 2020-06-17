@@ -18,11 +18,24 @@ One major outcome of the workshop in May 2020 was that there should be
   least the most essential information.
 
 #### table of content
+
 - [HDF file](#comprehensive-hdf-file)
 - [ASCII file](#pragmatic-ascii-file)
   - [minimum content](#minimum-content)
   - [recommended content](#recommended-content)
   - [optional content](#optional-content)
+  
+#### how to contribute
+
+You can help to improve the formats in various ways:
+- **Add a comment** below the examples. Please start with "(Your Name)".
+- Add a commented alternative heading below.
+- Send an [e-mail to Jochen](mailto:jochen.stahn@psi.ch?subject="... or so!")
+  if you have no writing privileges or are uncertain how to edit the
+  markdown source file.
+- Write on the [message bord](https://gitter.im/reflectivity/file_formats).
+- Try to **realise** the suggested format or something similar in your 
+  reduction software. And please report on outcome and issues.
 
 ---
 
@@ -66,7 +79,7 @@ and probably also
 - a 4th column with sigma\_Qz
 
 A made up example (using YAML for structuring) of a minimum file could look like
-[this](pragmatic-minimum.txt) (J. Stahn):
+[this](pragmatic-minimum.txt) (Jochen Stahn):
 
     # creator:
     #   name        : Jochen Stahn
@@ -101,7 +114,7 @@ The rest in almost free form - as long as it does not interfere with the
 minimum content and the format rules.
 
 Adding the recommended content the file looks like
-[this](pragmatic-recommended.txt) (J. Stahn):
+[this](pragmatic-recommended.txt) (Jochen Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
@@ -190,7 +203,7 @@ Adding the recommended content the file looks like
 #### optional content
 
 And including some user-defined content leads to
-[this](pragmatic-options.txt) (J. Stahn):
+[this](pragmatic-options.txt) (Jochen Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
