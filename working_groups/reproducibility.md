@@ -8,7 +8,7 @@ The reproducibility working group is focused on creating guidelines to ensure re
 
 At the recent [workshop](https://www.reflectometry.org/workshop_2020/) the Reproducibilty sessions focussed on defining how we can work to improve reproducibilty in reflectometry measurement, reduction, and analysis. 
 In particular, focussing on how we can collaborate to produce reproducible methods for measurement, and help others create reproducible analyses. 
-Minutes from the workshop are availablen [online](https://www.reflectometry.org/workshop_2020/), and a list of [actions](https://github.com/reflectivity/reproducibilty/projects) have been produced. 
+Minutes from the workshop are availablen [online](https://www.reflectometry.org/workshop_2020/), and a list of [actions](https://github.com/reflectivity/reproducibility/projects) have been produced. 
 
 The working group will focus on the following areas:
 * **Measurement:** The reproducibilty of our measurements will be discussed by the creation of informative documentation regarding set-up and standardisation of instrumentation.
