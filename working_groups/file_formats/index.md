@@ -66,7 +66,8 @@ are to be used for the reduced data. The very technical and highly
 instrument specific *language* describing the raw data should
 be used in the raw data file.
 
-A series of **tasks** were defined and everyone is welcome to contribute
+A series of [**tasks**](https://github.com/reflectivity/file_format/issues)
+were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
 - [ ] Contribute to the dictionaries.
 - [ ] Create an overview over the national data policies.
