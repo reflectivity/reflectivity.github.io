@@ -10,55 +10,25 @@ Due to the cancellation of the SXNS16 conference, the planned ORSO satellite wor
 
 The meeting was held over 3 days: **26-28th May** and consisted of:
 
-- **26th May**: An introductory webinar explaining how to participate in the event, with some brief presentations on the progress of ORSO to date.
+- **26th May**: An introductory webinar explaining how to participate in the event, with some brief presentations on the progress of ORSO to date. A recording of this webinar will be available here soon
 - **26th-28th May**: small working groups sessions (typically an hour in length) to discuss specific topics.
 - **28th May**: Closing webinar. One individual nominated from each of the sessions presented a summary to the whole group.                    
 
-
-### Opening Webinar Agenda:
-
-- **Tuesday 26th May 15:00-16:15 UK**:
-
-A recording of this webinar will be available here shortly
-
-- 15:00 General introduction, how the meeting will work: Tom Arnold
-- 15:10 A brief recap of the previous meeting held in October 2019: Jos Cooper
-- 15:20 canSAS: Tim Snow
-- 15:35 PaNOSC: Thomas Holm Rod
-- 15:50 Very brief progress updates:
-
-5 min File formats: Jochen Stahn
-
-5 min Reproducibility: Andrew McCluskey
-
-5 min Data analysis: Brian Maranville
-
-5 min Education & outreach: Tom Arnold
-
-
 ### Sessions
 
-The working group sessions were roughly as follows but individual sessions may have focussed on different aspects: 
+The outcomes of the working group sessions are summarized below with more detail on [the working group pages](./working_groups/): 
 
 - **[File Formats](./file_formats_agenda)**: Chaired by Jochen Stahn
-  - Session 1: Detailed introduction & aims of this working group                     
-  - Session 2: Required content for data files                             
-  - Session 3: Definition of format standards   
+The outcome of the file formats working group discussions can be summarized simply as “we want to stick to the principles whenever possible - and at the same time we are flexible and pragmatic and pay respect to traditions.” This attitude is exemplified by the agreement to generally use SI units, but to also allow Ångströms. The broad conclusion of the discussions is to develop two file formats; one strict and one pragmatic. The strict format will fulfil the principles of inter-operability and reusability, most likely using a NeXus-based hierarchical data format (HDF). Meanwhile the pragmatic format will be easily human-readable, compatible with legacy analysis software but also contain the essential information to trace back to its origin and some basics about the state of the data reduction.
   
 - **[Data Analysis](./data_analysis_agenda)**: Chaired by Brian Maranville      
-  - Session 1: Detailed introduction & aims of this working group                     
-  - Session 2: Requirements for a generic (shared) calculation engine                             
-  - Session 3: First steps for creating a model-definition language (many dialects, one syntax?)                          
+The data analysis working group discussed how the many existing analysis software packages should cooperate. This included the possible creation of generic or shared calculation engines and the definition of a vocabulary that allows for a consistent parameterization of models. The group plans to develop a set of reference calculations for reflectometry (with inputs and outputs) to ensure robustness across analysis software.                         
                                
 - **[Reproducibility](./reproducibility_agenda)**: Chaired by Andrew McCluskey 
-  - Session 1: Detailed introduction & aims of this working group                     
-  - Session 2: How to communicate the importance of reproducibility?                          
-  - Session 3: What are our expectations for reproducibility?                             
+The reproducibility working group sessions focussed on defining how we can work to improve reproducibility in reflectometry measurement, reduction, and analysis. In particular, focussing on how we can collaborate to produce reproducible methods for measurement, and help others create reproducible analyses. The discussions concluded with three principle actions going forward, the creation of informative documentation regarding the set-up and standardisation of instrumentation, the generation of guidelines for the expected steps required for accurate and reproducible data reduction and the writing of some “how-to” guides to encourage reproducible data analysis.                          
                                
 - **[Education and Outreach](./education_outreach_agenda)**: Chaired by Tom Arnold
-  - Session 1: Detailed introduction & aims of this working group                 
-  - Session 2: Website content and collation of online resources                      
-  - Session 3: Future funding opportunities & formal support from facility management
+The education and outreach working group discussions were able to define the scope of the working group and discussed some detail on the design and content of the website and how to secure the long-term future of the ORSO collaboration. Going forward this working group will be responsible for the publicity for the organisation, including the website, the dissemination of standards and the organization of annual meetings.
   
 
 
