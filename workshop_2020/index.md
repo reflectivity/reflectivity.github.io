@@ -10,7 +10,7 @@ Due to the cancellation of the SXNS16 conference, the planned ORSO satellite wor
 
 The meeting was held over 3 days: **26-28th May** and consisted of:
 
-- **26th May**: An introductory webinar explaining how to participate in the event, with some brief presentations on the progress of ORSO to date. A recording of this webinar will be available here soon
+- **26th May**: An introductory webinar explaining how to participate in the event, with some brief presentations on the progress of ORSO to date. A recording of this webinar can be found [here](https://vimeo.com/431424465/0f8be60bf8).
 - **26th-28th May**: small working groups sessions (typically an hour in length) to discuss specific topics.
 - **28th May**: Closing webinar. One individual nominated from each of the sessions presented a summary to the whole group.                    
 
