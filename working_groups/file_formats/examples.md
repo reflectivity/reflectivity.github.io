@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "File Formats - Example reflectivity files"
+title: "File Formats - Examples"
 permalink: /working_groups/file_formats/examples
 ---
   
