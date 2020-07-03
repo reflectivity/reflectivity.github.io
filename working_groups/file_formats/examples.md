@@ -1,4 +1,8 @@
-## Example reflectivity files
+---
+layout: page
+title: "File Formats - Example reflectivity files"
+permalink: /working_groups/file_formats/examples
+---
   
 The examples presented and discussed below are NOT the orso standard.
 Their purpose is to illustrate ideas and to form the basis for
@@ -211,8 +215,8 @@ And including some user-defined content leads to
     #
     # misc:
     #   resolution :
-    #     - description : "Gaussian wit freely selectable integral, offset and sigma"
-    #     - calculus    : f(q) = a * exp( - (q-b)^2 / c^2 )
+    #     description : "Gaussian wit freely selectable integral, offset and sigma"
+    #     calculus    : f(q) = a * exp( - (Qz-b)^2 / c^2 )
     #
     # data:
     #   column 1 : Qz / Aa^-1
