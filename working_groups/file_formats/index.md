@@ -22,7 +22,7 @@ Acting in this spirit a broad support for developing
 
 * The **strict format** who's aim is to fulfil the principles of 
   *inter-operability* and *reusability*,
-  most likely using a NeXus-based the hierarchical data format (HDF).   
+  most likely using a NeXus-based hierarchical data format (HDF).   
   This format should fulfil high scientific standards, it will allow
   future analysis software to do more than just fit R(q) curves and
   it should match the national data policies.
@@ -73,6 +73,7 @@ there (as well as to the general discussions):
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
 - [ ] Contribute to the dictionaries.
 - [ ] Create an overview over the national data policies.
+- [ ] Define an identification scheme.
 - [ ] Try to implement the *pragmatic* file format in existing
       data reduction software and report on problems and
       successes.
