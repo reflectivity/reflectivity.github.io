@@ -7,7 +7,18 @@ permalink: /working_groups/file_formats/
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. 
 This is an important goal to move towards interoperability across facilities. 
 
+### Workshop on September 30., from 9:00 to 13:00 h (MESZ = GMT + 0200)
+
+This is a small half-day workshop of the file formats group only. 
+
+We will discuss and allocate the tasks which came out of the May wrokshop 
+as listed at the end of this page.
+
+If you want to participate, please write an e-mail to 
+Jochen (jochen.stahn@psi.ch).
+
 ### Summary of the May 2020 workshop
+
 The outcome of the discussions during the workshop can be
 summed up as
 > We want to stick to the principles whenever possible -
