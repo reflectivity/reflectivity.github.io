@@ -82,7 +82,7 @@ were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
 - [x] [Draft a header for an ASCII file.](examples.md) (J. Stahn)
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
-- [ ] Contribute to the [dictionaries](dictionaries.md)
+- [ ] Contribute to the [dictionaries](dictionaries.pdf)
 - [ ] Create an overview over the national data policies
 - [ ] Define an identification scheme
 - [ ] Try to implement the *pragmatic* file format in existing
