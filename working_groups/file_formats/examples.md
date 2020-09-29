@@ -141,7 +141,14 @@ Adding the recommended content the file looks like
     #       polarisation     : +0.97
     #     measurement:
     #       scheme           : angle- and energy-dispersive
+    #              --
+    #       wavelength range : {4.0, 12.0, 'Aa'}
+    #              or
     #       wavelength range : [4.0, 12.0] # Aa
+    #              or
+    #       wavelength range : 4.0, 12.0
+    #       wavelength unit  : Aa
+    #              --
     #       angular range    : [0.3, 2.1] # deg
     #       omega            : 1.2 # deg
     #     sample:
