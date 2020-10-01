@@ -2,6 +2,7 @@
 layout: page
 title: "Analysis"
 permalink: /working_groups/analysis/
+author: "Brian Maranville and Andrew McCluskey"
 ---
 
 The working group is focused on cross-facility collaboration on standardized data analysis "best practices" and shared resources to make it easier to build and use reflectometry analysis software
