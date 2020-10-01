@@ -7,7 +7,18 @@ permalink: /working_groups/file_formats/
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. 
 This is an important goal to move towards interoperability across facilities. 
 
+### Workshop on September 30., from 9:00 to 13:00 h (MESZ = GMT + 0200)
+
+This is a small half-day workshop of the file formats group only. 
+
+We will discuss and allocate the tasks which came out of the May wrokshop 
+as listed at the end of this page.
+
+If you want to participate, please write an e-mail to 
+Jochen (jochen.stahn@psi.ch).
+
 ### Summary of the May 2020 workshop
+
 The outcome of the discussions during the workshop can be
 summed up as
 > We want to stick to the principles whenever possible -
@@ -22,7 +33,7 @@ Acting in this spirit a broad support for developing
 
 * The **strict format** who's aim is to fulfil the principles of 
   *inter-operability* and *reusability*,
-  most likely using a NeXus-based the hierarchical data format (HDF).   
+  most likely using a NeXus-based hierarchical data format (HDF).   
   This format should fulfil high scientific standards, it will allow
   future analysis software to do more than just fit R(q) curves and
   it should match the national data policies.
@@ -71,11 +82,12 @@ were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
 - [x] [Draft a header for an ASCII file.](examples.md) (J. Stahn)
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
-- [ ] Contribute to the dictionaries.
-- [ ] Create an overview over the national data policies.
+- [ ] Contribute to the [dictionaries](dictionaries.pdf)
+- [ ] Create an overview over the national data policies
+- [ ] Define an identification scheme
 - [ ] Try to implement the *pragmatic* file format in existing
       data reduction software and report on problems and
-      successes.
+      successes
 
 ---
 
