@@ -5,6 +5,8 @@ permalink: /info/reflectometers/
 author: "Adrian Rennie, Andrew McCluskey, Tom Arnold, Bridget Murphy"
 ---
 
+This list may not be exhaustive or up-to-date. Please contact us with your beamline details or, alternatively, you can edit the list directly by becoming a member of the GitHub group that administers this webpage: contact [Andrew](mailto:andrew.mccluskey@diamond.ac.uk).
+
 ## Table of Neutron reflectometry instruments
 
 | Facility | Country | Instrument | Geometry | Polarisation | ToF |
@@ -55,7 +57,7 @@ author: "Adrian Rennie, Andrew McCluskey, Tom Arnold, Bridget Murphy"
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Narziss | Vertical | Yes | No |
 
 
-## Table of X-ray reflectometry instruments
+## Table of Synchrotron X-ray reflectometry instruments
 
 At synchrotron and free electron laser Light Sources there are many instruments that are specialised for X-ray reflectometry. Please find a list of suggestions below. For a complete list of all x-ray scattering beamlines in Europe please visit, [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) database.
 
@@ -69,4 +71,4 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [Soft x-ray reflectivity beamline BL-3](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
 | [NSLS2](https://www.bnl.gov/ps) (BNL) | USA |[Soft Matter Interfaces 12-ID](https://www.bnl.gov/ps/beamlines/beamline.php?r=12-ID) | Yes | horizontal (linear) | 2.05 - 24 keV | (GI)SAXS/WAXS, XRD | 
 
-Please contact us with your beamline details or additionally, there is a GitHub group that administers this webpage. You can become a member of by contacting [Andrew](mailto:andrew.mccluskey@diamond.ac.uk).
+
