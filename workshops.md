@@ -25,6 +25,6 @@ Future events
 |  Working group | Date and Time   |      Place      | 
 |----------|:-------------:|------:|
 |  Education and Outreach | Oct. 1st 2020 7AM and 3PM (UTC) |  Online |
-|  Data Analysis | Oct. 13th 2020 (tenative: [doodle](https://doodle.com/poll/4ameykdmwriwcr53) ) (UTC) | Online  |
+|  Data Analysis |[doodle](https://doodle.com/poll/4ameykdmwriwcr53)| Online  |
 |  General | June 2021 | SXNS16 in Lund. |
 
