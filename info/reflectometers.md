@@ -69,4 +69,4 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [Soft x-ray reflectivity beamline BL-3](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
 | --- | --- | --- | --- | --- | --- | --- | 
 
-Please contact us with your beamline details or additionally, there is a GitHub group that administers this webpage. You can become a member of by contacting [Andrew] (mailto:andrew.mccluskey@diamond.ac.uk).
+Please contact us with your beamline details or additionally, there is a GitHub group that administers this webpage. You can become a member of by contacting [Andrew](mailto:andrew.mccluskey@diamond.ac.uk).
