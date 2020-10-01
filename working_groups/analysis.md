@@ -24,8 +24,6 @@ Aims of the group, based on input from the community at the most recent [worksho
 A set of [action items](https://github.com/reflectivity/analysis/projects/1) from the last workshop is available in the github repository.  Please feel free to volunteer to help out by [emailing the chair](mailto:brian.maranville@nist.gov) 
 
 
-### [Message board](https://gitter.im/reflectivity/analysis) 
-
 Open to all to read, however, an account is required to post ([email the chair](mailto:brian.maranville@nist.gov))
 
 ### Members
