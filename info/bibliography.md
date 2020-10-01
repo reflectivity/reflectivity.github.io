@@ -11,7 +11,7 @@ References for X-ray reflectometry
 *	M. Tolan, M. Tolan, X-ray scattering from soft-matter thin films: materials science and basic research.  (1999).
 *	B. E. Warren, X-ray Diffraction.  (Courier Corporation, 1990).
 *	P. S. Pershan, M. L. Schlossman, Liquid surfaces and interfaces.  (Cambride University Press, Cambridge, 2012).
-*	O. H. Seeck, B. M. Murphy, X-ray Diffraction: Modern Experimental Techniques.  (Pan Stanford New York, ed. 1, 2015), vol. 1, pp. 444.
+*	Chapter 9. "Reflectivity at Liquid Interfaces" in O. H. Seeck, B. M. Murphy, X-ray Diffraction: Modern Experimental Techniques.  (Pan Stanford New York, ed. 1, 2015), vol. 1, pp. 444.
 
 
 
