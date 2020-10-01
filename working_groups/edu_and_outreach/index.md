@@ -16,8 +16,6 @@ The full scope of the working group is now defined as:
 
 To get involved in the E&O working group you should sign up to GitHub and take a look at the GitHub repository or Gitter message board. You can become a member by emailing the working group chair.
 
-### [Message board](https://gitter.im/reflectivity/edu_and_outreach)
-
 ### [Actions](https://github.com/reflectivity/edu_outreach/projects)
 
 Open to all to read, however, an account is required to post to the message board or comment on actions.
