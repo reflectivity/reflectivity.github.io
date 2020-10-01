@@ -91,10 +91,6 @@ there (as well as to the general discussions):
 
 ---
 
-### [Message board](https://gitter.im/reflectivity/file_formats) 
-
-Open to all to read, however, an account is required to post.
-
 ### Members
 
 - Ruipeng Li (NSLS-II)
