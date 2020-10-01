@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Active projects"
+title: "Active reflectometers and software"
 permalink: /info/activities
 author: "Andrew McCluskey"
 ---
