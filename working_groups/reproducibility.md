@@ -18,8 +18,6 @@ The working group will focus on the following areas:
 
 To get involved in the Reproducibility working group you should sign up to GitHub and take a look at the GitHub repository or Gitter message board. You can become a member by emailing the working group chair.
 
-### [Message board](https://gitter.im/reflectivity/reproducibility)
-
 Open to all to read, however, an account is required to post.
 
 ### Members
