@@ -66,5 +66,5 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [ESRF](https://www.esrf.eu/) | France | [ID10](https://www.esrf.eu/UsersAndScience/Experiments/CBS/ID10) | Yes |horizontal (linear) | 7-24keV | GID, GISAXS & more |    
 | [PETRA III](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (DESY) | Germany | [P08](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_highres_diffraction/index_eng.html): LISA | Yes | horizontal (linear) | 5.4-29.4keV | GID, GISAXS & more | 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIXS](https://www.synchrotron-soleil.fr/en/beamlines/sixs) | Yes | horizontal (linear) | 5 -20 keV | XRD, GID,.. | 
-| [Indus-2]https://www.rrcat.gov.in/technology/accel/indus2.html |India | [soft x-ray](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
+| [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [soft x-ray](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
 | --- | --- | --- | --- | --- | --- | --- | 
