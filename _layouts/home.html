@@ -35,6 +35,9 @@ layout: default
   This organisation and working groups are open to all, to join a working group please just sign up on the message board, contact the group chair, or sign up to the mailing list below.<br>
   Additionally, there is a <a href="https://github.com/reflectivity">GitHub organisation</a> that administers this webpage that you can become an owner of by contacting <a href="mailto:andrew.mccluskey@diamond.ac.uk">Andrew</a>.
   <br><br>
+  <header class="post-content"><h1>News</h1></header>
+  All news is circulated via our <a href="https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4">mailing list</a>.
+  <br><br>
   <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -92,53 +95,9 @@ layout: default
 <!--End mc_embed_signup-->
 <br><br>
 This embedded form does not work with Firefox: If you do not receive a confirmation email after submitting the above form, try <a href="http://eepurl.com/g7le3v">using this link</a>.
-A <a href="https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4">historial archive</a> of the emails sent on this mailing list is available online.
 <br><br>
 <a class="twitter-timeline" data-height="400" href="https://twitter.com/GisansPapers?ref_src=twsrc%5Etfw">
     Tweets by GisansPapers</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <br><br>
-  <header class="post-content"><h1>News</h1></header>
-
-  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
-
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
-      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
-
-      <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
-        <header class="post-header">
-          <h3 class="post-title">
-            {% if post.external-url %}
-              <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
-            {% else %}
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            {% endif %}
-          </h3>
-
-          <p class="post-meta">
-            {{ post.date | date: "%b %-d, %Y" }}
-            {% if post.categories != empty or post.tags != empty %}
-              {% include category_links.html categories=post.categories tags=post.tags %}
-            {% endif %}
-            {% if post.external-url %}
-              • <a href="{{ post.url | relative_url }}">Permalink</a>
-            {% endif %}
-          </p>
-        </header>
-
-        <div class="post-content">
-          {{ post.excerpt }}
-        </div>
-        {% if post.content contains site.excerpt_separator %}
-          <p class="post-continue">
-            <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
-          </p>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-
-  {% include pagination.html %}
 
 </div>
