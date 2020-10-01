@@ -4,10 +4,10 @@ title: "Workshops"
 permalink: /workshops/
 ---
 For most recent activities please check github issues for each working group:
-[Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
-[Reproducibility](https://github.com/reflectivity//reproducibility/issues)
-[File formats](https://github.com/reflectivity/file_format/issues)
-[Data analysis](https://github.com/reflectivity/analysis/issues)
+- [Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
+- [Reproducibility](https://github.com/reflectivity//reproducibility/issues)
+- [File formats](https://github.com/reflectivity/file_format/issues)
+- [Data analysis](https://github.com/reflectivity/analysis/issues)
 
 
 Past events 
@@ -20,7 +20,7 @@ Past events
 | Reproducibility | Sep 2020 | Online  |
 | File Formats | Sep 2020 | Online |
 
-Future event
+Future events
 
 |  Working group | Date and Time   |      Place      | 
 |----------|:-------------:|------:|
