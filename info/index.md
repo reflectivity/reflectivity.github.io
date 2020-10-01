@@ -8,7 +8,7 @@ This page contains a list of the resources currently available on this website a
 
   * [Learn about Reflectometry](../working_groups/edu_and_outreach/learning)
 
-### Learn about Reflectometry
+### Our active projects 
 
   * [SLD database](../working_groups/edu_and_outreach/sld_database)
 
