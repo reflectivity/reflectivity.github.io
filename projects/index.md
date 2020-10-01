@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Active projects"
-permalink: /projects
+permalink: /projects/
 author: "Andrew McCluskey"
 ---
 
