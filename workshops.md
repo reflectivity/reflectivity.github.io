@@ -10,7 +10,7 @@ Past events
 |----------|:-------------:|------:|
 | Oct. 2019 |  [Abingdon, UK](https://reflectivity.github.io/workshop_2019/)| all |
 | May 2020 |   [Online](https://reflectivity.github.io/workshop_2020/)  |   all |
-| Sep 2020 |   |   |
+| Sep 2020 | Online | Education and Outreach |
 
 Future event
 
