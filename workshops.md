@@ -3,22 +3,28 @@ layout: page
 title: "Workshops"
 permalink: /workshops/
 ---
+For most recent activities please check github issues for each working group:
+[Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
+[Reproducibility](https://github.com/reflectivity//reproducibility/issues)
+[File formats](https://github.com/reflectivity/file_format/issues)
+[Data analysis](https://github.com/reflectivity/analysis/issues)
+
 
 Past events 
 
-| Date   |      Place      |  Working group | 
+| Working group  |      Date      |  Place | 
 |----------|:-------------:|------:|
-| Oct. 2019 |  [Abingdon, UK](https://reflectivity.github.io/workshop_2019/)| all |
-| May 2020 |   [Online](https://reflectivity.github.io/workshop_2020/)  |   all |
-| Sep 2020 | Online | Education and Outreach |
-| Sep 2020 | Online | Reproducibility |
-| Sep 2020 | Online | File Formats |
+| General | Oct. 2019 |  [Abingdon, UK](https://reflectivity.github.io/workshop_2019/)|
+| General | May 2020 |   [Online](https://reflectivity.github.io/workshop_2020/)  | 
+| Education and Outreach | Sep 2020 | Online |
+| Reproducibility | Sep 2020 | Online  |
+| File Formats | Sep 2020 | Online |
 
 Future event
 
-| Date and Time   |      Place      |  Working group | 
+|  Working group | Date and Time   |      Place      | 
 |----------|:-------------:|------:|
-| Oct. 1st 2020 7AM and 3PM (UTC) |  Online |  Education and Outreach |
-| Oct. 13th 2020 (tenative: [doodle](https://doodle.com/poll/4ameykdmwriwcr53) ) (UTC) | Online  |  Data Analysis |
-| June 2021 | SXNS16 in Lund.  |  all |
+|  Education and Outreach | Oct. 1st 2020 7AM and 3PM (UTC) |  Online |
+|  Data Analysis | Oct. 13th 2020 (tenative: [doodle](https://doodle.com/poll/4ameykdmwriwcr53) ) (UTC) | Online  |
+|  General | June 2021 | SXNS16 in Lund. |
 
