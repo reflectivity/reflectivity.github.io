@@ -2,6 +2,7 @@
 layout: page
 title: "Education and Outreach"
 permalink: /working_groups/edu_and_outreach/
+author: "Tom arnold and Andrew McCluskey"
 ---
 
 The education and outreach working group aims to develop understanding of reflectivity techniques and disseminate information about reflectivity analysis.
