@@ -18,7 +18,7 @@ To get involved in the E&O working group you should sign up to GitHub and take a
 
 ### [Actions](https://github.com/reflectivity/edu_outreach/projects)
 
-Open to all to read, however, an account is required to post to the message board or comment on actions.
+Open to all to read, however, an account is required to comment on actions.
 
 ### Members
 
