@@ -2,6 +2,7 @@
 layout: page
 title: "Reflectometers"
 permalink: /info/reflectometers/
+author: "Adrian Rennie, Andrew McCluskey, Tom Arnold"
 ---
 
 ## Table of Neutron reflectometry instruments
