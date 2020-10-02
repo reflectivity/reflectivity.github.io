@@ -22,7 +22,8 @@ Open to all to read, however, an account is required to comment on actions.
 
 ### Members
 
-- [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu) -- **Chair**
+- [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu) -- **Co-Chair**
+- [Bridget Murphy (University of Kiel](mailto:murphy@physik.uni-kiel.de) -- **Co-Chair**
 - Jos Cooper (ISIS)
 - Andrew McCluskey (Diamond)
 - Wojciech Potrzebowski (ESS)
