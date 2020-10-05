@@ -10,3 +10,4 @@ This page contains a list of the resources currently available on this website a
   * [Our active projects](../projects)
   * [Worldwide reflectometry activities](./activities)
   * [Bibliography of reflectometry publications](./bibliography)
+  * [Frequently asked questions](./FAQ)
