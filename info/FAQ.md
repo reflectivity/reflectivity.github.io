@@ -10,7 +10,7 @@ author: "Jos Cooper"
 
 
 
-*## How can I get my data?
+* ## How can I get my data?
 
 
 Most facilities offer remote access for user data as long as you are associated with the experiment. Check the website of the facility, or for the following facilities go to these pages:
