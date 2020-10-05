@@ -16,11 +16,8 @@ author: "Jos Cooper"
 Most facilities offer remote access for user data as long as you are associated with the experiment. Check the website of the facility, or for the following facilities go to these pages:
 
 ILL – www.data.ill.eu
-
 ISIS - https://data.isis.stfc.ac.uk
-
 Diamond - https://www.diamond.ac.uk/Users/Experiment-at-Diamond/IT-User-Guide/At-DLS/Access-data.html
-
 ESRF - https://www.esrf.eu/home/UsersAndScience/support-and-infrastructure/Computing/ComputingOffsite/accessing-experimental-data.html 
 
 
