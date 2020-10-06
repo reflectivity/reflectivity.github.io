@@ -28,6 +28,6 @@ Future events
 
 |  Meeting or Workshop | Date and Time   |      Place      | 
 |----------|:-------------:|------:|
-|  Data Analysis |[doodle](https://doodle.com/poll/4ameykdmwriwcr53)| Online |
+|  Data Analysis | Oct 13th 10-14 (UTC) | Online |
 |  AGM | June 2021 | SXNS16 in Lund, Sweden|
 
