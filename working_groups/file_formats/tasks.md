@@ -7,45 +7,117 @@ author:
 date: 2020-10-07
 ---
 
----
+This is an attempt to collect the ideas and contributions from the ORSO meeting
+in 2020 and the **file formats group workshop on September 30**.
 
-Attempt to collect the ideas and contributions from the ORSO meeiting
-in 2020 and the file formats group on September 30.
+The writing is still in progress, thus some entries below are close to the
+keyword level. Please excuse me for that - or better: change it.
 
-# Project organisation
+My idea is that we complete the list and fill in the results once a task
+has been completed. 
 
-how do we structure our work?
+Once decided, the topic moves form this task list to a still empty
+list of recommendations.
 
-## project organisation
+Pleas add your name to the tasks you are interested in. This way
+we might be able to form groups working together.
 
-ideas / concepts
+## Project organisation
 
-discussion
+**How do we structure our work?**   
+We agreed to tackle the tasks (see below) in smaller groups according to
+the interests and skills of the orso members.   
+We forgot to for these groups.
 
-preliminary decission
+**Which platform do we use?**   
+For the moment this would be GitHub. I have the impression that 
+most of us are not that familiar with this and the related nomenclature
+(including me), so it might be a good idea if some expert could tell us.
 
-realisation for testing
+**Time line**   
+The *natural* order for developing the orso file format is something like 
+this:
 
-revision / final decission
+1. collection of ideas and concepts
 
-release
+2. discussion
 
+3. preliminary decision
 
+4. realisation for testing
+
+5. revision and final decision
+
+6. release
+
+At the moment we mix stages 1 to 3 and stage 4 is in preparation.
+Most likely this will lead to some loops, but on the upside we 
+might learn some things and there is some visible progress...
+
+**Chapters**   
 J. Wuttke [suggested](https://github.com/jwuttke/file_format/blob/master/current_discussion/process.md)
 to prepare *chapters* and to release them
 individually once they are mature enough. This organisation
 would also allow to opt out certain chapters according to 
 institutional policy.
 
-The problem there is that a lot of basic decissions are 
-entengled and that once we agreed on them, there is not much
+The problem there is that a lot of basic decisions are 
+entangled and that once we agreed on them, there is not much
 to split of as a separate chapter.
 
+
+## List of tasks
+
+<!-- vim-markdown-toc GFM -->
+
+* [Common structure and nomenclature for all representations](#common-structure-and-nomenclature-for-all-representations)
+	* [tasks](#tasks)
+	* [decission](#decission)
+* [Links to canSAS](#links-to-cansas)
+	* [tasks](#tasks-1)
+* [Steep vs. flat hirarchical structure](#steep-vs-flat-hirarchical-structure)
+	* [tasks](#tasks-2)
+	* [decission](#decission-1)
+* [Multiplicity of hirarchies](#multiplicity-of-hirarchies)
+	* [discussion](#discussion)
+		* [monochromatic, angle-dispersive scheme](#monochromatic-angle-dispersive-scheme)
+		* [energy-dispersive scheme, one angle](#energy-dispersive-scheme-one-angle)
+		* [energy-dispersive scheme, various angular settings](#energy-dispersive-scheme-various-angular-settings)
+		* [angle- and energy-dispersive, various angular settings, compact](#angle--and-energy-dispersive-various-angular-settings-compact)
+		* [angle- and energy-dispersive, various angular settings, detailed](#angle--and-energy-dispersive-various-angular-settings-detailed)
+	* [tasks](#tasks-3)
+	* [decission](#decission-2)
+* [Binary representation](#binary-representation)
+	* [tasks](#tasks-4)
+	* [decission](#decission-3)
+* [ASCII representation](#ascii-representation)
+	* [tasks](#tasks-5)
+	* [decission](#decission-4)
+* [Units](#units)
+	* [discussion: How do we write reciprocal and non-SI units?](#discussion-how-do-we-write-reciprocal-and-non-si-units)
+	* [discussion: Where are units declared?](#discussion-where-are-units-declared)
+	* [defaults](#defaults)
+	* [tasks](#tasks-6)
+	* [decissions](#decissions)
+* [Internal links](#internal-links)
+	* [tasks](#tasks-7)
+	* [decission](#decission-5)
+* [Non-standard entries and comments](#non-standard-entries-and-comments)
+	* [non-standard entries](#non-standard-entries)
+	* [comments](#comments)
+* [misc.](#misc)
+	* [string vs. float](#string-vs-float)
+	* [tasks](#tasks-8)
+	* [decission](#decission-6)
+
+<!-- vim-markdown-toc -->
+
+---
 
 # Common structure and nomenclature for all representations
 
 J. Wuttke [suggested](https://github.com/jwuttke/file_format/blob/master/current_discussion/dataRepresentation.md)
-to define a hirarchy and a dictinary for the data which is
+to define a hierarchy and a dictionary for the data which is
 compatible with various representations, e.g. 
 wrapped YAML for [ASCII representation] and 
 HDF5 for [Binary representation].
@@ -56,13 +128,13 @@ is done only once and confusion is reduced.
 
 Though this sounds reasonable there might be some problems with this:
 
-- A feature of hdf5 is that an entry might have an *attribute*, where there is
+- A feature of HDF5 is that an entry might have an *attribute*, where there is
   no equivalent in YAML.
 - It might result in incompatibility with canSAS.
-- The clientele for the ascii and the binary representation are not identical
+- The clientele for the ASCII and the binary representation are not identical
   and the different requirements result in different content of both.
 
-  E.g. the ascii representation contains much less data to stay 
+  E.g. the ASCII representation contains much less data to stay 
   *human readable* so that a transformation to the binary representation
   might not be useful anyway.
 
@@ -73,7 +145,7 @@ Though this sounds reasonable there might be some problems with this:
 - Collect arguments for or against the common structure (what does it
   mean for programmers? what about possible future formats?)
 
-## decission
+## decision
 
 - Do we insist on an attribute-free representation of the data?
 
@@ -84,18 +156,18 @@ canSAS where ever possible.
 
 ## tasks
 
-- Take the canSAS dictionary and strip from all non-reflectemetry content.
-  (A. Nelsen volonteered for this)
+- Take the canSAS dictionary and strip from all non-reflectometry content.
+  (A. Nelsen volunteered for this)
 
 
-# Steep vs. flat hirarchical structure
+# Steep vs. flat hierarchical structure
 
 There are various ways to represent physical quantities and related parameters. 
 As an example the wavelength of the incident radiation was discussed. 
 
 (Suggestions not compatible with YAML or HDF are not shown here.)
 
-The hirarchical approach:
+The hierarchical approach:
 
     wavelength:
         value:            for a monochromatic beam
@@ -111,7 +183,7 @@ which allows for a compact notation:
 
     wavelength:{min:4, max:12, resolution:{constant:0.1}, unit: nm }
 
-The flat apprach:
+The flat approach:
 
     wavelength:                         for a monochromatic beam
     wavelength_min:                     minimum for a wavelength range
@@ -123,12 +195,13 @@ The flat apprach:
 ## tasks
 
 - Collect arguments for one or the other approach.
+  (Jochen Stahn)
 
-## decission
+## decision
 
-- Steep or flat hirarchy?
+- Steep or flat hierarchy?
 
-# Multiplicity of hirarchies
+# Multiplicity of hierarchies
 
 ## discussion
 
@@ -141,7 +214,7 @@ E.g. for a monochromatic beam it is sufficient to supply the wavelength informat
 set-up the wavelength might be given for each measurement point in
 and extra column. 
 
-Below several examples of hirarchical structures are given for
+Below several examples of hierarchical structures are given for
 various measurement schemes and levels of reduction. Shown are only the
 entries relevant for this discussion.
 
@@ -152,7 +225,7 @@ they are constant. But the `angle` points to the column where
 the individual values are given. These allow for footprint correction.
 
 ```YAML
-experiement:
+experiment:
     measurement:
         scheme:     angle-dispersive
         wavelength: {value: 4.0, resolution: {type: constant, sigma: 0.1}, unit: angstrom}
@@ -174,7 +247,7 @@ columns:
 The `wavelength` column allows for absorption correction.
 
 ```YAML
-experiement:
+experiment:
     measurement:
         scheme: energy-dispersive
         wavelength: {column: 5}
@@ -201,7 +274,7 @@ reduction assumed here (merging of the data form both raw files) does not allow
 for later absorption or footprint corrections.
 
 ```YAML
-experiement:
+experiment:
     measurement:
         scheme: energy-dispersive
         wavelength: {min: 3.0, max: 12.0, resolution: {type: const, sigma: 0.1}, unit: angstrom}
@@ -220,7 +293,7 @@ columns:
 
 ### angle- and energy-dispersive, various angular settings, compact
 
-Data are rebinned and histogrammed to a (given) `Qz` grid. 
+Data are re-binned and histogrammed to a (given) `Qz` grid. 
 Resolution information is partially lost.
 
 The universal `wavelength` and the raw file specific
@@ -228,16 +301,16 @@ The universal `wavelength` and the raw file specific
 for data analysis.
 
 ```YAML
-experiement:
+experiment:
     measurement:
         scheme: angle- and energy-dispersive
         wavelength: {min: 3.0, max: 12.0, spread: 0.1, unit: angstrom}
 reduction:
     input files:
         - file: data1
-          angle: (min: 0.6, nax: 2.0, unit: deg}
+          angle: (min: 0.6, max: 2.0, unit: deg}
         - file: data2
-          angle: (min: 2.4, nax: 3.8, unit: deg}
+          angle: (min: 2.4, Max: 3.8, unit: deg}
 columns:
     - {column: 1, variable: Qz, unit: 1/angstrom}
     - {column: 2, variable: R}
@@ -247,17 +320,17 @@ columns:
 
 ### angle- and energy-dispersive, various angular settings, detailed
 
-Data might be rebinned, but are not histogrammed. I.e. there might be 
+Data might be re-binned, but are not histogrammed. I.e. there might be 
 several entries with (about) the same `Qz`, but with different `wavelength` and
 `angle` and thus `sQz`.
 
 The analysis software might use either `sQz` or the `(wavelength, angle)`
 tuple, where the resolution information for both is given in the universal
 part. Besides this, the universal `wavelength` and the raw file specific
-`angle` are descriptive and not ment for data analysis.
+`angle` are descriptive and not meant for data analysis.
 
 ```YAML
-experiement:
+experiment:
     measurement:
         scheme: angle- and energy-dispersive
         wavelength: 
@@ -273,9 +346,9 @@ experiement:
 reduction:
     input files:
         - file: data1
-          angle: (min: 0.6, nax: 2.0, unit: deg}
+          angle: (min: 0.6, max: 2.0, unit: deg}
         - file: data2
-          angle: (min: 2.4, nax: 3.8, unit: deg}
+          angle: (min: 2.4, max: 3.8, unit: deg}
 columns:
     - {column: 1, variable: Qz, unit: 1/angstrom}
     - {column: 2, variable: R}
@@ -292,24 +365,24 @@ columns:
   information might be found in various places in the 
   file?
 
-## decission
+## decision
   
 # Binary representation
 
 For the binary representation HDF5 seems to be the favoured 
 *format*. But there is a discussion whether or not to use / allow attributes.
 
-This representation is ment ....
+This representation is meant ....
 
-canSAS uses attrributes, but they are not compatible with 
+canSAS uses attributes, but they are not compatible with 
 YAML, ....
 
 ## tasks
 
-- The attribute-free HDF5 might contradict the orso decission to stay 
+- The attribute-free HDF5 might contradict the orso decision to stay 
   compatible with canSAS and Nexus. This has to be checked.
 
-## decission
+## decision
 
 - Do we insist on / recommend HDF5 for the binary representation?
 - If so: with or without attributes?
@@ -324,15 +397,15 @@ header.
 This *format* is compatible with most analysis software and plotting
 programs so that it allows for fast data visualisation on almost any
 system and it can be used for simple or standard data reduction. 
-Also by unexperienced users.
+Also by inexperienced users.
 
 ## tasks
 
 - There are representations for the data equivalent to YAML (in terms of
-  hirarchy and content, not necessarily in terms of human readability).
+  hierarchy and content, not necessarily in terms of human readability).
   Which is the *best*?
 
-## decission
+## decision
 
 - Do we insist / recommend to use wrapped YAML for the ASCII representation?
 
@@ -343,8 +416,8 @@ Also by unexperienced users.
 The following table shows the physical dimensions typically used in reflectometry 
 with the *accepted* units. The
 4 last columns contain suggested shortcuts for the units to be used by ORSO: the very
-short notoation, the short notation, the full word and a LaTeX type notation. The 
-bold notations are those more or less recomended during the September workshop.
+short notation, the short notation, the full word and a LaTeX type notation. The 
+bold notations are those more or less recommended during the September workshop.
 
 | dimension         | unit         |            | short     | long             | LaTeX-like | 
 | :---------------- | :----------- | :--------: | :-------: | :--------------: | :--------: |
@@ -370,11 +443,11 @@ There are 2 principle approaches:
   all quantities with the same dimension.
 - Units are given for every quantity individually.
 
-In the first case a conflict might arrise between
+In the first case a conflict might arise between
 the slit size given in mm and the wavelength in nm.
 
 The second approach has the advantage that there is no need to
-collect the consistuents of a physical quantity from various
+collect the constituents of a physical quantity from various
 places in the document. 
 
 ## defaults
@@ -387,7 +460,7 @@ for a ratio like `R` or an angle in radian (for `1 rad := 1`).
 - What does canSAS say?
 - Are there other established notations?
 
-## decissions
+## decisions
 
 - Do we define the units once for all the document, or are they given with 
   every physical quantity?
@@ -395,7 +468,7 @@ for a ratio like `R` or an angle in radian (for `1 rad := 1`).
 
 # Internal links
 
-In the exampes in section [Multiplicity of hirarchies] there is a link
+In the examples in section [Multiplicity of hierarchies] there is a link
 of the type `column: <value>` in case there is an extra column in the
 table representing the respective quantity.
 
@@ -407,13 +480,15 @@ providing the resolution type and value.
 ## tasks
 
 - This looks good in the YAML representation, but is it compatible
-  with hdf?
+  with HDF?  
+  (Jochen Stahn)
 - What is the programmers view?
-- Are there other, more intuitive or compatible ways to realise this?
+- Are there other, more intuitive or compatible ways to realise this?  
+  (Jochen Stahn)
 
-## decission
+## decision
 
-- are docuement-internal links allowed?
+- are document-internal links allowed?
 - How are they realised?
    
 # Non-standard entries and comments
@@ -421,7 +496,7 @@ providing the resolution type and value.
 ## non-standard entries
 
 It might be helpful for the user to add extra, non-standard information
-to facilitate reading the docuemnt and e.g. identifying the raw file
+to facilitate reading the document and e.g. identifying the raw file
 and settings.
 
 An example is the sample alignment given together with the raw file
@@ -435,7 +510,8 @@ a prefix. Any ideas?
 
 ## comments
 
-Is there a way to comment out lines?
+Is there a way to comment out lines? In the sense that they won't be used by
+the analysis software.
 
 What about a free-form text section of the form
 
@@ -445,6 +521,14 @@ comment: |
     and contain thus some highly structured background.
 
     Still the peak positions can be analysed.
+```
+
+Or shorter comments anywhere in the header.
+
+```YAML
+    sample:
+        name: Ni1000 
+        # there is a big scratch on the surface!
 ```
 
 # misc.
@@ -470,9 +554,9 @@ without specifying the data type?
 Or is it better to create an own key like
 
 ```YAML
-    wavelength: {cathode: CuKa}
+    wavelength: {line: CuKa}
 ```
 
 ## tasks
 
-## decission
+## decision
