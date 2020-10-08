@@ -2,7 +2,7 @@
 layout: page
 title: ORSO file format - tasks
 author:
-- Jochen Stahn  
+- Jochen Stahn,  
   *Paul Scherrer Institut, Switzerland*
 date: 2020-10-07
 ---
@@ -68,53 +68,20 @@ to split of as a separate chapter.
 
 ## List of tasks
 
-<!-- vim-markdown-toc GFM -->
-
 * [Common structure and nomenclature for all representations](#common-structure-and-nomenclature-for-all-representations)
-	* [tasks](#tasks)
-	* [decission](#decission)
 * [Links to canSAS](#links-to-cansas)
-	* [tasks](#tasks-1)
 * [Steep vs. flat hirarchical structure](#steep-vs-flat-hirarchical-structure)
-	* [tasks](#tasks-2)
-	* [decission](#decission-1)
 * [Multiplicity of hirarchies](#multiplicity-of-hirarchies)
-	* [discussion](#discussion)
-		* [monochromatic, angle-dispersive scheme](#monochromatic-angle-dispersive-scheme)
-		* [energy-dispersive scheme, one angle](#energy-dispersive-scheme-one-angle)
-		* [energy-dispersive scheme, various angular settings](#energy-dispersive-scheme-various-angular-settings)
-		* [angle- and energy-dispersive, various angular settings, compact](#angle--and-energy-dispersive-various-angular-settings-compact)
-		* [angle- and energy-dispersive, various angular settings, detailed](#angle--and-energy-dispersive-various-angular-settings-detailed)
-	* [tasks](#tasks-3)
-	* [decission](#decission-2)
 * [Binary representation](#binary-representation)
-	* [tasks](#tasks-4)
-	* [decission](#decission-3)
 * [ASCII representation](#ascii-representation)
-	* [tasks](#tasks-5)
-	* [decission](#decission-4)
 * [Units](#units)
-	* [discussion: How do we write reciprocal and non-SI units?](#discussion-how-do-we-write-reciprocal-and-non-si-units)
-	* [discussion: Where are units declared?](#discussion-where-are-units-declared)
-	* [defaults](#defaults)
-	* [tasks](#tasks-6)
-	* [decissions](#decissions)
 * [Internal links](#internal-links)
-	* [tasks](#tasks-7)
-	* [decission](#decission-5)
 * [Non-standard entries and comments](#non-standard-entries-and-comments)
-	* [non-standard entries](#non-standard-entries)
-	* [comments](#comments)
 * [misc.](#misc)
-	* [string vs. float](#string-vs-float)
-	* [tasks](#tasks-8)
-	* [decission](#decission-6)
-
-<!-- vim-markdown-toc -->
 
 ---
 
-# Common structure and nomenclature for all representations
+# Common structure and nomenclature for all representations (#common-structure-and-nomenclature-for-all-representations)
 
 J. Wuttke [suggested](https://github.com/jwuttke/file_format/blob/master/current_discussion/dataRepresentation.md)
 to define a hierarchy and a dictionary for the data which is
@@ -149,7 +116,7 @@ Though this sounds reasonable there might be some problems with this:
 
 - Do we insist on an attribute-free representation of the data?
 
-# Links to canSAS
+# Links to canSAS (#links-to-cansas)
 
 the vocabulary and partially also the structure is copied from
 canSAS where ever possible.
@@ -160,7 +127,7 @@ canSAS where ever possible.
   (A. Nelsen volunteered for this)
 
 
-# Steep vs. flat hierarchical structure
+# Steep vs. flat hierarchical structure (#steep-vs-flat-hirarchical-structure)
 
 There are various ways to represent physical quantities and related parameters. 
 As an example the wavelength of the incident radiation was discussed. 
@@ -201,7 +168,7 @@ The flat approach:
 
 - Steep or flat hierarchy?
 
-# Multiplicity of hierarchies
+# Multiplicity of hierarchies (#multiplicity-of-hirarchies)
 
 ## discussion
 
