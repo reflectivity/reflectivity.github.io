@@ -9,7 +9,7 @@ date: 2020-10-08
 
 For the ASCII representation it was suggested to use wrapped YAML.
 Meaning that the header is structured with YAML but with a leading `#`, 
-and that the body consists of a non-YAML table. i
+and that the body consists of a non-YAML table.
 The column description is (the last) part of the header.
 
 The header will look like this (content under discussion):
@@ -77,7 +77,7 @@ The header will look like this (content under discussion):
 #     - {column: 4, variable: sQz,        unit: 1/angstrom}
 #     - {column: 5, variable: wavelength, unit: angstrom}
 #     - {column: 6, variable: angle,      unit: deg}
-#         1 Qz             2 R            3 sR           4 sQz      wavelength         6 angle
+#         1 Qz             2 R            3 sR           4 sQz    5 wavelength         6 angle
 ```
 
 directly followed by a rectangular table of the type
