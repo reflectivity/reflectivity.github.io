@@ -23,10 +23,10 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 
 - Mathieu Doucet (ORNL)
 - Arwel Hughes (ISIS)
-- Christy Kinane (ISIS) -- **Co-Chair**
+- [Christy Kinane (ISIS)](mailto:christy.kinane@stfc.ac.uk) -- **Co-Chair**
 - Alexandros Koutsioumpas (JCNS)
 - Brian Maranville (NIST)
-- Andrew McCluskey (Diamond) -- **Co-Chair**
+- [Andrew McCluskey (Diamond)](mailto:andrew.mccluskey@diamond.ac.uk) -- **Co-Chair**
 - Andrew Nelson (ANSTO)
 - Thomas Saerbeck (ILL)
 - Adrian Rennie (Uppsala)
