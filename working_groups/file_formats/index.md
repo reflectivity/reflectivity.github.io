@@ -9,7 +9,7 @@ This is an important goal to move towards interoperability across facilities.
 
 ### Workshop on September 30.
 
-[Task list based on the outcome of the workshop](tasks.md)
+[Task list based on the outcome of the workshop](tasks)
 
 ### Summary of the May 2020 workshop
 
