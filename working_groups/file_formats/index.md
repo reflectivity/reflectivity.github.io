@@ -90,5 +90,5 @@ there (as well as to the general discussions):
 - Ruipeng Li (NSLS-II)
 - Brian Maranville (NIST) 
 - Tim Snow (Diamond)
-- Jochen Stahn (PSI) -- **Co-Chair**
-- Max Skoda (ISIS) -- **Co-Chair**
+- [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch) -- **Co-Chair**
+- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk) -- **Co-Chair**
