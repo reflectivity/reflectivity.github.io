@@ -30,9 +30,9 @@ A set of [action items](https://github.com/reflectivity/analysis/projects/1) fro
 - Jos Cooper (ISIS)
 - Artur Glavic (ESS/PSI)
 - Arwel Hughes (ISIS) 
-- Brian Maranville (NIST) -- **Co-Chair**
+- [Brian Maranville (NIST)](mailto:brian.maranville@nist.gov) -- **Co-Chair**
 - Andrew McCluskey (Diamond)
-- Andrew Nelson (ANSTO) -- **Co-Chair**
+- [Andrew Nelson (ANSTO)](mailto:anz@ansto.gov.au) -- **Co-Chair**
 - Wojciech Potrzebowski (ESS)
 - Andrew Caruana (ISIS)
 - Christy Kinane (ISIS)
