@@ -7,10 +7,6 @@ author:
 date: 2020-10-08
 ---
 
-# Multiplicity of hierarchies
-
-## discussion
-
 The level of *reduction* is represented in the various possible
 locations in the data tree where information is stored.
 

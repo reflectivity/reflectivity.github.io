@@ -7,9 +7,7 @@ author:
 date: 2020-10-08
 ---
 
-# Units
-
-## discussion: How do we write reciprocal and non-SI units?
+## How do we write reciprocal and non-SI units?
 
 The following table shows the physical dimensions typically used in reflectometry 
 with the *accepted* units. The
@@ -33,7 +31,7 @@ There is an obvious difference between strict SI units and related units. The Si
 have a short, well defined and accepted notation. I.e. the discussion should concentrate on
 angstrom (or so).
 
-## discussion: Where are units declared?
+## Where are units declared?
 
 There are 2 principle approaches: 
 

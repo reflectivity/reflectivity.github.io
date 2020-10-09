@@ -7,10 +7,6 @@ author:
 date: 2020-10-08
 ---
 
-# misc.
-
-## string vs. float
-
 When using an x-ray reflectometer, it is more exact to mention the cathode and line
 rather than the wavelength. Eg. `CuKa` or `CuKa1`. For this also includes the resolution.
 
