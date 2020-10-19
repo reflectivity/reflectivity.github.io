@@ -17,7 +17,7 @@ If you would like to participate in any of these meetings, sign up to the mailin
 Past events 
 
 | Meeting or Workshop |      Date      |  Place | 
-|----------|:-------------:|------:|
+|----------|:-------------:|:------:|
 | AGM | Oct. 2019 |  [Abingdon, UK](https://reflectivity.github.io/workshop_2019/)|
 | AGM | May 2020 |   [Online](https://reflectivity.github.io/workshop_2020/)  | 
 | Education and Outreach | Sep & Oct 2020 | Online |
@@ -27,7 +27,7 @@ Past events
 Future events
 
 |  Meeting or Workshop | Date and Time   |      Place      | 
-|----------|:-------------:|------:|
+|----------|:-------------:|:------:|
 |  Data Analysis | Oct 13th 10-14 (UTC) | Online |
 |  AGM | June 2021 | SXNS16 in Lund, Sweden|
 
