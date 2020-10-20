@@ -55,7 +55,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | AMOR | Horizontal | Yes | Yes |
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Morpheus | Vertical | Yes | No |
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Narziss | Vertical | Yes | No |
-
+| [Dummy Facility](https://www.google.com/) | United Kingdom | REFL | Vertical | Yes | Yes |
 
 ## Table of Synchrotron X-ray reflectometry instruments
 
