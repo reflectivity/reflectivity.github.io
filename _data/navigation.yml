@@ -7,5 +7,7 @@ main:
     url: /working_groups
   - title: "Workshops"
     url: /workshops/
+  - title: "Mailing List"
+    url: http://eepurl.com/g7le3v
   - title: "GitHub"
     url: https://github.com/reflectivity
