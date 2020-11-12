@@ -70,8 +70,8 @@ to split of as a separate chapter.
 
 * [Common structure and nomenclature for all representations](common-structure.md)
 * [Links to canSAS](link-to-cansas.md)
-* [Steep vs. flat hirarchical structure](steep-vs-flat.md)
-* [Multiplicity of hirarchies](multiplicity.md)
+* [Steep vs. flat hierarchical structure](steep-vs-flat.md)
+* [Multiplicity of hierarchies](multiplicity.md)
 * [Binary representation](binary-representation.md)
 * [ASCII representation](ascii-representation.md)
 * [Units](units.md)
