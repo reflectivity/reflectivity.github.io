@@ -27,7 +27,7 @@ we might be able to form groups working together.
 **How do we structure our work?**   
 We agreed to tackle the tasks (see below) in smaller groups according to
 the interests and skills of the orso members.   
-We forgot to for these groups.
+We forgot to form these groups.
 
 **Which platform do we use?**   
 For the moment this would be GitHub. I have the impression that 
