@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Interact With ORSO"
+title: "How to interact with ORSO"
 permalink: /info/interact_with_orso/
 author: "Wojciech Potrzebowski"
 ---
