@@ -9,7 +9,8 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 
 ## Table of Synchrotron X-ray reflectometry instruments
 
-At synchrotron and free electron laser Light Sources there are many instruments that can be used for X-ray reflectometry. Please find a list of suggestions below. For a complete list of all x-ray scattering beamlines in Europe please visit, [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) database. (please note that the Way for Light database includes instruments that may use the term reflectometry for other techniques)
+At synchrotron and free electron laser Light Sources there are many instruments that can be used for X-ray reflectometry. Please find a list of suggestions below. For a complete list of all x-ray scattering beamlines in Europe please visit, [Way For Light](https://www.wayforlight.eu/en/catalogue?Techniques=1394) database. (please note that the Way for Light database includes instruments that may use the term reflectometry to refer to some spectroscopy techniques rather than in sense used here).
+
 [Diamond Light Source](https://www.diamond.ac.uk/Instruments/Techniques.html) has a good set of definitions of the various techniques that are possible at synchrotrons. Acronyms used in the table below are consistent with these definitions.
 
 | Facility | Country | Instrument | Liquid surfaces | Polarisation | Energy Range | Other techniques | 
