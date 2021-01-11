@@ -7,5 +7,6 @@ author: "Andrew McCluskey"
 
 Information about worldwide reflectometry activities:
 
-  * [Table of active reflectometers](./reflectometers)
+  * [Table of active neutron reflectometers](./reflectometers)
+  * [Table of active X-ray reflectometers](./xray_reflectometers)
   * [List of reflectometry software](./software)
