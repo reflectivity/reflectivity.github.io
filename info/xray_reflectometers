@@ -1,0 +1,13 @@
+This list may not be exhaustive or up-to-date. Please contact us with your beamline details or, alternatively, you can edit the list directly by becoming a member of the GitHub group that administers this webpage: contact Andrew.
+
+Table of Synchrotron X-ray reflectometry instruments
+
+At synchrotron and free electron laser Light Sources there are many instruments that are specialised for X-ray reflectometry. Please find a list of suggestions below. For a complete list of all x-ray scattering beamlines in Europe please visit, Way For Light database.
+Facility 	Country 	Instrument 	Liquid surfaces 	Polarisation 	Energy Range 	Other techniques
+APS 	USA 	15-ID: Liquid Interface Scattering 	Yes 	horizontal (linear) 	5-70keV 	GID, GISAXS & more
+Diamond 	UK 	I07 	Yes 	horizontal (linear) 	6-30keV 	GID, GISAXS
+ESRF 	France 	ID10 	Yes 	horizontal (linear) 	7-24keV 	GID, GISAXS & more
+PETRA III (DESY) 	Germany 	P08: LISA 	Yes 	horizontal (linear) 	5.4-29.4keV 	GID, GISAXS & more
+SOLEIL 	France 	SIXS 	No 	horizontal (linear) 	5 -20 keV 	XRD, GID,..
+Indus-2 	India 	Soft x-ray reflectivity beamline BL-3 	No 	horizontal (linear) 	100-1500 eV 	TEY
+NSLS2 (BNL) 	USA 	Soft Matter Interfaces 12-ID 	Yes 	horizontal (linear) 	2.05 - 24 keV 	(GI)SAXS/WAXS, XRD
