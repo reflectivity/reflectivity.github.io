@@ -5,7 +5,7 @@ permalink: /info/reflectometers/
 author: "Adrian Rennie, Andrew McCluskey, Tom Arnold, Bridget Murphy"
 ---
 
-This list may not be exhaustive or up-to-date. Please contact us with your beamline details or, alternatively, you can edit the list directly by becoming a member of the GitHub group that administers this webpage: contact [Andrew](mailto:andrew.mccluskey@diamond.ac.uk).
+This list may not be exhaustive or up-to-date. Please contact us with your beamline details or, alternatively, you can edit the list directly by becoming a member of the GitHub group that administers this webpage: contact [Andrew](mailto:andrew.mccluskey@ess.eu).
 
 ## Table of Neutron reflectometry instruments
 
