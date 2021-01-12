@@ -34,7 +34,7 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIXS](https://www.synchrotron-soleil.fr/en/beamlines/sixs) | No | horizontal (linear) | 5 -20 keV | XRD, GIXD & more | 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIRIUS](https://www.synchrotron-soleil.fr/en/beamlines/sirius) | No | horizontal (linear) | 1.4 -13 keV |  GIXD, GISAXS, XAS & more | 
 | [SPring-8](http://www.spring8.or.jp/en/)| Japan |[BL46XU](http://www.spring8.or.jp/wkg/BL46XU/instrument/lang-en/INS-0000001484/instrument_summary_view) | No | horizontal (linear) | 6-35 keV |  GIXD, XRD & more | 
-| SSRF| Chinae | O2U2 | Yes | horizontal (linear) | 4.8-28 keV |  XRD, GIXD & more | 
+| SSRF| China | O2U2 | Yes | horizontal (linear) | 4.8-28 keV |  XRD, GIXD & more | 
 
 
 
