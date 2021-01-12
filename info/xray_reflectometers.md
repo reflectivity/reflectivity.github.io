@@ -23,12 +23,17 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [ESRF](https://www.esrf.eu/) (Spansih CRG)| France | [BM25](https://www.esrf.eu/UsersAndScience/Experiments/CRG/BM25) SpLine| No |horizontal (linear) | 5-35keV | GIXD, XPS |
 | [ESRF](https://www.esrf.eu/) (UK CRG)| France | [BM28](https://warwick.ac.uk/fac/cross_fac/xmas) XMaS| No |horizontal (linear) | 2.4-15keV | GIXD, GISAXS, SAXS, XAS & more|
 | [ESRF](https://www.esrf.eu/) (French CRG)| France | [BM32](https://www.esrf.eu/UsersAndScience/Experiments/CRG/BM32) InterFace Beamline| No |horizontal (linear) | 7-30keV | GIXD, XAS & more|
-| [ESRF](https://www.esrf.eu/) | France | [ID10](https://www.esrf.eu/UsersAndScience/Experiments/CBS/ID10) | Yes |horizontal (linear) | 7-24keV | GID, GISAXS & more | 
-| [ESRF](https://www.esrf.eu/) | France | [ID31](https://www.esrf.eu/UsersAndScience/Experiments/StructMaterials/ID31) | Yes |horizontal (linear) | 21-150keV | GIXD, GISAXS & more | 
+| [ESRF](https://www.esrf.eu/) | France | [ID10](https://www.esrf.eu/UsersAndScience/Experiments/CBS/ID10) | Yes |horizontal (linear) | 7-24keV | GIXD, GISAXS & more | 
+| [ESRF](https://www.esrf.eu/) | France | [ID31](https://www.esrf.eu/UsersAndScience/Experiments/StructMaterials/ID31) | Yes |horizontal (linear) | 21-150keV | GIXD, GISAXS & more |
+| [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [Soft x-ray reflectivity beamline BL-3](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
+| [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [BL-13](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 5-11 keV | GIXD, GISAXS & XRD | 
+| [NSLS2](https://www.bnl.gov/ps) (BNL) | USA |[Soft Matter Interfaces 12-ID](https://www.bnl.gov/ps/beamlines/beamline.php?r=12-ID) | Yes | horizontal (linear) | 2.05 - 24 keV | (GI)SAXS/WAXS, XRD | 
+| [Photon Factory (KEK)](https://www2.kek.jp/imss/pf/eng/) |Japan | [BL-18B](http://www.saha.ac.in/web/photon-factory-home) | Yes | horizontal (linear) | 8-19 keV | GIXD & XRD | 
 | [PETRA III](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (DESY) | Germany | [P07](https://photon-science.desy.de/facilities/petra_iii/beamlines/p07_high_energy_materials_science/index_eng.html) | Yes | horizontal (linear) | 33-200keV | XRD & more | 
 | [PETRA III](https://photon-science.desy.de/facilities/petra_iii/index_eng.html) (DESY) | Germany | [P08](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_high_resolution_diffraction/index_eng.html): LISA | Yes | horizontal (linear) | 5.4-29.4keV | GID, GISAXS & more | 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIXS](https://www.synchrotron-soleil.fr/en/beamlines/sixs) | No | horizontal (linear) | 5 -20 keV | XRD, GIXD & more | 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIRIUS](https://www.synchrotron-soleil.fr/en/beamlines/sirius) | No | horizontal (linear) | 1.4 -13 keV |  GIXD, GISAXS, XAS & more | 
-| [Indus-2](https://www.rrcat.gov.in/technology/accel/indus2.html) |India | [Soft x-ray reflectivity beamline BL-3](https://www.rrcat.gov.in/technology/accel/srul/beamlines/softxray.html) | No | horizontal (linear) | 100-1500 eV | TEY | 
-| [NSLS2](https://www.bnl.gov/ps) (BNL) | USA |[Soft Matter Interfaces 12-ID](https://www.bnl.gov/ps/beamlines/beamline.php?r=12-ID) | Yes | horizontal (linear) | 2.05 - 24 keV | (GI)SAXS/WAXS, XRD | 
+| SSRF| Chinae | O2U2 | Yes | horizontal (linear) | 4.8-28 keV |  XRD, GIXD & more | 
+
+
 
