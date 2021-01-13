@@ -38,8 +38,10 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | JINR, Dubna | Russia | REFLEX-P | Vertical | Yes | Yes |
 | JINR, Dubna | Russia | REMUR | Vertical | Yes | Yes |
 | JINR, Dubna | Russia | SPN | Vertical | Yes | Yes |
-| J-PARC | Japan | SOFIA | Horizontal | No | Yes | 
-| J-PARC | Japan | SHARAKU | Vertical | Yes | Yes |
+| [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | 
+| [J-PARC](https://mlfinfo.jp/en/) | Japan | [SHARAKU](https://mlfinfo.jp/en/bl17/) | Vertical | Yes | Yes |
+| [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | SUIREN | Vertical | Yes | No |
+| [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | MINE | Vertical | Yes | No |
 | LANSCE | USA | ASTERIX | Vertical | Yes | Yes |
 | CMRR | China | Diting TPNR | Vertical | Yes | Yes |
 | MIT Reactor | USA | 4DH4 | -- | No | Yes | 
