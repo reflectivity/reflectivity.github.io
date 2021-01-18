@@ -15,6 +15,8 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 
 | Facility | Country | Instrument | Reflectometry on Liquid surfaces | Polarisation | Energy Range | Other techniques | 
 | --- | --- | --- | --- | --- | --- | --- | 
+| [AichiSR](http://www.astf-kha.jp/synchrotron/en/) | Japan | [BL8S1](http://www.astf-kha.jp/synchrotron/en/userguide/gaiyou/bl8s1_ii_x.html) General Material Evaluation II | No | Horizontal (linear) | 9.3-14.6keV | GIXD & more | 
+| [SAGA](http://www.saga-ls.jp/main/206.html#gsc.tab=0) | Japan | [BL15](http://www.saga-ls.jp/main/247.html#gsc.tab=0) Materials science beamline | No | Horizontal (linear) | 2.1-23keV | XRD, SAXS, XAS & more | 
 | [APS](https://www.aps.anl.gov/) | USA | [15-ID](https://chemmatcars.uchicago.edu/): [Liquid Interface Scattering](https://chemmatcars.uchicago.edu/experimental-facility/experimental-techniques/liquid-surface-x-ray-scattering/)  | Yes | horizontal (linear) | 5-70keV | GID, GISAXS & more |  
 | [Diamond](https://www.diamond.ac.uk) | UK | [I07](https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I07) Surface and Interface Diffraction | Yes | horizontal (linear) | 4-45keV | GIXD, GISAXS |  
 | [Diamond](https://www.diamond.ac.uk) | UK | [I10](https://www.diamond.ac.uk/Instruments/Magnetic-Materials/I10) BLADE | No | linear or circular | 0.4-2keV | XAS, XMCD, Soft X-ray Diffraction & more |  
