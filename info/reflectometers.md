@@ -41,7 +41,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | 
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SHARAKU](https://mlfinfo.jp/en/bl17/) | Vertical | Yes | Yes |
 | [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | SUIREN | Vertical | Yes | No |
-| [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | MINE | Vertical | Yes | No |
+| [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | MINE | Horizontal | No | No |
 | LANSCE | USA | ASTERIX | Vertical | Yes | Yes |
 | CMRR | China | Diting TPNR | Vertical | Yes | Yes |
 | MIT Reactor | USA | 4DH4 | -- | No | Yes | 
