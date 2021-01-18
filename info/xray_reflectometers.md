@@ -40,6 +40,7 @@ At synchrotron and free electron laser Light Sources there are many instruments 
 | [SOLEIL](https://www.synchrotron-soleil.fr/en)| France |[SIRIUS](https://www.synchrotron-soleil.fr/en/beamlines/sirius) Soft Interfaces and Resonant Investigation | No | horizontal (linear) | 1.4 -13 keV |  GIXD, GISAXS, XAS & more | 
 | [SPring-8](http://www.spring8.or.jp/en/)| Japan |[BL13XU](http://www.spring8.or.jp/wkg/BL13XU/instrument/lang-en/INS-0000000394/instrument_summary_view) Surface and Interface Structures| No | horizontal (linear) | 6-50 keV |  GIXD | 
 | [SPring-8](http://www.spring8.or.jp/en/)| Japan |[BL19B2](http://www.spring8.or.jp/wkg/BL19B2/instrument/lang-en/INS-0000000300/instrument_summary_view) Engineering Science I | No | horizontal (linear) | 5-72 keV |  GIXD, SAXS, XRD | 
+| [SPring-8](http://www.spring8.or.jp/en/)| Japan |[BL37XU](http://www.spring8.or.jp/wkg/BL37XU/instrument/lang-en/INS-0000000591/instrument_summary_view) Trace Element Analysis | Yes | horizontal (linear) | 4.5-113 keV |  XAS & more | 
 | [SPring-8](http://www.spring8.or.jp/en/)| Japan |[BL46XU](http://www.spring8.or.jp/wkg/BL46XU/instrument/lang-en/INS-0000001484/instrument_summary_view) Engineering Science III | No | horizontal (linear) | 6-35 keV |  GIXD, XRD & more | 
 | SSRF| China | O2U2 | Yes | horizontal (linear) | 4.8-28 keV |  XRD, GIXD & more | 
 
