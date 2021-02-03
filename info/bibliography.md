@@ -6,7 +6,6 @@ author: "Andrew McCluskey, Bridget Murphy"
 ---
 Books for X-ray reflectometry
 
-
 *	J. Als-Nielsen, D. McMorrow, Elements of modern X-ray physics.  (John Wiley & Sons, 2011).
 *	M. Tolan, M. Tolan, X-ray scattering from soft-matter thin films: materials science and basic research.  (1999).
 *	B. E. Warren, X-ray Diffraction.  (Courier Corporation, 1990).
@@ -17,6 +16,7 @@ Books for X-ray reflectometry
 
 References for X-ray reflectometry
 
+*	A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200.
 * Als-Nielsen J, Christensen F, Pershan PS (1982) Smectic-A order at the surface of a nematic liquid-crystal - synchrotron X-ray-diffraction, Phys Rev Lett, 48, 1107–1110.
 * Als-Nielsen J, Jacquemain JD, Kjaer K, Leveiller F, Lahav M, Leiserowitz L (1994) Principles and applications of grazing-incidence X-ray and neutron-scattering from ordered molecular monolayers at the air-water interface, Phys Rep, 246, 252–313.
 * Vineyard GH (1982) Grazing-incidence diffraction and the distorted wave approximation for the study of surfaces, Phys Rev B, 26, 4146–4159.
@@ -44,14 +44,12 @@ References for X-ray reflectometry
 * Braslau A, Deutsch M, Pershan PS, Weiss AH, Als-Nielsen J, Bohr J (1985) Surface-roughness of water measured by X-ray reflectivity, Phys Rev Lett, 54, 114–117.
 *  Ocko BM, Wu XZ, Sirota EB, Sinha SK, Deutsch M (1994) X-ray reflectivity study of thermal capillary waves on liquid surfaces, Phys, Rev Lett, 72, 242–245.
 * Tostmann H, DiMasi E, Pershan PS, Ocko BM, Shpyrko OG, Deutsch M (2000) Microscopic surface structure of liquid alkali metals, Phys Rev B, 61, 7284–7287.
-*Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.
 * Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
 * Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
 * Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
-*Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.
 * Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
 * Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
-*	A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200 .
+
 
 
 Liquid Scattering reflectometers
