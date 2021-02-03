@@ -16,7 +16,7 @@ References for X-ray reflectometry
 
 
 
-Liquid Scattering reflectometors
+Liquid Scattering reflectometers
 
 * P. S. Pershan and J. Als-Nielsen, Phys. Rev. Lett., 1984, 52, 759.
 * P. S. Pershan, A. Braslau, A. H. Weiss and J. Als-Nielsen, Phys. Rev. A, 1987, 35, 4800.
