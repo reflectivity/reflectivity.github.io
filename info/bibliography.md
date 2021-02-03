@@ -6,12 +6,13 @@ author: "Andrew McCluskey, Bridget Murphy"
 ---
 Books for X-ray reflectometry
 
-*	A. R. J. Nelson, S. W. Prescott, Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography,  (2019).
+
 *	J. Als-Nielsen, D. McMorrow, Elements of modern X-ray physics.  (John Wiley & Sons, 2011).
 *	M. Tolan, M. Tolan, X-ray scattering from soft-matter thin films: materials science and basic research.  (1999).
 *	B. E. Warren, X-ray Diffraction.  (Courier Corporation, 1990).
 *	P. S. Pershan, M. L. Schlossman, Liquid surfaces and interfaces.  (Cambride University Press, Cambridge, 2012).
-* Born M, Wolf E  Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light, Pergoman Press, Oxofrd (1959).
+* Born M, Wolf E  Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light, Pergoman Press, Oxford (1959).
+* J. Daillant, A. Gibaud X-ray, Neutron Reflectivity: Principles and Applications, Springer (2008).
 *	Chapter 9. "Reflectivity at Liquid Interfaces" in O. H. Seeck, B. M. Murphy, X-ray Diffraction: Modern Experimental Techniques.  (Pan Stanford New York, ed. 1, 2015), vol. 1, pp. 444.
 
 References for X-ray reflectometry
@@ -50,6 +51,7 @@ References for X-ray reflectometry
 *Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.
 * Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
 * Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
+*	A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200 .
 
 
 Liquid Scattering reflectometers
