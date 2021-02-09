@@ -50,7 +50,7 @@ References for X-ray reflectometry
 * Carbone D, Biermanns A, Ziberi B, et al. (2009) Ion-induced nanopatterns on semiconductor surfaces investigated by grazing incidence X-ray scattering techniques, J Phys Condens Matter, 21, 224007.
 * Daillant J (2009) Recent developments and applications of grazing incidence scattering, Curr Opin Colloid In, 14, 396–401.
 *	A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200.
-
+* Sentenac D., Shalaginov A. N., Fera A. and de Jeu W. H. (2000) On the instrumental resolution in X-ray reflectivity experiments, J. Appl. Cryst, 33, 130-136
 
 
 Liquid Scattering reflectometers
