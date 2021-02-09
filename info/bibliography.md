@@ -46,10 +46,10 @@ References for X-ray reflectometry
 * Jäckle J (1998) The spectrum of surface waves on viscoelastic liquids of arbitrary depth, J Phys: Condens Matter, 10, 7121–7131.
 * Tolan M, Press W (1998) X-ray and neutron reflectivity, Z Kristallogr, 213, 319–336.
 * Tostmann H, DiMasi E, Pershan PS, Ocko BM, Shpyrko OG, Deutsch M (2000) Microscopic surface structure of liquid alkali metals, Phys Rev B, 61, 7284–7287.
-* Schlossman, ML. (2002) Liquid–liquid interfaces: studied by X-ray and neutron scattering Curr. Opin. Colloid Interface Sci., 7, 235–243
-* Carbone D, Biermanns A, Ziberi B, et al. (2009) Ion-induced nanopatterns on semiconductor surfaces investigated by grazing incidence X-ray scattering techniques, J Phys Condens Matter, 21, 224007.
-* Daillant J (2009) Recent developments and applications of grazing incidence scattering, Curr Opin Colloid In, 14, 396–401.
-*	A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200.
+* [Schlossman, ML. (2002) Liquid–liquid interfaces: studied by X-ray and neutron scattering Curr. Opin. Colloid Interface Sci., 7, 235–243](https://doi.org/10.1016/S1359-0294(02)00053-5)
+* [Carbone D, Biermanns A, Ziberi B, et al. (2009) Ion-induced nanopatterns on semiconductor surfaces investigated by grazing incidence X-ray scattering techniques, J Phys Condens Matter, 21, 224007](https://doi.org/10.1088/0953-8984/21/22/224007)
+* [Daillant J (2009) Recent developments and applications of grazing incidence scattering, Curr Opin Colloid In, 14, 396–401](https://doi.org/10.1016/j.cocis.2009.04.003)
+*	[A. R. J. Nelson, S. W. Prescott (2019) Refnx: Neutron and X-ray reflectometry analysis in python. Journal of Applied Crystallography, J. Appl. Cryst, 52, 193-200](https://doi.org/10.1107/S1600576718017296)
 * [Sentenac D., Shalaginov A. N., Fera A. and de Jeu W. H. (2000) On the instrumental resolution in X-ray reflectivity experiments, J. Appl. Cryst, 33, 130-136](
 https://doi.org/10.1107/S0021889899014272)
 
