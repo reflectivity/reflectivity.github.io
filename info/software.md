@@ -9,7 +9,7 @@ The following links provide information about computer programs used for the ana
 
 *(original list from http://www.reflectometry.net, courtesy of Adrian Rennie)*
 
-##Software with developers engaged with ORSO
+## Software with developers engaged with ORSO
 
 *   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
     [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
@@ -44,7 +44,7 @@ The following links provide information about computer programs used for the ana
     [http://genx.sourceforge.net/](http://genx.sourceforge.net/)
 
 
-##Other Reflectometry fitting Software
+## Other Reflectometry fitting Software
 
 *   AFIT written by Paul Thirtle (3.1) is available from Oxford.  
     [http://physchem.ox.ac.uk/~rkt/afit.html](http://physchem.ox.ac.uk/~rkt/afit.html)
