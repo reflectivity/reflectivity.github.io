@@ -18,14 +18,13 @@ References for X-ray reflectometry
 
 
 
-* Parratt LG (1954) Surface studies of solids by total reflection of X-rays, Phys Rev, 95, 359–369.
-* Nevot L, Croce P (1980) Characterization of surfaces by grazing X-ray reflection - application to study of polishing of some silicate-glasses, Rev Phys Appl, 15, 761–779.
+* [Parratt LG (1954) Surface studies of solids by total reflection of X-rays, Phys Rev, 95, 359–369.](https://doi.org/10.1103/PhysRev.95.359)
+* [Nevot L, Croce P (1980) Characterization of surfaces by grazing X-ray reflection - application to study of polishing of some silicate-glasses, Rev Phys Appl, 15, 761–779.](https://doi.org/10.1051/rphysap:01980001503076100)
 * Vineyard GH (1982) Grazing-incidence diffraction and the distorted wave approximation for the study of surfaces, Phys Rev B, 26, 4146–4159.
-* Als-Nielsen J, Christensen F, Pershan PS (1982) Smectic-A order at the surface of a nematic liquid-crystal - synchrotron X-ray-diffraction, Phys Rev Lett, 48, 1107–1110.
-* Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
-* Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
+* [Als-Nielsen J, Christensen F, Pershan PS (1982) Smectic-A order at the surface of a nematic liquid-crystal - synchrotron X-ray-diffraction, Phys Rev Lett, 48, 1107–1110.](https://doi.org/10.1103/PhysRevLett.48.1107)
+* [Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.](https://doi.org/10.1103/PhysRevLett.52.759)
 * Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
-* Braslau A, Deutsch M, Pershan PS, Weiss AH, Als-Nielsen J, Bohr J (1985) Surface-roughness of water measured by X-ray reflectivity, Phys Rev Lett, 54, 114–117.
+* [Braslau A, Deutsch M, Pershan PS, Weiss AH, Als-Nielsen J, Bohr J (1985) Surface-roughness of water measured by X-ray reflectivity, Phys Rev Lett, 54, 114–117.](https://doi.org/10.1103/PhysRevLett.54.114)
 * Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
 * Braslau A, Pershan PS, Swislow G, Ocko BM, Als-Nielsen J (1988) Capillary waves on the surface of simple liquids measured by X-ray reflectivity, Phys Rev A, 38, 2457–2470.
 * Sinha SK, Sirota EB, Garoff S, Stanley HB (1988) X-ray and neutron scattering from rough surfaces, Phys Rev B, 38, 2297–2311.
