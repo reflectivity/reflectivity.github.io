@@ -6,6 +6,19 @@ layout: default
   table, tr, td {
       border: none;
   }
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:visited {
+      color: darken($text-color, 10%);
+    }
+
+    &:hover {
+      color: $text-color;
+      text-decoration: underline;
+    }
+  }
 </style>
 
 <div class="home">
