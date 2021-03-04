@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "SLD Database"
-permalink: /working_groups/edu_and_outreach/sld_database
+permalink: /projects/sld_database
 author: "Andrew McCluskey"
 ---
 
