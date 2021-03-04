@@ -20,26 +20,26 @@ References for X-ray reflectometry
 
 * [Parratt LG (1954) Surface studies of solids by total reflection of X-rays, Phys Rev, 95, 359–369.](https://doi.org/10.1103/PhysRev.95.359)
 * [Nevot L, Croce P (1980) Characterization of surfaces by grazing X-ray reflection - application to study of polishing of some silicate-glasses, Rev Phys Appl, 15, 761–779.](https://doi.org/10.1051/rphysap:01980001503076100)
-* Vineyard GH (1982) Grazing-incidence diffraction and the distorted wave approximation for the study of surfaces, Phys Rev B, 26, 4146–4159.
+* [Vineyard GH (1982) Grazing-incidence diffraction and the distorted wave approximation for the study of surfaces, Phys Rev B, 26, 4146–4159.](https://doi.org/10.1103/PhysRevB.26.4146)
 * [Als-Nielsen J, Christensen F, Pershan PS (1982) Smectic-A order at the surface of a nematic liquid-crystal - synchrotron X-ray-diffraction, Phys Rev Lett, 48, 1107–1110.](https://doi.org/10.1103/PhysRevLett.48.1107)
 * [Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.](https://doi.org/10.1103/PhysRevLett.52.759)
 * Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
 * [Braslau A, Deutsch M, Pershan PS, Weiss AH, Als-Nielsen J, Bohr J (1985) Surface-roughness of water measured by X-ray reflectivity, Phys Rev Lett, 54, 114–117.](https://doi.org/10.1103/PhysRevLett.54.114)
-* Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
-* Braslau A, Pershan PS, Swislow G, Ocko BM, Als-Nielsen J (1988) Capillary waves on the surface of simple liquids measured by X-ray reflectivity, Phys Rev A, 38, 2457–2470.
-* Sinha SK, Sirota EB, Garoff S, Stanley HB (1988) X-ray and neutron scattering from rough surfaces, Phys Rev B, 38, 2297–2311.
-* Sanyal MK, Sinha SK, Huang KG, Ocko BM (1991) X-ray scattering study of capillary-wave fluctuations at a liquid surface, Phys Rev Lett, 66, 628–631.
-* Tidswell IM, Rabedeau TA, Pershan PS, Kosowsky SD (1991) Complete wetting of a rough surface: an X-ray study, Phys Rev Lett, 66, 2108–2111.
+* [Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.](https://doi.org/10.1103/PhysRevA.35.4800)
+* [Braslau A, Pershan PS, Swislow G, Ocko BM, Als-Nielsen J (1988) Capillary waves on the surface of simple liquids measured by X-ray reflectivity, Phys Rev A, 38, 2457–2470.](https://doi.org/10.1103/PhysRevA.38.2457)
+* [Sinha SK, Sirota EB, Garoff S, Stanley HB (1988) X-ray and neutron scattering from rough surfaces, Phys Rev B, 38, 2297–2311.](https://doi.org/10.1103/PhysRevB.38.2297)
+* [Sanyal MK, Sinha SK, Huang KG, Ocko BM (1991) X-ray scattering study of capillary-wave fluctuations at a liquid surface, Phys Rev Lett, 66, 628–631.](https://doi.org/10.1103/PhysRevLett.66.628)
+* [Tidswell IM, Rabedeau TA, Pershan PS, Kosowsky SD (1991) Complete wetting of a rough surface: an X-ray study, Phys Rev Lett, 66, 2108–2111.](https://doi.org/10.1103/PhysRevLett.66.2108)
 * Fredrickson GH, Ajdari A, Leibner L, Carton J-P (1992) Surface modes and deformation energy of a molten polymer brush, Macromolecules, 25, 2882–2889.
 * Sinha SK (1994) X-ray diffuse-scattering as a probe for thin-film and interface structure, J Phys III, 4, 1543–1557.
 * Als-Nielsen J, Jacquemain JD, Kjaer K, Leveiller F, Lahav M, Leiserowitz L (1994) Principles and applications of grazing-incidence X-ray and neutron-scattering from ordered molecular monolayers at the air-water interface, Phys Rep, 246, 252–313.
-* Ocko BM, Wu XZ, Sirota EB, Sinha SK, Deutsch M (1994) X-ray reflectivity study of thermal capillary waves on liquid surfaces, Phys, Rev Lett, 72, 242–245.
+* [Ocko BM, Wu XZ, Sirota EB, Sinha SK, Deutsch M (1994) X-ray reflectivity study of thermal capillary waves on liquid surfaces, Phys, Rev Lett, 72, 242–245.](https://doi.org/10.1103/PhysRevLett.72.242)
 * Sinha SK, Sanyal MK, Satija SK, et al. (1994) X-ray-scattering studies of surface-roughness of GaAs/ALAs multilayers, Physica B, 198, 72–77.
 * Zhou XL, Chen SH (1995) Theoretical foundation of X-ray and neutron reflectometry, Phys Rep, 257, 223–348.
 * Dietrich S, Haase A (1995) Scattering of X-rays and neutrons at interfaces, Phys Rep, 260, 1–138.
 * Jäckle J, Kawasaki K (1995) Intrinsic roughness of glass surfaces, J Phys: Condens Matter, 7, 4351–4358.
 * Daillant J, Quinn K, Gourier C, Rieutord F (1996) Grazing incidence surface scattering of X-rays, J Chem Soc  Faraday T, 92, 505–513.
-* Chou CH, Regan MJ, Pershan PS, Zhou XL (1997) Model-independent reconstruction of smooth electron density profiles from reflectivity data of liquid surfaces, Phys Rev E, 55, 7212–7216.
+* [Chou CH, Regan MJ, Pershan PS, Zhou XL (1997) Model-independent reconstruction of smooth electron density profiles from reflectivity data of liquid surfaces, Phys Rev E, 55, 7212–7216.](https://doi.org/10.1103/PhysRevE.55.7212)
 * Chason E, Mayer TM (1997) Thin film and surface characterization by specular X-ray reflectivity, Crit Rev Solid State, 22, 1–67.
 * Sanyal MK (1998) X-ray scattering studies of surfaces and interfaces, Radiat Phys Chem, 51, 487–495.
 * [Jäckle J (1998) The spectrum of surface waves on viscoelastic liquids of arbitrary depth, J Phys: Condens Matter, 10, 7121–7131.](https://doi.org/10.1088/0953-8984/10/32/004)
@@ -55,10 +55,10 @@ https://doi.org/10.1107/S0021889899014272)
 
 Liquid Scattering reflectometers
 
-* Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.
+* [Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.](https://doi.org/10.1103/PhysRevLett.52.759)
 * Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
 * Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.
-* Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.
+* [Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.](https://doi.org/10.1103/PhysRevA.35.4800)
 * M. L. Schlossman, D. Synal, Y. M. Guan, M. Meron, G. Shea-McCarthy, Z. Q. Huang, A. Acero, S. M. Williams, S. A. Rice and P. J. Viccaro (1997) A synchrotron X-ray liquid surface spectrometer, Rev Sci Instrum, 68, 4372–4384.
 * Lin BH, Meron M, Gebhardt J, Graber T, Schlossman ML, Viccaro PJ (2003) The liquid surface/interface spectrometer at ChemMatCARS synchrotron facility at the advanced photon source, Physca B: Condens Matter, 336, 75–80.
 * H. Reichert, V. Honkimaki, A. Snigirev, S. Engemann and H. Dosch (2003) A new X-ray transmission-reflection scheme for the study of deeply buried interfaces using high-energy microbeams, Physica B, 336, 46.
