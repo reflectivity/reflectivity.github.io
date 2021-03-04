@@ -28,7 +28,7 @@ Journal References for X-ray reflectometry
 * [Vineyard GH (1982) Grazing-incidence diffraction and the distorted wave approximation for the study of surfaces, Phys Rev B, 26, 4146–4159.](https://doi.org/10.1103/PhysRevB.26.4146)
 * [Als-Nielsen J, Christensen F, Pershan PS (1982) Smectic-A order at the surface of a nematic liquid-crystal - synchrotron X-ray-diffraction, Phys Rev Lett, 48, 1107–1110.](https://doi.org/10.1103/PhysRevLett.48.1107)
 * [Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.](https://doi.org/10.1103/PhysRevLett.52.759)
-* Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
+* [Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.](https://doi.org/10.1016/0378-4363(84)90157-8)
 * [Braslau A, Deutsch M, Pershan PS, Weiss AH, Als-Nielsen J, Bohr J (1985) Surface-roughness of water measured by X-ray reflectivity, Phys Rev Lett, 54, 114–117.](https://doi.org/10.1103/PhysRevLett.54.114)
 * [Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.](https://doi.org/10.1103/PhysRevA.35.4800)
 * [Braslau A, Pershan PS, Swislow G, Ocko BM, Als-Nielsen J (1988) Capillary waves on the surface of simple liquids measured by X-ray reflectivity, Phys Rev A, 38, 2457–2470.](https://doi.org/10.1103/PhysRevA.38.2457)
@@ -58,20 +58,20 @@ Journal References for X-ray reflectometry
 https://doi.org/10.1107/S0021889899014272)
 
 
-Liquid Scattering reflectometers
+References specific to Liquid Interfaces (including X-ray synchrotron reflectometers that can measure reflectomety from liquid interfaces)
 
 * [Pershan PS, Als-Nielsen J (1984) X-ray reflectivity from the surface of a liquid-crystal - surface-structure and absolute value of critical fluctuations, Phys Rev Lett, 52, 759–762.](https://doi.org/10.1103/PhysRevLett.52.759)
-* Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.
-* Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.
+* [Als-Nielsen J (1984) X-ray studies of phase-transitions on surfaces, Physica B&C, 126, 145–148.](https://doi.org/10.1016/0378-4363(84)90157-8)
+* [Weiss AH, Deutsch M, Braslau A, Ocko BM, Pershan PS (1986) Novel X-ray diffractometer for liquid surface studies, Rev Sci Instrum, 57, 2554–2559.](https://doi.org/10.1063/1.1139058)
 * [Pershan PS, Braslau A, Weiss AH, Als-Nielsen J (1987) Smectic layering at the free-surface of liquid-crystals in the nematic phase - X-ray reflectivity, Phys Rev A, 35, 4800–4813.](https://doi.org/10.1103/PhysRevA.35.4800)
 * [M. L. Schlossman, D. Synal, Y. M. Guan, M. Meron, G. Shea-McCarthy, Z. Q. Huang, A. Acero, S. M. Williams, S. A. Rice and P. J. Viccaro (1997) A synchrotron X-ray liquid surface spectrometer, Rev Sci Instrum, 68, 4372–4384.](https://doi.org/10.1063/1.1148399)
-* Lin BH, Meron M, Gebhardt J, Graber T, Schlossman ML, Viccaro PJ (2003) The liquid surface/interface spectrometer at ChemMatCARS synchrotron facility at the advanced photon source, Physca B: Condens Matter, 336, 75–80.
-* H. Reichert, V. Honkimaki, A. Snigirev, S. Engemann and H. Dosch (2003) A new X-ray transmission-reflection scheme for the study of deeply buried interfaces using high-energy microbeams, Physica B, 336, 46.
+* [Lin BH, Meron M, Gebhardt J, Graber T, Schlossman ML, Viccaro PJ (2003) The liquid surface/interface spectrometer at ChemMatCARS synchrotron facility at the advanced photon source, Physca B: Condens Matter, 336, 75–80.](https://doi.org/10.1016/S0921-4526(03)00272-2)
+* [H. Reichert, V. Honkimaki, A. Snigirev, S. Engemann and H. Dosch (2003) A new X-ray transmission-reflection scheme for the study of deeply buried interfaces using high-energy microbeams, Physica B, 336, 46.](https://doi.org/10.1016/S0921-4526(03)00268-0)
 * [D. M. Smilgies, N. Boudet, B. Struth and O. Konovalov (2005) Troika II: a versatile beamline for the study of liquid and solid interfaces, J. Synchrotron Radiat., 12, 329.](https://doi.org/10.1107/S0909049505000361)
 * [Honkimaki V, Reichert H, Okasinski JS, Dosch H (2006) X-ray optics for liquid surface/interface spectrometers, J Synchr Rad, 13, 426–431.](
 https://doi.org/10.1107/S0909049506031438)
-* Y. F. Yano, T. Uruga, H. Tanida, H. Toyokawa, Y. Terada, M. Takagaki and H. Yamada, (2009) Rapid X-ray reflectivity measurement using a new liquid interface reflectometer at SPring-8, Eur. Phys. J.: Spec. Top., 167, 101.
-* B. M. Murphy, M. Greve, B. Runge, C. T. Koops, A. Elsen, J. Stettner, O. H. Seeck and O. M. Magnussen (2010) A new diffractometer for studies of liquid - liquid interfaces, AIP Conf Proc, 1234, 155–158.
+* [Y. F. Yano, T. Uruga, H. Tanida, H. Toyokawa, Y. Terada, M. Takagaki and H. Yamada, (2009) Rapid X-ray reflectivity measurement using a new liquid interface reflectometer at SPring-8, Eur. Phys. J.: Spec. Top., 167, 101.](https://doi.org/10.1140/epjst/e2009-00943-6)
+* [B. M. Murphy, M. Greve, B. Runge, C. T. Koops, A. Elsen, J. Stettner, O. H. Seeck and O. M. Magnussen (2010) A new diffractometer for studies of liquid - liquid interfaces, AIP Conf Proc, 1234, 155–158.](https://doi.org/10.1063/1.3463163)
 * [Arnold T, Nicklin C, Rawle J, Sutter J, Bates T, Nutter B, McIntyre G, Burt M (2012) Implementation of a beam deflection system for studies of liquid interfaces on beamline I07 at Diamond, J. Synchrotron Rad., 19, 408–416.](https://doi.org/10.1107/S0909049512009272)
 * P. S. Pershan and M. L. Schlossman (2012) in Liquid surfaces and interfaces, Cambride University Press, Cambridge.
 * [B. M. Murphy, M. Greve, B. Runge, C. T. Koops, A. Elsen, J. Stettner, O. H. Seeck and O. M. Magnussen (2014) A novel X-ray diffractometer for studies of liquid-liquid interfaces, J Synchrotron Rad, 21, 45–56.](https://doi.org/10.1107/S1600577513026192)
