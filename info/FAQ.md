@@ -8,18 +8,26 @@ author: "Jos Cooper"
 
 ## Below is an incomplete list of commonly asked questions which we hope may be useful, please feel free to add to it (with answers).
 
+* ### How do I get beamtime?
+
+All facilities have different access mechanisms, but most operate on a schedule of proposal submissions, where you can submit a short (~ few pages) science proposal. The proposals are ranked by a panel of experts and the time available is awarded to the top applications. Many facilities offer a variety of access mechanisms and it is better to check the websites of the individual facilities to find out more:
+
+  - [Diamond](https://www.diamond.ac.uk/Users/Apply-for-Beamtime.html)
+  - [ESRF](https://www.esrf.eu/UsersAndScience/UserGuide/Applying)
+  - [ILL](https://www.ill.eu/users/applying-for-beamtime/proposal-submission)
+  - [ISIS](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx)
+  - [NIST](https://www.nist.gov/ncnr/call-proposals)
+
 * ### How can I get my data?
 
 Most facilities offer remote access for user data as long as you are associated with the experiment. Check the website of the facility, or for the following facilities go to these pages:
 
-  - [ILL](www.data.ill.eu)
-  - [ISIS](https://data.isis.stfc.ac.uk)
   - [Diamond](https://www.diamond.ac.uk/Users/Experiment-at-Diamond/IT-User-Guide/At-DLS/Access-data.html)
   - [ESRF](https://www.esrf.eu/home/UsersAndScience/support-and-infrastructure/Computing/ComputingOffsite/accessing-experimental-data.html)
+  - [ILL](www.data.ill.eu)
+  - [ISIS](https://data.isis.stfc.ac.uk)
+  - [NIST](https://ncnr.nist.gov/pub/ncnrdata/)
 
-* ### How do I get beamtime?
-
-All facilities have different access mechanisms, but most operate on a schedule of proposal submissions, where you can submit a short (~ few pages) science proposal. The proposals are ranked by a panel of experts and the time available is awarded to the top applications. Many facilities offer a variety of access mechanisms and it is better to check the websites of the individual facilities to find out more.
 
 * ###  Who should I contact about an experiment?
 
