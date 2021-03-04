@@ -7,14 +7,14 @@ layout: default
       border: none;
   }
   a:link {
-    color: green;
+    color: black;
   }
   a:visited {
-    color: pink;
+    color: black;
   }
 
   a:hover {
-    color: red;
+    color: black;
     text-decoration: underline;
   }
 </style>
@@ -74,6 +74,19 @@ layout: default
       </td>
     </tr>
   </table>
+<style>
+  a:link {
+    color: $brand-color;
+  }
+  a:visited {
+    color: darken($brand-color, 10%);
+  }
+
+  a:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+</style>
 
 
 
