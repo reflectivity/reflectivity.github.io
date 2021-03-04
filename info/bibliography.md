@@ -35,13 +35,13 @@ References for X-ray reflectometry
 * Als-Nielsen J, Jacquemain JD, Kjaer K, Leveiller F, Lahav M, Leiserowitz L (1994) Principles and applications of grazing-incidence X-ray and neutron-scattering from ordered molecular monolayers at the air-water interface, Phys Rep, 246, 252–313.
 * [Ocko BM, Wu XZ, Sirota EB, Sinha SK, Deutsch M (1994) X-ray reflectivity study of thermal capillary waves on liquid surfaces, Phys, Rev Lett, 72, 242–245.](https://doi.org/10.1103/PhysRevLett.72.242)
 * Sinha SK, Sanyal MK, Satija SK, et al. (1994) X-ray-scattering studies of surface-roughness of GaAs/ALAs multilayers, Physica B, 198, 72–77.
-* Zhou XL, Chen SH (1995) Theoretical foundation of X-ray and neutron reflectometry, Phys Rep, 257, 223–348.
-* Dietrich S, Haase A (1995) Scattering of X-rays and neutrons at interfaces, Phys Rep, 260, 1–138.
-* Jäckle J, Kawasaki K (1995) Intrinsic roughness of glass surfaces, J Phys: Condens Matter, 7, 4351–4358.
-* Daillant J, Quinn K, Gourier C, Rieutord F (1996) Grazing incidence surface scattering of X-rays, J Chem Soc  Faraday T, 92, 505–513.
+* [Zhou XL, Chen SH (1995) Theoretical foundation of X-ray and neutron reflectometry, Phys Rep, 257, 223–348.](https://doi.org/10.1016/0370-1573(94)00110-O)
+* [Dietrich S, Haase A (1995) Scattering of X-rays and neutrons at interfaces, Phys Rep, 260, 1–138.](https://doi.org/10.1016/0370-1573(95)00006-3)
+* [Jäckle J, Kawasaki K (1995) Intrinsic roughness of glass surfaces, J Phys: Condens Matter, 7, 4351–4358.](https://doi.org/10.1088/0953-8984/7/23/006)
+* [Daillant J, Quinn K, Gourier C, Rieutord F (1996) Grazing incidence surface scattering of X-rays, J Chem Soc  Faraday T, 92, 505–513.](https://doi.org/10.1039/FT9969200505)
 * [Chou CH, Regan MJ, Pershan PS, Zhou XL (1997) Model-independent reconstruction of smooth electron density profiles from reflectivity data of liquid surfaces, Phys Rev E, 55, 7212–7216.](https://doi.org/10.1103/PhysRevE.55.7212)
-* Chason E, Mayer TM (1997) Thin film and surface characterization by specular X-ray reflectivity, Crit Rev Solid State, 22, 1–67.
-* Sanyal MK (1998) X-ray scattering studies of surfaces and interfaces, Radiat Phys Chem, 51, 487–495.
+* [Chason E, Mayer TM (1997) Thin film and surface characterization by specular X-ray reflectivity, Crit Rev Solid State, 22, 1–67.](https://doi.org/10.1080/10408439708241258)
+* [Sanyal MK (1998) X-ray scattering studies of surfaces and interfaces, Radiat Phys Chem, 51, 487–495.](https://doi.org/10.1016/S0969-806X(97)00184-9)
 * [Jäckle J (1998) The spectrum of surface waves on viscoelastic liquids of arbitrary depth, J Phys: Condens Matter, 10, 7121–7131.](https://doi.org/10.1088/0953-8984/10/32/004)
 * [Tolan M, Press W (1998) X-ray and neutron reflectivity, Z Kristallogr, 213, 319–336.](https://doi.org/10.1524/zkri.1998.213.6.319)
 * [Tostmann H, DiMasi E, Pershan PS, Ocko BM, Shpyrko OG, Deutsch M (2000) Microscopic surface structure of liquid alkali metals, Phys Rev B, 61, 7284–7287.](https://doi.org/10.1103/PhysRevB.61.7284)
