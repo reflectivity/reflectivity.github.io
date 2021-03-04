@@ -13,3 +13,7 @@ We have a number of educational <a href="./info">resources</a> for reflectometry
 <br><br>
 The organisation has had two workshops to date and more are planned. Details can be found <a href="./workshops">here</a>.
 <br><br>
+
+[our projects](./projects)
+
+[our information pages](./information)
