@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Standard Samples"
-permalink: /working_groups/reproducibility/standard_samples
+permalink: /projects/standard_samples
 author: "Andrew McCluskey"
 ---
 

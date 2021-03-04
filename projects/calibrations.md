@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Calibrations"
-permalink: /working_groups/reproducibility/calibrations
+permalink: /projects/calibrations
 author: "Andrew McCluskey"
 ---
 
