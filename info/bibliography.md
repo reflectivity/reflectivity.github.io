@@ -18,9 +18,9 @@ Books for X-ray reflectometry
 *	J. Als-Nielsen, D. McMorrow, Elements of modern X-ray physics.  (John Wiley & Sons 2011).
 *	P. S. Pershan, M. L. Schlossman, Liquid surfaces and interfaces.  (Cambride University Press 2012).
 *	Chapter 9. "Reflectivity at Liquid Interfaces" in O. H. Seeck, B. M. Murphy, X-ray Diffraction: Modern Experimental Techniques, vol. 1, pp. 444.(Pan Stanford 2015)
+*	[Bu W., Schlossman M. (2015) Synchrotron X-Ray Scattering from Liquid Surfaces and Interfaces. In: Jaeschke E., Khan S., Schneider J., Hastings J. (eds) Synchrotron Light Sources and Free-Electron Lasers. Springer, Cham.](/10.1007/978-3-319-04507-8_45-1)
 
 Journal References for X-ray reflectometry
-
 
 
 * [Parratt LG (1954) Surface studies of solids by total reflection of X-rays, Phys Rev, 95, 359–369.](https://doi.org/10.1103/PhysRev.95.359)
