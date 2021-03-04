@@ -43,9 +43,9 @@ References for X-ray reflectometry
 * Chou CH, Regan MJ, Pershan PS, Zhou XL (1997) Model-independent reconstruction of smooth electron density profiles from reflectivity data of liquid surfaces, Phys Rev E, 55, 7212–7216.
 * Chason E, Mayer TM (1997) Thin film and surface characterization by specular X-ray reflectivity, Crit Rev Solid State, 22, 1–67.
 * Sanyal MK (1998) X-ray scattering studies of surfaces and interfaces, Radiat Phys Chem, 51, 487–495.
-* Jäckle J (1998) The spectrum of surface waves on viscoelastic liquids of arbitrary depth, J Phys: Condens Matter, 10, 7121–7131.
-* Tolan M, Press W (1998) X-ray and neutron reflectivity, Z Kristallogr, 213, 319–336.
-* Tostmann H, DiMasi E, Pershan PS, Ocko BM, Shpyrko OG, Deutsch M (2000) Microscopic surface structure of liquid alkali metals, Phys Rev B, 61, 7284–7287.
+* [Jäckle J (1998) The spectrum of surface waves on viscoelastic liquids of arbitrary depth, J Phys: Condens Matter, 10, 7121–7131.](https://doi.org/10.1088/0953-8984/10/32/004)
+* [Tolan M, Press W (1998) X-ray and neutron reflectivity, Z Kristallogr, 213, 319–336.](https://doi.org/10.1524/zkri.1998.213.6.319)
+* [Tostmann H, DiMasi E, Pershan PS, Ocko BM, Shpyrko OG, Deutsch M (2000) Microscopic surface structure of liquid alkali metals, Phys Rev B, 61, 7284–7287.](https://doi.org/10.1103/PhysRevB.61.7284)
 * [Schlossman, ML. (2002) Liquid–liquid interfaces: studied by X-ray and neutron scattering Curr. Opin. Colloid Interface Sci., 7, 235–243](https://doi.org/10.1016/S1359-0294(02)00053-5)
 * [Carbone D, Biermanns A, Ziberi B, et al. (2009) Ion-induced nanopatterns on semiconductor surfaces investigated by grazing incidence X-ray scattering techniques, J Phys Condens Matter, 21, 224007](https://doi.org/10.1088/0953-8984/21/22/224007)
 * [Daillant J (2009) Recent developments and applications of grazing incidence scattering, Curr Opin Colloid In, 14, 396–401](https://doi.org/10.1016/j.cocis.2009.04.003)
