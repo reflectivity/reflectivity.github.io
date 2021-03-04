@@ -12,3 +12,5 @@ If you are interested in joining ORSO you may consider watching following videos
 *   Contributing to the ORSO webpage
 
     [![IMAGE ALT TEXT](http://img.youtube.com/vi/rahs0AFs83o/0.jpg)](http://www.youtube.com/watch?v=rahs0AFs83o "Interacting with ORSO")
+
+[You can also learn more about Github in general here](https://lab.github.com/)
