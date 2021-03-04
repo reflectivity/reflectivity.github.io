@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software"
-permalink: /info/software/
+permalink: /information/software/
 author: "Adrian Rennie and Andrew McCluskey"
 ---
 
@@ -43,7 +43,7 @@ The following links provide information about computer programs used for the ana
 
 *   POLLY - for simulation and analysis of polarised neutron reflectometry data S. Langridge, RAL  
     [https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx](https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx)
-    
+
 *   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
     [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FAQ"
-permalink: /info/FAQ/
+permalink: /information/FAQ/
 author: "Jos Cooper"
 ---
 
@@ -31,12 +31,8 @@ As detailed on this site, there are a myriad of fitting packages available to us
 
 * ###  What does reflectivity tell you?
 
-We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/working_groups/edu_and_outreach/learning). Note that the same principles apply for both x-rays and neutrons.
+We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/infomation/learning). Note that the same principles apply for both x-rays and neutrons.
 
 * ###  How can I join ORSO/help?
 
 Please contact the chair of the working group which most interests you, or dive straight into the Github issues and take ownership of one (e.g. [for reproducibility](https://github.com/reflectivity/reproducibility/projects/2))
-
-
-
-

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Learn about reflectometry"
-permalink: /working_groups/edu_and_outreach/learning
+permalink: /information/learning
 author: "Andrew McCluskey"
 ---
 

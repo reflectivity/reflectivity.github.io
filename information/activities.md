@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Active reflectometers and software"
-permalink: /info/activities
+permalink: /information/activities
 author: "Andrew McCluskey"
 ---
 
