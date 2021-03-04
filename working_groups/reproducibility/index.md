@@ -18,7 +18,7 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 ### Dissemination
 
 - [Standard samples](./standard_samples): tell us about the samples you measure regularly by contributing
-- [Calibrations](./calibrations): We want to share how we check out beamlines are correct 
+- [Calibrations](./calibrations): We want to share how we check out beamlines are correct
 
 ### Members
 
@@ -27,7 +27,7 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 - [Christy Kinane (ISIS)](mailto:christy.kinane@stfc.ac.uk) -- **Co-Chair**
 - Alexandros Koutsioumpas (JCNS)
 - Brian Maranville (NIST)
-- [Andrew McCluskey (Diamond)](mailto:andrew.mccluskey@diamond.ac.uk) -- **Co-Chair**
+- [Andrew McCluskey (ESS)](mailto:andrew.mccluskey@ess.eu) -- **Co-Chair**
 - Andrew Nelson (ANSTO)
 - Thomas Saerbeck (ILL)
 - Adrian Rennie (Uppsala)
