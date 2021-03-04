@@ -2,12 +2,18 @@
 # pages in order as they should show up.
 main:
   - title: "Info"
-    url: /info/
+    url: /information/
   - title: "Working Groups"
     url: /working_groups
   - title: "Workshops"
     url: /workshops/
-  - title: "Mailing List"
-    url: http://eepurl.com/g7le3v
-  - title: "GitHub"
-    url: https://github.com/reflectivity
+  - title: "Get Involved"
+    url: /get_involved/
+  - title: FAQs
+    url: /information/faqs/
+  - title: News
+    url: /news/
+#  - title: "Mailing List"
+#    url: http://eepurl.com/g7le3v
+#  - title: "GitHub"
+#    url: https://github.com/reflectivity
