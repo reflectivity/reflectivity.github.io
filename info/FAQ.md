@@ -17,6 +17,11 @@ All facilities have different access mechanisms, but most operate on a schedule 
   - [ILL](https://www.ill.eu/users/applying-for-beamtime/proposal-submission)
   - [ISIS](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx)
   - [NIST](https://www.nist.gov/ncnr/call-proposals)
+  - [ORNL (HFIR/SNS)](https://neutrons.ornl.gov/users/how-submit-proposal)
+  - [SINQ](https://www.psi.ch/en/sinq/beamtime-applications)
+  - [SLS](https://www.psi.ch/en/sls/users-proposals)
+
+A list of reflectometers can be found [here](https://www.reflectometry.org/info/activities).
 
 * ### How can I get my data?
 
@@ -27,6 +32,7 @@ Most facilities offer remote access for user data as long as you are associated 
   - [ILL](www.data.ill.eu)
   - [ISIS](https://data.isis.stfc.ac.uk)
   - [NIST](https://ncnr.nist.gov/pub/ncnrdata/)
+  - [ORNL (HFIR/SNS)](https://neutrons.ornl.gov/users/data-management)
 
 
 * ###  Who should I contact about an experiment?
@@ -44,6 +50,8 @@ We are glad you asked! Please check out [our introduction and tutorial about the
 * ###  How can I join ORSO/help?
 
 Please contact the chair of the working group which most interests you, or dive straight into the Github issues and take ownership of one (e.g. [for reproducibility](https://github.com/reflectivity/reproducibility/projects/2))
+
+[How to interact with ORSO - instructional videos](https://www.reflectometry.org/info/interact_with_orso/)
 
 
 
