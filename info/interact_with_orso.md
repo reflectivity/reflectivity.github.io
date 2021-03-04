@@ -5,6 +5,7 @@ permalink: /info/interact_with_orso/
 author: "Wojciech Potrzebowski"
 ---
 If you are interested in joining ORSO you may consider watching videos below.
+
 You can also learn more about Github in general [here](https://lab.github.com/)
 
 *   Interacting with ORSO
