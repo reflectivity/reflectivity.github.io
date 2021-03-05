@@ -178,6 +178,26 @@ pre {
   }
 }
 
+/**
+ * Custom for table view with icons
+ */
+table.tt, tr.tt, td.tt {
+   border: none;
+}
+tr.tt, td.tt {
+ padding: 20px;
+}
+a.tt:link {
+ color: black;
+}
+a.tt:visited {
+ color: black;
+}
+a.tt:hover {
+ color: black;
+ text-decoration: underline;
+}
+
 
 /**
  * Wrapper
