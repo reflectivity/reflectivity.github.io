@@ -19,13 +19,13 @@ andrew.mccluskey@ess.eu
 <table class="tt">
   <tr class="tt">
     <td class="tt">
-      <a class="tt" href="/information/">
+      <a class="tt" href="./information/">
         <i class="fas fa-info fa-5x"></i>
         <br>
         <b>Information</b></a>
     </td>
     <td class="tt">
-      <a class="tt" href="/projects/">
+      <a class="tt" href="./projects/">
         <i class="fas fa-project-diagram fa-5x"></i>
         <br>
         <b>Projects</b></a>
