@@ -11,10 +11,8 @@
   </script>
 
   <div class="wrapper">
-
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
     <nav class="site-nav" id="myTopnav">
+      <a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
           {% assign url = link.url %}
