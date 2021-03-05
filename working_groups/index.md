@@ -27,22 +27,18 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./workshops/">
         <i class="fas fa-handshake fa-5x"></i>
         <br>
-        <b>Education and Outreach</b
-        <ul>
-          <li>Improve <a href="../information/learning">understanding of reflectometry techniques</a></li>
-          <li>Catalogue information about <a href="/information/activities">reflectometry information and software</a></li>
-        </ul>
+        <b>Education and Outreach</b><br>
+        Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
+        Catalogue information about <a href="/information/activities">reflectometry information and software</a>
       </a>
     </td>
     <td>
       <a class="tt" href="./what_is_orso/">
-        <i class="fas fa-question-circle fa-5x"></i>
+        <i class="fas fa-book fa-5x"></i>
         <br>
-        <b>Education and Outreach</b
-        <ul>
-          <li>Improve <a href="../information/learning">understanding of reflectometry techniques</a></li>
-          <li>Catalogue information about <a href="/information/activities">reflectometry information and software</a></li>
-        </ul>
+        <b>Education and Outreach</b><br>
+        Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
+        Catalogue information about <a href="/information/activities">reflectometry information and software</a>
       </a>
     </td>
   </tr>
