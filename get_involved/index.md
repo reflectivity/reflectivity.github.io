@@ -36,7 +36,7 @@ We orgnise ourselves within the [reflectivity Github organisation](https://githu
     </td>
     <td>
       <a class="tt" href="https://github.com/reflectivity">
-        <i class="fab fa-Github fa-5x"></i>
+        <i class="fab fa-github fa-5x"></i>
         <br>
         <b>Github Organisation</b></a>
     </td>
