@@ -11,24 +11,6 @@ On this webpage, we host [information](/information/) about reflectometry that w
 The organisation has hosted two [workshops](/workshops/) to date and more are planned.
 
 
-<style>
-  table.tt, tr.tt, td.tt {
-      border: none;
-  }
-  tr.tt, td.tt {
-    padding: 20px;
-  }
-  a.tt:link {
-    color: black;
-  }
-  a.tt:visited {
-    color: black;
-  }
-  a.tt:hover {
-    color: black;
-    text-decoration: underline;
-  }
-</style>
 <table class="tt">
   <tr class="tt">
     <td class="tt">
