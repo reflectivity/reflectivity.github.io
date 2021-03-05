@@ -4,6 +4,15 @@ title: "Working Groups"
 permalink: /working_groups/
 ---
 
+<style>
+  table, tr, td {
+      border: none;
+  }
+  tr, td {
+    padding: 10px;
+  }
+</style>
+
 ORSO consists of four working groups, which cover different aspects of reflectometry:
 
 - [**Education and Outreach**](./edu_and_outreach): The education and outreach working group aims to develop [understanding of reflectometry techniques](/information/learning) and catalogue information about [reflectometry information and software](/information/activities).
@@ -18,16 +27,22 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./workshops/">
         <i class="fas fa-handshake fa-5x"></i>
         <br>
-        <b>Education and Outreach</b>
-        The education and outreach working group aims to develop [understanding of reflectometry techniques](/information/learning) and catalogue information about [reflectometry information and software](/information/activities).
+        <b>Education and Outreach</b
+        <ul>
+          <li>Improve <a href="../information/learning">understanding of reflectometry techniques</a></li>
+          <li>Catalogue information about <a href="/information/activities">reflectometry information and software</a></li>
+        </ul>
       </a>
     </td>
     <td>
       <a class="tt" href="./what_is_orso/">
         <i class="fas fa-question-circle fa-5x"></i>
         <br>
-        <b>Education and Outreach</b>
-        The education and outreach working group aims to develop [understanding of reflectometry techniques](/information/learning) and catalogue information about [reflectometry information and software](/information/activities).
+        <b>Education and Outreach</b
+        <ul>
+          <li>Improve <a href="../information/learning">understanding of reflectometry techniques</a></li>
+          <li>Catalogue information about <a href="/information/activities">reflectometry information and software</a></li>
+        </ul>
       </a>
     </td>
   </tr>
