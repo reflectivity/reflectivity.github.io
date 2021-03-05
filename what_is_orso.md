@@ -12,10 +12,10 @@ The organisation has hosted two [workshops](/workshops/) to date and more are pl
 
 
 <style>
-  table, tr, td {
+  table.tt, tr.tt, td.tt {
       border: none;
   }
-  tr, td {
+  tr.tt, td.tt {
     padding: 20px;
   }
   a.tt:link {
@@ -29,15 +29,15 @@ The organisation has hosted two [workshops](/workshops/) to date and more are pl
     text-decoration: underline;
   }
 </style>
-<table>
-  <tr>
-    <td>
+<table class="tt">
+  <tr class="tt">
+    <td class="tt">
       <a class="tt" href="/information/">
         <i class="fas fa-info fa-5x"></i>
         <br>
         <b>Information</b></a>
     </td>
-    <td>
+    <td class="tt">
       <a class="tt" href="/projects/">
         <i class="fas fa-project-diagram fa-5x"></i>
         <br>
