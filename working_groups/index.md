@@ -4,18 +4,9 @@ title: "Working Groups"
 permalink: /working_groups/
 ---
 
-ORSO is divided into four working groups which cover different aspects of this collaboration.
-<ul>
-  <li>
-    <a href="./working_groups/edu_and_outreach/">Education and outreach</a>: The education and outreach working group aims to develop understanding of reflectivity techniques and disseminate information about reflectivity analysis.
-  </li>
-  <li>
-    <a href="./working_groups/file_formats/">File formats</a>: This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. This is an important goal to move towards interoperability across facilities.
-  </li>
-  <li>
-    <a href="./working_groups/analysis/">Data Analysis</a>: The working group focused on data analysis is targetting a universal descriptive model language for reflectometry analysis. Additionally, they hope to develop test cases for reflectometry calculations to ensure robustivity across analysis software.
-  </li>
-  <li>
-    <a href="./working_groups/reproducibility/">Reproducibility</a>: The reproducibility working group is focused on creating guidelines to ensure reproducibility of data reduction and analysis of neutron and X-ray reflectivity measurements.
-  </li>
-</ul>
+ORSO consists of four working groups, which cover different aspects of reflectometry:
+
+- [Education and Outreach](./edu_and_outreach): The education and outreach working group aims to develop [understanding of reflectometry techniques](/information/learning) and catalogue information about [reflectometry information and software](/information/activities).
+- [File Formats](./file_formats): This working group aims to draft a specification for a standard, shared file format that can be adopted across X-ray and neutron reflectometry. This is an important goal to move towards interoperability across facilities.
+- [Data Analysis](./data_analysis): The data analysis group is targetting a [universal descriptive model language](/projects/model_language) for reflectometry analysis, and has generated useful information about the [computational efficiencies of reflectometry calculations](/information/calculation).
+- [Reproducibility](./reproducibility): The reproducibility working group is focusing on investigating how we can improve reproducibility between beamlines and analysis processes, this includes [calibrations](/projects/calibrations) and [common references samples](standard_samples). 
