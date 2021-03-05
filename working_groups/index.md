@@ -30,7 +30,7 @@ andrew.mccluskey@ess.eu
   </tr>
   <tr class="tt">
     <td class="tt">
-      <a class="tt" href="./data_analysis/">
+      <a class="tt" href="./analysis/">
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
         <h4>Data Analysis</h4></a>
