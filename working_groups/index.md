@@ -9,7 +9,17 @@ permalink: /working_groups/
       border: none;
   }
   tr, td {
-    padding: 10px;
+    padding: 20px;
+  }
+  a.tt:link {
+    color: black;
+  }
+  a.tt:visited {
+    color: black;
+  }
+  a.tt:hover {
+    color: black;
+    text-decoration: underline;
   }
 </style>
 
@@ -24,8 +34,8 @@ ORSO consists of four working groups, which cover different aspects of reflectom
 <table>
   <tr>
     <td>
-      <a class="tt" href="./workshops/">
-        <i class="fas fa-handshake fa-5x"></i>
+      <a class="tt" href="./edu_and_outreach/">
+        <i class="fas fa-book fa-5x"></i>
         <br>
         <b>Education and Outreach</b><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
@@ -33,12 +43,32 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       </a>
     </td>
     <td>
-      <a class="tt" href="./what_is_orso/">
-        <i class="fas fa-book fa-5x"></i>
+      <a class="tt" href="./file_formats/">
+        <i class="fas fa-file-code fa-5x"></i>
         <br>
-        <b>Education and Outreach</b><br>
+        <b>File Formats</b><br>
+        Draft a standard, shared file format for reflectometry<br>
+        Engage the community in the uptake of this format
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a class="tt" href="./data_analysis/">
+        <i class="fas fa-chart-line fa-5x"></i>
+        <br>
+        <b>Data Analysis</b><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
+      </a>
+    </td>
+    <td>
+      <a class="tt" href="./reproducibility/">
+        <i class="fas fa-redo fa-5x"></i>
+        <br>
+        <b>Reproducibility</b><br>
+        Draft a standard, shared file format for reflectometry<br>
+        Engage the community in the uptake of this format
       </a>
     </td>
   </tr>
