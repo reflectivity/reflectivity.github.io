@@ -23,7 +23,7 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="./file_formats/">
         <i class="fas fa-file-code fa-5x"></i>
         <br>
-        <h3>File Formats</h3></a><br>
+        <h4>File Formats</h4></a>
         Draft a standard, shared file format for reflectometry<br>
         Engage the community in the uptake of this format
     </td>
