@@ -23,7 +23,7 @@ The organisation has hosted two [workshops](/workshops/) to date and more are pl
       <a class="tt" href="/projects/">
         <i class="fas fa-project-diagram fa-5x"></i>
         <br>
-        <b>Projects</b></a>
+        <b>Projectsa</b></a>
     </td>
   </tr>
 </table>
