@@ -42,7 +42,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .site-nav a:not(:first-child) {display: none;}
+  .site-nav {display: none;}
   .site-nav a.icon {
     float: right;
     display: block;
