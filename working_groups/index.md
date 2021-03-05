@@ -18,7 +18,7 @@ DO NOT EDIT UNLESS YOU KNOW THAT YOU ARE DOING
 andrew.mccluskey@ess.eu
 -->
 <table class="tt">
-  <tr> class="tt"
+  <tr class="tt">
     <td class="tt">
       <a class="tt" href="./edu_and_outreach/">
         <i class="fas fa-book fa-5x"></i>
