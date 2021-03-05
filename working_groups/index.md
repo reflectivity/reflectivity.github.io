@@ -35,7 +35,7 @@ andrew.mccluskey@ess.eu
         <br>
         <h4>Data Analysis</h4></a>
         Develop a <a href="/projects/model_language">universal descriptive model language</a> for analysis<br>
-        Generate information about <a href="/information/calculation">efficiencies of reflectometry calculations</a><br><br>
+        Generate information about <a href="/information/calculation">efficiencies of reflectometry calculations</a>
     </td>
     <td class="tt">
       <a class="tt" href="./reproducibility/">
@@ -43,7 +43,7 @@ andrew.mccluskey@ess.eu
         <br>
         <h4>Reproducibility</h4></a>
         Improve reproducibility with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
-        Evangelise on the subject of analytical reproducibility and its importance<br><br>
+        Evangelise on the subject of analytical reproducibility and its importance
     </td>
   </tr>
 </table>
