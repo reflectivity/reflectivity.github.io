@@ -12,7 +12,7 @@
 
   <div class="wrapper">
     <nav class="site-nav" id="myTopnav">
-      <a class="page-link" href="{{ "/" | relative_url }}"><b>{{ site.title | escape }}</b></a>
+      <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
           {% assign url = link.url %}
