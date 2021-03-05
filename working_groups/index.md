@@ -35,7 +35,7 @@ andrew.mccluskey@ess.eu
         <br>
         <b>Data Analysis</b></a><br>
         Develop a <a href="/projects/model_language">universal descriptive model language</a> for reflectometry analysis<br>
-        Generate information about <a href="/information/calculation">computational efficiencies of reflectometry calculations</a>
+        Generate information about <a href="/information/calculation">efficiencies of reflectometry calculations</a>
     </td>
     <td class="tt">
       <a class="tt" href="./reproducibility/">
