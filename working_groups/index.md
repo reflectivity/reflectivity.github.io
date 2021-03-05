@@ -34,7 +34,7 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
         <b>Data Analysis</b></a><br>
-        Develop a <a href="/projects/model_language">universal descriptive model language</a> for reflectometry analysis<br>
+        Develop a <a href="/projects/model_language">universal descriptive model language</a> for analysis<br>
         Generate information about <a href="/information/calculation">efficiencies of reflectometry calculations</a>
     </td>
     <td class="tt">
@@ -42,7 +42,7 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-redo fa-5x"></i>
         <br>
         <b>Reproducibility</b></a><br>
-        Improve experimental reproducibility with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
+        Improve reproducibility with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
         Evangelise on the subject of analytical reproducibility and its importance
     </td>
   </tr>
