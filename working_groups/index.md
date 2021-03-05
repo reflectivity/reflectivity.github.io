@@ -42,7 +42,7 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-redo fa-5x"></i>
         <br>
         <b>Reproducibility</b></a><br>
-        Improve reproducibility between experiments with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
+        Improve experimental reproducibility with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
         Evangelise on the subject of analytical reproducibility and its importance
     </td>
   </tr>
