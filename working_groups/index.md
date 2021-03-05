@@ -42,16 +42,16 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
         <b>Data Analysis</b></a><br>
-        Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
-        Catalogue information about <a href="/information/activities">reflectometry information and software</a>
+        Develop a <a href="/projects/model_language">universal descriptive model language</a> for reflectometry analysis<br>
+        Generate information about <a href="/information/calculation">computational efficiencies of reflectometry calculations</a>
     </td>
     <td class="tt">
       <a class="tt" href="./reproducibility/">
         <i class="fas fa-redo fa-5x"></i>
         <br>
         <b>Reproducibility</b></a><br>
-        Draft a standard, shared file format for reflectometry<br>
-        Engage the community in the uptake of this format
+        Improve reproducibility between experiments with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
+        Evangelise on the subject of analytical reproducibility and its importance
     </td>
   </tr>
 </table>
