@@ -11,6 +11,11 @@ On this webpage, we host [information](/information/) about reflectometry that w
 The organisation has hosted two [workshops](/workshops/) to date and more are planned.
 
 
+<!--
+This is the table view for the different options
+DO NOT EDIT UNLESS YOU KNOW THAT YOU ARE DOING
+andrew.mccluskey@ess.eu
+-->
 <table class="tt">
   <tr class="tt">
     <td class="tt">
@@ -23,7 +28,7 @@ The organisation has hosted two [workshops](/workshops/) to date and more are pl
       <a class="tt" href="/projects/">
         <i class="fas fa-project-diagram fa-5x"></i>
         <br>
-        <b>Projectsa</b></a>
+        <b>Projects</b></a>
     </td>
   </tr>
 </table>

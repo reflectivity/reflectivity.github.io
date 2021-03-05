@@ -4,25 +4,6 @@ title: "Working Groups"
 permalink: /working_groups/
 ---
 
-<style>
-  table, tr, td {
-      border: none;
-  }
-  tr, td {
-    padding: 20px;
-  }
-  a.tt:link {
-    color: black;
-  }
-  a.tt:visited {
-    color: black;
-  }
-  a.tt:hover {
-    color: black;
-    text-decoration: underline;
-  }
-</style>
-
 ORSO consists of four working groups, which cover different aspects of reflectometry:
 
 - [**Education and Outreach**](./edu_and_outreach): The education and outreach working group aims to develop [understanding of reflectometry techniques](/information/learning) and catalogue information about [reflectometry information and software](/information/activities).
@@ -31,9 +12,14 @@ ORSO consists of four working groups, which cover different aspects of reflectom
 - [**Reproducibility**](./reproducibility): The reproducibility working group is focusing on investigating how we can improve reproducibility between beamlines and analysis processes, this includes [calibrations](/projects/calibrations) and [common references samples](standard_samples).
 
 
-<table>
-  <tr>
-    <td>
+<!--
+This is the table view for the different working groups
+DO NOT EDIT UNLESS YOU KNOW THAT YOU ARE DOING
+andrew.mccluskey@ess.eu
+-->
+<table class="tt">
+  <tr> class="tt"
+    <td class="tt">
       <a class="tt" href="./edu_and_outreach/">
         <i class="fas fa-book fa-5x"></i>
         <br>
@@ -41,7 +27,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
     </td>
-    <td>
+    <td class="tt">
       <a class="tt" href="./file_formats/">
         <i class="fas fa-file-code fa-5x"></i>
         <br>
@@ -50,8 +36,8 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         Engage the community in the uptake of this format
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr class="tt">
+    <td class="tt">
       <a class="tt" href="./data_analysis/">
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
@@ -59,7 +45,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
     </td>
-    <td>
+    <td class="tt">
       <a class="tt" href="./reproducibility/">
         <i class="fas fa-redo fa-5x"></i>
         <br>
