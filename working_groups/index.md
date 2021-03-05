@@ -40,7 +40,6 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         <b>Education and Outreach</b></a><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
-      </a>
     </td>
     <td>
       <a class="tt" href="./file_formats/">
@@ -49,7 +48,6 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         <b>File Formats</b></a><br>
         Draft a standard, shared file format for reflectometry<br>
         Engage the community in the uptake of this format
-      </a>
     </td>
   </tr>
   <tr>
@@ -60,7 +58,6 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         <b>Data Analysis</b></a><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
-      </a>
     </td>
     <td>
       <a class="tt" href="./reproducibility/">
@@ -69,7 +66,6 @@ ORSO consists of four working groups, which cover different aspects of reflectom
         <b>Reproducibility</b></a><br>
         Draft a standard, shared file format for reflectometry<br>
         Engage the community in the uptake of this format
-      </a>
     </td>
   </tr>
 </table>
