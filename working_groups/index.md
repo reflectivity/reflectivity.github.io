@@ -15,7 +15,7 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="./edu_and_outreach/">
         <i class="fas fa-book fa-5x"></i>
         <br>
-        <h4>Education and Outreach</h4></a><br>
+        <h4>Education and Outreach</h4></a>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a><br><br>
     </td>
@@ -33,7 +33,7 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="./data_analysis/">
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
-        <h4>Data Analysis</h4></a><br>
+        <h4>Data Analysis</h4></a>
         Develop a <a href="/projects/model_language">universal descriptive model language</a> for analysis<br>
         Generate information about <a href="/information/calculation">efficiencies of reflectometry calculations</a><br><br>
     </td>
@@ -41,7 +41,7 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="./reproducibility/">
         <i class="fas fa-redo fa-5x"></i>
         <br>
-        <h4>Reproducibility</h4></a><br>
+        <h4>Reproducibility</h4></a>
         Improve reproducibility with <a href="/projects/calibrations">calibrations</a> and <a href="/projects/standard_samples">common references samples</a><br>
         Evangelise on the subject of analytical reproducibility and its importance<br><br>
     </td>
