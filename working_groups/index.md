@@ -37,7 +37,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./edu_and_outreach/">
         <i class="fas fa-book fa-5x"></i>
         <br>
-        <b>Education and Outreach</b><br>
+        <b>Education and Outreach</b></a><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
       </a>
@@ -46,7 +46,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./file_formats/">
         <i class="fas fa-file-code fa-5x"></i>
         <br>
-        <b>File Formats</b><br>
+        <b>File Formats</b></a><br>
         Draft a standard, shared file format for reflectometry<br>
         Engage the community in the uptake of this format
       </a>
@@ -57,7 +57,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./data_analysis/">
         <i class="fas fa-chart-line fa-5x"></i>
         <br>
-        <b>Data Analysis</b><br>
+        <b>Data Analysis</b></a><br>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
         Catalogue information about <a href="/information/activities">reflectometry information and software</a>
       </a>
@@ -66,7 +66,7 @@ ORSO consists of four working groups, which cover different aspects of reflectom
       <a class="tt" href="./reproducibility/">
         <i class="fas fa-redo fa-5x"></i>
         <br>
-        <b>Reproducibility</b><br>
+        <b>Reproducibility</b></a><br>
         Draft a standard, shared file format for reflectometry<br>
         Engage the community in the uptake of this format
       </a>
