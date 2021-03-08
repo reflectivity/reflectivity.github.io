@@ -28,7 +28,7 @@ andrew.mccluskey@ess.eu
         <h4>Github Organisation</h4></a>
     </td>
     <td class="tt">
-      <a class="tt" href="/information/interact_with_orso/">
+      <a class="tt" href="../information/interact_with_orso/">
         <i class="fas fa-video fa-5x"></i>
         <br>
         <h4>Interact with ORSO</h4></a>
