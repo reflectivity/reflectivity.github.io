@@ -18,8 +18,8 @@ Past events
 
 | Meeting or Workshop |      Date      |  Place |
 |----------|:-------------:|:------:|
-| AGM | Oct. 2019 |  [Abingdon, UK](https://reflectivity.github.io/workshops/workshop_2019/)|
-| AGM | May 2020 |   [Online](https://reflectivity.github.io/workshops/workshop_2020/)  | 
+| AGM | Oct. 2019 |  [Abingdon, UK](./workshop_2019/)|
+| AGM | May 2020 |   [Online](./workshop_2020/)  |
 | Education and Outreach | Sep & Oct 2020 | Online |
 | Reproducibility | Sep 2020 | Online  |
 | File Formats | Sep 2020 | Online |
