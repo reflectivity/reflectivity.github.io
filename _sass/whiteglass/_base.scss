@@ -184,6 +184,7 @@ pre {
 table.tt, tr.tt, td.tt {
    text-align: center;
    border: 1px solid black;
+   table-layout: fixed ;
 }
 tr.tt, td.tt {
  padding: 20px;
