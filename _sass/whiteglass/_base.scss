@@ -182,9 +182,9 @@ pre {
  * Custom for table view with icons
  */
 table.tt, tr.tt, td.tt {
-   border: none;
+   border: 0px;
    text-align: center;
-   table-layout: fixed ;
+   table-layout: fixed;
 }
 tr.tt, td.tt {
  padding: 20px;
