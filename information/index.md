@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Information"
-permalink: /information
+permalink: /information/
 author: "Andrew McCluskey"
 ---
 
