@@ -6,21 +6,10 @@ author: "Wojciech Potrzebowski"
 ---
 If you are interested in joining ORSO you may consider watching following videos:
 
-<table class="tt">
-  <tr class="tt">
-    <td class="tt">
-      <h4>Interacting with ORSO on Github</h4><br>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/a6CsZHRRptg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </td>
-    <td class="tt">
-    <h4>Contributing to the ORSO Webpage</h4><br>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rahs0AFs83o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </td>
-    <td class="tt">
-      <a class="tt" href="../information/interact_with_orso/">
-        <i class="fas fa-video fa-5x"></i>
-        <br>
-        <h4>Interact with ORSO</h4></a>
-    </td>
-  </tr>
-</table>
+1. Interacting with ORSO: This video introduces how ORSO works using Github
+
+    [![IMAGE ALT TEXT](http://img.youtube.com/vi/a6CsZHRRptg/0.jpg)](http://www.youtube.com/watch?v=a6CsZHRRptg "Interacting with ORSO")
+
+2. Contributing to ORSO: This video shows how to contribute to the ORSO webpages
+
+    [![IMAGE ALT TEXT](http://img.youtube.com/vi/rahs0AFs83o/0.jpg)](http://www.youtube.com/watch?v=rahs0AFs83o "Interacting with ORSO")
