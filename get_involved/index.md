@@ -19,19 +19,19 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&amp;id=fa298202d4">
         <i class="fas fa-envelope fa-5x"></i>
         <br>
-        <p style="font-size:1.25rem text-align:center">Mailing List</p></a>
+        <h4>Mailing List</h4></a>
     </td>
     <td class="tt">
       <a class="tt" href="https://github.com/reflectivity">
         <i class="fab fa-github fa-5x"></i>
         <br>
-        <p style="font-size:1.25rem text-align:center">Github Organisation</p></a>
+        <h4>Github Organisation</h4></a>
     </td>
     <td class="tt">
       <a class="tt" href="../information/interact_with_orso/">
         <i class="fas fa-video fa-5x"></i>
         <br>
-        <p style="font-size:1.25rem text-align:center">Interact with ORSO</p></a>
+        <h4>Interact with ORSO</h4></a>
     </td>
   </tr>
 </table>
