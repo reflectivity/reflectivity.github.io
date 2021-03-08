@@ -13,6 +13,7 @@ This is the table view for the different section
 DO NOT EDIT UNLESS YOU KNOW THAT YOU ARE DOING
 andrew.mccluskey@ess.eu
 -->
+<center>
 <table class="tt">
   <tr class="tt">
     <td class="tt">
@@ -35,3 +36,4 @@ andrew.mccluskey@ess.eu
     </td>
   </tr>
 </table>
+</center>
