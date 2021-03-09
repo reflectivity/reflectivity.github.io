@@ -46,7 +46,7 @@ Acting in this spirit a broad support for developing
   experimental influences (e.g. resolution) it might be.
 
 It is in the nature of the *pragmatic* approach that a lot of input
-has been given and [example files](examples.md) were created as a basis for
+has been given and [example files](../../projects/file_formats/examples.md) were created as a basis for
 further discussions.
 
 The main work for the (near) future will be to create a series of
