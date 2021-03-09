@@ -1,3 +1,12 @@
+---
+layout: page
+title: ORSO file format - tasks - file extensions
+author:
+- Jochen Stahn,  
+  *Paul Scherrer Institut, Switzerland*
+date: 2021-03-09
+---
+
 ## file extensions
 
 Artur made some suggestions for file extensions to be used / recommended for *our* formats / representations:
