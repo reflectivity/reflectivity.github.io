@@ -68,15 +68,21 @@ to split of as a separate chapter.
 
 ## List of tasks
 
-* [Common structure and nomenclature for all representations](common-structure.md)
-* [Links to canSAS](link-to-cansas.md)
-* [Steep vs. flat hierarchical structure](steep-vs-flat.md)
-* [Multiplicity of hierarchies](multiplicity.md)
-* [Binary representation](binary-representation.md)
+active:
+
 * [ASCII representation](ascii-representation.md)
 * [Units](units.md)
 * [Internal references](internal-references.md)
 * [Non-standard entries and comments](non-standard-entries.md)
+* [Steep vs. flat hierarchical structure](steep-vs-flat.md)
+* [Multiplicity of hierarchies](multiplicity.md)
+* [File extensions](extensions.md)
+
+next steps:
+
+* [Common structure and nomenclature for all representations](common-structure.md)
+* [Links to canSAS](link-to-cansas.md)
+* [Binary representation](binary-representation.md)
 * [misc.](misc.md)
 
 ---
