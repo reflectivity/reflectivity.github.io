@@ -9,6 +9,8 @@ The following links provide information about computer programs used for the ana
 
 *(original list from http://www.reflectometry.net, courtesy of Adrian Rennie)*
 
+## Software with developers engaged with ORSO
+
 *   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
     [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
 
@@ -18,9 +20,6 @@ The following links provide information about computer programs used for the ana
 *   Programs for X-ray reflectometry analysis by Adrian Rennie  
     [http://www.reflectometry.net/xrefprogs.htm](http://www.reflectometry.net/xrefprog.htm)
 
-*   AFIT written by Paul Thirtle (3.1) is available from Oxford.  
-    [http://physchem.ox.ac.uk/~rkt/afit.html](http://physchem.ox.ac.uk/~rkt/afit.html)
-
 *   Neutron reflectometry programs available from the NIST Center for Neutron Research.  
     [https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software](https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software)
 
@@ -28,6 +27,27 @@ The following links provide information about computer programs used for the ana
     [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
     There is also an extended version for magnetic samples and polarised neutrons:  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html).
+
+*   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
+    [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
+
+*   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
+    [http://bornagainproject.org](http://bornagainproject.org)
+
+*   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
+    [http://motofit.sourceforge.net/wiki/index.php/Main_Page](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
+
+*   refnx: Neutron and X-ray reflectometry analysis in Python by Andrew Nelson and Stuart Prescott ANSTO.  
+    [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
+
+*   GenX - a program that uses a genetic algorithm to refine model fits to reflectivity data writen by Matts Björck, Uppsala University.  
+    [http://genx.sourceforge.net/](http://genx.sourceforge.net/)
+
+
+## Other Reflectometry fitting Software
+
+*   AFIT written by Paul Thirtle (3.1) is available from Oxford.  
+    [http://physchem.ox.ac.uk/~rkt/afit.html](http://physchem.ox.ac.uk/~rkt/afit.html)
 
 *   Calculate neutron reflectivity on the Web. Alan Munter has provided a WWW site at the NIST Center for Neutron Research.  *(NOTE: requires Java applet, no longer functional in modern browsers.  Source code still available [here](https://www.ncnr.nist.gov/resources/ReflSimulator.java))*
     [https://www.ncnr.nist.gov/resources/reflcalc.html](https://www.ncnr.nist.gov/resources/reflcalc.html)
@@ -44,9 +64,6 @@ The following links provide information about computer programs used for the ana
 *   POLLY - for simulation and analysis of polarised neutron reflectometry data S. Langridge, RAL  
     [https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx](https://www.isis.stfc.ac.uk/Pages/Crisp-software.aspx)
 
-*   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
-    [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
-
 *   MultiFit, SuperFit and other Software for X-Ray Reflectivity and Polarised Neutron Reflectivity, K. Ritley & W. Donner, MPI f. Metallforschung, Stuttgart, Germany  
     [http://www.is.mpg.de/8137185/fitting](https://web.archive.org/web/20170423172513/http://www.is.mpg.de/8137185/fitting). Note: this site and software is no longer avaiable - an archive link is provided for information.
 
@@ -61,18 +78,6 @@ The following links provide information about computer programs used for the ana
 
 *   A program for analyzing Grazing Incidence Small Angle X-ray Scattering on nanostructures by R. Lazzi, F. Leroy, C. Revenant-Brizard and G. Renaud, Grenoble.  
     [http://www.insp.jussieu.fr/oxydes/IsGISAXS/isgisaxs.htm](http://www.insp.jussieu.fr/oxydes/IsGISAXS/isgisaxs.htm)
-
-*   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
-    [http://bornagainproject.org](http://bornagainproject.org)
-
-*   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
-    [http://motofit.sourceforge.net/wiki/index.php/Main_Page](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
-
-*   refnx: Neutron and X-ray reflectometry analysis in Python by Andrew Nelson and Stuart Prescott ANSTO.  
-    [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
-
-*   GenX - a program that uses a genetic algorithm to refine model fits to reflectivity data writen by Matts Björck, Uppsala University.  
-    [http://genx.sourceforge.net/](http://genx.sourceforge.net/)
 
 *   RFIT2000: a program written in Delphi by Oleg Konovalov at the ESRF, Grenoble to X-ray and neutron reflectivity data.  
     [http://www.esrf.eu/computing/scientific/RFit2000/rfit2000.htm](http://www.esrf.eu/computing/scientific/RFit2000/rfit2000.htm)
