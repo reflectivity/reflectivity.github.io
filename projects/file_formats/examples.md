@@ -3,7 +3,7 @@ layout: page
 title: "File Formats - Examples"
 permalink: /working_groups/file_formats/examples
 ---
-  
+
 The examples presented and discussed below are NOT the orso standard.
 Their purpose is to illustrate ideas and to form the basis for
 discussions. So please feel free to do so!
@@ -28,7 +28,7 @@ One major outcome of the workshop in May 2020 was that there should be
   - [minimum content](#minimum-content)
   - [recommended content](#recommended-content)
   - [optional content](#optional-content)
-  
+
 #### how to contribute
 
 You can help to improve the formats in various ways:
@@ -38,24 +38,24 @@ You can help to improve the formats in various ways:
   if you have no writing privileges or are uncertain how to edit the
   markdown source file.
 - Write on the [message bord](https://gitter.im/reflectivity/file_formats).
-- Try to **realise** the suggested format or something similar in your 
+- Try to **realise** the suggested format or something similar in your
   reduction software. And please report on outcome and issues.
 
 ---
 
 <a name="comprehensive-hdf-file"></a>
-         
-### comprehensive HDF file 
+
+### comprehensive HDF file
 
 (A. Nelson) under development ...
 
 <a name="pragmatic-ascii-file"></a>
 
-### pragmatic ASCII file 
+### pragmatic ASCII file
 
 <a name="minimum-content"></a>
 
-#### minimum content 
+#### minimum content
 
 It is still under debate what the minimum content of this file should be.
 For sure it should contain:
@@ -108,7 +108,7 @@ A made up example (using YAML for structuring) of a minimum file could look like
 
 <a name="recommended-content"></a>
 
-#### recommended content 
+#### recommended content
 
 On top of this minimum set, a wide variety of information and content
 can be given. Some of it in a standardised form, i.e. using the structure and
@@ -118,7 +118,7 @@ The rest in almost free form - as long as it does not interfere with the
 minimum content and the format rules.
 
 Adding the recommended content the file looks like
-[this](pragmatic-recommended.txt) (Jochen Stahn):
+[this](./pragmatic-recommended.txt) (Jochen Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
@@ -214,7 +214,7 @@ Adding the recommended content the file looks like
 #### optional content
 
 And including some user-defined content leads to
-[this](pragmatic-options.txt) (Jochen Stahn):
+[this](./pragmatic-options.txt) (Jochen Stahn):
 
     ## reflectivity data file                                 orso file format 0.0
     #
@@ -241,4 +241,3 @@ And including some user-defined content leads to
 The content of the misc section is not defined by orso. But this allows
 to provide information to more sophisticated analysis software. Of cause
 this software must *know* how to read and handle this input.
-
