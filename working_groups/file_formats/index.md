@@ -9,7 +9,7 @@ This is an important goal to move towards interoperability across facilities.
 
 ### Workshop on September 30.
 
-[Task list based on the outcome of the workshop](tasks)
+[Task list based on the outcome of the workshop](../../projects/file_formats/tasks)
 
 ### Summary of the May 2020 workshop
 
@@ -74,9 +74,9 @@ be used in the raw data file.
 A series of [**tasks**](https://github.com/reflectivity/file_format/issues)
 were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
-- [x] [Draft a header for an ASCII file.](examples.md) (J. Stahn)
+- [x] [Draft a header for an ASCII file.](../../projects/file_formats/examples.md) (J. Stahn)
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson)
-- [ ] Contribute to the [dictionaries](dictionaries.pdf)
+- [ ] Contribute to the [dictionaries](../../projects/file_formats/dictionaries.pdf)
 - [ ] Create an overview over the national data policies
 - [ ] Define an identification scheme
 - [ ] Try to implement the *pragmatic* file format in existing
@@ -88,4 +88,4 @@ there (as well as to the general discussions):
 ### Co-chairs
 
 - [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
-- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk) 
+- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
