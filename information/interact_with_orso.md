@@ -6,6 +6,8 @@ author: "Wojciech Potrzebowski"
 ---
 If you are interested in joining ORSO you may consider watching following videos:
 
+You can also learn more about Github in general [here](https://lab.github.com/)
+
 1. Interacting with ORSO: This video introduces how ORSO works using Github
 
     [![IMAGE ALT TEXT](http://img.youtube.com/vi/a6CsZHRRptg/0.jpg)](http://www.youtube.com/watch?v=a6CsZHRRptg "Interacting with ORSO")
