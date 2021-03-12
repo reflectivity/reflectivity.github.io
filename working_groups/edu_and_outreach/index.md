@@ -20,12 +20,7 @@ To get involved in the E&O working group you should sign up to GitHub and take a
 
 Open to all to read, however, an account is required to comment on actions.
 
-### Members
+### Co-chairs
 
-- [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu) -- **Co-Chair**
-- [Bridget Murphy (University of Kiel)](mailto:murphy@physik.uni-kiel.de) -- **Co-Chair**
-- Jos Cooper (ISIS)
-- Andrew McCluskey (ESS)
-- Wojciech Potrzebowski (ESS)
-- Adrian Rennie (Uppsala)
-- Thomas Saebeck (ILL)
+- [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu)
+- [Bridget Murphy (University of Kiel)](mailto:murphy@physik.uni-kiel.de)
