@@ -14,7 +14,7 @@ The writing is still in progress, thus some entries below are close to the
 keyword level. Please excuse me for that - or better: change it.
 
 My idea is that we complete the list and fill in the results once a task
-has been completed. 
+has been completed.
 
 Once decided, the topic moves form this task list to a still empty
 list of recommendations.
@@ -30,12 +30,12 @@ the interests and skills of the orso members.
 We forgot to form these groups.
 
 **Which platform do we use?**   
-For the moment this would be GitHub. I have the impression that 
+For the moment this would be GitHub. I have the impression that
 most of us are not that familiar with this and the related nomenclature
 (including me), so it might be a good idea if some expert could tell us.
 
 **Time line**   
-The *natural* order for developing the orso file format is something like 
+The *natural* order for developing the orso file format is something like
 this:
 
 1. collection of ideas and concepts
@@ -51,36 +51,38 @@ this:
 6. release
 
 At the moment we mix stages 1 to 3 and stage 4 is in preparation.
-Most likely this will lead to some loops, but on the upside we 
+Most likely this will lead to some loops, but on the upside we
 might learn some things and there is some visible progress...
 
 **Chapters**   
 J. Wuttke [suggested](https://github.com/jwuttke/file_format/blob/master/current_discussion/process.md)
 to prepare *chapters* and to release them
 individually once they are mature enough. This organisation
-would also allow to opt out certain chapters according to 
+would also allow to opt out certain chapters according to
 institutional policy.
 
-The problem there is that a lot of basic decisions are 
+The problem there is that a lot of basic decisions are
 entangled and that once we agreed on them, there is not much
 to split of as a separate chapter.
 
 
 ## List of tasks
 
-* [Common structure and nomenclature for all representations](common-structure.md)
-* [Links to canSAS](link-to-cansas.md)
-* [Steep vs. flat hierarchical structure](steep-vs-flat.md)
-* [Multiplicity of hierarchies](multiplicity.md)
-* [Binary representation](binary-representation.md)
+active:
+
 * [ASCII representation](ascii-representation.md)
 * [Units](units.md)
 * [Internal references](internal-references.md)
 * [Non-standard entries and comments](non-standard-entries.md)
+* [Steep vs. flat hierarchical structure](steep-vs-flat.md)
+* [Multiplicity of hierarchies](multiplicity.md)
+* [File extensions](extensions.md)
+
+next steps:
+
+* [Common structure and nomenclature for all representations](common-structure.md)
+* [Links to canSAS](link-to-cansas.md)
+* [Binary representation](binary-representation.md)
 * [misc.](misc.md)
 
 ---
-
- 
-  
-
