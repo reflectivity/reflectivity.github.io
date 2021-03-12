@@ -28,7 +28,7 @@ body {
 
 table {
   width: 100%;
-  margin: 0 0 20px 0;
+  margin: 0 0 20px 20px;
   text-align: center;
   border-collapse: collapse;
 }
@@ -178,7 +178,27 @@ pre {
   }
 }
 
-
+/**
+ * Custom for table view with icons
+ */
+table.tt, tr.tt, td.tt {
+   border: 0px;
+   text-align: center;
+   table-layout: fixed;
+}
+tr.tt, td.tt {
+ padding: 20px;
+}
+a.tt:link {
+ color: black;
+}
+a.tt:visited {
+ color: black;
+}
+a.tt:hover {
+ color: black;
+ text-decoration: underline;
+}
 
 /**
  * Wrapper

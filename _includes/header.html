@@ -1,10 +1,20 @@
 <header class="site-header">
+  <script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "site-nav") {
+      x.className += " responsive";
+    } else {
+      x.className = "site-nav";
+    }
+  }
+  </script>
 
   <div class="wrapper">
+    <a class="site-title" href="{{ "/" | relative_url }}"><img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" height=40px></a>
 
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    <nav class="site-nav">
+    <nav class="site-nav" id="myTopnav">
+      <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
       {% for link in site.data.navigation.main %}
         {% if link.url contains "http" %}
           {% assign url = link.url %}
@@ -13,6 +23,9 @@
         {% endif %}
         <a class="page-link" href="{{ url }}">{{ link.title }}</a>
       {% endfor %}
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i style="color:black;" class="fa fa-bars"></i>
+      </a>
     </nav>
 
   </div>

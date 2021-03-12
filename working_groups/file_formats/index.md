@@ -4,12 +4,12 @@ title: "File Formats"
 permalink: /working_groups/file_formats/
 ---
 
-This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity. 
-This is an important goal to move towards interoperability across facilities. 
+This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity.
+This is an important goal to move towards interoperability across facilities.
 
 ### Workshop on September 30.
 
-[Task list based on the outcome of the workshop](tasks)
+[Task list based on the outcome of the workshop](../../projects/file_formats/tasks)
 
 ### Summary of the May 2020 workshop
 
@@ -25,7 +25,7 @@ but to also allow Angstrom.
 Acting in this spirit a broad support for developing
 **two file formats** could be observed:
 
-* The **strict format** who's aim is to fulfil the principles of 
+* The **strict format** who's aim is to fulfil the principles of
   *inter-operability* and *reusability*,
   most likely using a NeXus-based hierarchical data format (HDF).   
   This format should fulfil high scientific standards, it will allow
@@ -46,7 +46,7 @@ Acting in this spirit a broad support for developing
   experimental influences (e.g. resolution) it might be.
 
 It is in the nature of the *pragmatic* approach that a lot of input
-has been given and [example files](examples.md) were created as a basis for
+has been given and [example files](../../projects/file_formats/examples.md) were created as a basis for
 further discussions.
 
 The main work for the (near) future will be to create a series of
@@ -74,9 +74,9 @@ be used in the raw data file.
 A series of [**tasks**](https://github.com/reflectivity/file_format/issues)
 were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
-- [x] [Draft a header for an ASCII file.](examples.md) (J. Stahn)
-- [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson) 
-- [ ] Contribute to the [dictionaries](dictionaries.pdf)
+- [x] [Draft a header for an ASCII file.](../../projects/file_formats/examples.md) (J. Stahn)
+- [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson)
+- [ ] Contribute to the [dictionaries](../../projects/file_formats/dictionaries.pdf)
 - [ ] Create an overview over the national data policies
 - [ ] Define an identification scheme
 - [ ] Try to implement the *pragmatic* file format in existing
@@ -85,10 +85,7 @@ there (as well as to the general discussions):
 
 ---
 
-### Members
+### Co-chairs
 
-- Ruipeng Li (NSLS-II)
-- Brian Maranville (NIST) 
-- Tim Snow (Diamond)
-- [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch) -- **Co-Chair**
-- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk) -- **Co-Chair**
+- [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
+- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
