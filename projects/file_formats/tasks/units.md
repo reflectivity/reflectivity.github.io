@@ -51,6 +51,25 @@ places in the document.
 If no unit is given it is assumed to be `1`. Thus no `unit` must be defined
 for a ratio like `R` or an angle in radian (for `1 rad := 1`). 
 
+## human readability
+
+With respect to readibility, the best (and most compact) choice to put units is the *conventional* 
+approach
+
+```
+#    quantity:  <magnitude> <unit> 
+```
+
+rather than 
+
+```
+#    quantity:
+#         magnitude: <magnitude>
+#         unit: <unit>
+```
+
+Is there a serious argument for the latter approach? 
+
 ## tasks
 
 - What does canSAS say?
