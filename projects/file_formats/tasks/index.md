@@ -68,16 +68,21 @@ to split of as a separate chapter.
 
 ## List of tasks
 
-active:
+completed:
 
 * [ASCII representation](ascii-representation.md)
 * [Units](units.md)
-* [Internal references](internal-references.md)
 * [Non-standard entries and comments](non-standard-entries.md)
 * [Steep vs. flat hierarchical structure](steep-vs-flat.md)
-* [Multiplicity of hierarchies](multiplicity.md)
 * [Several data sets](several_data_sets.md)
 * [File extensions](extensions.md)
+
+* [Internal references](internal-references.md)
+* [Multiplicity of hierarchies](multiplicity.md)
+
+On 2021-03-22 these tasks have been discussed and in most cases an agreement could
+be reached. The [protocol of this meeting](meeting_2021-03-22.md) might be used 
+for to define the formal issues of the orso standard for ASCII files.
 
 next steps:
 
