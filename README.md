@@ -4,7 +4,7 @@
 
 This is the repository for the Open Reflectometry Standards Organisation (ORSO), which is currently hosted at [reflectometry.org](reflectometry.org).
 
-## Contributing guidence
+## Contributing guidance
 
 Firstly, thank you for considering helping with the ORSO webpage! 
 To get started, first you need to get write access to this repository, to do so:
