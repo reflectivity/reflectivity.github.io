@@ -74,7 +74,7 @@ be used in the raw data file.
 A series of [**tasks**](https://github.com/reflectivity/file_format/issues)
 were defined and everyone is welcome to contribute
 there (as well as to the general discussions):
-- [x] [Draft a header for an ASCII file.](../../projects/file_formats/examples.md) (J. Stahn)
+
 - [x] Draft a *strict* reflectivity file in NeXus format. (A. Nelson)
 - [ ] Contribute to the [dictionaries](../../projects/file_formats/dictionaries.pdf)
 - [ ] Create an overview over the national data policies
