@@ -7,7 +7,15 @@ permalink: /working_groups/file_formats/
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity.
 This is an important goal to move towards interoperability across facilities.
 
-### Workshop on September 30.
+## previous workshops:
+
+### Workshop on the text representation, 2021-03-22
+
+Essentially formal questions about the text representation of the data have been discussed 
+([minutes](../../projects/file_formats/tasks/meeting_2021-03-22.md)) and 
+a [draft data file](../../projects/file_formats/tasks/text_representation.md) has been created.
+
+### Workshop on September 30. 2020
 
 [Task list based on the outcome of the workshop](../../projects/file_formats/tasks)
 
@@ -85,7 +93,7 @@ there (as well as to the general discussions):
 
 ---
 
-### Co-chairs
+## Co-chairs
 
 - [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
 - [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
