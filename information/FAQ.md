@@ -52,10 +52,4 @@ We are glad you asked! Please check out [our introduction and tutorial about the
 Please contact the chair of the working group which most interests you, or dive straight into the Github issues and take ownership of one (e.g. [for reproducibility](https://github.com/reflectivity/reproducibility/projects/2))
 
 [How to interact with ORSO - instructional videos](https://www.reflectometry.org/info/interact_with_orso/)
-<<<<<<< HEAD:info/FAQ.md
 
-
-
-
-=======
->>>>>>> c27b2826a59b4a23c80c164f48f10e20be0e7792:information/FAQ.md
