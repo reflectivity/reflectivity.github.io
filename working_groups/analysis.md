@@ -26,5 +26,5 @@ A set of [action items](https://github.com/reflectivity/analysis/projects/1) fro
 
 ### Co-chairs
 
-- [Brian Maranville (NIST)](mailto:brian.maranville@nist.gov) -- **Co-Chair**
-- [Andrew Nelson (ANSTO)](mailto:anz@ansto.gov.au) -- **Co-Chair**
+- [Brian Maranville (NIST)](mailto:brian.maranville@nist.gov) 
+- [Andrew Nelson (ANSTO)](mailto:anz@ansto.gov.au)
