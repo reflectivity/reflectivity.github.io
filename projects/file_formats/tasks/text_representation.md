@@ -19,11 +19,26 @@ The first line contains information about
 - the general content;
 - the orso file foramt version used.
 
-Artur agreed to provide the layout and rules for this line.
+Artur agreed to provide the layout and rules for this line:
 
 ```
-#  <to be defined>
+## ORSO reflectivity data file | 0.1 standard | YAML encoding | https://www.reflectometry.org/
 ```
+
+or 
+
+```
+## ORSO reflectivity data file | 0.1 standard | JSON encoding | https://www.reflectometry.org/
+```
+
+with the reasoning (to be translated...)
+
+- Die einzelnen Komponenten lassen sich leicht separieren, da spezieller String
+- ORSO am Anfang zu haben ist hilfreich, da man dann nur gegen diesen String checken muss um andere Formate auszuschließen ohne große Analyse.
+- Wir könnten so auch Varianten zulassen, welche genauso gelesen werden können. Z.B. # ORSO reflectivity simulation file |…
+- Bei jedem Block wird mit der relevanten Information gestartet, das macht es weniger anfällig auf Fehler durch fehlerhaft geschriebene Header. (Z.B. wenn jemand die falsche Anzahl Leerzeichen verwendet etc.
+
+The double hash is needed, because this line is not YAML compatible.
 
 ### meta data (the header)
 
@@ -88,6 +103,18 @@ The last part of the header is the descripotion of the columns to follow.
 #     - {quantity: lambda, unit: angstrom}
 ```
 
+Artur suddggested the following naming convention:
+
+```
+# columns:
+#     - {name: Qz, unit: 1/angstrom, dimension: WW transfer}
+#     - {name: R, dimension: reflectivity}
+#     - {name: sR, dimension: error-reflectivity}
+#     - {name: sQz, unit: 1/angstrom, dimension: resolution-WW transfer}
+#     - {name: lambda, unit: angstrom, dimension: wavelength}
+#     - {name: omega, unit: deg, dimension: angle}
+```
+
 Optionally, the last line might be a short-notation description
 
 ```
@@ -107,7 +134,18 @@ data type (the default is `float`).
 ...
 ```
 
+Artur suggested to define the **size of each column** according to one of the following rules 
+(with increasing rigidity):
+
+- Each column can have its individual length, but the descriptive header must fit.
+- All columns must have the same length
+- All columns are 16 spaces wide, i.e. `% 16f`, `% 16g` or `% 16e`
+- All columns have the format `% 16e`
+
 ### multiple data sets
+
+In case there are several data sets in one file (e.g. for different spin states) the following
+rules apply:
 
 #### empty line
 
@@ -146,13 +184,16 @@ for data set 1**).
 
 #### next data set
 
-of the same format as data set 0
+of the same format (number, format and description of columns) as data set 0
 
 ```
 1.03563296e-02  1.08100068e+00  4.33909068e+00  5.17816478e-05  4.00000000e+00
 1.06717294e-02  1.06430511e+01  8.89252719e+00  5.33586471e-05  4.10000000e+00
 ...
 ```
+
+There is the open issue of **naming the first data set** because there is no identifier 
+given (but the default `0`).
 
 ## example
 
@@ -161,7 +202,7 @@ all of the above mentioned lines without comments.
 `text_example.ort`
 
 ```
-# <first line>
+## ORSO reflectivity data file | 0.1 standard | YAML encoding | https://www.reflectometry.org/
 # creator:
 #     name        : Jochen Stahn
 #     affiliation : PSI
@@ -205,11 +246,12 @@ all of the above mentioned lines without comments.
 #             - file     : amor2020n001927.hdf
 #               created  : 2020-02-03T14:27:02
 # columns:
-#     - {quantity:  Qz, unit: 1/angstrom}
-#     - {quantity: RQz, unit: 1}
-#     - {quantity:  sR, unit: 1}
-#     - {quantity:  sQ, unit: 1/angstrom, comment: 'sigma of Gaussian resolution function'}
-#     - {quantity: lambda, unit: angstrom}
+#     - {name: Qz, unit: 1/angstrom, dimension: WW transfer}
+#     - {name: R, dimension: reflectivity}
+#     - {name: sR, dimension: error-reflectivity}
+#     - {name: sQz, unit: 1/angstrom, dimension: resolution-WW transfer}
+#     - {name: lambda, unit: angstrom, dimension: wavelength}
+#     - {name: omega, unit: deg, dimension: angle}
 # #         Qz             RQz              sR              sQ          lambda
 1.03563296e-02  3.88100068e+00  4.33909068e+00  5.17816478e-05  4.00000000e+00 
 1.06717294e-02  1.16430511e+01  8.89252719e+00  5.33586471e-05  4.10000000e+00
