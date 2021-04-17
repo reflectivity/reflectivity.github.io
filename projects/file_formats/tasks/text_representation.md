@@ -15,9 +15,10 @@ There are still some unsolved issues, marked here in **bold**. Please comment on
 
 The first line contains information about
 
-- the file type;
 - the general content;
-- the orso file foramt version used.
+- the orso file foramt version (and level of strictness) used;
+- the encoding;
+- a link to us.
 
 Artur agreed to provide the layout and rules for this line:
 
@@ -35,7 +36,8 @@ with the reasoning (to be translated...)
 
 - Die einzelnen Komponenten lassen sich leicht separieren, da spezieller String
 - ORSO am Anfang zu haben ist hilfreich, da man dann nur gegen diesen String checken muss um andere Formate auszuschließen ohne große Analyse.
-- Wir könnten so auch Varianten zulassen, welche genauso gelesen werden können. Z.B. # ORSO reflectivity simulation file |…
+- Wir könnten so auch Varianten zulassen, welche genauso gelesen werden können. Z.B. 
+  `# ORSO reflectivity simulation file |...`
 - Bei jedem Block wird mit der relevanten Information gestartet, das macht es weniger anfällig auf Fehler durch fehlerhaft geschriebene Header. (Z.B. wenn jemand die falsche Anzahl Leerzeichen verwendet etc.
 
 The double hash is needed, because this line is not YAML compatible.
