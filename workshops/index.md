@@ -4,10 +4,11 @@ title: "Workshops and Seminars"
 permalink: /workshops/
 ---
 
-### Seminars and Schools of interest
+### Seminars and Schools of Interest to the ORSO community
 
-ChemMatCARS
-- [ChemMatCARS Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
+ChemMatCARS has an Education and Outreach programme including a seminar series and training schools
+
+- [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
 
@@ -33,10 +34,10 @@ Past events
 | Education and Outreach | Sep & Oct 2020 | Online |
 | Reproducibility | Sep 2020 | Online  |
 | File Formats | Sep 2020 | Online |
+|  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
 
 Future events
 
 |  Meeting or Workshop | Date and Time   |      Place      |
 |----------|:-------------:|:------:|
-|  Data Analysis | Oct 13th 10-14 (UTC) | Online |
-|  AGM | June 2021 | SXNS16 in Lund, Sweden|
+|  AGM | June 2021 | Online |
