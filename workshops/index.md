@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "Workshops"
+title: "Workshops and Seminars"
 permalink: /workshops/
 ---
+[ChemMatCars Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
+
+
 Each of the ORSO working groups meet approximately quarterly to review open issues.
 
 For most recent activities please check github issues for each working group:
