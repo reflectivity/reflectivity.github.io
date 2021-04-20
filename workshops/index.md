@@ -4,14 +4,14 @@ title: "Workshops and Seminars"
 permalink: /workshops/
 ---
 
-Seminars and Schools of interest
+###Seminars and Schools of interest
 
 ChemMatCARS
 - [ChemMatCARS Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
 
-ORSO Workshops
+###ORSO Workshops
 
 Each of the ORSO working groups meet approximately quarterly to review open issues.
 
