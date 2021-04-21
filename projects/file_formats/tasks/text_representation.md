@@ -62,8 +62,8 @@ defined**. Thus here only the format, but not the content is mendatory.
 #     experiment:
 #         instrument     : neutron reflectometer Amor
 #         probe          : neutrons
-#         sample         :
-#             name         : Ni1000
+#         sample:
+#             name       : Ni1000
 #     measurement:
 #         scheme         : energy-dispersive
 #         omega: 
@@ -184,6 +184,14 @@ for data set 1**).
 #               created  : 2020-02-03T15:27:45
 ```
 
+#### repetition of short-version column description
+
+optional
+
+```
+# #         Qz             RQz              sR              sQ          lambda
+```
+
 #### next data set
 
 of the same format (number, format and description of columns) as data set 0
@@ -219,8 +227,8 @@ all of the above mentioned lines without comments.
 #     experiment:
 #         instrument     : neutron reflectometer Amor
 #         probe          : neutrons
-#         sample         :
-#             name         : Ni1000
+#         sample:
+#             name       : Ni1000
 #     measurement:
 #         scheme         : energy-dispersive
 #         omega: 
@@ -270,6 +278,7 @@ all of the above mentioned lines without comments.
 #         data_files:
 #             - file     : amor2020n001930.hdf
 #               created  : 2020-02-03T15:27:45
+# #         Qz             RQz              sR              sQ          lambda
 1.03563296e-02  1.08100068e+00  4.33909068e+00  5.17816478e-05  4.00000000e+00
 1.06717294e-02  1.06430511e+01  8.89252719e+00  5.33586471e-05  4.10000000e+00
 ...
