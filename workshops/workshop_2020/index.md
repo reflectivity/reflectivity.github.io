@@ -7,6 +7,8 @@ author: "Tom Arnold, Andrew McCluskey, Brian Maranville, Jochen Stahn and Jos Co
 
 Due to the cancellation of the SXNS16 conference, the planned ORSO satellite workshop was taken online. Over 40 of the worlds experts in X-ray and neutron reflectivity from various large-scale facilities took part in a successful meeting. Each of the working groups had a number of fruitful discussions and a list of actions has been created for each of the [working groups](https://www.reflectometry.org/working_groups/)
 
+A report for this meeting has now been published in [Neutron News](https://doi.org/10.1080/10448632.2021.1875749) and [Synchrotron Radiation News](https://doi.org/10.1080/08940886.2020.1812362)
+
 ![closing webinar](./ScreenShot2020.png)
 
 The meeting was held over 3 days: **26-28th May** and consisted of:
