@@ -17,7 +17,7 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 Upcoming events
 
 A general workshop is planned to include a wider attendance once per year.
-Due to the postponement of the SXNS meeting, this year the AGM will take online:
+Due to the postponement of the SXNS meeting, this year the AGM will take place online:
 
 |  Meeting or Workshop | Date and Time   |      Place      |
 |----------|:-------------:|:------:|
