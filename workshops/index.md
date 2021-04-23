@@ -12,7 +12,7 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
 
-## ORSO Workshops
+# ORSO Workshops
 
 ### Upcoming events
 
