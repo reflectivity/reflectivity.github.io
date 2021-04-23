@@ -4,7 +4,7 @@ title: "Workshops and Seminars"
 permalink: /workshops/
 ---
 
-### Seminars and Schools of Interest to the ORSO community
+# Seminars and Schools of Interest to the ORSO community
 
 ChemMatCARS has an Education and Outreach programme including a seminar series and training schools
 
@@ -12,9 +12,9 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
 
-### ORSO Workshops
+## ORSO Workshops
 
-## Upcoming events
+### Upcoming events
 
 A general workshop is planned to include a wider attendance once per year.
 Due to the postponement of the SXNS meeting, this year the AGM will take place online:
@@ -33,7 +33,7 @@ For most recent activities please check github issues for each working group:
 
 If you would like to participate in any of these meetings, sign up to the mailing list or contact the chair of the relevant working group directly.
 
-## Past events
+### Past events
 
 | Meeting or Workshop |      Date      |  Place |
 |----------|:-------------:|:------:|
