@@ -14,7 +14,16 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 
 ### ORSO Workshops
 
-Each of the ORSO working groups meet approximately quarterly to review open issues.
+Upcoming events
+
+A general workshop is planned to include a wider attendance once per year.
+Due to the postponement of the SXNS meeting, this year the AGM will take online:
+
+|  Meeting or Workshop | Date and Time   |      Place      |
+|----------|:-------------:|:------:|
+|  AGM | 14-18th June 2021 | Online details to follow shortly|
+
+Each of the ORSO working groups also meets approximately quarterly to review open issues.
 
 For most recent activities please check github issues for each working group:
 - [Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
@@ -22,7 +31,6 @@ For most recent activities please check github issues for each working group:
 - [File formats](https://github.com/reflectivity/file_format/issues)
 - [Data analysis](https://github.com/reflectivity/analysis/issues)
 
-A general workshop is planned to include a wider attendance once per year.
 If you would like to participate in any of these meetings, sign up to the mailing list or contact the chair of the relevant working group directly.
 
 Past events
@@ -36,8 +44,4 @@ Past events
 | File Formats | Sep 2020 | Online |
 |  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
 
-Future events
 
-|  Meeting or Workshop | Date and Time   |      Place      |
-|----------|:-------------:|:------:|
-|  AGM | June 2021 | Online |
