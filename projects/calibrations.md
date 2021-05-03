@@ -29,7 +29,7 @@ Things to get you thinking: (if you calibrate/measure something not on this list
 11. How do you measure the background levels for your beamline. Lots of things here (dark/quiet counts for detector noise, instrument background from cosmic noise, incoherent background during a reflectivity measurement from samples etc.)
 12. How do you calibrate your angle stages to ensure that when you move a degree they move a degree.
 13. How do you label your polarisation states?
-14. How do you measure the lateral coherence length of the beamline. (important for offspecular scattering, or if you have partial surface coverage; K Pappas and NIST papers)
-15. How do you measure guide structure. Using pinhole camera setup. Plus a special neutron camera. See Platypus paper
+14. How do you measure the lateral coherence length of the beamline. (important for offspecular scattering, or if you have partial surface coverage; [10.1103/PhysRevA.89.033851](https://doi.org/10.1103/PhysRevA.89.033851))
+15. How do you measure guide structure. Using pinhole camera setup. Plus a special neutron camera. See [Platypus paper](https://doi.org/10.1016/j.nima.2010.12.075)
  
  
