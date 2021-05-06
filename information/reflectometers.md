@@ -62,6 +62,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 
 The following publications on now inoperational instruments may also be of interest
 
-
+| Facility | Country | Instrument | Geometry | Polarisation | ToF | 
+| --- | --- | --- | --- | --- | --- | 
 | [CRISP 1987](http://dx.doi.org/10.1088/0022-3735/20/11/024) | [CRISP 1988 Applied Physics A](http://dx.doi.org/10.1007/BF02565206) | [CRISP 1988 Physica B](http://dx.doi.org/10.1016/S0921-4526(97)00535-8)| 
 | [V6 1995](http://dx.doi.org/10.1016/0921-4526(95)00317-3)| [V6 2011](http://dx.doi.org/10.1016/j.physb.2011.02.005)| [V6 2017](http://dx.doi.org/jlsrf-3-154)| 
