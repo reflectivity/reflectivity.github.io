@@ -11,14 +11,14 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 
 | Facility | Country | Instrument | Geometry | Polarisation | ToF | Intrument Publications | 
 | --- | --- | --- | --- | --- | --- | --- |
-| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes | [2011](https://dx.doi.org/10.1016/j.nima.2010.12.075)  [2012](https://dx.doi.org/10.1063/1.4738579)| 
+| [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes | [2011](https://dx.doi.org/10.1016/j.nima.2010.12.075),  [2012](https://dx.doi.org/10.1063/1.4738579)| 
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes | | 
-| BRR, KFKI | Hungary | GINA | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693) [2013](https://dx.doi.org/10.1063/1.4770129)| 
+| BRR, KFKI | Hungary | GINA | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| 
 | BRR, KFKI | Hungary | REF | Vertical | Yes | No | | 
-| CIAE, CARR | China | NR | Horizontal | No | No | | 
+| CIAE, CARR | China | NR | Horizontal | No | No | [2011](http://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | CSNS | China | MR | Vertical | Yes | Yes | | 
 | Bhaba (BARC) | India | PNR | Vertical | Yes | No | | 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No | | 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No | [2015](http://dx.doi.org/10.17815/jlsrf-1-29), [2018](http://dx.doi.org/10.1107/S1600576718006994)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MIRA | Vertical | Yes | No | | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | N-REX | Horizontal | Yes | No | | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | REFSANS | Horizontal | Yes | Yes | | 
@@ -57,3 +57,11 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | AMOR | Horizontal | Yes | Yes | | 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Morpheus | Vertical | Yes | No | | 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Narziss | Vertical | Yes | No | | 
+
+## Publications on historical instruments
+
+The following publications on now inoperational instruments may be of interest
+
+[CRISP 1987](http://dx.doi.org/10.1088/0022-3735/20/11/024)
+[CRISP 1988 Applied Physics A](http://dx.doi.org/10.1007/BF02565206)
+[CRISP 1988 Physica B](http://dx.doi.org/10.1016/S0921-4526(97)00535-8)
