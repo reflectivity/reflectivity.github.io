@@ -10,7 +10,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 ## Table of Neutron reflectometry instruments
 
 | Facility | Country | Instrument | Geometry | Polarisation | ToF | Intrument Publications | 
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes | [2011](https://dx.doi.org/10.1016/j.nima.2010.12.075)  [2012](https://dx.doi.org/ 10.1063/1.4738579)| 
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes | | 
 | BRR, KFKI | Hungary | GINA | Vertical | Yes | No | | 
