@@ -105,9 +105,8 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: #4682c7;
   text-decoration: none;
-  font-weight: 600;
 
   &:visited {
     color: darken($brand-color, 10%);
