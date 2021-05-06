@@ -21,7 +21,9 @@ All facilities have different access mechanisms, but most operate on a schedule 
   - [SINQ](https://www.psi.ch/en/sinq/beamtime-applications)
   - [SLS](https://www.psi.ch/en/sls/users-proposals)
 
-A list of reflectometers can be found [here](https://www.reflectometry.org/information/activities).
+or see information for specific instruments available at the
+
+  - [List of reflectometers](https://www.reflectometry.org/information/activities)
 
 * ### How can I get my data?
 
