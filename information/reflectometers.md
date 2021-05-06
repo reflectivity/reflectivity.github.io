@@ -15,17 +15,17 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes | | 
 | BRR, KFKI | Hungary | GINA | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| 
 | BRR, KFKI | Hungary | REF | Vertical | Yes | No | | 
-| CIAE, CARR | China | NR | Horizontal | No | No | [2011](http://dx.doi.org/10.1016/j.nima.2011.08.003)| 
+| CIAE, CARR | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | CSNS | China | MR | Vertical | Yes | Yes | | 
 | Bhaba (BARC) | India | PNR | Vertical | Yes | No | | 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No | [2015](http://dx.doi.org/10.17815/jlsrf-1-29), [2018](http://dx.doi.org/10.1107/S1600576718006994)| 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MIRA | Vertical | Yes | No | | 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | N-REX | Horizontal | Yes | No | | 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | REFSANS | Horizontal | Yes | Yes | | 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No | [2015](http:s//dx.doi.org/10.17815/jlsrf-1-29), [2018](https://dx.doi.org/10.1107/S1600576718006994)| 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MIRA | Vertical | Yes | No | [2007](https://dx.doi.org/10.1016/j.physb.2007.02.088) | 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | N-REX | Horizontal | Yes | No | [2015](https://dx.doi.org/10.17815/jlsrf-1-30) | 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | REFSANS | Horizontal | Yes | Yes | [2006](https://dx.doi.org/10.1016/j.physb.2006.05.399), [2015](https://dx.doi.org/10.17815/jlsrf-1-31) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | TREFF | Vertical | Yes | No | | 
-| HANARO | South Korea | REF-V | Vertical | No | No | | 
+| HANARO | South Korea | REF-V | Vertical | No | No | [2012](https://dx.doi.org/10.3938/NPSM.62.1112) | 
 | HANARO | South Korea | REF-H | Horizontal | No | No | | 
-| [ILL](https://www.ill.eu/) | France | [SuperADAM](https://www.ill.eu/users/instruments/instruments-list/superadam/description/instrument-layout/) | Vertical | Yes | No | | 
+| [ILL](https://www.ill.eu/) | France | [SuperADAM](https://www.ill.eu/users/instruments/instruments-list/superadam/description/instrument-layout/) | Vertical | Yes | No | [1998 1](https://dx.doi.org/10.1016/S0921-4526(97)00541-3), [1998 2](https://dx.doi.org/10.1016/S0921-4526(98)00263-4) | 
 | [ILL](https://www.ill.eu/) | France | [D16](https://www.ill.eu/users/instruments/instruments-list/d16/description/instrument-layout/) | Vertical | No | No | | 
 | [ILL](https://www.ill.eu/) | France | [D17](https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout/) | Vertical | Yes | Yes | | 
 | [ILL](https://www.ill.eu/) | France | [D50](https://www.ill.eu/users/instruments/instruments-list/d50/description/instrument-layout/) | Horizontal | No | No | | 
@@ -54,7 +54,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [SNS](https://neutrons.ornl.gov/) | USA | [Magnetism Reflectometer](https://neutrons.ornl.gov/mr) | Vertical | Yes | Yes | | 
 | WRR-M, PNPI | Russia | NR-4M | Vertical | Yes | Yes | | 
 | RINSC | USA | Reflectometer | Variable | No | Yes | | 
-| [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | AMOR | Horizontal | Yes | Yes | | 
+| [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | AMOR | Horizontal | Yes | Yes | [1996](http://dx.doi.org/10.1016/0921-4526(95)00972-8), [2000](http://dx.doi.org/10.1016/S0921-4526(99)01386-1), [2004](http://dx.doi.org/10.1007/BF02704051), [2016](http://dx.doi.org/10.1016/j.nima.2016.03.007)| 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Morpheus | Vertical | Yes | No | | 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Narziss | Vertical | Yes | No | | 
 
