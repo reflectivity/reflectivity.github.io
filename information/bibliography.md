@@ -9,7 +9,7 @@ We are collecting a list of reflectometry relevant papers here. Please let us kn
 Neutron references are covered well by [Adrian Rennie's bibliography](http://www.reflectometry.net/reflect_bib.htm) pages.
 Below are mostly X-ray relevant papers, but there are some neutron references too.
 
-Books for X-ray reflectometry
+# Books on reflectometry
 
 * Born M, Wolf E  Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light. (Pergoman Press 1959).
 *	B. E. Warren, X-ray Diffraction.  (Courier Corporation 1990).
@@ -19,6 +19,17 @@ Books for X-ray reflectometry
 *	P. S. Pershan, M. L. Schlossman, Liquid surfaces and interfaces.  (Cambride University Press 2012).
 *	Chapter 9. "Reflectivity at Liquid Interfaces" in O. H. Seeck, B. M. Murphy, X-ray Diffraction: Modern Experimental Techniques, vol. 1, pp. 444.(Pan Stanford 2015)
 *	[Bu W., Schlossman M. (2015) Synchrotron X-Ray Scattering from Liquid Surfaces and Interfaces. In: Jaeschke E., Khan S., Schneider J., Hastings J. (eds) Synchrotron Light Sources and Free-Electron Lasers. Springer, Cham.](/10.1007/978-3-319-04507-8_45-1)
+
+# Review Articles
+
+# Papers on Beamlines
+
+[Neutron beamlines](https://www.reflectometry.org/information/reflectometers/)
+[X-ray beamlines](https://www.reflectometry.org/information/xray_reflectometers/)
+
+# Papers on Reflectometry Sample Environments
+
+# Papers about Analysis
 
 Journal References for X-ray reflectometry
 
