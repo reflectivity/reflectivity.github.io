@@ -24,8 +24,8 @@ Below are mostly X-ray relevant papers, but there are some neutron references to
 
 # Papers on Beamlines
 
-[Neutron beamlines](https://www.reflectometry.org/information/reflectometers/)
-[X-ray beamlines](https://www.reflectometry.org/information/xray_reflectometers/)
+* [Neutron beamlines](https://www.reflectometry.org/information/reflectometers/)
+* [X-ray beamlines](https://www.reflectometry.org/information/xray_reflectometers/)
 
 # Papers on Reflectometry Sample Environments
 
