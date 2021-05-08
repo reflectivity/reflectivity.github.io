@@ -21,4 +21,6 @@ This page contains a list of the resources currently available on this website a
   * [List of reflectometry software](./software)
   * [Bibliography of reflectometry publications](./bibliography)
 
-  [//]: <> (* [Worldwide reflectometry activities](./activities))
+<!--
+* [Worldwide reflectometry activities](./activities)
+-->
