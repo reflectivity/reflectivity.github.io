@@ -17,12 +17,12 @@ The program will consist of scientific anf technical talks together with discuss
 ### Plenary Session 1
 09:00-12:00 (UK), 10:00-13:00 (Europe), 05:00-08:00 (US East coast), 18:00-21:00 (Australia East coast):
 - Summary of progress since the last meeting
-- 3-4 scientific talks (speakers to be confirmed
+- 3-4 scientific talks (speakers to be confirmed)
 
 ### Plenary Session 2
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 - Summary of progress since the last meeting
-- 3-4 scientific talks (speakers to be confirmed
+- 3-4 scientific talks (speakers to be confirmed)
 
 ## Tuesday 15.06.2021: Data Formats Working Group
 ### Session 1: The present state
@@ -70,7 +70,7 @@ The program will consist of scientific anf technical talks together with discuss
 ### Plenary Session 3
 22:00-00:00 (UK), 23:00-01:00 (Europe), 17:00-19:00 (US East coast), 07:00-09:00 (Australia East coast): 
 - Summary of working group discussions
-- Talks on the application of Machine Learning or Artifical Intelligence to Reflectometry
+- Talks on the application of Machine Learning or Artifical Intelligence to Reflectometry (speakers to be confirmed)
 
 # Registration:
 
