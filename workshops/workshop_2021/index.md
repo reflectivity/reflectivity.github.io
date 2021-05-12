@@ -34,7 +34,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Create a common dictionary for text and binary representation. Where possible and convenient we will take over the CanSAS dictionary.
 
 ### Session 3: Recommendations
-22:00-00:00 (UK), 23:00-01:00 (Europe), 17:00-19:00 (US East coast), 07:00-09:00 (Australia East coast): 
+21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
 - Development of criteria for what to include as meta data. Balance between readability and completeness for the text representation. Discuss the problematic of how to gather and include all the useful information for both representations.
 
 ## Wednesday 16.06.2021: Reproducibility Working Group
@@ -43,7 +43,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Agree on a set of standard samples and calibrations
 
 ### The reproducible experiment checklist
-22:00-00:00 (UK), 23:00-01:00 (Europe), 17:00-19:00 (US East coast), 07:00-09:00 (Australia East coast): 
+21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast):  
 - Create a checklist that a user can work through to ensure that their experiment could be reproducible
 
 ## Thursday 17.06.2021: Data Analysis Working Group
@@ -52,7 +52,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Software developers will demonstrate building the same model in each software package
 
 ### Software Discussion Session 
-22:00-00:00 (UK), 23:00-01:00 (Europe), 17:00-19:00 (US East coast), 07:00-09:00 (Australia East coast): 
+21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
 - Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
 - First steps toward a model language
 - Reference kernels
@@ -68,12 +68,12 @@ The program will consist of scientific anf technical talks together with discuss
 - Discussion of the content of the tutorial paper in preparation
 
 ### Plenary Session 3
-22:00-00:00 (UK), 23:00-01:00 (Europe), 17:00-19:00 (US East coast), 07:00-09:00 (Australia East coast): 
+21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
 - Summary of working group discussions
 - Talks on the application of Machine Learning or Artifical Intelligence to Reflectometry (speakers to be confirmed)
 
 # Registration:
 
-Registration is free. To register contact Tom Arnold by email (tom.arnold@ess.eu).
+Registration is free and will open shortly.
 
 
