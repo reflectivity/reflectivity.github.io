@@ -21,7 +21,7 @@ Due to the postponement of the SXNS meeting, this year the AGM will take place o
 
 |  Meeting or Workshop | Date and Time   |      Place      |
 |----------|:-------------:|:------:|
-|  AGM | 14-18th June 2021 | Online details to follow shortly|
+|  AGM | 14-18th June 2021 | [Online](./workshop_2021/) |
 
 Each of the ORSO working groups also meets approximately quarterly to review open issues.
 
