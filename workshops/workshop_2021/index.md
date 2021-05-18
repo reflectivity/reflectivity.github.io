@@ -4,17 +4,15 @@ title: "Workshop 2021"
 permalink: /workshops/workshop_2021/
 ---
 
-The Annual Genral Meeting of ORSO will take place online in June 2021.
+The Annual Genral Meeting of ORSO will take place online in 14th-18th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community.
+The program will consist of scientific anf technical talks together with discussion forums for each of the working groups
+
 ## [Registration is now open](https://indico.esss.lu.se/event/2745/overview)
 
-# Scope:
-
-The purpose of the meeting is to discuss topics of interest to the ORSO community.
-The program will consist of scientific anf technical talks together with discussion forums for each of the working groups
 
 # Agenda:
 
-## Monday 14.06.2021:
+## Monday 14th June:
 ### Plenary Session 1
 09:00-12:00 (UK), 10:00-13:00 (Europe), 05:00-08:00 (US East coast), 18:00-21:00 (Australia East coast):
 - Summary of progress since the last meeting
@@ -25,7 +23,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Summary of progress since the last meeting
 - 3-4 scientific talks (speakers to be confirmed)
 
-## Tuesday 15.06.2021: Data Formats Working Group
+## Tuesday 15th June: Data Formats Working Group
 ### Session 1: The present state
 10:00-11:00 (UK), 11:00-12:00 (Europe), 05:00-06:00 (US East coast), 19:00-20:00 (Australia East coast): 
 - This is essentially the formal aspects of the text representation plus some principle decisions.
@@ -38,7 +36,7 @@ The program will consist of scientific anf technical talks together with discuss
 21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
 - Development of criteria for what to include as meta data. Balance between readability and completeness for the text representation. Discuss the problematic of how to gather and include all the useful information for both representations.
 
-## Wednesday 16.06.2021: Reproducibility Working Group
+## Wednesday 16th June: Reproducibility Working Group
 ### The standard samples and calibrations project
 10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
 - Agree on a set of standard samples and calibrations
@@ -47,7 +45,7 @@ The program will consist of scientific anf technical talks together with discuss
 21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast):  
 - Create a checklist that a user can work through to ensure that their experiment could be reproducible
 
-## Thursday 17.06.2021: Data Analysis Working Group
+## Thursday 17th June: Data Analysis Working Group
 ### Software Demonstrations/Tutorials
 10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
 - Software developers will demonstrate building the same model in each software package
@@ -59,7 +57,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Reference kernels
 - Parallelisation strategies
 
-## Friday 18.06.2021: Education and Outreach Working Group and Concluding Plenary
+## Friday 18th June: Education and Outreach Working Group and Concluding Plenary
 ### The SLD database project
 10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
 - Progress of the SLD database project
@@ -75,6 +73,6 @@ The program will consist of scientific anf technical talks together with discuss
 
 # Registration:
 
-Registration is free and will open shortly.
+Registration is free is now [open](https://indico.esss.lu.se/event/2745/overview).
 
 
