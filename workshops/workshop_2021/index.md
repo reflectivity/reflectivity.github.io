@@ -5,6 +5,7 @@ permalink: /workshops/workshop_2021/
 ---
 
 The Annual Genral Meeting of ORSO will take place online in June 2021.
+## [Registration is now open](https://indico.esss.lu.se/event/2745/overview)
 
 # Scope:
 
