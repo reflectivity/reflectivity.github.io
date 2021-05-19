@@ -28,13 +28,13 @@ The program will consist of scientific anf technical talks together with discuss
 10:00-11:00 (UK), 11:00-12:00 (Europe), 05:00-06:00 (US East coast), 19:00-20:00 (Australia East coast): 
 - This is essentially the formal aspects of the text representation plus some principle decisions.
 
-### Session 2: A common dictionary for reflectometry
-11:00-12:30 (UK), 12:00-13:30 (Europe), 06:00-07:30 (US East coast), 20:00-21:30 (Australia East coast): 
-- Create a common dictionary for text and binary representation. Where possible and convenient we will take over the CanSAS dictionary.
-
-### Session 3: Recommendations
-21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
+### Session 2: Recommendations
+12:00-13:00 (UK), 13:00-14:00 (Europe), 07:00-08:00 (US East coast), 21:00-22:00 (Australia East coast): 
 - Development of criteria for what to include as meta data. Balance between readability and completeness for the text representation. Discuss the problematic of how to gather and include all the useful information for both representations.
+
+### Session 3: A common dictionary for reflectometry
+20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
+- Create a common dictionary for text and binary representation. Where possible and convenient we will take over the CanSAS dictionary.
 
 ## Wednesday 16th June: Reproducibility Working Group
 ### The standard samples and calibrations project
@@ -42,7 +42,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Agree on a set of standard samples and calibrations
 
 ### The reproducible experiment checklist
-21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast):  
+20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 - Create a checklist that a user can work through to ensure that their experiment could be reproducible
 
 ## Thursday 17th June: Data Analysis Working Group
@@ -51,7 +51,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Software developers will demonstrate building the same model in each software package
 
 ### Software Discussion Session 
-21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
+20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 - Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
 - First steps toward a model language
 - Reference kernels
@@ -67,7 +67,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Discussion of the content of the tutorial paper in preparation
 
 ### Plenary Session 3
-21:00-23:00 (UK), 22:00-00:00 (Europe), 16:00-18:00 (US East coast), 06:00-08:00 (Australia East coast): 
+20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 - Summary of working group discussions
 - Talks on the application of Machine Learning or Artifical Intelligence to Reflectometry (speakers to be confirmed)
 
