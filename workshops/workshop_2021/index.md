@@ -73,6 +73,6 @@ The program will consist of scientific anf technical talks together with discuss
 
 # Registration:
 
-Registration is free is now [open](https://indico.esss.lu.se/event/2745/overview).
+Registration is free and is now [open](https://indico.esss.lu.se/event/2745/overview).
 
 
