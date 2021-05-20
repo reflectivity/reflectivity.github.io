@@ -14,7 +14,7 @@ The program will consist of scientific anf technical talks together with discuss
 
 ## Monday 14th June:
 ### Plenary Session 1
-09:00-12:00 (UK), 10:00-13:00 (Europe), 05:00-08:00 (US East coast), 18:00-21:00 (Australia East coast):
+08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 - Summary of progress since the last meeting
 - 3-4 scientific talks (speakers to be confirmed)
 
