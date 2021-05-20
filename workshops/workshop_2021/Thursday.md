@@ -1,0 +1,11 @@
+# Thursday 17th June: Data Analysis Working Group
+## Software Demonstrations/Tutorials
+10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
+- Software developers will demonstrate building the same model in each software package
+
+## Software Discussion Session 
+20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
+- Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
+- First steps toward a model language
+- Reference kernels
+- Parallelisation strategies
