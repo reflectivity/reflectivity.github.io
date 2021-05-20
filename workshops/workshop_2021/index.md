@@ -37,7 +37,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 
 ## [Thursday 17th June: Data Analysis Working Group](./Thursday.md)
 
-## [Friday 18th June: Education and Outreach Working Group](./Friday) 
+## [Friday 18th June: Education and Outreach Working Group](./Friday.md) 
 
 ## Friday 18th June: Concluding Plenary Session
 
