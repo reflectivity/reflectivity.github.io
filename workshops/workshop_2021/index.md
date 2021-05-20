@@ -31,13 +31,13 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
 
-## [Tuesday 15th June: Data Formats Working Group](./Tuesday.md)
+## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
 
-## [Wednesday 16th June: Reproducibility Working Group](./Wednesday.md)
+## [Wednesday 16th June: Reproducibility Working Group](/workshops/workshop_2021/Wednesday.md/)
 
-## [Thursday 17th June: Data Analysis Working Group](./Thursday.md)
+## [Thursday 17th June: Data Analysis Working Group](/workshops/workshop_2021//Thursday.md)
 
-## [Friday 18th June: Education and Outreach Working Group](./Friday.md) 
+## [Friday 18th June: Education and Outreach Working Group](/workshops/workshop_2021//Friday.md) 
 
 ## Friday 18th June: Concluding Plenary Session
 
