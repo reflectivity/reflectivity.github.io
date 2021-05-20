@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Tuesday 15th June: Data Formats Working Group"
+permalink: /workshops/workshop_2021/Tuesday.md/
+---
 
 ## Session 1: The present state
 10:00-11:00 (UK), 11:00-12:00 (Europe), 05:00-06:00 (US East coast), 19:00-20:00 (Australia East coast): 
