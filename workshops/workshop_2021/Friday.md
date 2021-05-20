@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Friday 18th June: Education and Outreach Working Group"
+permalink: /workshops/workshop_2021/Friday.md/
+---
 
 ## The SLD database project
 10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
