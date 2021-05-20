@@ -25,7 +25,7 @@ The program will consist of scientific anf technical talks together with discuss
 - Summary of progress since the last meeting
 - 3-4 scientific talks (speakers to be confirmed)
 
-## Tuesday 15th June: Data Formats Working Group
+## [Tuesday 15th June: Data Formats Working Group](./Tuesday.md)
 ### Session 1: The present state
 10:00-11:00 (UK), 11:00-12:00 (Europe), 05:00-06:00 (US East coast), 19:00-20:00 (Australia East coast): 
 - This is essentially the formal aspects of the text representation plus some principle decisions.
