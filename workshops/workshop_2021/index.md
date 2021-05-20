@@ -16,7 +16,9 @@ The program will consist of scientific anf technical talks together with discuss
 ### Plenary Session 1
 08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 - Summary of progress since the last meeting
-- 3-4 scientific talks (speakers to be confirmed)
+- 3-4 scientific talks 
+#### Confirmed Speakers
+- Hiroyuki Aoki, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
 
 ### Plenary Session 2
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
@@ -70,6 +72,8 @@ The program will consist of scientific anf technical talks together with discuss
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 - Summary of working group discussions
 - Talks on the application of Machine Learning or Artifical Intelligence to Reflectometry (speakers to be confirmed)
+#### Confirmed Speakers
+- Joshanial Cooper, STFC, UK.
 
 # Registration:
 
