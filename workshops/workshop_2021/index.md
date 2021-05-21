@@ -47,6 +47,7 @@ In the final session of the workshop we will summarise the working group discuss
 
 #### Confirmed Speakers
 - Joshanial Cooper, STFC, UK.
+- Stefan Kowarik, Graz University of Technology, Austria.
 
 # Registration:
 
