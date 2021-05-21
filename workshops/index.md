@@ -4,6 +4,13 @@ title: "Workshops and Seminars"
 permalink: /workshops/
 ---
 
+# Upcoming events
+
+## The [ORSO AGM](./workshop_2021/) take place online 14-18th June 2021 
+
+The Annual Genral Meeting of ORSO will take place online in 14th-18th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community. The program will consist of scientific anf technical talks together with discussion forums for each of the working groups.
+
+
 # Seminars and Schools of Interest to the ORSO community
 
 ChemMatCARS has an Education and Outreach programme including a seminar series and training schools
@@ -12,18 +19,9 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
 
-# ORSO Workshops
+# Historical ORSO Workshops
 
-### Upcoming events
-
-A general workshop is planned to include a wider attendance once per year.
-Due to the postponement of the SXNS meeting, this year the AGM will take place online:
-
-|  Meeting or Workshop | Date and Time   |      Place      |
-|----------|:-------------:|:------:|
-|  AGM | 14-18th June 2021 | [Online](./workshop_2021/) |
-
-Each of the ORSO working groups also meets approximately quarterly to review open issues.
+Each of the ORSO working groups meets in between AGMs to review open issues. These meetings are advertised through the ORSO mailing list.
 
 For most recent activities please check github issues for each working group:
 - [Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
