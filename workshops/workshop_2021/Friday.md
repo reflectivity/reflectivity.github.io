@@ -14,7 +14,8 @@ This session will present progress of the [SLD database project](https://github.
 - Database entries: possible columns; minimum columns; tag options
 - ORSO procedure for validating input data 
 - If there's time... Actual DB implementation, package, modules, classes, unit tests
- 
+
+For impressions on the implementation of the database see [SLDDB_screenshots.pdf](SLDDB_screenshots.pdf')
 
 ## A tutorial paper on the analysis of reflectometry
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 23:00-01:00 (Australia East coast): 
