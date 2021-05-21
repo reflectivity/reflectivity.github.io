@@ -6,6 +6,7 @@ permalink: /workshops/workshop_2021/Friday.md/
 
 ## The SLD database project
 10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
+
 This session will present progress of the [SLD database project](https://github.com/reflectivity/edu_outreach/issues/2). The session will be a series of panel discussions on the following topics
 - Live presentation of SLD DB web interface
 - Example usage from other software with the python API and HTTP interface
