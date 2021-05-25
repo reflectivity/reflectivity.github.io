@@ -33,7 +33,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
-- Binhua Lin, University of Chicago, USA
+- Binhua Lin, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
 
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
