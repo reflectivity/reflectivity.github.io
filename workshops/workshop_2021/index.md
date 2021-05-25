@@ -24,12 +24,16 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
 - Hiroyuki Aoki, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
+- Tom Hase, University of Warwick, UK
+- Stuart Prescott, University of New South Wales, Australia
+- Nina-Juliane Steinke, Institut Laue-Langevin, France
 
 ### Plenary Session 2
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
+
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
 
