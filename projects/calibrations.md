@@ -34,7 +34,9 @@ Things to get you thinking: (if you calibrate/measure something not on this list
  
  
  ## [Platypus TOF reflectometer at ANSTO](https://doi.org/10.1016/j.nima.2010.12.075)
+ 
  ### Wavelength calibration
+ 
  1. Optically align the instrument with a theodolite so everything is roughly in a straight line.
  2. Optically align the instrument with neutrons for the collimation slits (slits 2 and 3) by scanning the upper blade past the lower blade and see when counts start to increase, the zero opening is when counts diverge from 0. On Platypus we have ~micron accuracy and reproducibility for these two slits which is essential for measuring samples without a critical edge.
  3. Optically align the instrument for slits 1 and 4 (pre and post collimation slits), such that the slit openings open around the beam defined by slits 2 and 3.
