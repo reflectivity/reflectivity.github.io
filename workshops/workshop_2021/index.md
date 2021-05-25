@@ -33,6 +33,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
+- Binhua Lin, University of Chicago, USA
 
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
