@@ -24,17 +24,17 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
 - **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
-- Tom Hase, University of Warwick, UK
-- Stuart Prescott, University of New South Wales, Australia
-- Nina-Juliane Steinke, Institut Laue-Langevin, France
+- **Tom Hase**, University of Warwick, UK
+- **Stuart Prescott**, University of New South Wales, Australia
+- **Nina-Juliane Steinke**, Institut Laue-Langevin, France
 
 ### Plenary Session 2
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
-- Tim Charlton, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
-- Binhua Lin, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
+- **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
+- **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
 
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
@@ -52,8 +52,8 @@ In the final session of the workshop we will summarise the working group discuss
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- Joshanial Cooper, STFC, UK.
-- Stefan Kowarik, Graz University of Technology, Austria.
+- **Joshanial Cooper**, STFC, UK.
+- **Stefan Kowarik**, Graz University of Technology, Austria.
 
 # Registration:
 
