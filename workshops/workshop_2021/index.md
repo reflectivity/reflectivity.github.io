@@ -14,7 +14,7 @@ The program will consist of scientific anf technical talks together with discuss
 
 ## Monday 14th June: Plenary Sessions
 
-The pleanry sessions will introduce ORSO abd summarise our activities since the last meeting. 
+The pleanry sessions will introduce ORSO and summarise our activities since the last meeting. 
 There will also be up to 8 scientific talks on subjects of interest to the ORSO community (speakers to be confirmed).
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary session and post the videos here after the meeting.
 
