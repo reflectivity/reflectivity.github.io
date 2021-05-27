@@ -17,7 +17,7 @@ andrew.mccluskey@ess.eu
         <br>
         <h4>Education and Outreach</h4></a>
         Improve <a href="../information/learning">understanding of reflectometry techniques</a><br>
-        Catalogue information about <a href="../information/activities">reflectometry methods and software</a><br><br>
+        Catalogue information about <a href="../information/">reflectometry methods and software</a><br><br>
     </td>
     <td class="tt">
       <a class="tt" href="./file_formats/">
