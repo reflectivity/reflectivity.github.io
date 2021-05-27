@@ -23,7 +23,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
-- Hiroyuki Aoki, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
+- **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
 - Tom Hase, University of Warwick, UK
 - Stuart Prescott, University of New South Wales, Australia
 - Nina-Juliane Steinke, Institut Laue-Langevin, France
