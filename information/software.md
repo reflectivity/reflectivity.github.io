@@ -46,6 +46,8 @@ The following links provide information about computer programs used for the ana
 
 ## Other Reflectometry fitting Software
 
+*   Analyzer is an analysis tool from the ChemMatCARS beamline at APS. Data fitting software for the following liquid surface scattering techniques: X-ray reflectivity (XR), grazing incidence X-ray diffraction (GIXD), X-ray fluorescence near total reflection (XFNTR), and grazing incidence X-ray off-specular scattering (GIXOS). [https://chemmatcars.uchicago.edu/facilities/software/](https://chemmatcars.uchicago.edu/facilities/software/)
+
 *   AFIT written by Paul Thirtle (3.1) is available from Oxford.  
     [http://physchem.ox.ac.uk/~rkt/afit.html](http://physchem.ox.ac.uk/~rkt/afit.html)
 
