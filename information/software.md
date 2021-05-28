@@ -41,7 +41,7 @@ The following links provide information about computer programs used for the ana
     [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
 
 *   GenX - a program that uses a genetic algorithm to refine model fits to reflectivity data writen by Matts Björck, Uppsala University.  
-    [http://genx.sourceforge.net/](http://genx.sourceforge.net/)
+    [https://aglavic.github.io/genx/index.html](https://aglavic.github.io/genx/index.html)
 
 
 ## Other Reflectometry fitting Software
