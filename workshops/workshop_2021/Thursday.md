@@ -9,7 +9,7 @@ permalink: /workshops/workshop_2021/Thursday.md/
 Software developers will demonstrate building the same model in each software package
 Confirmed speakers:
 - **Andrew Nelson:** [RefNX](https://www.github.com/refnx/refnx)
-- **Artur Glavic:** [GenX](http://genx.sourceforge.net/)
+- **Artur Glavic:** [GenX](https://aglavic.github.io/genx/index.html)
 - **Joachim Wuttke:** [BornAgain](http://bornagainproject.org)
 - **Arwel Hughes:** RasCAL2
 - **Brian Maranville:** [Refl1D](https://github.com/reflectometry/refl1d)
