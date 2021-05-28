@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Universal Descriptive Model Language"
-permalink: /model_language/
+permalink: /projects/model_language/
 ---
