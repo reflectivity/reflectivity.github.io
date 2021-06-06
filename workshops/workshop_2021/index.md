@@ -24,7 +24,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 #### Confirmed Speakers
 - The ORSO Chairs. Summary of progress since the last meeting
 - **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
-- **Tom Hase**, University of Warwick, UK
+- **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles"
 - **Stuart Prescott**, University of New South Wales, Australia
 - **Nina-Juliane Steinke**, Institut Laue-Langevin, France
 
@@ -53,7 +53,7 @@ In the final session of the workshop we will summarise the working group discuss
 
 #### Confirmed Speakers
 - **Joshanial Cooper**, STFC, UK.
-- **Stefan Kowarik**, Graz University of Technology, Austria.
+- **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data"
 - **Juan Carmona Loaiza**, Reply Machine Learning, Germany.
 
 # Registration:
