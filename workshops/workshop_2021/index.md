@@ -22,20 +22,25 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 
 #### Confirmed Speakers
+- 10min Introduction
+- 30min **Stuart Prescott**, University of New South Wales, Australia
+- 30min **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
+- 30min **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles"
+- 30min **Nina-Juliane Steinke**, Institut Laue-Langevin, France
 - The ORSO Chairs. Summary of progress since the last meeting
-- **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
-- **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles"
-- **Stuart Prescott**, University of New South Wales, Australia
-- **Nina-Juliane Steinke**, Institut Laue-Langevin, France
+  - 15min Data Formats: Jochen
+  - 15min Education and Outreach: Bridget
+
 
 ### Plenary Session 2
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- The ORSO Chairs. Summary of progress since the last meeting
 - **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
 - **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
-
+- The ORSO Chairs. Summary of progress since the last meeting
+  - Data Analysis: Brian
+  - Reproducibility: Andrew M
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
 
