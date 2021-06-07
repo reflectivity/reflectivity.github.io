@@ -5,7 +5,7 @@ permalink: /workshops/workshop_2021/Thursday.md/
 ---
 
 ## Software Demonstrations/Tutorials
-10:00-12:00 (UK), 11:00-13:00 (Europe), 05:00-07:00 (US East coast), 19:00-21:00 (Australia East coast): 
+12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast): 
 
 Software developers will demonstrate building the same model in each software package
 
