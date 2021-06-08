@@ -52,7 +52,7 @@ defined**. Thus here only the format, but not the content is mendatory.
 #     name        : Jochen Stahn
 #     affiliation : PSI
 #     time        : 2020-04-06T13:21:18
-#     system      : lnsa17.psi.ch
+#     computer    : lnsa17.psi.ch
 # data_source:
 #     owner              : Jochen Stahn, PSI
 #     facility           : Paul Scherrer Institut, SINQ
@@ -117,6 +117,13 @@ Artur suddggested the following naming convention:
 #     - {name: omega, unit: deg, dimension: angle}
 ```
 
+In case there are multiple data sets (see below) it might be necessary to provide an
+*identifier* also for the first data set. Thus there can be the optional line
+
+```
+# data set: <identifier>
+```
+
 Optionally, the last line might be a short-notation description
 
 ```
@@ -163,7 +170,7 @@ If more than one data set is provided, they are saparated by a line starting wit
 ```
 
 where `<identifier>` is either an unique name or a number. The default numbering 
-of dats sets starts with 0, the first additional one thus gets number 2 and so on.
+of dats sets starts with 0, the first additional one thus gets number 1 and so on.
 
 #### overwrite meta data
 
@@ -217,7 +224,7 @@ all of the above mentioned lines without comments.
 #     name        : Jochen Stahn
 #     affiliation : PSI
 #     time        : 2020-04-06T13:21:18
-#     system      : lnsa17.psi.ch
+#     computer    : lnsa17.psi.ch
 # data_source:
 #     owner              : Jochen Stahn, PSI
 #     facility           : Paul Scherrer Institut, SINQ
@@ -262,6 +269,7 @@ all of the above mentioned lines without comments.
 #     - {name: sQz, unit: 1/angstrom, dimension: resolution-WW transfer}
 #     - {name: lambda, unit: angstrom, dimension: wavelength}
 #     - {name: omega, unit: deg, dimension: angle}
+# data set: ni1000_up
 # #         Qz             RQz              sR              sQ          lambda
 1.03563296e-02  3.88100068e+00  4.33909068e+00  5.17816478e-05  4.00000000e+00 
 1.06717294e-02  1.16430511e+01  8.89252719e+00  5.33586471e-05  4.10000000e+00
