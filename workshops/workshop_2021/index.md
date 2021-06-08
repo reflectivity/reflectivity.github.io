@@ -22,7 +22,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 
 #### Confirmed Speakers
-- 10min: **Tom Arnold** Introduction
+- 15min: **Tom Arnold** Introduction
 - 30min: **Stuart Prescott**, University of New South Wales, Australia
 - 30min: **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
 - 30min: **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles"
@@ -36,7 +36,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- 10min: **Tom Arnold** Introduction
+- 15min: **Tom Arnold** Introduction
 - 30min: **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
 - 30min: **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
 - 30min: **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?"
