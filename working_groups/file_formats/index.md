@@ -35,8 +35,9 @@ The two representations are:
   This sets some limits to the content, since this readability gets lost if the header gets too long,
   if it contains too much information not needed by humans, or if various data sets are combined.
   
-  The target group of this representation is the scientist who wants a *reflectivity file* containing the
+  The target group of this representation are the scientists who want a *reflectivity file* containing the
   *R(q)* curve with errors, resolution and some information about its history. 
+  
   Also this representation is completely sufficient for most of nowaday's data analysis or visualisation programs.
 - A binary document in hdf format: this contains as much information as (reasonably) possible - and needed for further
   processing. E.g. the data file of the reduced data should not contain all the raw data file information, but just
