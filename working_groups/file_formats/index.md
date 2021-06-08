@@ -4,7 +4,7 @@ title: "File Formats"
 permalink: /working_groups/file_formats/
 ---
 
-<i "fas fa-file-code fa-5x">
+<i class="fas fa-file-code fa-5x"></i>
 
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity.
 This is an important goal to move towards interoperability across facilities.
