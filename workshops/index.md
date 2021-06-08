@@ -11,13 +11,16 @@ permalink: /workshops/
 The Annual Genral Meeting of ORSO will take place online in 14th-18th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community. The program will consist of scientific anf technical talks together with discussion forums for each of the working groups.
 
 
-# Seminars and Schools of Interest to the ORSO community
+# Events of Interest to the ORSO community
+
+[SXNS16](www.sxns16.org) has been recheduled for Jan 2022
 
 ChemMatCARS has an Education and Outreach programme including a seminar series and training schools
 
 - [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
+ISIS online neutron reflectivity school is planned for Novemebr 22nd-26th 2021
 
 # Historical ORSO Workshops
 
