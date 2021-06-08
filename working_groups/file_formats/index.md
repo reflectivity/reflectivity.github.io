@@ -7,6 +7,44 @@ permalink: /working_groups/file_formats/
 This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity.
 This is an important goal to move towards interoperability across facilities.
 
+## the principles
+
+- **inter-operability**: The format allows the data to be processed by a wide variety of software.
+  This of course requires the software developers to use the same standard.
+- **reusability**: The file contains sufficient information to process (or interprete) its content.
+- **correctness**: All quantities in the data file are well defined, labeled and come with an appropriate unit.
+- **ownership**: It must be clear from the content who the owner of the original data is and who
+  processed it.
+- **reproducability**: The data set contains enough information to recreate it from the raw data.
+
+## target audience
+
+In general this is everyone dealing with reflectometry data. This includes the scientists using 
+reflectometry as a tool, beamline scientists who see it as their profession and programmers writing 
+reduction and analysis software. It is thus not trivial to cover all needs and preferences with
+just one format representation.
+
+During various discussions we came to the conclusion to define *one format* which might be
+expressed in (at least) *two representations*.
+The format is defined by some hirarchy, a dictionary and rules for mandatory, recommended and optional information. 
+
+The two representations are:
+
+- An ASCII formatted documet with the common header - data set structure. 
+  The essential feature of this document is, that it is easily human readable.
+  This sets some limits to the content, since this readability gets lost if the header gets too long,
+  if it contains too much information not needed by humans, or if various data sets are combined.
+  
+  The target group of this representation is the scientist who wants a *reflectivity file* containing the
+  *R(q)* curve with errors, resolution and some information about its history. 
+  Also this representation is completely sufficient for most of nowaday's data analysis or visualisation programs.
+- A binary document in hdf format: this contains as much information as (reasonably) possible - and needed for further
+  processing. E.g. the data file of the reduced data should not contain all the raw data file information, but just
+  enough to trace it back and to allow for analysis.
+
+  The hdf format allows for more precise (and complicated) data treatment. E.g. the real resolution of the measurement
+  can be used, rather than the averaged one, pressed into a Gaussian distribution.
+
 ## previous workshops:
 
 ### Workshop on the text representation, 2021-03-22
