@@ -12,6 +12,8 @@ The program will consist of scientific anf technical talks together with discuss
 
 # Agenda:
 
+A more detailed agenda is now available [here](https://indico.esss.lu.se/event/2745/timetable/#20210614) using the european time zone.
+
 ## Monday 14th June: Plenary Sessions
 
 The pleanry sessions will introduce ORSO and summarise our activities since the last meeting. 
