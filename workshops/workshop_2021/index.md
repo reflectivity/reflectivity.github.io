@@ -65,7 +65,7 @@ In the final session of the workshop we will summarise the working group discuss
 - Summary of the working group sessions
 - **Joshanial Cooper**, STFC, UK.
 - **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data"
-- **Juan Carmona Loaiza**, Reply Machine Learning, Germany.
+- **Juan Carmona Loaiza**, Reply Machine Learning, Germany. "Towards reflectivity profile inversion through artificial neural networks"
 
 # Registration:
 
