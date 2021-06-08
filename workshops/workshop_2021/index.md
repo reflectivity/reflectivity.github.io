@@ -39,7 +39,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 - 10min: **Tom Arnold** Introduction
 - 30min: **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
 - 30min: **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
-- 30min: to be confirmed
+- 30min: **Ray Osborn**, Argonne National Laboratory, USA
 - 30min: to be confirmed 
 - The ORSO Chairs. Summary of progress since the last meeting
   - 15min: Data Analysis: **Brian Maranville**
