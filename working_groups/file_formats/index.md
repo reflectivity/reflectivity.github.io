@@ -45,6 +45,23 @@ The two representations are:
 
   The hdf format allows for more precise (and complicated) data treatment. E.g. the real resolution of the measurement
   can be used, rather than the averaged one, pressed into a Gaussian distribution.
+  
+## state of the project:
+
+- structure
+- ASCII representation: The header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
+  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and resolution. The present state with
+  reasoning and open issues is presented [here](../../projects/file_formats/tasks/text_representation.md).
+- HDF representation: At an early stage. It was essentilly agreed to use a common subset of YAML and HDF5. This means
+  amoung other things not to use attributes.
+
+## next steps
+
+- close open issues with the ASCII representation
+- work on the dictionary and the definitions
+
+- testing ASCII representation in real life
+- start on HDF representation
 
 ## previous workshops:
 
