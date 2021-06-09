@@ -71,7 +71,7 @@ reflectivity.github.io/projects/file_formats/tasks/meeting_2021-03-22.md
 
 ---
 
-## contact and co-chairs
+### contact and co-chairs
 
 - [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
 - [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
