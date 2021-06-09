@@ -63,7 +63,7 @@ In the final session of the workshop we will summarise the working group discuss
 
 #### Confirmed Speakers
 - Summary of the working group sessions
-- **Joshanial Cooper**, STFC, UK.
+- **Jos Cooper and James Durant**, ISIS Neutron and Muon Source, UK. "Reflectivity Analysis, Old Methods and New: Neural Networks and Instant Uncertainty Quantification From the Fisher Information"
 - **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data"
 - **Juan Carmona Loaiza**, Reply Machine Learning, Germany. "Towards reflectivity profile inversion through artificial neural networks"
 
