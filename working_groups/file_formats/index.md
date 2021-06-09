@@ -49,12 +49,17 @@ The two representations are:
   
 ## state of the project:
 
-- structure
-- ASCII representation: The header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
-  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and resolution. The present state with
-  reasoning and open issues is presented [here](../../projects/file_formats/tasks/text_representation.md).
-- HDF representation: At an early stage. It was essentilly agreed to use a common subset of YAML and HDF5. This means
-  amoung other things not to use attributes.
+
+reflectivity.github.io/projects/file_formats/tasks/meeting_2021-03-22.md 
+- **common structure**: We aim for a common structure (hirarchy) and nomenclature (dictionary and definitions) for all representations.
+  To simplyfy conversions and to be prepared for future developments, it was agreed to use a common subset of YAML and HDF5. 
+  This means amoung other things not to use attributes in HDF.
+- **ASCII representation**:
+  ([stat of the discussion](../../projects/file_formats/tasks/meeting_2021-03-22.md) and 
+  [example](../../projects/file_formats/tasks/text_representation.md)) 
+  In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
+  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and resolution. 
+- **HDF representation**: At an early stage... 
 
 ## next steps
 
@@ -63,6 +68,15 @@ The two representations are:
 
 - testing ASCII representation in real life
 - start on HDF representation
+
+---
+
+## contact and co-chairs
+
+- [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
+- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
+
+---
 
 ## previous workshops:
 
@@ -148,9 +162,4 @@ there (as well as to the general discussions):
       data reduction software and report on problems and
       successes
 
----
 
-## Co-chairs
-
-- [Jochen Stahn (PSI)](mailto:jochen.stahn@psi.ch)
-- [Max Skoda (ISIS)](mailto:Maximilian.Skoda@stfc.ac.uk)
