@@ -12,7 +12,6 @@ This is an important goal to move towards interoperability across facilities.
 ## the principles
 
 - **inter-operability**: The format allows the data to be processed by a wide variety of software.
-  This of course requires the software developers to use the same standard.
 - **reusability**: The file contains sufficient information to process (or interprete) its content.
 - **correctness**: All quantities in the data file are well defined, labeled and come with an appropriate unit.
 - **ownership**: It must be clear from the content who the owner of the original data is and who
