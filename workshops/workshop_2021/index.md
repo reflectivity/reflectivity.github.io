@@ -42,7 +42,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 - **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
 - **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
 - **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?"
-- To be confirmed 
+- **Ben Ocko**, National Synchrotron Light Source II, Brookhaven National Laboratory, USA. "35 years of x-ray reflectivity at NSLS & NSLS II:  science hiding in small features and the new kid (instrument) on the block."
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis: **Brian Maranville**
   - Reproducibility: **Andrew McCluskey**
