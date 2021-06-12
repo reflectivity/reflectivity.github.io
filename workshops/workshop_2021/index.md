@@ -25,7 +25,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction
-- **Stuart Prescott**, University of New South Wales, Australia
+- **Stuart Prescott**, University of New South Wales, Australia. "Reproducible science in the neutron reflection context"
 - **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography"
 - **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles"
 - **Nina-Juliane Steinke**, Institut Laue-Langevin, France
