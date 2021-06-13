@@ -9,7 +9,7 @@ The program will consist of scientific anf technical talks together with discuss
 
 ## Registration is now closed
 
-If you wish have not registered and wish to attend the meeting, please contact [Tom](mailto:tom.arnold@ess.eu
+If you wish have not registered and wish to attend the meeting, please contact [Tom](mailto:tom.arnold@ess.eu)
 
 # Agenda:
 
