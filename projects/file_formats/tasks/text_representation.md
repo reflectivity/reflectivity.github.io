@@ -38,7 +38,7 @@ with the reasoning
 - 'ORSO' at the beginning facilitates format checking of the file without the need of further analysis
 - we could allow variations, which can be read in the ame way, e.g.:
   `# ORSO reflectivity simulation file |...`
-- each block should start with the most relevant information in order to minimise the risk of incorrect headers (e.g. incorrect number of tabs/spaces
+- each block should start with the most relevant information in order to minimise the risk of incorrect headers (e.g. incorrect number of tabs/spaces)
 
 The double hash is needed, because this line is not YAML compatible.
 
