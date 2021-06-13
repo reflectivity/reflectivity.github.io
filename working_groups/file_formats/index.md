@@ -74,6 +74,9 @@ The two representations are:
 
 ## next steps
 
+workshop 2021-06-14
+[material for session 1](../../projects/file_formats/tasks/ws_2021-06_text.md)
+
 - close open issues with the ASCII representation
 - work on the dictionary and the definitions
 
