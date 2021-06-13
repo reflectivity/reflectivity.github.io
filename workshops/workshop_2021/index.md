@@ -68,8 +68,4 @@ In the final session of the workshop we will summarise the working group discuss
 - **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data"
 - **Juan Carmona Loaiza**, Reply Machine Learning, Germany. "Towards reflectivity profile inversion through artificial neural networks"
 
-# Registration:
-
-Registration is free and is now [open](https://indico.esss.lu.se/event/2745/overview).
-
 
