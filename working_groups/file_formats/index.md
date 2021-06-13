@@ -11,12 +11,23 @@ This is an important goal to move towards interoperability across facilities.
 
 ## the principles
 
+The data files should fulfill the following principles:
+
 - **inter-operability**: The format allows the data to be processed by a wide variety of software.
 - **reusability**: The file contains sufficient information to process (or interprete) its content.
 - **correctness**: All quantities in the data file are well defined, labeled and come with an appropriate unit.
 - **ownership**: It must be clear from the content who the owner of the original data is and who
   processed it.
 - **reproducability**: The data set contains enough information to recreate it from the raw data.
+
+### and the real life
+
+It will not always be easy to follow these principles because of
+
+- old habits
+- *wrong* but established usage of terms
+- a limited availability of information
+- difficulties to include information in the file 
 
 ## target audience
 
@@ -31,7 +42,7 @@ The format is defined by some hirarchy, a dictionary and rules for mandatory, re
 
 The two representations are:
 
-- An ASCII formatted documet with the common header - data set structure. 
+- An **ASCII formatted documet** with the common header - data set structure. 
   The essential feature of this document is, that it is easily human readable.
   This sets some limits to the content, since this readability gets lost if the header gets too long,
   if it contains too much information not needed by humans, or if various data sets are combined.
@@ -40,7 +51,7 @@ The two representations are:
   *R(q)* curve with errors, resolution and some information about its history. 
   
   Also this representation is completely sufficient for most of nowaday's data analysis or visualisation programs.
-- A binary document in hdf format: this contains as much information as (reasonably) possible - and needed for further
+- A **binary document in hdf format**: this contains as much information as (reasonably) possible - and needed for further
   processing. E.g. the data file of the reduced data should not contain all the raw data file information, but just
   enough to trace it back and to allow for analysis.
 
@@ -49,14 +60,14 @@ The two representations are:
   
 ## state of the project:
 
-
-reflectivity.github.io/projects/file_formats/tasks/meeting_2021-03-22.md 
-- **common structure**: We aim for a common structure (hirarchy) and nomenclature (dictionary and definitions) for all representations.
+- **common structure**: We aim for a common structure (hirarchy) and nomenclature 
+  (**[dictionary](../../projects/file_formats/dictionaries.md)** and 
+  **[definitions](../../projects/file_formats/definitions.md)**) for all representations.
   To simplyfy conversions and to be prepared for future developments, it was agreed to use a common subset of YAML and HDF5. 
   This means amoung other things not to use attributes in HDF.
 - **ASCII representation**:
-  ([stat of the discussion](../../projects/file_formats/tasks/meeting_2021-03-22.md) and 
-  [example](../../projects/file_formats/tasks/text_representation.md)) 
+  (**[stat of the discussion](../../projects/file_formats/tasks/meeting_2021-03-22.md)** and 
+  **[example](../../projects/file_formats/tasks/text_representation.md)**) 
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
   matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and resolution. 
 - **HDF representation**: At an early stage... 
