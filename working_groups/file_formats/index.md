@@ -6,7 +6,7 @@ permalink: /working_groups/file_formats/
 
 <i class="fas fa-file-code fa-5x"></i>
 
-This working group aims to draft a spec for a standard file format to be used across X-ray and neutron reflectivity.
+This working group aims to draft a specification for a standard file format to be used across X-ray and neutron reflectivity.
 This is an important goal to move towards interoperability across facilities.
 
 ## the principles
@@ -18,7 +18,7 @@ The data files should fulfill the following principles:
 - **correctness**: All quantities in the data file are well defined, labeled and come with an appropriate unit.
 - **ownership**: It must be clear from the content who the owner of the original data is and who
   processed it.
-- **reproducability**: The data set contains enough information to recreate it from the raw data.
+- **reproducibility**: The data set contains enough information to recreate it from the raw data.
 
 ### and the real life
 
@@ -42,7 +42,7 @@ The format is defined by some hirarchy, a dictionary and rules for mandatory, re
 
 The two representations are:
 
-- An **ASCII formatted documet** with the common header - data set structure. 
+- An **ASCII formatted document** with the common header - data set structure. 
   The essential feature of this document is, that it is easily human readable.
   This sets some limits to the content, since this readability gets lost if the header gets too long,
   if it contains too much information not needed by humans, or if various data sets are combined.
