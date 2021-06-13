@@ -32,20 +32,20 @@ or
 ## ORSO reflectivity data file | 0.1 standard | JSON encoding | https://www.reflectometry.org/
 ```
 
-with the reasoning (to be translated...)
+with the reasoning
 
-- Die einzelnen Komponenten lassen sich leicht separieren, da spezieller String
-- ORSO am Anfang zu haben ist hilfreich, da man dann nur gegen diesen String checken muss um andere Formate auszuschließen ohne große Analyse.
-- Wir könnten so auch Varianten zulassen, welche genauso gelesen werden können. Z.B. 
+- the special string enables separation of the individual components
+- 'ORSO' at the beginning facilitates format checking of the file without the need of further analysis
+- we could allow variations, which can be read in the ame way, e.g.:
   `# ORSO reflectivity simulation file |...`
-- Bei jedem Block wird mit der relevanten Information gestartet, das macht es weniger anfällig auf Fehler durch fehlerhaft geschriebene Header. (Z.B. wenn jemand die falsche Anzahl Leerzeichen verwendet etc.
+- each block should start with the most relevant information in order to minimise the risk of incorrect headers (e.g. incorrect number of tabs/spaces
 
 The double hash is needed, because this line is not YAML compatible.
 
 ### meta data (the header)
 
-What follwos arev several blocks with meta data, where the **dictionary is not yet
-defined**. Thus here only the format, but not the content is mendatory.
+What follows are several blocks with meta data, where the **dictionary is not yet
+defined**. Thus here only the format, but not the content is mandatory.
 
 ```
 # creator:
