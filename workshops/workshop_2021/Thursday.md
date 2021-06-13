@@ -7,7 +7,10 @@ permalink: /workshops/workshop_2021/Thursday.md/
 ## Software Demonstrations/Tutorials
 12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast): 
 
-Software developers will demonstrate building the same model in each software package
+Software developers will demonstrate building the same model in each software package.
+The target dataset is formatted according to the draft standard for text representation of a reflectivity data file: 
+[Example Data File](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_example.ort)
+
 
 ### Confirmed speakers:
 - **Andrew Nelson:** [RefNX](https://www.github.com/refnx/refnx)
