@@ -71,11 +71,11 @@ data source
         owner
         : NX_CHAR
         : Name of the owner of the raw data facility
-        : Name of the facility where the measurement has been berformed.
+        : Name of the facility where the measurement has been performed.
 
         experiment ID
         : (required, if applicable) NX_CHAR
-        : The proposal number or experiment ID under which the data were cllected.
+        : The proposal number or experiment ID under which the data were collected.
 
         experiment date
         : (optional) NX_DATE_TIME
@@ -107,7 +107,7 @@ data source
 
             scheme
             : (optional)
-            : Measurement scheme / geometry. This might be angle- of erergy 
+            : Measurement scheme / geometry. This might be angle- or erergy 
             dispersive, or both.
 
             wavelength range
