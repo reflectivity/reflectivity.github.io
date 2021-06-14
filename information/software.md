@@ -106,3 +106,5 @@ The following links provide information about computer programs used for the ana
 *   Multifitting: this is software developped by Mikhail Svechnikov, Moscow for fitting multiple layer structures [http://xray-optics.org/products/software-multifitting/](http://xray-optics.org/products/software-multifitting/)
 
 *   Zeeman Splitting: a Jupyter notebook from Michael Fitzsimmons that accounts for Zeeman splitting in polarized neutron reflectometry data [https://github.com/mfitzsimmons44/reflectometry-analysis](https://github.com/mfitzsimmons44/reflectometry-analysis)
+
+*   anaklasis: a set of open-source Python3 scripts (with fortran90 extensions) that facilitate a range of specular neutron and x-ray reflectivity calculations [https://github.com/alexandros-koutsioumpas/anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis)
