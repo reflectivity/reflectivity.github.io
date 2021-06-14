@@ -7,6 +7,7 @@ author: "Andrew McCluskey"
 
 We want to develop a checklist to ensure that we are performing reproducible experiments and analyses. 
 For some inspiration please check out the following paper from the [chemical machine learning community](https://doi.org/10.1038/s41557-021-00716-z).
+Also check out [Stuart Prescott's talk from the introductory session](https://teaching.complexfluids.net/short-courses/ORSO2021/prescott-orso2021-reproducibility.pdf).
 
 To get things started, we suggest breaking this checklist into two parts: before the experiment and after the experiment. 
 
