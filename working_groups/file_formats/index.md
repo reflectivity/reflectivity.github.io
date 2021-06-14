@@ -62,7 +62,7 @@ The two representations are:
 
 - **common structure**: We aim for a common structure (hirarchy) and nomenclature 
   (**[dictionary](../../projects/file_formats/dictionaries.md)** and 
-  **[definitions](../../projects/file_formats/definitions.md)**) for all representations.
+  **[definitions](../../projects/file_formats/definitions.pdf)**) for all representations.
   To simplyfy conversions and to be prepared for future developments, it was agreed to use a common subset of YAML and HDF5. 
   This means amoung other things not to use attributes in HDF.
 - **ASCII representation**:
