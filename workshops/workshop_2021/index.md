@@ -28,7 +28,7 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction [VIDEO](https://youtu.be/i7W7WUVOQmM) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Introduction.pptx)
-- **Stuart Prescott**, University of New South Wales, Australia. "Reproducible science in the neutron reflection context" [VIDEO](https://youtu.be/PDwQGGB-aJA)
+- **Stuart Prescott**, University of New South Wales, Australia. "Reproducible science in the neutron reflection context" [VIDEO](https://youtu.be/PDwQGGB-aJA) and [SLIDES](https://teaching.complexfluids.net/short-courses/ORSO2021/prescott-orso2021-reproducibility.pdf)
 - **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography" [VIDEO](https://youtu.be/3Hy_exI7E5Q)
 - **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles" [VIDEO](https://youtu.be/q6aBJ8rVQaU) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/XRR_Resonant%20Reflectivity.pptx)
 - **Nina-Juliane Steinke**, Institut Laue-Langevin, France. "Polarisation corrections made difficult..." [VIDEO](https://youtu.be/p1wY3Mv9boA)
