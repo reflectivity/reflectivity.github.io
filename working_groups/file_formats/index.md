@@ -64,7 +64,7 @@ The two representations are:
   (**[dictionary](../../projects/file_formats/dictionaries.md)** and 
   **[definitions](../../projects/file_formats/tasks/definitions.pdf)**) for all representations.
   To simplyfy conversions and to be prepared for future developments, it was agreed to use a common subset of YAML and HDF5. 
-  This means amoung other things not to use attributes in HDF.
+  This means among other things not to use attributes in HDF.
 - **ASCII representation**:
   (**[stat of the discussion](../../projects/file_formats/tasks/meeting_2021-03-22.md)** and 
   **[example](../../projects/file_formats/tasks/text_representation.md)**) 
