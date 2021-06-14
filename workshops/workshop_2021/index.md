@@ -24,7 +24,7 @@ Since the agenda is scheduled to try to cover all time zones, we acknowledge tha
 ### Plenary Session 1
 08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 
-Recordings of the talks are now uploaded
+Recordings of the talks are now uploaded. The saved chat is also available [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Plenary1_chat.txt)
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction [VIDEO](https://youtu.be/i7W7WUVOQmM)
