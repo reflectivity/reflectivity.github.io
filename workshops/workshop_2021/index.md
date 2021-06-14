@@ -41,14 +41,14 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- **Tom Arnold** Introduction
-- **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach"
-- **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations."
-- **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?"
+- **Tom Arnold** Introduction [VIDEO](https://youtu.be/i7W7WUVOQmM) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Introduction.pptx)
+- **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach" 
+- **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations." [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/2021%20ORSO_BinhuaLin.pdf)
+- **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?" 
 - **Ben Ocko**, National Synchrotron Light Source II, Brookhaven National Laboratory, USA. "35 years of x-ray reflectivity at NSLS & NSLS II:  science hiding in small features and the new kid (instrument) on the block."
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Analysis: **Brian Maranville**
-  - Reproducibility: **Andrew McCluskey**
+  - Data Analysis: **Brian Maranville** [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Analysis_Working_Group_summary.pdf)
+  - Reproducibility: **Andrew McCluskey** [VIDEO](https://youtu.be/w0aQzqORlHc)
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
 
