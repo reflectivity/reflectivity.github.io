@@ -32,8 +32,16 @@ Things to get you thinking: (if you calibrate/measure something not on this list
 14. How do you measure the lateral coherence length of the beamline. (important for offspecular scattering, or if you have partial surface coverage; [10.1103/PhysRevA.89.033851](https://doi.org/10.1103/PhysRevA.89.033851))
 15. How do you measure guide structure. Using pinhole camera setup. Plus a special neutron camera. See [Platypus paper](https://doi.org/10.1016/j.nima.2010.12.075)
  
+## Frequent Calibration Examples
+
+- [DCD q-calibration at I07 Diamond](./calibration_diamond)
+- Flood detector POLREF-ISIS
+
+## Infrequent Calibration Examples
+
+- Time-of-flight distance
  
 ## Examples 
 
 - [Platypus TOF reflectometer at ANSTO](./calibrations_platypus)
-- [DCD q-calibration at I07 Diamond](./calibration_diamond)
+
