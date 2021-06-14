@@ -45,22 +45,17 @@ To get things started, we suggest breaking this checklist into two parts: before
     1. Are all data sources listed and publicly available?
     2. If using an external database, is an access date or version number provided?
     3. Are any potential biases in the source dataset reported and/or mitigated?
-
 2. Data cleaning
     1. Are the data cleaning steps clearly and fully described, either in text or as a code pipeline?
     2. Is an evaluation of the amount of removed source data presented?
     3. Are instances of combining data from multiple sources identified, and potential issues mitigated? 
-
 3. Data representations
     1. Are methods for representing data as features or descriptors clearly articulated, ideally with software implementations?
     2. Are comparisons against standard feature sets provided? 
-
 4. Model choice
     1. Is a software implementation of the model provided such that it can be trained and tested with new data?
     2. Are baseline comparisons to simple/trivial models (for example, 1-nearest neighbour, random forest, most frequent class) provided?
     3. Are baseline comparisons to current state-of-the-art provided? 
-
 6. Code and reproducibility 
     1. Is the code or workflow available in a public repository?
     2. Are scripts to reproduce the findings in the paper provided?
-
