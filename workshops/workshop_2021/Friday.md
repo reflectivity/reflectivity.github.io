@@ -18,5 +18,6 @@ This session will present progress of the [SLD database project](https://github.
 For impressions on the implementation of the database see [these screenshots](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/SLDDB_screenshots.pdf).
 
 ## A tutorial paper on the analysis of reflectometry
-14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 23:00-01:00 (Australia East coast): 
+**Please note the late change in the time for this session** which will now occur one hour earlier than previously advertised
+13:00-15:00 (UK), 14:00-16:00 (Europe), 08:00-10:00 (US East coast), 22:00-00:00 (Australia East coast): 
 - Discussion of the content of the [tutorial paper](https://github.com/reflectivity/edu_outreach/releases/download/paper/paper.pdf) in preparation
