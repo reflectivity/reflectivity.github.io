@@ -29,7 +29,7 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 #### Confirmed Speakers
 - **Tom Arnold** Introduction [VIDEO](https://youtu.be/i7W7WUVOQmM) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Introduction.pptx)
 - **Stuart Prescott**, University of New South Wales, Australia. "Reproducible science in the neutron reflection context" [VIDEO](https://youtu.be/PDwQGGB-aJA) and [SLIDES](https://teaching.complexfluids.net/short-courses/ORSO2021/prescott-orso2021-reproducibility.pdf)
-- **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography" [VIDEO](https://youtu.be/3Hy_exI7E5Q)
+- **Hiroyuki Aoki**, J-PARC, Japan. "Spatially resolved neutron reflectometry by computed tomography" [VIDEO](https://youtu.be/3Hy_exI7E5Q) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/aoki_ORSO210614.pdf)
 - **Tom Hase**, University of Warwick, UK. "Resonant x-ray reflectivity: probing the chemical and magnetic profiles" [VIDEO](https://youtu.be/q6aBJ8rVQaU) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/XRR_Resonant%20Reflectivity.pptx)
 - **Nina-Juliane Steinke**, Institut Laue-Langevin, France. "Polarisation corrections made difficult..." [VIDEO](https://youtu.be/p1wY3Mv9boA)
 - The ORSO Chairs. Summary of progress since the last meeting
@@ -42,12 +42,12 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction [VIDEO](https://youtu.be/i7W7WUVOQmM) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Introduction.pptx)
-- **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach" 
-- **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations." [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/2021%20ORSO_BinhuaLin.pdf)
-- **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?" 
-- **Ben Ocko**, National Synchrotron Light Source II, Brookhaven National Laboratory, USA. "35 years of x-ray reflectivity at NSLS & NSLS II:  science hiding in small features and the new kid (instrument) on the block."
+- **Tim Charlton**, SNS, Oak Ridge National Lab, USA. "Reinventing time-of-flight reflectometry—return of a proven approach" [VIDEO](https://youtu.be/lIUJlapXQW4)
+- **Binhua Lin**, University of Chicago, USA. "Free Thiols Regulatation of the Interactions and Self-Assembly of Thiol-Passivated Metal Nanoparticles investigated with X-ray scattering and MD simulations." [VIDEO](https://youtu.be/DP6CdstcA3c) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/2021%20ORSO_BinhuaLin.pdf) 
+- **Ray Osborn**, Argonne National Laboratory, USA. "Why NeXus?" [VIDEO](https://youtu.be/nrDVfR9XHmM)
+- **Ben Ocko**, National Synchrotron Light Source II, Brookhaven National Laboratory, USA. "35 years of x-ray reflectivity at NSLS & NSLS II:  science hiding in small features and the new kid (instrument) on the block." [VIDEO](https://youtu.be/5hRlgl52W8o)
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Analysis: **Brian Maranville** [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Analysis_Working_Group_summary.pdf)
+  - Data Analysis: **Brian Maranville** [VIDEO](https://youtu.be/ndjREwEYrlA) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Analysis_Working_Group_summary.pdf)
   - Reproducibility: **Andrew McCluskey** [VIDEO](https://youtu.be/w0aQzqORlHc) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Repro.pdf)
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
