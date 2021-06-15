@@ -19,5 +19,6 @@ For impressions on the implementation of the database see [these screenshots](ht
 
 ## A tutorial paper on the analysis of reflectometry
 **Please note the late change in the time for this session** which will now occur one hour earlier than previously advertised
+
 13:00-15:00 (UK), 14:00-16:00 (Europe), 08:00-10:00 (US East coast), 22:00-00:00 (Australia East coast): 
 - Discussion of the content of the [tutorial paper](https://github.com/reflectivity/edu_outreach/releases/download/paper/paper.pdf) in preparation
