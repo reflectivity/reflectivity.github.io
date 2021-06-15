@@ -48,7 +48,7 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 - **Ben Ocko**, National Synchrotron Light Source II, Brookhaven National Laboratory, USA. "35 years of x-ray reflectivity at NSLS & NSLS II:  science hiding in small features and the new kid (instrument) on the block."
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis: **Brian Maranville** [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Analysis_Working_Group_summary.pdf)
-  - Reproducibility: **Andrew McCluskey** [VIDEO](https://youtu.be/w0aQzqORlHc)
+  - Reproducibility: **Andrew McCluskey** [VIDEO](https://youtu.be/w0aQzqORlHc) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Repro.pdf)
 
 ## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2021//Tuesday.md)
 
