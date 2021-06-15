@@ -8,7 +8,7 @@ permalink: /workshops/workshop_2021/Tuesday.md/
 10:00-11:00 (UK), 11:00-12:00 (Europe), 05:00-06:00 (US East coast), 19:00-20:00 (Australia East coast): 
 - This is essentially the formal aspects of the text representation plus some principle decisions.
 - The current state of the discussion on file formats is [here](https://www.reflectometry.org/projects/file_formats/tasks/meeting_2021-03-22/)
-- And some more general information on the context of the file formats is [here](https://www.reflectometry.org/working_groups/file_formats/)
+- And some more general information on the context of the file formats working group is [here](https://www.reflectometry.org/working_groups/file_formats/)
 
 ## Session 2: Recommendations
 12:00-13:00 (UK), 13:00-14:00 (Europe), 07:00-08:00 (US East coast), 21:00-22:00 (Australia East coast): 
