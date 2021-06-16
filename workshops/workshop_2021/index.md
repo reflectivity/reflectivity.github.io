@@ -62,7 +62,9 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 
 In the final session of the workshop we will summarise the working group discussions and look to the future with some talks on the application of Machine Learning or Artifical Intelligence to Reflectometry (speakers to be confirmed)
 
-20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
+**PLEASE NOT THE CHANGE IN TIME FOR THIS SESSION**
+
+18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
 
 #### Confirmed Speakers
 - Summary of the working group sessions
