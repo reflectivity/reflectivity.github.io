@@ -34,7 +34,7 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 - **Nina-Juliane Steinke**, Institut Laue-Langevin, France. "Polarisation corrections made difficult..." [VIDEO](https://youtu.be/p1wY3Mv9boA)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Formats: **Jochen Stahn** [VIDEO](https://youtu.be/NLAJmXAVI88)
-  - Education and Outreach: **Bridget Murphy** [VIDEO](https://youtu.be/Cy-ety2j2ak)
+  - Education and Outreach: **Bridget Murphy** [VIDEO](https://youtu.be/Cy-ety2j2ak) and [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_The%20Education%20and%20Outreach%20Working%20Group_20210614.pdf)
 
 
 ### Plenary Session 2
