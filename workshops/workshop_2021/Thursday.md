@@ -34,4 +34,6 @@ To be broken up into two halves, with a 10 minute break at the hour mark.
   - Brian Maranville: First steps toward a shared model language [VIDEO](https://youtu.be/c9z2xt2X6U4)
   - Discussion of shared model language
 
+The chat from the session is [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/DAmeeting_saved_chat.txt)
+
 For reference the ISO reflectivity dictionary is [here](https://www.iso.org/obp/ui/#iso:std:iso:16413:ed-2:v1:en)
