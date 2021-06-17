@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: "ORSO - file formats - Draft and Rules for the orso text *reflectivity file*"  
+title: "ORSO - file formats - draft and rules for the text reflectivity file"  
 author: "Jochen Stahn"  
 ---
 
@@ -23,9 +23,16 @@ The rules and examples given below are still under discussion and the header ent
 listed are not exhaustive. Comments and contributions are welcome and should be 
 communicated to <Jochen.Stahn@psi.ch>.
 
+last modified: 2021-06-17
+
 ---
 
 ## some specifications
+
+### file extension
+
+It is recommended to use the suffix `.ort` (**o**rso **r**eflectivity **t**extfile) for
+reflectivity files following this standard.
 
 ### placeholders
 
@@ -95,9 +102,23 @@ contain user-defined `key: <value>` pairs on all levels. These of course should 
 interfere with defined content, and the rules for units and formats should be applied as
 stated here.
 
+The header follows a hirarchical structure and is formatted according to YAML (se below) 
+or JSON ruels. In addition, each line of the header starts with a hash and a space `# `
+(wrapped YAML), which is the default header marker in python (and other languages).
+
+
 ### first line
 
-    # ORSO reflectivity data file | 0.1 standard | YAML encoding | https://www.reflectometry.org/`  
+The first line contains information about
+
+- the general content;
+- the orso file format version (and level of strictness) used;
+- the encoding;
+- a link to us.
+
+Since it is not part of the YAML hirarchy, a second hash is needed.
+
+    # # ORSO reflectivity data file | 0.1 standard | YAML encoding | https://www.reflectometry.org/`  
 
 ### second line
 
@@ -106,7 +127,7 @@ optional, recommended
 This (comment) line should help the user to identify the content based on a few key words.
 It is free format and no further rules apply.
 
-    # <title> | <date> | <sample name>
+    # # <title> | <date> | <sample name>
 
 ### data source
 
@@ -115,100 +136,103 @@ mandatory
 This section contains information about the origin and ownership of the raw data, 
 together with details !!!
 
-    data_source:             This information should be available from the raw data 
+    # data_source:             This information should be available from the raw data 
                              file. If not, one has to find ways to provide it.  
 
-        owner:               This refers to the actual owner of the data set, i.e.
+    #     owner:               This refers to the actual owner of the data set, i.e.
                              the main proposer or the person doing the measurement
                              on a lab reflectometer
-            name:            main proposer at large scale facility or experimentator at
+    #         name:            main proposer at large scale facility or experimentator at
                              lab source
-            affiliation:     
-            email:           optional  
-        experiment:  
-            facility:
-            proposalID:           proposal ID
-            doi:
-            timestamp:         yyyy-mm-ddThh:mm:ss 
-            title:        proposal or project title
-            instrument:   
-            probe:        neutrons or x-rays
-        sample:  
-            identifier:   mandatory, string
-            type:         best effort, solid/liquid, liquid/solid, gas/liquid, liquid/liquid, solid/gas, gas/solid 
-            composition:  optional 
-                          free text notes on the nominal composition of the sample  
-                          e.g. Si | SiO2 (20 A) | Fe (200 A) | air (beam side)
-            description:  optional, free text
-            environment:  optional, free text, name of the sample environment device(s)
+    #         affiliation:     
+    #         email:           optional  
+    #     experiment:  
+    #         facility:
+    #         proposalID:           proposal ID
+    #         doi:
+    #         timestamp:         yyyy-mm-ddThh:mm:ss 
+    #         title:        proposal or project title
+    #         instrument:   
+    #         probe:        neutrons or x-rays
+    #     sample:  
+    #         identifier:   mandatory, string
+    #         type:         best effort, solid/liquid, liquid/solid, gas/liquid, liquid/liquid, solid/gas, gas/solid 
+    #         composition:  optional 
+                            free text notes on the nominal composition of the sample  
+                            e.g. Si | SiO2 (20 A) | Fe (200 A) | air (beam side)
+    #         description:  optional, free text
+    #         environment:  optional, free text, name of the sample environment device(s)
 
 The following list of sample parameters is incomplete and expandable
 
-            temperature:
-                unit:
-                value:
-                min: 
-                max:
+    #         temperature:
+    #             unit:
+    #             value:
+    #             min: 
+    #             max:
 
 In case there are several temperatures:
 
-              - description:
-                unit:
-                value:
-                min:
-                max:
-              - description:
-                unit:
-                value:
-                min:
-                max:
+    #           - description:
+    #             unit:
+    #             value:
+    #             min:
+    #             max:
+    #           - description:
+    #             unit:
+    #             value:
+    #             min:
+    #             max:
 
-            magnetic_field:
-                unit:
-                value:
-                direction: 
-            electric_field:
-                unit:
-                value:
-            electric_current:
-                unit:
-                value:
-            electic_ac_field: 
-                amplitude:
-                    unit:
-                    value:
-                frequency: 
-                    unit:
-                    value:
+    #         magnetic_field:
+    #             unit:
+    #             value:
+    #             direction: 
+    #         electric_field:
+    #             unit:
+    #             value:
+    #         electric_current:
+    #             unit:
+    #             value:
+    #         electic_ac_field: 
+    #             amplitude:
+    #                 unit:
+    #                 value:
+    #             frequency: 
+    #                 unit:
+    #                 value:
 
 
-        measurement: mandatory 
-            scheme:  optionl, best practice
-                     angle-dispersive / energy-dispersive / angle- and energy-dispersive 
-            instrument_settings:  
-                configuration: half / full polarised | liqid_surface | ....   free text
-                incident_angle:  
-                    unit:        
-                    value:
-                    min:  
-                    max:   
-                wavelength:
-                    unit:       
-                    value:
-                    min: 
-                    max: 
-                polarization: 
+    #    measurement: mandatory 
+    #         scheme:  optionl, best practice
+                       angle-dispersive / energy-dispersive / angle- and energy-dispersive 
+    #         instrument_settings:  
+    #             configuration: half / full polarised | liqid_surface | ....   free text
+    #             incident_angle:  
+    #                 unit:        
+    #                 value:
+    #                 min:  
+    #                 max:   
+    #             wavelength:
+    #                 unit:       
+    #                 value:
+    #                 min: 
+    #                 max: 
+    #             polarization: 
 
 For neutrons one of `p / m / pp / pm / mp / mm  / vector`
 
 For x-rays one of `tba`   
 
-            data_files:  
-                - file:       mandatory, free text (file name or identifier doi)
-                  timestamp:  yyyy-mm-ddThh:mm:ss  
-            reference_data_file:  
-                - file:   file name or identifier (doi)
-                  timestamp: yyyy-mm-ddThh:mm:ss    optional
+    #         data_files:  
+    #             - file:       mandatory, free text (file name or identifier doi)
+    #               timestamp:  yyyy-mm-ddThh:mm:ss
+    #             - file:       
+    #               timestamp:  
+    #         reference_data_file:  
+    #             - file:   
+    #               timestamp: 
+  
   
 ### data reduction
 
@@ -221,24 +245,24 @@ The content of this section should contain enough information to rerun
 the reduction, either by explicitely hosing all the required information,
 or by refering to a nexus representation, a note book or a log file. 
 
-    reduction:  
-         software:
-             name:         name of the reduction software
-             version:      its version 
-             platform:     operating system
-         computer:         optional, computer name
-         call:             if applicable, command line call or similar               best practice
-         script:           path to e.g. notebook
-         binary:           path to full information file
-         timestamp:        date and time of file creation,
+    # reduction:  
+    #      software:
+    #          name:         name of the reduction software
+    #          version:      its version 
+    #          platform:     operating system
+    #      computer:         optional, computer name
+    #      call:             if applicable, command line call or similar               best practice
+    #      script:           path to e.g. notebook
+    #      binary:           path to full information file
+    #      timestamp:        date and time of file creation,
 
 The following subsection identifies the person or routine who created this file.
 She/he is the one responsible for the content.
 
-         creator:         
-             name:         
-             affiliation:   
-             email:       optional
+    #      creator:         
+    #          name:         
+    #          affiliation:   
+    #          email:       optional
 
 Optional, but recommended is a list of corrections performed in free text.
 This helps the user to set the respective parameters for the data analysis.
@@ -249,16 +273,16 @@ to the publication or homepage might be given.
 This part might be expanded by defined entries, which are understood by
 data analysis software.
 
-         corrections:          free text to inform user
-            - footprint doi
-            - background
-            - polarisation
-            - ballistic correction
-            - incident intensity
-            - detector efficiency 
-            - scaling / normalisation
-         comment: |
-            Normalisation performed with a reference sample            
+    #      corrections:          free text to inform user
+    #         - footprint doi
+    #         - background
+    #         - polarisation
+    #         - ballistic correction
+    #         - incident intensity
+    #         - detector efficiency 
+    #         - scaling / normalisation
+    #      comment: |
+    #         Normalisation performed with a reference sample            
 
 The `comment` is used to give some more information. 
 
@@ -277,39 +301,39 @@ columns of the data set. I.e.
 where for columns 3 and 4, *sigma* is the standard deviation of a Gaussian
 distribution.
 
-The exampe given refers to *R(Qz)*
+The exampe given refers to *R(Qz)* which has unit 1
 
-    column_description:
-        - name:        Qz
-          unit:        1/angstrom 
-          description: wavevector transfer
-        - name:        R
-          description: reflectivity
-        - name:        sR 
-          description: standard deviation of reflectivity
-        - name:        sQz
-          unit:        1/angstrom 
-          description: standard deviation of wavevector transfer resolution
+    # column_description:
+    #      - name:        Qz
+    #        unit:        1/angstrom 
+    #        description: wavevector transfer
+    #      - name:        R
+    #        description: reflectivity
+    #      - name:        sR 
+    #        description: standard deviation of reflectivity
+    #      - name:        sQz
+    #        unit:        1/angstrom 
+    #        description: standard deviation of wavevector transfer resolution
 
 Further columns can be of any type, content and order. But always with
 description and units. E.g.
 
-        - name:        alpha_i
-          unit:        deg  
-          description: angle of incidence
-        - name:        lambda
-          unit:        angdtrom 
-          description: wavelength
+    #     - name:        alpha_i
+    #       unit:        deg  
+    #       description: angle of incidence
+    #     - name:        lambda
+    #       unit:        angstrom 
+    #       description: wavelength
 
 In case there are various data sets in one file, the first one can be given an identifier
 with the optional line
 
-    data set: <identifier>
+    # data set: <identifier>
 
 Also optionally there might be a short-notation column description preceded with
 a hash, since this line is outside the YAML structure
 
-    #         Qz             RQz              sR              sQ
+    # #         Qz             RQz              sR              sQ
 
 ---
 
@@ -344,7 +368,7 @@ This is recognised by gnuplot as a separator for 3 dimensional data sets.
 
 The mandatory separator between data sets is the string
 
-    data_set: <identifier>
+    # data set: <identifier>
 
 where <identifier> is either an unique name or a number. The default numbering of dats sets starts with 0, the first additional one thus gets number 1 and so on.
 
@@ -356,21 +380,21 @@ Below the separator line, meta data might be added. These overwrite the meta dat
 
 For the case of additional input data with different spin state this might look like
 
-        data_source:
-            measurement:
-                polarisation: -
-        reduction:
-            input_files:
-                data_files:
-                    - file     : amor2020n001930.hdf
-                      created  : 2020-02-03T15:27:45
+    #     data_source:
+    #         measurement:
+    #             polarisation: -
+    #     reduction:
+    #         input_files:
+    #             data_files:
+    #                 - file     : amor2020n001930.hdf
+    #                   created  : 2020-02-03T15:27:45
 
 
 ### repetition of short-version column description
 
 optional
 
-    #         Qz             RQz              sR              sQ          lambda
+    # #         Qz             RQz              sR              sQ          lambda
 
 ### next data set
 
