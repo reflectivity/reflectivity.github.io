@@ -20,6 +20,8 @@ The target dataset is formatted according to the draft standard for text represe
 - **Brian Maranville:** [Refl1D](https://github.com/reflectometry/refl1d), [VIDEO](https://youtu.be/ksqqiNGzhMA) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/refl1d_outputs.pdf)
 - **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M)
 
+After the meeting an additional demo has been provided by Alexandros Koutsioumpas using the package [Anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis): [Jupyter notebook](https://github.com/alexandros-koutsioumpas/anaklasis/blob/main/examples-Jupyter/ORSO_example.ipynb) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_example_with_anaklasis.pdf)
+
 ## Software Discussion Session 
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 
