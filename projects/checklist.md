@@ -23,7 +23,7 @@ To get things started, we suggest breaking this checklist into two parts: before
    5. Have you performed some basic simulations of what you expect to measure to get a feel for how the experiment will work?
    6. The experiment/analysis is improved with precharacterisation, can/have you use complimentary methods to inform your scientific question (XRR/NR/PNR/SQUID/ellipsometry)?
    7. Can you tune the sample to improve experimental sensitivity (contrast matching/multilayers/larger surface)?
-   8. The answers to questions 1,4-7 should be in your proposal.
+   8. The answers to questions 1,4-7 should be discussed in your proposal.
 2. **Are you going to measure what you think you are measuring?**
    1. Have you documented how you would make your sample?
    2. Can you make the sample reproducibly enough (including characterisation of the sample), for the scientific question?
