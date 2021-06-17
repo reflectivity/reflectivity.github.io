@@ -14,9 +14,9 @@ The target dataset is formatted according to the draft standard for text represe
 
 ### Confirmed speakers:
 - **Andrew Nelson:** [RefNX](https://www.github.com/refnx/refnx), [VIDEO](https://youtu.be/z1rbNRacXgI)
-- **Artur Glavic:** [GenX](https://aglavic.github.io/genx/index.html), [VIDEO](https://youtu.be/lNpGE7aYut0)
+- **Artur Glavic:** [GenX](https://aglavic.github.io/genx/index.html), [VIDEO](https://youtu.be/lNpGE7aYut0) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_analysis_results_genx.pdf)
 - **Joachim Wuttke:** [BornAgain](http://bornagainproject.org), [VIDEO](https://youtu.be/mcnrt-9NLD4)
-- **Arwel Hughes:** RasCAL and RAT (Videos to be uploaded soon)
+- **Arwel Hughes:** RasCAL and RAT [VIDEO](https://youtu.be/XOO3qTv4nCU)
 - **Brian Maranville:** [Refl1D](https://github.com/reflectometry/refl1d), [VIDEO](https://youtu.be/ksqqiNGzhMA) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/refl1d_outputs.pdf)
 - **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M)
 
