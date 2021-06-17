@@ -13,29 +13,42 @@ To get things started, we suggest breaking this checklist into two parts: before
 
 ## Before the experiment (and the experimental plan)
 
-1. Do you have a scientific question or questions that you want to answer?
-    1. Have you spoken to an instrument scientist to determine if reflectivity can help you answer the question? 
-    2. Don’t just say this system is interesting, please give us the beamtime? 
-    3. Can you leverage techniques like contrast matching?
-    4. Can you use complimentary x-ray reflectivity to improve the scientific outcome? IE. Resonant magnetic scattering/XMCD and PNR or NR and XRR. 
-    5. Have you performed some basic simulations of what you expect to measure to get a feel for how the experiment will work? 
-    6. Is the facility/Instrument answer the question that you are posting?
-2. Samples:
-    1. Can you make the system if it is proposed? 
-    2. If it’s not made can you do experiments to work out how to make it? (This will be its thread) 
-    3. Can you make the sample reproducibility
-    4. Can you make the sample big enough and flat enough for an NR/PNR/PA measurement? 
-    5. Pre-characterisation of the sample? What do you need to do to know you have the correct effect (issues with chopping up samples etc) 
-3. Experimental plan: 
-    1. Do you have an experimental plan on how to do the measurement to answer the scientific question or questions you state in the proposal? 
-    2. Again have you spoke to the instrument scientist about what this entails and how much neutron time will be required (on a facility/instrument by instrument basis) 
-    3. Is the beamline characterised/setup correctly, detector corrections, transmissions, Polarisationcorrects etc? 
-    4. Have you run a pilot meausement to check how long you need to run for?
-    5. Have you characterised your blocks in required correctly? 
-    6. Have you taken sufficient transmissions etc through blocks and Sample environment etc?  
-4. Analysis planning:
-    1. Do you have the expertise/capability to analyse the data? (Time /Personpower) 
-    2. If not what do you think is need to get to a place you can analyse your data? 
+## Before the experiment (and the experimental plan)
+
+1. **Do you have a scientific question or questions that you want to answer?**
+   1. Have you consulted an expert/previous literature to determine if reflectivity is able to answer your scientific question?
+   2. Did you ask an instrument scientist if the facility/instrument/technique the **best** place to answer your question?
+   3. Do you know when the proposal deadline is and what writing a proposal involves?
+   4. Do you know how reflectivity data is modeled and analysed?
+   5. Have you performed some basic simulations of what you expect to measure to get a feel for how the experiment will work?
+   6. The experiment/analysis is improved with precharacterisation, can/have you use complimentary methods to inform your scientific question (XRR/NR/PNR/SQUID/ellipsometry)?
+   7. Can you tune the sample to improve experimental sensitivity (contrast matching/multilayers/larger surface)?
+   8. The answers to questions 1,4-7 should be in your proposal.
+2. **Are you going to measure what you think you are measuring?**
+   1. Have you documented how you would make your sample?
+   2. Can you make the sample reproducibly enough (including characterisation of the sample), for the scientific question?
+   3. Are the samples stable for the duration/conditions of the measurement (ie. beam damage in XRR)?
+   4. Have you considered the effect of sample imperfections on your experiment (sample size/flatness/roughness)?
+   5. Do you need to prepare the sample at the facility, is there the necessary equipment?
+   6. Do you know if there is a suitable sample environment for your study (including simultaneous characterisation), if not can one be developed?
+3. **Have you done your home (preparing for the beamtime)?**
+   1. Does your experimental team have the person power and knowledge to run the experiment?
+   2. Do you know (including alignment/temperature ramping/etc) how long the experiments will take, do you need to do a test measurement?
+   3. What control and null measurements are necessary for your scientific question/sample environment?
+   4. Do you have a measurement order and a backup plan?
+   5. Have you done **all** necessary remote training (facility access stuff/software is possible)?
+   6. Has anything changed since the proposal or has the sample changed (may have safety implications)?
+   7. Do you that the instrument is setup for the measurements you want to do?
+   8. Is there an agreed upon system for documentation (run numbers/metadata/logbook/calibration measurements) and have you shared with the instrument scientist?
+4. **Can you answer the question?**
+   1. Do you have an understanding of the analysis methodology (ie. the analytical model) that you will use?
+   2. Do you know what a "good" reduced dataset should look like, for example from the simulation?
+   3. Is it possible to perform on the fly/live experimental analysis?
+   4. Do you know how to reduce the data to be suitable for analysis (this might be done for you)?
+   5. Can you load the reduced data into the analysis software of choice?
+   6. Do you have the expertise/capability to analyse the data?
+   7. Can you access all the important metadata for your anlaysis?
+   8. Do you know the corrections that have been performed on your data?
 
 ## After the experiment and analysis 
 
