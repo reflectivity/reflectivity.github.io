@@ -27,7 +27,11 @@ After the meeting an additional demo has been provided by Alexandros Koutsioumpa
 
 To be broken up into two halves, with a 10 minute break at the hour mark.
 - Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
-  - 20 minute presentation by A. Caruana, followed by discussion
-- First steps toward a model language
-  - Presentation of draft model language by B. Maranville, followed by discussion
+  - Andrew Caruana: Fitting laboratory XRR data – to use with NR [VIDEO](https://youtu.be/nNSPWyuhFQ0)
+  - Discussion of co-refinement of XRR, NR and other data
+- Andrew McCluskey: EasyReflectometry GUI [VIDEO](https://youtu.be/t3GdAi8hq4k)
+- A shared model language
+  - Brian Maranville: First steps toward a shared model language [VIDEO](https://youtu.be/c9z2xt2X6U4)
+  - Discussion of shared model language
 
+For reference the ISO reflectivity dictionary is [here](https://www.iso.org/obp/ui/#iso:std:iso:16413:ed-2:v1:en)
