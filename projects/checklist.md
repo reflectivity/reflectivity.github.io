@@ -13,8 +13,6 @@ To get things started, we suggest breaking this checklist into two parts: before
 
 ## Before the experiment (and the experimental plan)
 
-## Before the experiment (and the experimental plan)
-
 1. **Do you have a scientific question or questions that you want to answer?**
    1. Have you consulted an expert/previous literature to determine if reflectivity is able to answer your scientific question?
    2. Did you ask an instrument scientist if the facility/instrument/technique the **best** place to answer your question?
