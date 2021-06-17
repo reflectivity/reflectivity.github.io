@@ -5,14 +5,14 @@ author: "Jochen Stahn"
 ---
 
 This document is based on discussions at various ORSO workshops and meetings. The main
-contributers are: 
+contributors are: 
 Andrew Caruana, 
 Andrew McCluskey,
 Andrew Nelson,
 Artur Galvic,
 Brian Maranville,
 Bridget Murphy,
-Max Skoda, 
+Maximilian Skoda, 
 Joachim Wuttke,
 Jochen Stahn,
 Jos Cooper
@@ -20,7 +20,7 @@ and
 Tim Snow.
 
 The rules and examples given below are still under discussion and the header entries
-listed are not exhastive. Comments and contributions are welcome and should be 
+listed are not exhaustive. Comments and contributions are welcome and should be 
 communicated to <Jochen.Stahn@psi.ch>.
 
 ---
@@ -35,7 +35,7 @@ the string `null`
 
 ### language
 
-To stay conform with CANSAS and NEXUS, we use American English dor the key words. 
+In line with CANSAS and NEXUS, we use American English for the key words. 
 E.g. `polarization` rather than `polarisation`. 
 
 
@@ -67,7 +67,7 @@ Rules for using units:
 - Aangstroem is spelled `angstrom` (a capital A collides with Ampere);
 - *micro* is written as `mu` as in `mum` for micrometer;
 - reciprocal units are written e.g. as `1/angstrom`;
-- no mixing of units for similar entries, e.g. `deg` for angle of incidence and `rad` for detecto angle;
+- no mixing of units for similar entries, e.g. `deg` for angle of incidence and `rad` for detector angle;
 - exponents are marked with `**` as e.g. in `1/angstrom**2` for SLD;
 - the base units are `rad`, `deg`, `m`, `mm`, `nm`, … , `angstrom`, `eV`, `keV` and `s`.
 
@@ -76,7 +76,7 @@ Rules for using units:
 
 There are 2 kinds of comments possible:
 
-The key word `comment:` allows to add free text, e.g. to describe a preciding entry
+The key word `comment:` allows to add free text, e.g. to describe a related entry
 in more detail.
 
 A hash (`#`) declares everything that follows on the same line to be outside the
@@ -91,8 +91,8 @@ hash means *header* and the second *non-YAML entry*.
 ## the header
 
 The header might contain more sections than presented below - and also the sections might
-contain user-defined `key: <value>` pairs on all levels. These of cause should not
-interfere with defined content, and teh rules for units and formats should be applied as
+contain user-defined `key: <value>` pairs on all levels. These of course should not
+interfere with defined content, and the rules for units and formats should be applied as
 stated here.
 
 ### first line
@@ -115,12 +115,12 @@ mandatory
 This section contains information about the origin and ownership of the raw data, 
 together with details !!!
 
-    data_source:             This information should be provided in the raw data 
-                             file If not, one has to find ways to provide it.  
+    data_source:             This information should be available from the raw data 
+                             file. If not, one has to find ways to provide it.  
 
-        owner:               This referes to the actual owner of the data set, i.e.
+        owner:               This refers to the actual owner of the data set, i.e.
                              the main proposer or the person doing the measurement
-                             on a lab reflectometer     
+                             on a lab reflectometer
             name:            main proposer at large scale facility or experimentator at
                              lab source
             affiliation:     
@@ -354,7 +354,7 @@ Below the separator line, meta data might be added. These overwrite the meta dat
 (i.e. data set 2 does not know anything about the changes made for data set 1).
 
 
-For the case of additional input data with different spinstate this might look like
+For the case of additional input data with different spin state this might look like
 
         data_source:
             measurement:
@@ -387,5 +387,5 @@ probably with a different number of rows.
 
 ## the end
 
-There ar no rules yet for a footer. Thus creating one might collide with future versins of the orso format.
+There are no rules yet for a footer. Thus creating one might collide with future versions of the ORSO (.ort) format.
 
