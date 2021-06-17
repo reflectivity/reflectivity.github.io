@@ -5,7 +5,7 @@ permalink: /workshops/workshop_2021/
 ---
 
 The Annual Genral Meeting of ORSO will take place online in 14th-18th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community.
-The program will consist of scientific anf technical talks together with discussion forums for each of the working groups
+The program will consist of scientific and technical talks together with discussion forums for each of the working groups
 
 ## Registration is now closed
 
