@@ -18,7 +18,7 @@ The target dataset is formatted according to the draft standard for text represe
 - **Joachim Wuttke:** [BornAgain](http://bornagainproject.org), [VIDEO](https://youtu.be/mcnrt-9NLD4)
 - **Arwel Hughes:** RasCAL and RAT [VIDEO](https://youtu.be/XOO3qTv4nCU) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/orsoPolymerResults_RasCAL.pdf)
 - **Brian Maranville:** [Refl1D](https://github.com/reflectometry/refl1d), [VIDEO](https://youtu.be/ksqqiNGzhMA) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/refl1d_outputs.pdf)
-- **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M)
+- **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/XModFit%20Neutron%20Data%20Fitting.pdf)
 
 After the meeting an additional demo has been provided by Alexandros Koutsioumpas using the package [Anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis): [Jupyter notebook](https://github.com/alexandros-koutsioumpas/anaklasis/blob/main/examples-Jupyter/ORSO_example.ipynb) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_example_with_anaklasis.pdf)
 
