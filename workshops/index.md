@@ -6,10 +6,6 @@ permalink: /workshops/
 
 # Upcoming events
 
-## The [ORSO AGM](./workshop_2021/) take place online 14-18th June 2021 
-
-The Annual Genral Meeting of ORSO will take place online in 14th-18th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community. The program will consist of scientific anf technical talks together with discussion forums for each of the working groups.
-
 
 # Events of Interest to the ORSO community
 
@@ -46,5 +42,4 @@ If you would like to participate in any of these meetings, sign up to the mailin
 | Reproducibility | Sep 2020 | Online  |
 | File Formats | Sep 2020 | Online |
 |  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
-
-
+| AGM | June 2021 |   [Online](./workshop_2021/)  |
