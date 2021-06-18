@@ -34,12 +34,6 @@ last modified: 2021-06-17
 It is recommended to use the suffix `.ort` (**o**rso **r**eflectivity **t**extfile) for
 reflectivity files following this standard.
 
-### placeholders
-
-If there is no entry available for a keyword, the default value for both, string and numbers is
-the string `null` 
-
-
 ### language
 
 In line with CANSAS and NEXUS, we use American English for the key words. 
