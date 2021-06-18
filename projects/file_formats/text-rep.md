@@ -127,7 +127,11 @@ optional, recommended
 This (comment) line should help the user to identify the content based on a few key words.
 It is free format and no further rules apply.
 
-    # # <title> | <date> | <sample name>
+    # # <title> | <date> | <sample name> | <what>
+    
+e.g.
+
+    # # Interdiffusion in Fe | 2020-12-24 | sample fe-457-2 | R(q_z)
 
 ### data source
 
