@@ -20,7 +20,7 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 - [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
 
-[Virtual ISIS reflectivity training course November 16th-25th 2021] (https://docs.google.com/forms/d/e/1FAIpQLSdnolBndSAXMDEPJlqFhwK6b0F5d5Jb4bVpi0ll1L2UUPvqPw/viewform)
+[Virtual ISIS reflectivity training course November 16th-25th 2021](https://docs.google.com/forms/d/e/1FAIpQLSdnolBndSAXMDEPJlqFhwK6b0F5d5Jb4bVpi0ll1L2UUPvqPw/viewform)
 
 
 
