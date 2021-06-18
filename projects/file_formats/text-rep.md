@@ -55,9 +55,11 @@ For the keywords only !!! encoding is allowed.
 
 ### date and time format
 
-ISO8601 
-
-format for date and time: yyyy-mm-ddThh:mm:ss 
+ISO8601 format for date and time: yyyy-mm-ddThh:mm:ss.
+This is local time.
+Do not use UTC (hence no suffix Z).
+If the time zone shall be specified (e.g. for disambiguation of summer/winter time),
+then append the UTC time offset in the form "+09:30".
 
 
 ### units
