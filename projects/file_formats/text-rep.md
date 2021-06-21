@@ -97,14 +97,14 @@ hash means *header* and the second *non-YAML entry*.
 
 ## the header
 
-The header might contain more sections than presented below - and also the sections might
+The header may contain more sections than presented below - and also the sections may
 contain user-defined `key: <value>` pairs on all levels. These of course should not
 interfere with defined content, and the rules for units and formats should be applied as
 stated here.
 
-The header follows a hirarchical structure and is formatted according to YAML (se below) 
-or JSON ruels. In addition, each line of the header starts with a hash and a space `# `
-(wrapped YAML), which is the default header marker in python (and other languages).
+The header follows a hierarchical structure and is formatted according to YAML (se below) 
+or JSON rules. In addition, each line of the header starts with a hash and a space `# `
+(wrapped YAML), which is the default header marker in Python (and other languages).
 
 
 ### first line
@@ -112,7 +112,7 @@ or JSON ruels. In addition, each line of the header starts with a hash and a spa
 The first line contains information about
 
 - the general content;
-- the orso file format version (and level of strictness) used;
+- the ORSO file format version (and level of strictness) used;
 - the encoding;
 - a link to us.
 
