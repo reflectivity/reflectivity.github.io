@@ -62,7 +62,7 @@ format for date and time: yyyy-mm-ddThh:mm:ss
 
 ### units
 
-The unis are always given together with the magnitude (not once for the full header)
+In the header, physical quantities shall always be stored with magnitude and unit in the form
 
     <quantity>:
          magnitude: <magnitude>
@@ -71,12 +71,17 @@ The unis are always given together with the magnitude (not once for the full hea
 Rules for using units:
 
 - only ASCII symbols are to be used;
-- Aangstroem is spelled `angstrom` (a capital A collides with Ampere);
-- *micro* is written as `mu` as in `mum` for micrometer;
-- reciprocal units are written e.g. as `1/angstrom`;
-- no mixing of units for similar entries, e.g. `deg` for angle of incidence and `rad` for detector angle;
-- exponents are marked with `**` as e.g. in `1/angstrom**2` for SLD;
-- the base units are `rad`, `deg`, `m`, `mm`, `nm`, … , `angstrom`, `eV`, `keV` and `s`.
+  - the greek letter μ is written as `mu` (e.g. `mum` for micrometer);
+  - `angstrom` cannot be abbreviated (Å is not allowed, A stands for Ampere);
+- composition with `*` and `/`, exponentiation with `**`
+  - reciprocal units are written e.g. as `1/nm` for wavenumbers, `1/angstrom**2` for the scattering length density
+
+Recommended units include:
+- for angles, `rad`, `deg`;
+- for lengths, `m`, `mm`, `nm`, `angstrom`;
+- for durations, `s`;
+- for energies, `eV`, `keV`;
+- for temperatures, `K`.
 
 
 ### comments
