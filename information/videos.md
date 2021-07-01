@@ -14,7 +14,7 @@ Some videos on how to contribute to ORSO are [here](https://www.reflectometry.or
 # Data analysis software demonstrations
 
 In the data analysis session of the 3rd ORSO workshop, various software developers demonstrated building the same model in each software package.
-Full details are still available on the data analysis workshop page
+Full details are still available on the [data analysis workshop page](https://www.reflectometry.org/workshops/workshop_2021/Thursday.md/)
 
 - **Andrew Nelson:** [RefNX](https://www.github.com/refnx/refnx), [VIDEO](https://youtu.be/z1rbNRacXgI)
 - **Artur Glavic:** [GenX](https://aglavic.github.io/genx/index.html), [VIDEO](https://youtu.be/lNpGE7aYut0)
