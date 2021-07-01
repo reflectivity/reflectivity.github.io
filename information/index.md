@@ -12,6 +12,7 @@ This page contains a list of the resources currently available on this website a
   * [How to interact with ORSO](./interact_with_orso)
   * [Our active projects](../projects)
   * [Frequently asked questions](./FAQ)
+  * [ORSO Videos](./videos)
 
 # Useful information about reflectometry
 
