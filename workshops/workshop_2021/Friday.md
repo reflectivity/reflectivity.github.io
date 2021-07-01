@@ -17,6 +17,8 @@ This session will present progress of the [SLD database project](https://github.
 
 For impressions on the implementation of the database see [these screenshots](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/SLDDB_screenshots.pdf).
 
+Notes from the session can be found under this link: [Notes] https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/SLD_database_notes.pdf
+
 **An alpha version is now live [here](https://slddb.esss.dk)**
 
 ## A tutorial paper on the analysis of reflectometry
