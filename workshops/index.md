@@ -24,6 +24,18 @@ ChemMatCARS has an Education and Outreach programme including a seminar series a
 
 Each of the ORSO working groups meets in between AGMs to review open issues. These meetings are advertised through the ORSO mailing list.
 
+### Past events
+
+| Meeting or Workshop |      Date      |  Place |
+|----------|:-------------:|:------:|
+| AGM | June 2021 |   [Online](./workshop_2021/)  |
+| Education and Outreach | Sep & Oct 2020 | Online |
+| Reproducibility | Sep 2020 | Online  |
+| File Formats | Sep 2020 | Online |
+|  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
+| AGM | May 2020 |   [Online](./workshop_2020/)  |
+| AGM | Oct. 2019 |  [Abingdon, UK](./workshop_2019/)|
+
 For most recent activities please check github issues for each working group:
 - [Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
 - [Reproducibility](https://github.com/reflectivity//reproducibility/issues)
@@ -31,15 +43,3 @@ For most recent activities please check github issues for each working group:
 - [Data analysis](https://github.com/reflectivity/analysis/issues)
 
 If you would like to participate in any of these meetings, sign up to the mailing list or contact the chair of the relevant working group directly.
-
-### Past events
-
-| Meeting or Workshop |      Date      |  Place |
-|----------|:-------------:|:------:|
-| AGM | Oct. 2019 |  [Abingdon, UK](./workshop_2019/)|
-| AGM | May 2020 |   [Online](./workshop_2020/)  |
-| Education and Outreach | Sep & Oct 2020 | Online |
-| Reproducibility | Sep 2020 | Online  |
-| File Formats | Sep 2020 | Online |
-|  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
-| AGM | June 2021 |   [Online](./workshop_2021/)  |
