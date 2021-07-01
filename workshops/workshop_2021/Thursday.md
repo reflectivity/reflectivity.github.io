@@ -30,9 +30,10 @@ To be broken up into two halves, with a 10 minute break at the hour mark.
 - Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
   - Andrew Caruana: Fitting laboratory XRR data – to use with NR [VIDEO](https://youtu.be/nNSPWyuhFQ0)
   - Discussion of co-refinement of XRR, NR and other data
-- Andrew McCluskey: EasyReflectometry GUI [VIDEO](https://youtu.be/t3GdAi8hq4k)
+- Andrew McCluskey: [EasyReflectometry GUI](https://easyreflectometry.org/) [VIDEO](https://youtu.be/t3GdAi8hq4k)
 - A shared model language
   - Brian Maranville: First steps toward a shared model language [VIDEO](https://youtu.be/c9z2xt2X6U4)
+    - ([the schema that was discussed](https://github.com/reflectivity/analysis/blob/75c9b913c2369f8952d3de35a5d284ac474d181b/model_language/refl1d.schema.json))
   - Discussion of shared model language
 
 The chat from the session is [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/DAmeeting_saved_chat.txt)
