@@ -18,14 +18,24 @@ The target dataset is formatted according to the draft standard for text represe
 - **Joachim Wuttke:** [BornAgain](http://bornagainproject.org), [VIDEO](https://youtu.be/mcnrt-9NLD4)
 - **Arwel Hughes:** RasCAL and RAT [VIDEO](https://youtu.be/XOO3qTv4nCU) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/orsoPolymerResults_RasCAL.pdf)
 - **Brian Maranville:** [Refl1D](https://github.com/reflectometry/refl1d), [VIDEO](https://youtu.be/ksqqiNGzhMA) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/refl1d_outputs.pdf)
-- **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M)
+- **Mrinal Bera** XModFit, [VIDEO](https://youtu.be/3fPRXJQ2e3M) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/XModFit%20Neutron%20Data%20Fitting.pdf)
+
+After the meeting an additional demo has been provided by Alexandros Koutsioumpas using the package [Anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis): [Jupyter notebook](https://github.com/alexandros-koutsioumpas/anaklasis/blob/main/examples-Jupyter/ORSO_example.ipynb), [VIDEO](https://youtu.be/ieulImJUK5o) and [OUTPUT](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_example_with_anaklasis.pdf)
+
 
 ## Software Discussion Session 
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 
 To be broken up into two halves, with a 10 minute break at the hour mark.
 - Co-refinement and multi-modal measurements combining X-ray and neutron datasets, balancing weights or using Bayesian methods.
-  - 20 minute presentation by A. Caruana, followed by discussion
-- First steps toward a model language
-  - Presentation of draft model language by B. Maranville, followed by discussion
+  - Andrew Caruana: Fitting laboratory XRR data – to use with NR [VIDEO](https://youtu.be/nNSPWyuhFQ0)
+  - Discussion of co-refinement of XRR, NR and other data
+- Andrew McCluskey: [EasyReflectometry GUI](https://easyreflectometry.org/) [VIDEO](https://youtu.be/t3GdAi8hq4k)
+- A shared model language
+  - Brian Maranville: First steps toward a shared model language [VIDEO](https://youtu.be/c9z2xt2X6U4)
+    - ([the schema that was discussed](https://github.com/reflectivity/analysis/blob/75c9b913c2369f8952d3de35a5d284ac474d181b/model_language/refl1d.schema.json))
+  - Discussion of shared model language
 
+The chat from the session is [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/DAmeeting_saved_chat.txt)
+
+For reference the ISO reflectivity dictionary is [here](https://www.iso.org/obp/ui/#iso:std:iso:16413:ed-2:v1:en)

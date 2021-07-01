@@ -55,14 +55,16 @@ For the keywords only !!! encoding is allowed.
 
 ### date and time format
 
-ISO8601 
-
-format for date and time: yyyy-mm-ddThh:mm:ss 
+ISO8601 format for date and time: yyyy-mm-ddThh:mm:ss.
+This is local time.
+Do not use UTC (hence no suffix Z).
+If the time zone shall be specified (e.g. for disambiguation of summer/winter time),
+then append the UTC time offset in the form "+09:30".
 
 
 ### units
 
-The unis are always given together with the magnitude (not once for the full header)
+In the header, physical quantities shall always be stored with magnitude and unit in the form
 
     <quantity>:
          magnitude: <magnitude>
@@ -71,12 +73,17 @@ The unis are always given together with the magnitude (not once for the full hea
 Rules for using units:
 
 - only ASCII symbols are to be used;
-- Aangstroem is spelled `angstrom` (a capital A collides with Ampere);
-- *micro* is written as `mu` as in `mum` for micrometer;
-- reciprocal units are written e.g. as `1/angstrom`;
-- no mixing of units for similar entries, e.g. `deg` for angle of incidence and `rad` for detector angle;
-- exponents are marked with `**` as e.g. in `1/angstrom**2` for SLD;
-- the base units are `rad`, `deg`, `m`, `mm`, `nm`, … , `angstrom`, `eV`, `keV` and `s`.
+  - the greek letter μ is written as `mu` (e.g. `mum` for micrometer);
+  - `angstrom` cannot be abbreviated (Å is not allowed, A stands for Ampere);
+- composition with `*` and `/`, exponentiation with `**`
+  - reciprocal units are written e.g. as `1/nm` for wavenumbers, `1/angstrom**2` for the scattering length density
+
+Recommended units include:
+- for angles, `rad`, `deg`;
+- for lengths, `m`, `mm`, `nm`, `angstrom`;
+- for durations, `s`;
+- for energies, `eV`, `keV`;
+- for temperatures, `K`.
 
 
 ### comments
@@ -97,14 +104,14 @@ hash means *header* and the second *non-YAML entry*.
 
 ## the header
 
-The header might contain more sections than presented below - and also the sections might
+The header may contain more sections than presented below - and also the sections may
 contain user-defined `key: <value>` pairs on all levels. These of course should not
 interfere with defined content, and the rules for units and formats should be applied as
 stated here.
 
-The header follows a hirarchical structure and is formatted according to YAML (se below) 
-or JSON ruels. In addition, each line of the header starts with a hash and a space `# `
-(wrapped YAML), which is the default header marker in python (and other languages).
+The header follows a hierarchical structure and is formatted according to YAML (se below) 
+or JSON rules. In addition, each line of the header starts with a hash and a space `# `
+(wrapped YAML), which is the default header marker in Python (and other languages).
 
 
 ### first line
@@ -112,7 +119,7 @@ or JSON ruels. In addition, each line of the header starts with a hash and a spa
 The first line contains information about
 
 - the general content;
-- the orso file format version (and level of strictness) used;
+- the ORSO file format version (and level of strictness) used;
 - the encoding;
 - a link to us.
 
@@ -127,7 +134,11 @@ optional, recommended
 This (comment) line should help the user to identify the content based on a few key words.
 It is free format and no further rules apply.
 
-    # # <title> | <date> | <sample name>
+    # # <title> | <date> | <sample name> | <what>
+    
+e.g.
+
+    # # Interdiffusion in Fe | 2020-12-24 | sample fe-457-2 | R(q_z)
 
 ### data source
 

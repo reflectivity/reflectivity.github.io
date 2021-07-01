@@ -1,0 +1,43 @@
+21:20:21 From Andrew Nelson to Everyone : No error bars for the win!
+21:28:27 From Hans-Georg Steinrueck to Everyone : https://scripts.iucr.org/cgi-bin/paper?fs5183
+21:29:35 From Andrew Nelson to Everyone : Gibaud, The Correction of Geometrical Factors in the Analysis of X-ray Reflectivity, Acta Cryst, (1993). A49, 642-48
+21:30:03 From Alexandros Koutsioumpas to Everyone : What happens when you fit the data excluding the low-Q XRR points?
+21:30:05 From Andrew Nelson to Everyone : https://doi.org/10.1107/S0108767392013126
+21:30:56 From Hans-Georg Steinrueck to Everyone : Data-reduction procedure for correction of geometric factors in the analysis of specular X-ray reflectivity of small samplesJ. Appl. Cryst. (2018). 51, 1295-1303https://doi.org/10.1107/S1600576718010579
+21:32:35 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : https://journals.iucr.org/j/issues/2007/05/00/cg5066/cg5066.pdf
+21:33:30 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : this one builds on the one from Andrew N
+21:35:22 From Artur Glavic to Everyone : At the end the Chi² results and assumptions all rely of having the "correct" model....
+21:35:46 From Artur Glavic to Everyone : so if you don't get a good description of the data with fitting it, it can't yield reliable results.
+21:38:17 From Cooper, Jos (STFC,RAL,ISIS) to Everyone : I'm not sure chi squared relies on the correct model. As far as I understand it is strongly related to the log liklihood, which kind of gives you the probablility of obtaining that data given you have that model
+21:44:46 From Bridget Murphy to Everyone : Systematic errors are very difficult to deal with in XRR
+21:45:48 From Andrew McCluskey (he/him) to Everyone : https://emcee.readthedocs.io/en/stable/tutorials/line/
+21:49:32 From Artur Glavic to Everyone : Would it make sense to try a bit of an experimental approach to quantify systematics, by "measuring" systematic errors using several newly aligned measurements on the same and also different instruments for the same sample. (Or checking our assumptions for the influence of systematics.)
+21:50:39 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : knowing how to measure them would be useful. what do your suppose. (this is hindered as you have to know what they all are, but we can go for the obvious ones first)
+21:51:09 From Cooper, Jos (STFC,RAL,ISIS) to Everyone : maybe another way of thinking about this: The liklihood IS correct, (actually by definition). However, where we are going wrong is the model we are using is not correct. SO what we need to be able to do is correct our model, not our data
+21:53:02 From Andrew Nelson to Everyone : @AMC that relies on a constant underestimation of uncertainties, ours would change over the full range of Q
+21:54:04 From Andrew McCluskey (he/him) to Everyone : Me?
+21:54:22 From Andrew Nelson to Everyone : yep
+21:54:54 From Andrew McCluskey (he/him) to Everyone : You referring to the XRR->NR or NR->XRR problem?
+21:56:00 From Andrew Nelson to Everyone : The emcee straight-line example is for a constant underestimation of errors. XRR has systematics that would change over the full Q range.
+21:57:12 From Andrew McCluskey (he/him) to Everyone : I was answer Arwel’s thing about not being able to remember the ln(2pis_n^2) (ignoring the f^2(mx+b)^2 in the s_n^2 which I probably should have mentioned.
+22:01:27 From Andrew Nelson to Everyone : Sounds like it’d be good to get XRR manufacturers to the table to help us improve here.
+22:02:00 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : agreed
+22:03:15 From Thomas Arnold to Everyone : I think we had someone from panalytical register, could approach them
+22:04:04 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : what was there name? I also have a contact at Rigaku i could approach to Join ORSO
+22:04:34 From Thomas Arnold to Everyone : @Chrsity, we can talk offline
+22:04:49 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : cool
+22:04:57 From Bridget Murphy to Everyone : Great idea.
+22:08:19 From Caruana, Andrew (STFC,RAL,ISIS) to Everyone : Its all about the dark interface
+22:08:38 From Cooper, Jos (STFC,RAL,ISIS) to Everyone : do they do it in orange...?
+22:08:42 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : dark side of the force is far cooler
+22:08:58 From Kinane, Christy (STFC,RAL,ISIS) to Everyone : i can't see orange
+22:09:15 From Bridget Murphy to Everyone : as long as you live in a digital office.
+22:14:09 From Andrew Nelson to Everyone : Hopefully there’s no fifth column.
+22:14:11 From Andrew Nelson to Everyone : https://en.wikipedia.org/wiki/Fifth_column#:~:text=A%20fifth%20column%20is%20any,to%20assist%20an%20external%20attack.
+22:14:59 From Bridget Murphy to Everyone : or fifth element
+22:21:23 From Artur Glavic to Everyone : I have to leave, thanks for the presentations. See you tomorrow, maybe.
+22:31:40 From Hans-Georg Steinrück to Everyone : My question/comment was the following and is somewhat related to the reproducibility discussion yesterday, and maybe related to my naivety regarding programing. I really like the idea of Jupyter notebooks that can be added to manuscripts (like Andrew Nelson pointed out in his talk). Is there any way in the GUI programs to make some kind of log-file (or even better a script that is executable) of everything the user clicked? In some sense this is kind of similar to what is done is this paper for making reproducible figures: https://arxiv.org/abs/1910.00279
+22:33:01 From Brian Maranville to Everyone : https://www.reflectometry.org/workshops/workshop_2021/draft_model_language.schema.json
+22:34:29 From Andrew McCluskey (he/him) to Everyone : @HG In theory, I think this is possible with the easyReflectometry code. The backend has a “borg” that has a complete record of everything that has happened (implemented for copy/paste). However, I think that this model definition language is an easier way to solve this problem
+22:36:52 From Bridget Murphy to Everyone : yes I was also very impressed by the integration of jupyter notebooks into publications.
+22:55:47 From Andrew Nelson to Everyone : The refnx gui can produce scripts that can then be run to produce the same analysis as would be done in the gui. I think refl1d can do this as well.

@@ -47,7 +47,7 @@ As detailed [on this site](https://www.reflectometry.org/information/software/),
 
 * ###  What does reflectivity tell you?
 
-We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/working_groups/edu_and_outreach/learning). Note that the same principles apply for both x-rays and neutrons.
+We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/information/learning). Note that the same principles apply for both x-rays and neutrons.
 
 * ###  How can I join ORSO/help?
 

@@ -67,9 +67,9 @@ In the final session of the workshop we will summarise the working group discuss
 18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- Summary of the working group sessions
-- **Jos Cooper and James Durant**, ISIS Neutron and Muon Source, UK. "New Methods in Reflectivity Analysis: Neural Networks and the Fisher Information"
-- **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data"
-- **Juan Carmona Loaiza**, Reply Machine Learning, Germany. "Towards reflectivity profile inversion through artificial neural networks"
+- Summary of the working group sessions - SLIDES: [DATA FORMATS](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_File_formats.pptx),  [REPRODUCIBILITY](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Reproducibility%20working%20group%20Summary.pptx),  [DATA ANALYSIS](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/Analysis_Working_Group_summary.pdf) and [EDUCATION & OUTREACH](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_The%20Education%20and%20Outreach%20Working%20summary.pdf)
+- **Jos Cooper and James Durant**, ISIS Neutron and Muon Source, UK. "New Methods in Reflectivity Analysis: Neural Networks and the Fisher Information", [VIDEO](https://youtu.be/cMvSw2yD_2Q)
+- **Stefan Kowarik**, Graz University of Technology, Austria. "Artificial Intelligence Analysis of Reflectivity Data", [VIDEO](https://youtu.be/lHFFHpJghxo)
+- **Juan Carmona Loaiza**, Reply Machine Learning, Germany. "Towards reflectivity profile inversion through artificial neural networks", [VIDEO](https://youtu.be/Etg7J7dPyKU)
 
 
