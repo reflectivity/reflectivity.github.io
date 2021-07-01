@@ -6,6 +6,7 @@ permalink: /workshops/
 
 # Upcoming events
 
+Save the date: the 4th annual ORSO workshop will take place online in June 2022. Watch this space for more information.
 
 # Events of Interest to the ORSO community
 
