@@ -19,6 +19,7 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 
 - [Standard samples](../../projects/standard_samples): tell us about the samples you measure regularly by contributing
 - [Calibrations](../../projects/calibrations): We want to share how we check out beamlines are correct
+- [Checklist](../../projects/checklist): A checklist to help users follow best practice in experimental preparation
 
 ### Co-chairs
 
