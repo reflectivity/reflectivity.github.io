@@ -11,6 +11,8 @@ Also check out [Stuart Prescott's talk from the introductory session](https://te
 
 To get things started, we suggest breaking this checklist into two parts: before the experiment and after the experiment. 
 
+Please complete the [survey on the importance of different aspects of the checklist](https://forms.gle/UY5M9v6jBK73ewHGA).
+
 ## Before the experiment (and the experimental plan)
 
 1. **Do you have a scientific question or questions that you want to answer?**
