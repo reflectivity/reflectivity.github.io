@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>ORSO .ort validator</title>
+        <meta name="description" content="Validate a text reflectivity (*.ort) file">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <label for="upload">
+            Choose an ORSO file (.ort) to validate:
+            <input type="file" id="upload" name="upload" accept=".ort">
+        </label>
+        <div><pre id="validation_result"></pre></div>
+        <script type="module" async>
+            import * as yaml from "https://cdn.jsdelivr.net/npm/js-yaml@latest/dist/js-yaml.mjs";
+            import { Validator } from "https://cdn.jsdelivr.net/npm/@cfworker/json-schema@1.8.3/dist/index.js";
+
+            const schema_url = "https://raw.githubusercontent.com/reflectivity/orsopy/main/orsopy/fileio/schema/refl_header.schema.json";
+            let schema = await (await fetch(schema_url)).json();
+
+            const validator = new Validator(schema, '7', false);
+
+            //const first_line_re = /^#\s*# ORSO reflectivity data file\s*\|\s*([0-9]+\.[0-9]+(?:\.[0-9]+)?)\s*\|\s*(YAML|JSON)\s*encoding/;
+            const first_line_re = /^#\s*# ORSO reflectivity data file\s*\|\s*([0-9]+\.[0-9]+(?:\.[0-9]+)?)\s*standard\s*\|\s*(YAML|JSON)\s*encoding/;
+            function parse_first_line(line) {
+                let match = line.match(first_line_re);
+                let version = null;
+                let encoding = null;
+                if (match) {
+                    let fullmatch;
+                    [fullmatch, version, encoding] = match;
+                }
+                return {version, encoding};
+            }
+
+            document.getElementById("upload").onchange = function() {
+                let file = this.files[0];
+                let datafilename = file.name;
+                var result = null;
+                let reader = new FileReader();
+                reader.onload = function(e) {
+                    let lines = this.result.split("\n");
+                    //let liter = lines[Symbol.iterator]();
+                    //let line = lines.next().value;
+                    let header_lines = [];
+                    let {version, encoding} = parse_first_line(lines[0]);
+                    if (version == null) {
+                      console.log("no version provided");
+                      return null;
+                    }
+                    for (let line of lines.slice(1)) {
+                      if (/^#\s*data_set/.test(line)) {
+                        break;
+                      }
+                      else {
+                        header_lines.push(line.replace(/^#\s/, ''));
+                      }
+                    }
+                    console.log(header_lines.join('\n'));
+                    window.maybe_header = header_lines.join('\n');
+                    window.header = yaml.load(maybe_header, {schema: yaml.JSON_SCHEMA});
+                    console.log(validator.validate(header));
+                    document.getElementById("validation_result").innerHTML = JSON.stringify(validator.validate(header), null, 2);
+                    console.log('parsed first line:', version, encoding);
+                }
+                reader.readAsText(file);
+                this.value = "";
+            }
+            window.Validator = Validator;
+            window.validator = validator;
+            window.yaml = yaml;
+            window.schema = schema;
+            
+
+        </script>
+    </body>
+</html>
