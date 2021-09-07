@@ -13,6 +13,7 @@ Below are mostly X-ray relevant papers, but there are some neutron references to
 
 * Born M, Wolf E  Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light. (Pergoman Press 1959).
 *	B. E. Warren, X-ray Diffraction.  (Courier Corporation 1990).
+*	Melendres, Carlos A.; Tadjeddine, A. (Hg.) (1994): Synchrotron Techniques in Interfacial Electrochemistry. Dordrecht: Springer (NATO ASI Series, Series C, 432).
 *	M. Tolan, M. Tolan, X-ray scattering from soft-matter thin films: materials science and basic research. (Springer 1999).
 * J. Daillant, A. Gibaud X-ray, Neutron Reflectivity: Principles and Applications, (Springer 2008).
 *	J. Als-Nielsen, D. McMorrow, Elements of modern X-ray physics.  (John Wiley & Sons 2011).
