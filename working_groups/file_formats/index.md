@@ -65,7 +65,7 @@ The two representations are:
   **[definitions](../../projects/file_formats/tasks/definitions.pdf)**) for all representations.
   To simplyfy conversions and to be prepared for future developments, it was agreed to use a common subset of YAML and HDF5. 
   This means among other things not to use attributes in HDF.
-- **[ASCII representation](https://github.com/reflectivity/orsopy/blob/main/orsopy/fileio/specification.md)**:
+- **[ASCII representation](https://github.com/reflectivity/file_format/blob/master/specification.md)**:
   (**[state of the discussion](../../projects/file_formats/tasks/meeting_2021-03-22.md)** and 
   **[example](../../projects/file_formats/tasks/text_representation.md)**) 
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
