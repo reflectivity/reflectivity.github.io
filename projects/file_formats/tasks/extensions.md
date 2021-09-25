@@ -14,12 +14,6 @@ Artur made some suggestions for file extensions to be used / recommended for *ou
 
 - `.ort` **O**pen **R**eflectometry **T**ext   
   (German: place)
-- `.orp` **O**pen **R**eflectometry **P**ragmatic  
-  JS: *pragmatic* is associated with the content rather than with the representation.
-- `.ord` **O**pen **R**eflectometry **D**ata  
-  JS: binary file also contains data
-- `.ora` **O**pen **R**eflectometry **A**SCII  
-  (Latin: pray, Italian: hour)
 
 ### binary files
 
