@@ -73,8 +73,6 @@ The two representations are:
 
 ## next steps
 
-workshop 2021-06-14
-[material for session 1](../../projects/file_formats/tasks/ws_2021-06_text.md)
 
 - close open issues with the ASCII representation
 - work on the dictionary and the definitions
@@ -93,13 +91,19 @@ workshop 2021-06-14
 
 ## previous workshops:
 
-### Workshop on the text representation, 2021-03-22
+### Workshop 2021-06-14
 
+[material for session 1](../../projects/file_formats/tasks/ws_2021-06_text.md)
+
+The state of the project at the end of the workshop is summarised in 
+the [file](../projects/file_formats/text-rep.md).
+
+### Workshop on the text representation, 2021-03-22
 Essentially formal questions about the text representation of the data have been discussed 
 ([minutes](../../projects/file_formats/tasks/meeting_2021-03-22.md)) and 
 a [draft data file](../../projects/file_formats/tasks/text_representation.md) has been created.
 
-### Workshop on September 30. 2020
+### Workshop 2020-09-30
 
 [Task list based on the outcome of the workshop](../../projects/file_formats/tasks)
 
