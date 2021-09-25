@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "File Formats - Examples"
-permalink: /working_groups/file_formats/examples
+permalink: /projects/file_formats/examples
 ---
 
 The examples presented and discussed below are NOT the orso standard.
