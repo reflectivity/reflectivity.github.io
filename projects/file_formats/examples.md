@@ -25,6 +25,9 @@ One major outcome of the workshop in May 2020 was that there should be
 
 - [HDF file](#comprehensive-hdf-file)
 - [ASCII file](#pragmatic-ascii-file)
+
+  These examples are outdated. New versions are in preparation.
+  
   - [minimum content](#minimum-content)
   - [recommended content](#recommended-content)
   - [optional content](#optional-content)
