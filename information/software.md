@@ -108,3 +108,6 @@ The following links provide information about computer programs used for the ana
 *   Zeeman Splitting: a Jupyter notebook from Michael Fitzsimmons that accounts for Zeeman splitting in polarized neutron reflectometry data [https://github.com/mfitzsimmons44/reflectometry-analysis](https://github.com/mfitzsimmons44/reflectometry-analysis)
 
 *   anaklasis: a set of open-source Python3 scripts (with fortran90 extensions) that facilitate a range of specular neutron and x-ray reflectivity calculations [https://github.com/alexandros-koutsioumpas/anaklasis](https://github.com/alexandros-koutsioumpas/anaklasis)
+
+*   ESCAPE: Python/C++ package with full integration to Jupyter project. Provides solutions for different scattering problems, like reflectivity, small angle scattering, high resolution x-ray diffraction, gamma-emissions, etc. Overview: [https://arxiv.org/abs/2011.01340](https://arxiv.org/abs/2011.01340)
+[https://escape-app.net](https://escape-app.net)
