@@ -8,7 +8,7 @@ This organisation and its working group are open too all, to join a working grou
 We organise ourselves within the [reflectivity Github organisation](https://github.com/reflectivity) which administers this webpage, you can find out more about how to get involved from [these helpful videos](/information/interact_with_orso/).
 
 There is also an Slack workspace for the ORSO community, this is a great way to stay in touch with other reflectometrists. 
-Please [email: Andrew McCluskey](mailto:andrew.mccluskey@ess.eu) for an invitation to this space. 
+Please email [Andrew McCluskey](mailto:andrew.mccluskey@ess.eu) for an invitation to this space. 
 
 
 <!--
