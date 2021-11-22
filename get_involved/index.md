@@ -42,3 +42,40 @@ andrew.mccluskey@ess.eu
     </td>
   </tr>
 </table>
+
+<h2>Contact the Working Group Chairs</h2>
+  <tr class="tt">
+    <td class="tt">
+      <a class="tt" href="https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&amp;id=fa298202d4">
+        <i class="fas fa-book fa-5x"></i>
+        <br>
+        <h4>Education and Outreach</h4></a>
+      <a href="mailto:tom.arnold@ess.eu">Tom Arnold</a>
+      <a href="mailto:murphy@physik.uni-kiel.de">Bridget Murphy</a>
+    </td>
+    <td class="tt">
+      <a class="tt" href="https://github.com/reflectivity">
+        <i class="fas fa-file-code fa-5x"></i>
+        <br>
+        <h4>File Formats</h4></a>
+      <a href="mailto:jochen.stahn@psi.ch">Jochen Stahn</a>
+      <a href="mailto:Maximilian.Skoda@stfc.ac.uk">Max Skoda</a>
+    </td>
+    <td class="tt">
+      <a class="tt" href="../information/interact_with_orso/">
+        <i class="fas fa-chart-line fa-5x"></i>
+        <br>
+        <h4>Data Analysis</h4></a>
+      <a href="mailto:brian.maranville@nist.gov">Brian Maranville</a>
+      <a href="mailto:anz@ansto.gov.au">Andrew Nelson</a>
+    </td>
+    <td class="tt">
+      <a class="tt" href="https://join.slack.com/t/orso-co/shared_invite/zt-z7p3v89g-~JgCbzcxurQP6ufqdfTCfw">
+        <i class="fas fa-redo fa-5x"></i>
+        <br>
+        <h4>Reproducibility</h4></a>
+      <a href="mailto:christy.kinane@stfc.ac.uk">Christy Kinane</a>
+      <a href="mailto:andrew.mccluskey@ess.eu">Andrew McCluskey</a>
+    </td>
+  </tr>
+</table>
