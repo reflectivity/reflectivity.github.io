@@ -44,6 +44,8 @@ andrew.mccluskey@ess.eu
 </table>
 
 <h2>Contact the Working Group Chairs</h2>
+
+<table class="tt">
   <tr class="tt">
     <td class="tt">
       <a class="tt" href="https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&amp;id=fa298202d4">
