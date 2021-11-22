@@ -9,9 +9,6 @@ We organise ourselves within the [reflectivity Github organisation](https://gith
 
 There is also an Slack workspace for the ORSO community, this is a great way to stay in touch with other reflectometrists. 
 
-**Please email [Andrew McCluskey](mailto:andrew.mccluskey@ess.eu) for an invitation to this space. **
-
-
 <!--
 This is the table view for the different section
 DO NOT EDIT UNLESS YOU KNOW THAT YOU ARE DOING
@@ -36,6 +33,12 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-video fa-5x"></i>
         <br>
         <h4>Interact with ORSO</h4></a>
+    </td>
+    <td>
+      <a class="tt" href="https://join.slack.com/t/orso-co/shared_invite/zt-z7p3v89g-~JgCbzcxurQP6ufqdfTCfw">
+        <i class="fa-brands fa-slack"></i>
+        <br>
+        <h4>Join the Slack</h4></a>
     </td>
   </tr>
 </table>
