@@ -34,7 +34,7 @@ andrew.mccluskey@ess.eu
         <br>
         <h4>Interact with ORSO</h4></a>
     </td>
-    <td>
+    <td class="tt">
       <a class="tt" href="https://join.slack.com/t/orso-co/shared_invite/zt-z7p3v89g-~JgCbzcxurQP6ufqdfTCfw">
         <i class="fab fa-slack fa-5x"></i>
         <br>
