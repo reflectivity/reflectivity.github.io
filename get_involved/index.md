@@ -20,7 +20,7 @@ andrew.mccluskey@ess.eu
       <a class="tt" href="https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&amp;id=fa298202d4">
         <i class="fas fa-envelope fa-5x"></i>
         <br>
-        <h4>Mailing List</h4></a>
+        <h4>Join the Mailing List</h4></a>
     </td>
     <td class="tt">
       <a class="tt" href="https://github.com/reflectivity">
