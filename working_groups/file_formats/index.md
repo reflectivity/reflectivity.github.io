@@ -67,8 +67,13 @@ The two representations are:
   This means among other things not to use attributes in HDF.
 - **ASCII representation**:
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
-  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and resolution. 
-  A version 0 [specifications document](https://github.com/reflectivity/file_format/blob/master/specification.md) is available.
+  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and *q* resolution.
+  
+  - A version 0 **[specifications document](https://github.com/reflectivity/file_format/blob/master/specification.md)** is available.
+  
+  - python modules to read and write orso headers are available at **[orsopy](https://orsopy.readthedocs.io/en/latest/)**.
+  
+  - An overview of the state was given on the **[SXNS 16 talk](./SXNS_file_formats.pdf)** 2022-01.
 - **HDF representation**: At an early stage... 
 
 ## next steps
