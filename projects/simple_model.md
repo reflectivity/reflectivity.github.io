@@ -13,6 +13,8 @@ Brian Maranville, *NIST, USA* <br>
 
 ## simplified model description for .ort files
 
+A joint project by the *file formats* and the *data analysis* working groups.
+
 This is a collection of ideas for how to describe a reflectometry sample in a **simple**
 and **flexible** way.
 This might be a first step towards a general and comprehensive sample description language.
@@ -30,8 +32,6 @@ not too far from the real one.
 scale. This might be used to train AI algorithms.
 
 ### structure
-
----
 
 #### the 1-liner
 
