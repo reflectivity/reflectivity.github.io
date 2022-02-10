@@ -1,11 +1,11 @@
-
 ---
 layout: page
-title: ORSO file formats & data analysis: simplified model description
-permalink: /projects/simple_model/
+title: "ORSO file formats & data analysis: simplified model description"
+permalink: /projects/simple_model
+author: "Jochen Stahn"
 ---
 
-Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* ,br>
+Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
 2022-02-10
 
