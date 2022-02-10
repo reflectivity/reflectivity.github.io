@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: ORSO file formats & data analysis: simplified model description
@@ -289,6 +290,8 @@ rules e.g.
 ---
 
 ### Jochen's suggestion
+
+The asterisks `*` mark optional entries.
 
 ``` YAML
     sample:
