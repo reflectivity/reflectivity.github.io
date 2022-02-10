@@ -1,12 +1,15 @@
 ---
 layout: page
 title: ORSO file formats & data analysis: simplified model description
-author:
+permalink: /projects/simple_model/
+---
+
 - Jochen Stahn, Artur Glavic 
   *Paul Scherrer Institut, Switzerland*
 - Brian Maranville
   *NIST, USA*
 date: 2022-02-10
+
 ---
 
 ## simplified model description for .ort files
