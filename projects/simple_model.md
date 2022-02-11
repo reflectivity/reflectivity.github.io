@@ -71,7 +71,12 @@ Alternative formats are
 
 ``` YAML
     sample:
-        stack: Si | SiO2 5a | Fe 30a 0.4mub | Ni 70nm | pep 0.3/aa 2nm | air
+        stack: Si | SiO2 5a | Fe 30a 0.4mub | Ni 70nm | pep 0.3/aa 2nm | air      1
+        stack: [Si, [SiOx, POPC Bilayer]*5, water]                                2
+        stack: [Si, repeat: [5, [SiOx, POPC Bilayer]], water]                     3
+        stack: [Si, [SiO2, 0.5], [Fe, 30], [Ni, 70], [pep, 0.3], air]             4
+        stack: [Si, SiO2: 0.5, Fe: 30, Ni: 70, pep: 0.3, air]                     5
+        stack: [Si, {SiO2: 0.5}, {ml: 4}, {Fe: 30}, {Ni: 70}, {pep: 0.3}, air]    6
 ```
 
 pro:
@@ -84,6 +89,7 @@ contra:
 - the handling of units is not nice;
 - pre-defined units might lead to confusion (anstrom in the orso header, nm in the model);
 - more than about 6 layers leads to too long lines.
+- It is not clear what the numbers mean (and in which order) unless one reads the manual....
 
 ---
 
@@ -293,13 +299,24 @@ rules e.g.
 
 The asterisks `*` mark optional entries.
 
+minimal version (3 lines for the model) to estimate the outcome of the measurement as a starting point for a detailed model for analysis. Magnetisation is missing:
+
 ``` YAML
     sample:
         model:
-            origin:     * guess based on preparation / XRR
-            schema:     * orso-short-notation (some default)
+            origin:     guess based on preparation
             stack:      Si | 10 ( Fe 7 | Si 7 ) | air
-            layers:          *
+```
+
+extended version (with more information) on the level of the starting model for data analysis:
+
+``` YAML
+    sample:
+        model:
+            origin:     guess based on preparation / XRR
+            schema:     orso-short-notation (some default)
+            stack:      Si | 10 ( Fe 7 | Si 7 ) | air
+            layers:          
              - layer:        Fe 7
                moment: 
                    value:    2.2 
@@ -311,7 +328,7 @@ The asterisks `*` mark optional entries.
                composition:  SiN0.01
                rel_density:  0.95
                ...
-            roughness:       *
+            common_roughness:       
                 value:       5
                 unit:        angstrom 
 ```
