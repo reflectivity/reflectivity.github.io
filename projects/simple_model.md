@@ -7,7 +7,7 @@ author: "Jochen Stahn"
 
 Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
-2022-02-10
+2022-02-22
 
 ---
 
@@ -21,62 +21,66 @@ This might be a first step towards a general and comprehensive sample descriptio
 
 ### aims
 
-- **experiment planning** The model might be used to estimate counting times, statistics and experimental 
+#### experiment planning
+
+The model might be used to estimate counting times, statistics and experimental 
 settings already before and during the experiments.
-- **completeness of reflectivity file** The reflectivity file can be related to a sample model without the *external* connection
+
+#### completeness of reflectivity file
+
+The reflectivity file can be related to a sample model without the *external* connection
 sample name - stack (in the best case this can be found in the log-book, else in the
 manufactorers lab journal....)
-- **data analysis** The standadisation allows the analysis software to create a starting model which is 
+
+#### data analysis
+
+The standadisation allows the analysis software to iautomaticlly create a starting model which is 
 not too far from the real one.
-- **indexing of data and analysis** A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+
+#### indexing of data and analysis
+
+A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
 scale. This might be used to train AI algorithms.
 
+
+
 ### structure
+
+This section is about *compactness vs. flexibility* of the model description. 
 
 #### the 1-liner
 
 The complete model description is given in one line. This allows for a very compact notation,
-but restricts the content to the absolute minimum.
+but restricts the content to the absolute minimum. 
 
-Example (Jochen):
+For each layer the name or composition, its thickness and probably some additional information is provided. 
+Tor keep this readable, roughnesses and magnetic information can hardly be provided.
 
-``` YAML
-    sample:
-        stack: Si | SiO2 0.5 | Fe 30 0.4 | Ni 70 | pep 0.3 2 | air
-```
-
-which translates to (units undefined here!)
-
-|               | name  | SLD | thickness | **M** |
-| :------------ | :--- | ---: | ---: | ---: |
-|  outer medium | air  |     |      |     |
-|  layer 4      | pep  | 0.4 |  2.0 |     |
-|  layer 3      | Ni   |     | 70.0 |     |
-|  layer 2      | Fe   |     | 30.0 | 0.4 |
-|  layer 1      | SiO2 |     |  0.5 |     |
-|  substrate    | Si   |     |      |     |
-
-The SLD is calculated from the *name* if that starts with a capital letter
-else the 1st argument is taken as a SLD.
- 
-No roughnesses or density gradient films can be defined at this level. 
- 
-Repetitions can be marked as 
-
-``` YAML
-        stack: Si | 10 ( Ni 7 | Ti 7 ) | air
-```
-
-Alternative formats are
+The structure will look like
 
 ``` YAML
     sample:
-        stack: Si | SiO2 5a | Fe 30a 0.4mub | Ni 70nm | pep 0.3/aa 2nm | air      1
-        stack: [Si, [SiOx, POPC Bilayer]*5, water]                                2
-        stack: [Si, repeat: [5, [SiOx, POPC Bilayer]], water]                     3
-        stack: [Si, [SiO2, 0.5], [Fe, 30], [Ni, 70], [pep, 0.3], air]             4
-        stack: [Si, SiO2: 0.5, Fe: 30, Ni: 70, pep: 0.3, air]                     5
-        stack: [Si, {SiO2: 0.5}, {ml: 4}, {Fe: 30}, {Ni: 70}, {pep: 0.3}, air]    6
+        stack: <model string>
+```
+
+Where the `<model string>` might look like one of the following suggestions for the
+example
+
+|               | name | SLD  | thickness | **M** | repetitons |
+| :------------ | :--- | ---: | --------: | ----: | :--------: |
+|  outer medium | water |      |           |       |            |
+|  layer 4      | POPC |  0.4 |       2.0 |       |            |
+|  layer 3      | Ni   |      |      70.0 |       | 5          |
+|  layer 2      | Fe   |      |      30.0 |   0.4 | "          | 
+|  layer 1      | SiO2 |      |       0.5 |       |            |
+|  substrate    | Si   |      |           |       |            |
+
+```
+        stack: Si | SiO2 0.5 | 5 (Fe 30 | Ni 70) | POPC 2 | water     
+        stack: [Si, SiO2 0.5, [Fe 30, Ni 70]*5, POPC Bilayer, water]                      
+        stack: [Si, [SiO2, 0.5], [5, [Fe, 30], [Ni, 70]], [POPC, 0.3], water]             
+        stack: [Si, SiO2: 0.5, ml: [Fe: 30, Ni: 70], 5, POPC: 0.3, water]                     
+        stack: [Si, {SiO2: 0.5}, {ml: 5}, {Fe: 30}, {Ni: 70}, {POPC: 0.3}, water]    
 ```
 
 pro:
@@ -86,10 +90,11 @@ pro:
 
 contra:
 
-- the handling of units is not nice;
+- SLD, magnetic moment or roughness can not be provided without spoiling the readability even more. 
+- the handling of units is not nice (there is none);
 - pre-defined units might lead to confusion (anstrom in the orso header, nm in the model);
 - more than about 6 layers leads to too long lines.
-- It is not clear what the numbers mean (and in which order) unless one reads the manual....
+- It is not clear what the numbers mean unless one reads the manual....
 
 ---
 
@@ -97,60 +102,21 @@ contra:
 
 Each line represents one layer. 
 
-Examples (Jochen)
-
 ``` YAML
     sample:
-        model:
-            origin: guess from preparation 
-            stack:
-             - air  , inf nm , 0.0E-6 /fm^2 , 0.0 muB
-             - pep  , 2.0 nm , 0.4E-6 /fm^2 , 0.0 muB
-             - Ni   ,70.0 nm , calc         , 0.0 muB
-             - Fe   ,30.0 nm , calc         , 0.4 muB
-             - SiO2 , 0.5 nm , calc         , 0.0 muB
-             - Si   , inf nm , calc         , 0.0 muB
+        stack:
+         - water , inf nm , 0.0 /fm^2 , 0.0 muB
+         - POCP  , 0.3 nm , 0.4 /fm^2 , 0.0 muB
+         - 5
+           - Ni  , 3.5 nm , calc      , 0.0 muB
+           - Ti  , 7.0 nm , calc      , 0.0 muB
+         - SiO2  , 0.5 nm , calc      , 0.0 muB
+         - Si    , inf nm , calc      , 0.0 muB
 ```
 
 where `calc` means that the value is calculated from the formula = name.
 
-``` YAML
-    sample:
-        model:
-            origin: guess from preparation 
-            stack:
-             - air   , inf nm , 0.0 /fm^2 , 0.0 muB
-             - 5
-               - Ni  , 3.5 nm , calc      , 0.0 muB
-               - Ti  , 7.0 nm , calc      , 0.0 muB
-             - SiO2  , 0.5 nm , calc      , 0.0 muB
-             - Si    , inf nm , calc      , 0.0 muB
-```
- 
-(Brian)
-First, to use the refl1d version with the model definition file, check out the 'dataclass_overlay' branch from both bumps and refl1d and install locally, installing bumps before refl1d in your virtual environment (because refl1d will try to grab bumps from pypi during install)
-
-For adding a simple model to the header, I suggest that we not try to overload the description field.  We can be clear about what the new field is: a representation of the model (or the structure of the sample, which is sort of the same thing).  I think many users will want to use the 'description' field to put in all sorts of other important information, which is not relevant to the reflectometry information domain (where we care about layer structure)
-
-We could call it sample.structure or sample.model or something like that - 
-I would also recommend requiring a subfield that describes the model language being used, e.g.
-(we could also link to a language definition specification instead of a schema)
-
-``` YAML
-    sample:
-      model:
-        schema: https://www.reflectometry.org/schemas/model/simple/1.0.0/base.json
-        value:
-        - - Si
-          - 0.0
-          - 5.0
-        - - SiO2
-          - 25.0
-          - 10.0
-        - - Vacuum
-          - 0.0
-          - 0.0
-```
+Of cause also here one can think of various ways to structure the layer lines....
 
 pro: 
 
@@ -164,50 +130,38 @@ contra:
 - there is redundand information (the chemical composition can already contain the info about the SLD).
 
 ---
+
+
  
-#### combination
+#### hirarchical structure
 
 A hirarchical approach, where a one-line string tells the layer sequence with 
-name or formula, probably SLD, thickness and probably magnetisation of each layer in a 
+name or formula and thickness of each layer in a 
 very compressed way. 
-In case this is not precise enough, additional or more precise information is given in the
-*listing* format, where the entries of the 1-liner are used as identifiers.
+All extra information can be provided in a following layer description:
 
 Examples (Jochen):
 
 ``` YAML
     sample:
-        stack: Si | SiO2 0.5 | Fe 30 0.4 | Ni 70 | pep 0.3 2 | air
+        stack: Si | SiO2 0.5 | 5 (Fe 30 | Ni 70) | POCP 2 | water
         layer_description:
-         - layer: 'SiO2 0.5'
+         - layer: SiO2
            relative_density: 0.95
            lower_roughness: 5.0
            upper_roughness: 3.0 
-         - layer: 'pep 0.3 2'
+         - layer: POCP
            SLD: 
-           lateral_structure:
-           ...
-         - layer: 'Fe 30 0.4'
+                value: 0.3e-6
+                unit: fm
+         - layer: Fe
+           magnetic_moment:
+                value: 0.4
+                unit: muB
            magnetisation_axis: 0.9, 0.1, 0.0
 ```
 
-or 
-
-``` YAML
-        layers:
-         - pep
-           material: peptide123
-           density: 0.95
-        materials:
-         - material: peptide123
-           formula: A3B5C6
-           density: 
-               value: 34.6
-               unit:  1/angstrom^3
-           reference: doi:1234AB678
-```
-
-(Artur)
+or (Artur)
 `layers` describes the sequence of names and thicknesses in brackets, 
 for `Rep 1` the brackets give the number repetitions
 
@@ -251,7 +205,7 @@ the name has to be unique but can be used at different locations in the sequence
 pro:
 
 - the first entry gives an overview and contains most of the information, only special
-information has to be provided in a maore complicated form;
+information has to be provided in a more complicated form;
 - one can add more and more complex information up to a full description (e.g. after analysis)
 
 contra:
@@ -261,6 +215,36 @@ contra:
 
 ---
 
+
+#### various formats
+
+A grammar for the model description might be chosen by an additional variable:
+
+``` YAML
+    sample:
+        model:
+            schema:     orso-short-notation 
+                        Brian's-JSON-nighhtmare
+                        etc.
+            stack:      ....   
+```
+
+pro:
+
+- maximum flexibility
+
+contra:
+
+- maximum confusion
+
+---
+
+#### open questions
+
+- Should the model be formatted according to YAML or JSON rules? (The one-liner then will consist essentially of brackets, colons and comas.)
+- Should the simplified model description we aim for here be 100% compatible with a unversal model language? Probably using the same grammar? 
+- Where is the model analysed? Within orsopy or only in the analysis programs?
+
 ### vocabulary
 
 There is a wide variety of meanings associated with key words such as *layer* or *material*. 
@@ -269,6 +253,7 @@ accept an *absurd* choice at some point.
 
 - `sample` already defined
 - `model`
+- `origin` provides some informaton about how trustworthy the model is (*guess* vs. *based on XRD*) 
 - `stack`
 - `layer`
 - `material`
@@ -297,8 +282,6 @@ rules e.g.
 
 ### Jochen's suggestion
 
-The asterisks `*` mark optional entries.
-
 minimal version (3 lines for the model) to estimate the outcome of the measurement as a starting point for a detailed model for analysis. Magnetisation is missing:
 
 ``` YAML
@@ -314,17 +297,17 @@ extended version (with more information) on the level of the starting model for 
     sample:
         model:
             origin:     guess based on preparation / XRR
-            schema:     orso-short-notation (some default)
+            schema:     orso-short-notation 
             stack:      Si | 10 ( Fe 7 | Si 7 ) | air
             layers:          
-             - layer:        Fe 7
+             - layer:        Fe
                moment: 
                    value:    2.2 
                    unit:     muB
                sld: 
                    value:    5.02e-6
                    unit:     1/angstrom^2
-             - layer:        Si 7
+             - layer:        Si
                composition:  SiN0.01
                rel_density:  0.95
                ...
@@ -332,3 +315,44 @@ extended version (with more information) on the level of the starting model for 
                 value:       5
                 unit:        angstrom 
 ```
+
+or (quite complicated)
+
+``` YAML
+    sample:
+        model:
+            origin: guess by J. Stahn
+            stack:  Si | film | water
+            layers:
+            - Si
+              sub_stack:
+                 - sigma: {value: 3, unit: angstrom}
+                 - SiO2
+                   thickness: {vlaue:5, unit: angstrom}
+                 - sigma: {value:2, unit: angstrom}
+                 - Si
+                   backing_medium
+            - film
+              repetitions: 5
+              sub_stack:
+                 - head_group, 4 angstrom
+                 - tail
+                 - tail
+                 - head_group, 4 angstrom
+            - water
+              composition: H2O 0.3, D2O 0.7
+              incomming_medium
+            - tail
+              material: tailstuff
+              thickness: {value: 22, unit: angstrom}
+            materials:
+                 head_group:
+                     SLD: {value: 0.2e6, unit: angstrom^-2}
+                 tailstuff:
+                     formula: CH2
+                     number_density: {value: 0.43, unit: angstrom^-3}
+```
+
+Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
+
+This last example is loosely based on the model description language created by Petr Mikulik for his x-ray fitting program EDXR.
