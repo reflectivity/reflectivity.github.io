@@ -21,23 +21,23 @@ This might be a first step towards a general and comprehensive sample descriptio
 
 ### aims
 
-#### experiment planning
+##### experiment planning
 
 The model might be used to estimate counting times, statistics and experimental 
 settings already before and during the experiments.
 
-#### completeness of reflectivity file
+##### completeness of reflectivity file
 
 The reflectivity file can be related to a sample model without the *external* connection
 sample name - stack (in the best case this can be found in the log-book, else in the
 manufactorers lab journal....)
 
-#### data analysis
+##### data analysis
 
 The standadisation allows the analysis software to iautomaticlly create a starting model which is 
 not too far from the real one.
 
-#### indexing of data and analysis
+##### indexing of data and analysis
 
 A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
 scale. This might be used to train AI algorithms.
