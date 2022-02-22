@@ -224,7 +224,7 @@ A grammar for the model description might be chosen by an additional variable:
     sample:
         model:
             schema:     orso-short-notation 
-                        Brian's-JSON-nighhtmare
+                        Brian's-JSON-nightmare
                         etc.
             stack:      ....   
 ```
@@ -239,11 +239,12 @@ contra:
 
 ---
 
-#### open questions
+### open questions
 
 - Should the model be formatted according to YAML or JSON rules? (The one-liner then will consist essentially of brackets, colons and comas.)
 - Should the simplified model description we aim for here be 100% compatible with a unversal model language? Probably using the same grammar? 
 - Where is the model analysed? Within orsopy or only in the analysis programs?
+- One or several languages?
 
 ### vocabulary
 
