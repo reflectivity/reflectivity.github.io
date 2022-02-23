@@ -298,60 +298,107 @@ extended version (with more information) on the level of the starting model for 
     sample:
         model:
             origin:     guess based on preparation / XRR
-            schema:     orso-short-notation 
             stack:      Si | 10 ( Fe 7 | Si 7 ) | air
-            layers:          
-             - layer:        Fe
+            materials:          
+             - name:         Fe
                moment: 
                    value:    2.2 
                    unit:     muB
                sld: 
                    value:    5.02e-6
                    unit:     1/angstrom^2
-             - layer:        Si
+             - name:         Si
                composition:  SiN0.01
                rel_density:  0.95
                ...
-            common_roughness:       
-                value:       5
-                unit:        angstrom 
+            global:
+               roughness:       
+                  value:     5
+                  unit:      angstrom 
+            reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
 or (quite complicated)
 
 ``` YAML
-    sample:
-        model:
-            origin: guess by J. Stahn
-            stack:  Si | film | water
-            layers:
-            - Si
-              sub_stack:
-                 - sigma: {value: 3, unit: angstrom}
-                 - SiO2
-                   thickness: {vlaue:5, unit: angstrom}
-                 - sigma: {value:2, unit: angstrom}
-                 - Si
-                   backing_medium
-            - film
-              repetitions: 5
-              sub_stack:
-                 - head_group, 4 angstrom
-                 - tail
-                 - tail
-                 - head_group, 4 angstrom
-            - water
-              composition: H2O 0.3, D2O 0.7
-              incomming_medium
-            - tail
-              material: tailstuff
-              thickness: {value: 22, unit: angstrom}
-            materials:
-                 head_group:
-                     SLD: {value: 0.2e6, unit: angstrom^-2}
-                 tailstuff:
-                     formula: CH2
-                     number_density: {value: 0.43, unit: angstrom^-3}
+sample:
+    model:
+        origin: guess by J. Stahn
+        stack:  sub | film | water
+        sub_stacks:
+        - name: sub
+          layers: 
+             - material: SiO2
+               thickness: {value:5, unit: angstrom}
+               sigma: {value: 3, unit: angstrom}
+             - material: Si
+               sigma: {value:2, unit: angstrom}
+        - name: film
+          repetitions: 5
+          stack: head_group 4 | tail | tail | head_group 4
+        layers:
+        - name: tail
+          material: tailstuff
+          thickness: 22.
+        materials: 
+        - name: water
+          composition: H2O 0.3, D2O 0.7          
+        - name: head_group
+          sld: {value: 0.2e6, unit: angstrom^-2}
+        - name: tailstuff
+          formula: CH2
+          mass_density: {value: 1.2, unit: g/cm^3}
+        - name: SiO2
+          formula: SiO2
+        - name: Si
+          formula: Si
+        global:
+          sigma: {value: 5, unit: angstrom}
+          length_units: angstrom
+          mass_density_units: g/cm^3
+        reference: ORSO model language | 1.0 | http://bla.bli
+```
+
+With alternative notation using list instead of sub-elements:
+``` YAML
+sample:
+    model:
+        origin: guess by J. Stahn
+        stack:  sub | film | water
+        items:
+        - type: sub_stack 
+          name: sub
+          layers: 
+             - material: SiO2
+               thickness: {value:5, unit: angstrom}
+               sigma: {value: 3, unit: angstrom}
+             - material: Si
+               sigma: {value:2, unit: angstrom}
+        - type: sub_stack
+          name: film
+          repetitions: 5
+          stack: head_group 4 | tail | tail | head_group 4
+        - type: material
+          name: water
+          composition: H2O 0.3, D2O 0.7          
+        - type: layer
+          name: tail
+          material: tailstuff
+          thickness: 22.
+        - type: material
+          name: head_group
+          sld: {value: 0.2e6, unit: angstrom^-2}
+        - type: material
+          name: tailstuff
+          formula: CH2
+          mass_density: {value: 1.2, unit: g/cm^3}
+        - type: material
+          name: SiO2
+          formula: SiO2
+        - type: material
+          name: Si
+          formula: Si
+        reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
 Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
