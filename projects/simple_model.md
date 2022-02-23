@@ -245,6 +245,7 @@ contra:
 - Should the simplified model description we aim for here be 100% compatible with a unversal model language? Probably using the same grammar? 
 - Where is the model analysed? Within orsopy or only in the analysis programs?
 - One or several languages?
+- What are the default values (sigma) or units (nm vs. angstrom)?
 
 ### vocabulary
 
@@ -281,7 +282,7 @@ rules e.g.
 
 ---
 
-### Jochen's suggestion
+### Artur & Jochen's suggestion
 
 minimal version (3 lines for the model) to estimate the outcome of the measurement as a starting point for a detailed model for analysis. Magnetisation is missing:
 
@@ -300,25 +301,25 @@ extended version (with more information) on the level of the starting model for 
             origin:     guess based on preparation / XRR
             stack:      Si | 10 ( Fe 7 | Si 7 ) | air
             materials:          
-             - name:         Fe
-               moment: 
-                   magnitude:    2.2 
-                   unit:     muB
-               sld: 
-                   magnitude:    5.02e-6
-                   unit:     1/angstrom^2
-             - name:         Si
-               composition:  SiN0.01
-               rel_density:  0.95
-               ...
-            global:
-               roughness:       
+            - name:         Fe
+              moment: 
+                  magnitude:    2.2 
+                  unit:     muB
+              sld: 
+                  magnitude:    5.02e-6
+                  unit:     1/angstrom^2
+            - name:         Si
+              composition:  SiN0.01
+              rel_density:  0.95
+              ...
+           global:
+              roughness:
                   magnitude:     5
-                  unit:      angstrom 
-            reference: ORSO model language | 1.0 | http://bla.bli
+                  unit:      amgstrom 
+           reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
-or (quite complicated)
+or a quite complicated model to illustrate what is possible:
 
 ``` YAML
 sample:
@@ -359,7 +360,12 @@ sample:
         reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
-With alternative notation using list instead of sub-elements:
+Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
+
+This structure is loosely based on the model description language created by Petr Mikulik for his x-ray fitting program EDXR.
+
+An alternative notation using list instead of sub-elements:
+
 ``` YAML
 sample:
     model:
@@ -401,6 +407,4 @@ sample:
         reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
-Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
 
-This last example is loosely based on the model description language created by Petr Mikulik for his x-ray fitting program EDXR.
