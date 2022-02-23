@@ -152,11 +152,11 @@ Examples (Jochen):
            upper_roughness: 3.0 
          - layer: POCP
            SLD: 
-                value: 0.3e-6
+                magnitude: 0.3e-6
                 unit: fm
          - layer: Fe
            magnetic_moment:
-                value: 0.4
+                magnitude: 0.4
                 unit: muB
            magnetisation_axis: 0.9, 0.1, 0.0
 ```
@@ -302,10 +302,10 @@ extended version (with more information) on the level of the starting model for 
             materials:          
              - name:         Fe
                moment: 
-                   value:    2.2 
+                   magnitude:    2.2 
                    unit:     muB
                sld: 
-                   value:    5.02e-6
+                   magnitude:    5.02e-6
                    unit:     1/angstrom^2
              - name:         Si
                composition:  SiN0.01
@@ -313,7 +313,7 @@ extended version (with more information) on the level of the starting model for 
                ...
             global:
                roughness:       
-                  value:     5
+                  magnitude:     5
                   unit:      angstrom 
             reference: ORSO model language | 1.0 | http://bla.bli
 ```
@@ -329,10 +329,10 @@ sample:
         - name: sub
           layers: 
              - material: SiO2
-               thickness: {value:5, unit: angstrom}
-               sigma: {value: 3, unit: angstrom}
+               thickness: {magnitude:5, unit: angstrom}
+               sigma: {magnitude: 3, unit: angstrom}
              - material: Si
-               sigma: {value:2, unit: angstrom}
+               sigma: {magnitude:2, unit: angstrom}
         - name: film
           repetitions: 5
           stack: head_group 4 | tail | tail | head_group 4
@@ -344,16 +344,16 @@ sample:
         - name: water
           composition: H2O 0.3, D2O 0.7          
         - name: head_group
-          sld: {value: 0.2e6, unit: angstrom^-2}
+          sld: {magnitude: 0.2e6, unit: angstrom^-2}
         - name: tailstuff
           formula: CH2
-          mass_density: {value: 1.2, unit: g/cm^3}
+          mass_density: {magnitude: 1.2, unit: g/cm^3}
         - name: SiO2
           formula: SiO2
         - name: Si
           formula: Si
         global:
-          sigma: {value: 5, unit: angstrom}
+          sigma: {magnitude: 5, unit: angstrom}
           length_units: angstrom
           mass_density_units: g/cm^3
         reference: ORSO model language | 1.0 | http://bla.bli
@@ -370,10 +370,10 @@ sample:
           name: sub
           layers: 
              - material: SiO2
-               thickness: {value:5, unit: angstrom}
-               sigma: {value: 3, unit: angstrom}
+               thickness: {magnitude:5, unit: angstrom}
+               sigma: {magnitude: 3, unit: angstrom}
              - material: Si
-               sigma: {value:2, unit: angstrom}
+               sigma: {magnitude:2, unit: angstrom}
         - type: sub_stack
           name: film
           repetitions: 5
@@ -387,11 +387,11 @@ sample:
           thickness: 22.
         - type: material
           name: head_group
-          sld: {value: 0.2e6, unit: angstrom^-2}
+          sld: {magnitude: 0.2e6, unit: angstrom^-2}
         - type: material
           name: tailstuff
           formula: CH2
-          mass_density: {value: 1.2, unit: g/cm^3}
+          mass_density: {magnitude: 1.2, unit: g/cm^3}
         - type: material
           name: SiO2
           formula: SiO2
