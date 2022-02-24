@@ -407,4 +407,4 @@ sample:
         reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
-
+These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
