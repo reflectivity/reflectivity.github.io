@@ -74,12 +74,14 @@ rules:
 
 examples:
 
-- `stack: air | Ni 100 | SiO2 0.5 | Si`
+- `stack: air | Ni 100 | SiO2 0.5 | Si`<br>
   The standard 1000 angstrom Ni film to test the resolution
-- `stack: air | 25 ( Si 7 | Fe 7 ) | Si`
-  A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si. No information about the magnetic induction is given on this level.
-- `stack: Si | SiO2 0.5 | lipid_multilayer | water`
-  A lipid multilayer in a solid-liquid cell. No details about the organic film are given on this level. To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
+- `stack: air | 25 ( Si 7 | Fe 7 ) | Si`<br>
+  A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si. 
+  No information about the magnetic induction is given on this level.
+- `stack: Si | SiO2 0.5 | lipid_multilayer | water`<br>
+  A lipid multilayer in a solid-liquid cell. No details about the organic film are given on this level. 
+  To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
 #### global
 
@@ -152,9 +154,13 @@ Each material has a unique name which relates it to an `layer.composition` entry
 
 #### origin
 
+A string to declare where the model parameters come from.
+
 #### reference
 
 #### data_base
+
+A (list of) link(s) to the data bases used to obtain the slds unless given explicitely.
 
 
 ### arguments
@@ -197,8 +203,6 @@ accept an *absurd* choice at some point.
 - `schema`
 
 
-
-
 ### definitions & rules
 
 - local coordinate system
@@ -211,13 +215,11 @@ rules e.g.
 
 ### examples
 
-
-
 ``` YAML
     sample:
         model:
-            origin:     guess based on preparation
-            stack:      Si | 10 ( Fe 7 | Si 7 ) | air
+            origin: guess based on preparation
+            stack: air | 10 ( Si 7 | Fe 7 ) | Si
 ```
 
 extended version (with more information) on the level of the starting model for data analysis:
@@ -225,24 +227,20 @@ extended version (with more information) on the level of the starting model for 
 ``` YAML
     sample:
         model:
-            origin:     guess based on preparation / XRR
-            stack:      Si | 10 ( Fe 7 | Si 7 ) | air
+            origin: guess based on preparation / XRR
+            stack: air | 10 ( Si 70 | Fe 70 ) | Si
             materials:          
-            - name:         Fe
-              moment: 
-                  magnitude:    2.2 
-                  unit:     muB
-              sld: 
-                  magnitude:    5.02e-6
-                  unit:     1/angstrom^2
-            - name:         Si
-              composition:  SiN0.01
-              rel_density:  0.95
-              ...
+            - name: Fe
+              magnetic_moment: 2.2 
+              sld: 5.02e-6
+            - name: Si
+              formula: SiN0.01
+              rel_density: 0.95
            global:
-              roughness:
-                  magnitude:     5
-                  unit:      amgstrom 
+              length_unit: angstrom
+              m_moment_unit: muB
+              roughness: 5
+              sld_unit: 1/angstrom^-2
            reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
@@ -252,15 +250,15 @@ or a quite complicated model to illustrate what is possible:
 sample:
     model:
         origin: guess by J. Stahn
-        stack:  sub | film | water
+        stack:  substrate | film | water
         sub_stacks:
-        - name: sub
+        - name: substrate
           layers: 
              - material: SiO2
-               thickness: {magnitude:5, unit: angstrom}
-               sigma: {magnitude: 3, unit: angstrom}
+               thickness: 5
+               sigma: 3
              - material: Si
-               sigma: {magnitude:2, unit: angstrom}
+               sigma: 2
         - name: film
           repetitions: 5
           stack: head_group 4 | tail | tail | head_group 4
@@ -270,12 +268,14 @@ sample:
           thickness: 22.
         materials: 
         - name: water
-          composition: H2O 0.3, D2O 0.7          
+          composition: 
+          - {H2O, 0.3}
+          - {D2O, 0.7}          
         - name: head_group
-          sld: {magnitude: 0.2e6, unit: angstrom^-2}
+          sld: 0.2e6
         - name: tailstuff
           formula: CH2
-          mass_density: {magnitude: 1.2, unit: g/cm^3}
+          mass_density: 1.2
         - name: SiO2
           formula: SiO2
         - name: Si
@@ -284,6 +284,7 @@ sample:
           sigma: {magnitude: 5, unit: angstrom}
           length_units: angstrom
           mass_density_units: g/cm^3
+          sld_unit: 1/angstrom^2
         reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
