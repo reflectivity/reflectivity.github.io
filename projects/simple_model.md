@@ -7,7 +7,7 @@ author: "Jochen Stahn"
 
 Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
-2022-02-22
+2022-03-09
 
 ---
 
@@ -15,9 +15,10 @@ Brian Maranville, *NIST, USA* <br>
 
 A joint project by the *file formats* and the *data analysis* working groups.
 
-This is a collection of ideas for how to describe a reflectometry sample in a **simple**
-and **flexible** way.
-This might be a first step towards a general and comprehensive sample description language.
+Based on slack discussions and online meetings, Artur and Jochen suggest the following 
+approach for a **simple** and **flexible** way to define a first step sample model.
+
+All previous suggestions and variants are removed in order to avoid confusion.
 
 ### aims
 
@@ -34,7 +35,7 @@ manufactorers lab journal....)
 
 ##### data analysis
 
-The standadisation allows the analysis software to iautomaticlly create a starting model which is 
+The standadisation allows the analysis software to automatically create a starting model which is 
 not too far from the real one.
 
 ##### indexing of data and analysis
@@ -46,206 +47,132 @@ scale. This might be used to train AI algorithms.
 
 ### structure
 
-This section is about *compactness vs. flexibility* of the model description. 
+The sample description consists of 1 to ??? entries in the ???:
 
-#### the 1-liner
+``` YAML
+    model:
+        stack:        string
+        origin:       string
+        global:       list
+        sub_stacks:   list
+        materials:    list
+        reference:    string
+```
 
-The complete model description is given in one line. This allows for a very compact notation,
+#### stack
+
+The simplified model description is given in one line. This allows for a very compact notation,
 but restricts the content to the absolute minimum. 
 
-For each layer the name or composition, its thickness and probably some additional information is provided. 
-Tor keep this readable, roughnesses and magnetic information can hardly be provided.
+rules:
 
-The structure will look like
+- entries in the `stack` are separated by the pipe symbol `|`
+- according to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `stack`
+- repeating substacks are marked with `<number> ( ... )`
+- each entry has a *name* and probably an assosiated thickness. These are separated buy one or more spaces.
+- the default thickness unit is `nm`
 
-``` YAML
-    sample:
-        stack: <model string>
-```
+examples:
 
-Where the `<model string>` might look like one of the following suggestions for the
-example
+- `stack: air | Ni 100 | SiO2 0.5 | Si`
+  The standard 1000 angstrom Ni film to test the resolution
+- `stack: air | 25 ( Si 7 | Fe 7 ) | Si`
+  A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si. No information about the magnetic induction is given on this level.
+- `stack: Si | SiO2 0.5 | lipid_multilayer | water`
+  A lipid multilayer in a solid-liquid cell. No details about the organic film are given on this level. To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
-|               | name | SLD  | thickness | **M** | repetitons |
-| :------------ | :--- | ---: | --------: | ----: | :--------: |
-|  outer medium | water |      |           |       |            |
-|  layer 4      | POPC |  0.4 |       2.0 |       |            |
-|  layer 3      | Ni   |      |      70.0 |       | 5          |
-|  layer 2      | Fe   |      |      30.0 |   0.4 | "          | 
-|  layer 1      | SiO2 |      |       0.5 |       |            |
-|  substrate    | Si   |      |           |       |            |
+#### global
 
-```
-        stack: Si | SiO2 0.5 | 5 (Fe 30 | Ni 70) | POPC 2 | water     
-        stack: [Si, SiO2 0.5, [Fe 30, Ni 70]*5, POPC Bilayer, water]                      
-        stack: [Si, [SiO2, 0.5], [5, [Fe, 30], [Ni, 70]], [POPC, 0.3], water]             
-        stack: [Si, SiO2: 0.5, ml: [Fe: 30, Ni: 70], 5, POPC: 0.3, water]                     
-        stack: [Si, {SiO2: 0.5}, {ml: 5}, {Fe: 30}, {Ni: 70}, {POPC: 0.3}, water]    
-```
+**wrong key word since it is alreade used in python and might cause confusion**
 
-pro:
+The `global` section allows to (re-)define model parameters or units which apply to the full `stack` and if applicable also to the following sections `sub_stacks`, `layers` and `materials`.
 
-- in most cases, there is not much more information available prior the the data analysis;
-- this is close to the notation chosen for log-book entries (at least to Jochen's experience).
-
-contra:
-
-- SLD, magnetic moment or roughness can not be provided without spoiling the readability even more. 
-- the handling of units is not nice (there is none);
-- pre-defined units might lead to confusion (anstrom in the orso header, nm in the model);
-- more than about 6 layers leads to too long lines.
-- It is not clear what the numbers mean unless one reads the manual....
-
----
-
-#### a listing
-
-Each line represents one layer. 
+Unless overwritten, the following default values are used:
 
 ``` YAML
-    sample:
-        stack:
-         - water , inf nm , 0.0 /fm^2 , 0.0 muB
-         - POCP  , 0.3 nm , 0.4 /fm^2 , 0.0 muB
-         - 5
-           - Ni  , 3.5 nm , calc      , 0.0 muB
-           - Ti  , 7.0 nm , calc      , 0.0 muB
-         - SiO2  , 0.5 nm , calc      , 0.0 muB
-         - Si    , inf nm , calc      , 0.0 muB
+    global:
+        length_unit: nm
+        roughness: 0.5
+        mass_density_unit: g/cm^3
+        number_density_unit: 1/angstrom^3
+        sld_unit: 1/angstrom^2
+        m_moment_unit: muB
 ```
 
-where `calc` means that the value is calculated from the formula = name.
+#### sub_stacks
 
-Of cause also here one can think of various ways to structure the layer lines....
-
-pro: 
-
-- the table-like appearance is easy to read
-- more information can be provided
-- a large number of lyers does not affect readability
-
-contra:
-
-- entering this information *by hand* is quite susceptible to errors;
-- there is redundand information (the chemical composition can already contain the info about the SLD).
-
----
-
-
- 
-#### hirarchical structure
-
-A hirarchical approach, where a one-line string tells the layer sequence with 
-name or formula and thickness of each layer in a 
-very compressed way. 
-All extra information can be provided in a following layer description:
-
-Examples (Jochen):
+Each sub_stack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the `stack`.
 
 ``` YAML
-    sample:
-        stack: Si | SiO2 0.5 | 5 (Fe 30 | Ni 70) | POCP 2 | water
-        layer_description:
-         - layer: SiO2
-           relative_density: 0.95
-           lower_roughness: 5.0
-           upper_roughness: 3.0 
-         - layer: POCP
-           SLD: 
-                magnitude: 0.3e-6
-                unit: fm
-         - layer: Fe
-           magnetic_moment:
-                magnitude: 0.4
-                unit: muB
-           magnetisation_axis: 0.9, 0.1, 0.0
+    sub_stacks:
+    - name: <>
+    - stack: <>
 ```
 
-or (Artur)
-`layers` describes the sequence of names and thicknesses in brackets, 
-for `Rep 1` the brackets give the number repetitions
+#### layers
 
-``` YAML
-     sample:
-         structure:
-             layers: Air | Layer 1 (135) | Layer 2 (400) | Rep 1 (5) | Layer 3 (25) | Substrate
-```
+Each layer has a unique name which relates it to an entry in one of the `stack` s. 
+Optional entries are:
 
-`materials` desribe the physical parameters in various forms given by the name used in layers
-the name has to be unique but can be used at different locations in the sequence        
-
-``` YAML
-         materials:
-           - name: Air
-             sld: 
-               [0., 0.]
-           - name: Layer 1
-             sld: 
-               magnitude: [5.6e-6, 0.]
-               unit: angstrom^-2
-           - name: Layer 2
-             sld:
-               magnitude: [3.5e-6, 0.]
-               unit: angstrom^-2
-           - name: Layer 3
-             composition: Fe2O3
-             mass_density: 
-               magnitude: 5.24
-               unit: g/cm^3
-           - name: Substrate
-             composition: Si
-             fu_density: 
-               magnitude: 0.04996026
-               unit: 1/angstrom^3
-           - name: Rep 1
-             layers: Layer 1 (50) | Layer 2 (40)
-         thicknesses_unit: angstrom
-```
-
-pro:
-
-- the first entry gives an overview and contains most of the information, only special
-information has to be provided in a more complicated form;
-- one can add more and more complex information up to a full description (e.g. after analysis)
-
-contra:
-
-- extra information is again difficult to enter *by hand*;
-- complicated samples lead to a too long first line.
-
----
+- `thickness`<br>
+  this overwrites the thickness given in the `stack`.
+- `roughness`
+- `magnetic_induction`
+- `sld`
+- `composition`
+  A list of `materials` and probably the relative density.
+  e.g.
+  
+  - solvent mixture:<br>
+  
+        composition:
+        - {H2O, 0.4}
+        - {D2O, 0.6} 
+   
+  - reduced density (voids, coverage, ...)
+  
+        composition:
+        - {Ni, 0.95} 
+        
+- ...
 
 
-#### various formats
+#### materials
 
-A grammar for the model description might be chosen by an additional variable:
+Each material has a unique name which relates it to an `layer.composition` entry.
 
-``` YAML
-    sample:
-        model:
-            schema:     orso-short-notation 
-                        Brian's-JSON-nightmare
-                        etc.
-            stack:      ....   
-```
+- `name`
+- `formula`
+- `sld`
+- `mass_density`
+- `formula_number_density`
+- `magnetic_induction`
+- `rel_density`
 
-pro:
 
-- maximum flexibility
+#### origin
 
-contra:
+#### reference
 
-- maximum confusion
+#### data_base
 
----
 
-### open questions
+### arguments
 
-- Should the model be formatted according to YAML or JSON rules? (The one-liner then will consist essentially of brackets, colons and comas.)
-- Should the simplified model description we aim for here be 100% compatible with a unversal model language? Probably using the same grammar? 
-- Where is the model analysed? Within orsopy or only in the analysis programs?
-- One or several languages?
-- What are the default values (sigma) or units (nm vs. angstrom)?
+- This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
+- The `composition` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
+
+### conflicts
+
+- in `stack air | Fe 5 | Si` the Fe can mean 
+
+  - name of a sub_stack 
+  - name of the layer
+  - name of the material
+  - chemical composition
+  
+  Naturaly on might call the material iron `Fe` in order to simplify searching the data base. 
+  But the material has no `thickness`, thus also the `layer` should be named Fe to avoid a non-intuitive name in the `stack`.
 
 ### vocabulary
 
@@ -269,6 +196,9 @@ accept an *absurd* choice at some point.
 - `unit`
 - `schema`
 
+
+
+
 ### definitions & rules
 
 - local coordinate system
@@ -278,13 +208,10 @@ accept an *absurd* choice at some point.
 rules e.g. 
 
 - both, 'lower' and 'upper' medium have to be defined
-- the beam enters from the top of the listing, or the right side of a one-line description
 
----
+### examples
 
-### Artur & Jochen's suggestion
 
-minimal version (3 lines for the model) to estimate the outcome of the measurement as a starting point for a detailed model for analysis. Magnetisation is missing:
 
 ``` YAML
     sample:
