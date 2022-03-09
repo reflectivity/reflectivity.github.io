@@ -127,7 +127,7 @@ Optional entries are:
   
   - solvent mixture:<br>
   
-    ```
+    ``` YAML
         composition:
         - {H2O, 0.4}
         - {D2O, 0.6} 
@@ -135,7 +135,7 @@ Optional entries are:
     
   - reduced density (voids, coverage, ...)
   
-    ```
+    ``` YAML
         composition:
         - {Ni, 0.95} 
     ```   
