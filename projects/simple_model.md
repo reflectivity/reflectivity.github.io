@@ -127,15 +127,19 @@ Optional entries are:
   
   - solvent mixture:<br>
   
+    ```
         composition:
         - {H2O, 0.4}
         - {D2O, 0.6} 
-   
+    ```
+    
   - reduced density (voids, coverage, ...)
   
+    ```
         composition:
         - {Ni, 0.95} 
-        
+    ```   
+       
 - ...
 
 
