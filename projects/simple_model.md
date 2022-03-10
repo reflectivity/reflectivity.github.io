@@ -51,11 +51,12 @@ The sample description consists of 1 to ??? entries in the ???:
 
 ``` YAML
     model:
-        stack:        string
         origin:       string
-        global:       list
+        stack:        string
         sub_stacks:   list
+        layers:       list
         materials:    list
+        globals:      dict
         reference:    string
 ```
 
@@ -83,22 +84,20 @@ examples:
   A lipid multilayer in a solid-liquid cell. No details about the organic film are given on this level. 
   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
-#### global
+#### globals
 
-**wrong key word since it is alreade used in python and might cause confusion**
-
-The `global` section allows to (re-)define model parameters or units which apply to the full `stack` and if applicable also to the following sections `sub_stacks`, `layers` and `materials`.
+The `globals` section allows to (re-)define model parameters or units which apply to the full `stack` and if applicable also to the following sections `sub_stacks`, `layers` and `materials`.
 
 Unless overwritten, the following default values are used:
 
 ``` YAML
-    global:
+    globals:
         length_unit: nm
-        roughness: 0.5
         mass_density_unit: g/cm^3
-        number_density_unit: 1/angstrom^3
+        number_density_unit: 1/nm^3
         sld_unit: 1/angstrom^2
-        m_moment_unit: muB
+        magnetic_moment_unit: muB
+        roughness: 0.5
 ```
 
 #### sub_stacks
@@ -107,53 +106,64 @@ Each sub_stack is made up of one or several layers. It has a unique name which i
 
 ``` YAML
     sub_stacks:
-    - name: <>
-    - stack: <>
+    - name:        str
+      repititions: 1
+      stack:       str
+      layers:      list
 ```
 
 #### layers
 
-Each layer has a unique name which relates it to an entry in one of the `stack` s. 
+Each layer from the layers list has a unique name which relates it to an entry in one of the `stack` s. 
+Layers defined in a sub_stack list are only used once and do not require naming.
 Optional entries are:
 
 - `thickness`<br>
   this overwrites the thickness given in the `stack`.
 - `roughness`
-- `magnetic_induction`
-- `sld`
+- `material`
+  Either a name of a `material` or dictionary with material parameters.
+
+  ``` YAML
+      material: Fe
+      
+      material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
+  ```
+  
 - `composition`
-  A list of `materials` and probably the relative density.
+  A dictionary of `materials` names and their relative density.
   e.g.
   
   - solvent mixture:<br>
   
     ``` YAML
         composition:
-        - {H2O, 0.4}
-        - {D2O, 0.6} 
+          H2O: 0.4
+          D2O: 0.6
     ```
     
   - reduced density (voids, coverage, ...)
   
     ``` YAML
         composition:
-        - {Ni, 0.95} 
+          Ni: 0.95
     ```   
-       
-- ...
+
 
 
 #### materials
 
-Each material has a unique name which relates it to an `layer.composition` entry.
+Each material has a unique name which relates it to an `layer.composition` entry or referenced in a `stack`.
 
 - `name`
 - `formula`
 - `sld`
+  The scattering length density for the radiation that was used in this experiment. (neutron or x-ray for given energy)
 - `mass_density`
-- `formula_number_density`
-- `magnetic_induction`
+- `number_density`
+- `magnetic_moment`
 - `rel_density`
+  The density is taken from tabulated bulk values and multiplied with this parameter.
 
 
 #### origin
@@ -161,6 +171,11 @@ Each material has a unique name which relates it to an `layer.composition` entry
 A string to declare where the model parameters come from.
 
 #### reference
+
+A string defining the model language and version to be used to interpret the data.
+```
+ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
+```
 
 #### data_base
 
