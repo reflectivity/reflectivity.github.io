@@ -7,7 +7,7 @@ author: "Jochen Stahn"
 
 Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
-2022-03-09
+2022-03-10
 
 ---
 
@@ -47,41 +47,60 @@ scale. This might be used to train AI algorithms.
 
 ### structure
 
-The sample description consists of 1 to ??? entries in the ???:
+The model description has the following structure:
 
 ``` YAML
+sample:
     model:
-        origin:       string
-        stack:        string
-        sub_stacks:   list
-        layers:       list
-        materials:    list
-        globals:      dict
-        reference:    string
+        origin:       string    optional
+        stack:        string    mandatory
+        sub_stacks:   list      optional
+        layers:       list      optional
+        materials:    list      optional
+        globals:      dict      optional
+        reference:    string    optional
 ```
+
+#### origin
+
+A string to declare where the model parameters come from.
 
 #### stack
 
 The simplified model description is given in one line. This allows for a very compact notation,
 but restricts the content to the absolute minimum. 
 
-rules:
+Rules:
 
-- entries in the `stack` are separated by the pipe symbol `|`
-- according to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `stack`
-- repeating substacks are marked with `<number> ( ... )`
-- each entry has a *name* and probably an assosiated thickness. These are separated buy one or more spaces.
-- the default thickness unit is `nm`
+- Entries in the `stack` are separated by the pipe symbol `|`.
+- According to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `stack`.
+- Repeating substacks are marked with `<number> ( ... )`.
+- Each entry has a *name* and probably an assosiated thickness. These are separated buy one or more spaces.
+- The default thickness unit is `nm`.
 
-examples:
+Examples:
 
-- `stack: air | Ni 100 | SiO2 0.5 | Si`<br>
-  The standard 1000 angstrom Ni film to test the resolution
-- `stack: air | 25 ( Si 7 | Fe 7 ) | Si`<br>
-  A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si. 
+- The standard 1000 angstrom Ni film to check the resolution:
+
+  ``` YAML
+      stack: air | Ni 100 | SiO2 0.5 | Si
+  ```
+  
+- A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
+  
+  ``` YAML
+      stack: air | 25 ( Si 7 | Fe 7 ) | Si
+  ```
+  
   No information about the magnetic induction is given on this level.
-- `stack: Si | SiO2 0.5 | lipid_multilayer | water`<br>
-  A lipid multilayer in a solid-liquid cell. No details about the organic film are given on this level. 
+  
+- A lipid multilayer in a solid-liquid cell:
+
+  ``` YAML
+      stack: Si | SiO2 0.5 | lipid_multilayer | water
+  ```
+  
+  No details about the organic film are given on this level. 
   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
 #### globals
@@ -106,48 +125,62 @@ Each sub_stack is made up of one or several layers. It has a unique name which i
 
 ``` YAML
     sub_stacks:
-    - name:        str
-      repititions: 1
-      stack:       str
-      layers:      list
+      - name:        str    mandatory
+        repititions: int    optional      default: 1
+        stack:       str
+        layers:      list
 ```
 
 #### layers
 
-Each layer from the layers list has a unique name which relates it to an entry in one of the `stack` s. 
-Layers defined in a sub_stack list are only used once and do not require naming.
-Optional entries are:
+``` YAML
+    layers:
+      - name:
+                      Each layer from the layers list has a unique name which 
+                      relates it to an entry in one of the stacks. 
+                      Layers defined in a sub_stack list are only used once 
+                      and do not require naming.
+        thickness:
+                      This overwrites the thickness given in the stack
+        roughness:
+        material:
+                      Either a name of a material or dictionary with 
+                      material parameters. See below
+        composition:
+                      A dictionary of `materials` names and their relative 
+                      density. See below
+```
 
-- `thickness`<br>
-  this overwrites the thickness given in the `stack`.
-- `roughness`
-- `material`
-  Either a name of a `material` or dictionary with material parameters.
+`material` examples:
 
+- simple case, reference to the `materials` list or a data base
+  
   ``` YAML
       material: Fe
-      
+  ``` 
+ 
+- a bit more detailed, therefor no internal reference
+  
+  ``` YAML
       material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
   ```
   
-- `composition`
-  A dictionary of `materials` names and their relative density.
-  e.g.
+`composition` example:
   
-  - solvent mixture:<br>
+- solvent mixture:
   
-    ``` YAML
-        composition:
-          H2O: 0.4
-          D2O: 0.6
-    ```
+  ``` YAML
+      composition:
+        H2O: 0.4
+        D2O: 0.6
+  ```
     
-  - reduced density (voids, coverage, ...)
+- reduced density (voids, coverage, ...)
   
-    ``` YAML
-        composition:
-          Ni: 0.95
-    ```   
+  ``` YAML
+      composition:
+        Ni: 0.95
+  ```   
 
 
 
@@ -155,49 +188,67 @@ Optional entries are:
 
 Each material has a unique name which relates it to an `layer.composition` entry or referenced in a `stack`.
 
-- `name`
-- `formula`
-- `sld`
-  The scattering length density for the radiation that was used in this experiment. (neutron or x-ray for given energy)
-- `mass_density`
-- `number_density`
-- `magnetic_moment`
-- `rel_density`
-  The density is taken from tabulated bulk values and multiplied with this parameter.
+``` YAML
+    materials:
+      - name:
+        formula:
+        sld: 
+                            The scattering length density for the radiation that was 
+                            used in this experiment. 
+                            (neutron or x-ray for given energy)
+        mass_density:
+        number_density:
+        magnetic_moment:
+        rel_density: 
+                            The density is taken from tabulated bulk values and 
+                            multiplied with this parameter.
+```
+
+Example:
+
+``` YAML
+    materials:
+      - name: Fe
+        magnetic_moment: 2.2
+        mass_density: 7.87
+        formula: Fe
+```
+
+Is the following recursion possible?
+
+``` YAML
+    materials:
+      - name: cyclohexane
+        formula: C6H12
+        mass_density: 0.778
+      - name: toluene
+        formula: C7H8
+        mass_sensity: 0.87
+      - name: solvent
+        composition:
+          cyclohexane: 0.6
+          toluene: 0.4
+```
 
 
-#### origin
 
-A string to declare where the model parameters come from.
 
 #### reference
 
-A string defining the model language and version to be used to interpret the data.
+A string defining the model language and version to be used to interpret the data.<br>
+e.g.
+
+``` YAML
+    reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
 ```
-ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
-```
 
-#### data_base
-
-A (list of) link(s) to the data bases used to obtain the slds unless given explicitely.
-
+---
 
 ### arguments
 
 - This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
 - The `composition` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
 
-### conflicts
-
-- in `stack air | Fe 5 | Si` the Fe can mean 
-
-  - name of a sub_stack 
-  - name of the layer
-  - name of the material
-  - chemical composition
-  
-  Naturaly on might call the material iron `Fe` in order to simplify searching the data base. 
-  But the material has no `thickness`, thus also the `layer` should be named Fe to avoid a non-intuitive name in the `stack`.
 
 ### vocabulary
 
@@ -222,15 +273,6 @@ accept an *absurd* choice at some point.
 - `schema`
 
 
-### definitions & rules
-
-- local coordinate system
-
-
-
-rules e.g. 
-
-- both, 'lower' and 'upper' medium have to be defined
 
 ### examples
 
@@ -255,7 +297,7 @@ extended version (with more information) on the level of the starting model for 
             - name: Si
               formula: SiN0.01
               rel_density: 0.95
-           global:
+           globals:
               length_unit: angstrom
               m_moment_unit: muB
               roughness: 5
@@ -269,89 +311,46 @@ or a quite complicated model to illustrate what is possible:
 sample:
     model:
         origin: guess by J. Stahn
-        stack:  substrate | film | water
+        stack: substrate | film | water
         sub_stacks:
-        - name: substrate
-          layers: 
-             - material: SiO2
-               thickness: 5
-               sigma: 3
-             - material: Si
-               sigma: 2
-        - name: film
-          repetitions: 5
-          stack: head_group 4 | tail | tail | head_group 4
+          - name: substrate
+            layers: 
+               - material: Si
+                 sigma: 2
+               - material: SiO2
+                 thickness: 5
+                 sigma: 3
+          - name: film
+            repetitions: 5
+            stack: head_group 4 | tail | tail | head_group 4
         layers:
-        - name: tail
-          material: tailstuff
-          thickness: 22.
+          - name: tail
+            material: tailstuff
+            thickness: 22.
         materials: 
-        - name: water
-          composition: 
-          - {H2O, 0.3}
-          - {D2O, 0.7}          
-        - name: head_group
-          sld: 0.2e6
-        - name: tailstuff
-          formula: CH2
-          mass_density: 1.2
-        - name: SiO2
-          formula: SiO2
-        - name: Si
-          formula: Si
-        global:
+          - name: water
+            composition: 
+                H2O: 0.3
+                D2O: 0.7          
+          - name: head_group
+            sld: 0.2e6
+          - name: tailstuff
+            formula: CH2
+            mass_density: 1.2
+          - name: SiO2
+            formula: SiO2
+          - name: Si
+            formula: Si
+        globals:
           sigma: {magnitude: 5, unit: angstrom}
           length_units: angstrom
           mass_density_units: g/cm^3
           sld_unit: 1/angstrom^2
-        reference: ORSO model language | 1.0 | http://bla.bli
+        reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
 ```
 
 Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
 
 This structure is loosely based on the model description language created by Petr Mikulik for his x-ray fitting program EDXR.
-
-An alternative notation using list instead of sub-elements:
-
-``` YAML
-sample:
-    model:
-        origin: guess by J. Stahn
-        stack:  sub | film | water
-        items:
-        - type: sub_stack 
-          name: sub
-          layers: 
-             - material: SiO2
-               thickness: {magnitude:5, unit: angstrom}
-               sigma: {magnitude: 3, unit: angstrom}
-             - material: Si
-               sigma: {magnitude:2, unit: angstrom}
-        - type: sub_stack
-          name: film
-          repetitions: 5
-          stack: head_group 4 | tail | tail | head_group 4
-        - type: material
-          name: water
-          composition: H2O 0.3, D2O 0.7          
-        - type: layer
-          name: tail
-          material: tailstuff
-          thickness: 22.
-        - type: material
-          name: head_group
-          sld: {magnitude: 0.2e6, unit: angstrom^-2}
-        - type: material
-          name: tailstuff
-          formula: CH2
-          mass_density: {magnitude: 1.2, unit: g/cm^3}
-        - type: material
-          name: SiO2
-          formula: SiO2
-        - type: material
-          name: Si
-          formula: Si
-        reference: ORSO model language | 1.0 | http://bla.bli
-```
 
 These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
