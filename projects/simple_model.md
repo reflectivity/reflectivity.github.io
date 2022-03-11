@@ -110,21 +110,7 @@ Rules:
 >   No details about the organic film are given on this level. 
 >   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
-#### globals
 
-The `globals` section allows to (re-)define model parameters or units which apply to the full `stack` and if applicable also to the following sections `sub_stacks`, `layers` and `materials`.
-
-Unless overwritten, the following default values are used:
-
-``` YAML
-    globals:
-        length_unit: nm
-        mass_density_unit: g/cm^3
-        number_density_unit: 1/nm^3
-        sld_unit: 1/angstrom^2
-        magnetic_moment_unit: muB
-        roughness: 0.5
-```
 
 #### sub_stacks
 
@@ -132,11 +118,43 @@ Each substack is made up of one or several layers. It has a unique name which is
 
 ``` YAML
     sub_stacks:
-      - name:        str    mandatory
-        repititions: int    optional      default: 1
-        stack:       str
-        layers:      list
+      - name:           
+                        str   mandatory  
+        repititions: 
+                        int   optional  (default: 1) defines how ofteh the substack
+                        is repeated. A negaive value means an inversion of the order.
+        stack:       
+                        str   optional  Same rules as for the top-level stack apply.
+        layers:         
+                        list  optional  Instead of an other stack, the layers and their 
+                        sequence are defined.  
 ```
+
+> Example:
+>
+> ``` YAML
+>     sub_stacks:
+>       - name: lipid_multilayer
+>         repetitions: 4
+>         stack: head | tail | tail | head    
+> ```
+
+Is this possible?
+
+> ``` YAML
+>     sub_stacks:
+>       - name: lipid_multilayer
+>         repetitions: 4
+>         stack: lipid_bilayer
+>       - name: lipid_bilayer
+>         stack: lipid | lipid_inverse
+>       - name: lipid_inverse
+>         repetitions: -1
+>         stack: lipid
+>       - name: lipid
+>         stack: head | tail   
+> ```
+
 
 #### layers
 
@@ -237,7 +255,21 @@ Is the following recursion possible?
           toluene: 0.4
 ```
 
+#### globals
 
+The `globals` section allows to (re-)define model parameters or units which apply to the full `stack` and if applicable also to the following sections `sub_stacks`, `layers` and `materials`.
+
+Unless overwritten, the following default values are used:
+
+``` YAML
+    globals:
+        length_unit: nm
+        mass_density_unit: g/cm^3
+        number_density_unit: 1/nm^3
+        sld_unit: 1/angstrom^2
+        magnetic_moment_unit: muB
+        roughness: 0.5
+```
 
 
 #### reference
