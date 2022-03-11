@@ -61,9 +61,16 @@ sample:
         reference:    string    optional
 ```
 
+The information is organised according to YAML rules but for the `stack` string(s). The reason is to make it simple and less error-rone to enter this information *by hand*. 
+
 #### origin
 
 A string to declare where the model parameters come from.
+
+> Example:
+> ``` YAML
+>     origin: thicknesses based on XR mesurements, nominal compositions
+> ```
 
 #### stack
 
@@ -78,30 +85,30 @@ Rules:
 - Each entry has a *name* and probably an assosiated thickness. These are separated buy one or more spaces.
 - The default thickness unit is `nm`.
 
-Examples:
-
-- The standard 1000 angstrom Ni film to check the resolution:
-
-  ``` YAML
-      stack: air | Ni 100 | SiO2 0.5 | Si
-  ```
-  
-- A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
-  
-  ``` YAML
-      stack: air | 25 ( Si 7 | Fe 7 ) | Si
-  ```
-  
-  No information about the magnetic induction is given on this level.
-  
-- A lipid multilayer in a solid-liquid cell:
-
-  ``` YAML
-      stack: Si | SiO2 0.5 | lipid_multilayer | water
-  ```
-  
-  No details about the organic film are given on this level. 
-  To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
+> Examples:
+> 
+> - The standard 1000 angstrom Ni film to check the resolution:
+> 
+>   ``` YAML
+>       stack: air | Ni 100 | SiO2 0.5 | Si
+>   ```
+>   
+> - A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
+>   
+>   ``` YAML
+>       stack: air | 25 ( Si 7 | Fe 7 ) | Si
+>   ```
+>   
+>   No information about the magnetic induction is given on this level.
+>   
+> - A lipid multilayer in a solid-liquid cell:
+> 
+>   ``` YAML
+>       stack: Si | SiO2 0.5 | lipid_multilayer | water
+>   ```
+>   
+>   No details about the organic film are given on this level. 
+>   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
 #### globals
 
@@ -121,7 +128,7 @@ Unless overwritten, the following default values are used:
 
 #### sub_stacks
 
-Each sub_stack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the `stack`.
+Each substack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the `stack`.
 
 ``` YAML
     sub_stacks:
@@ -132,6 +139,8 @@ Each sub_stack is made up of one or several layers. It has a unique name which i
 ```
 
 #### layers
+
+If information about a layer besides its chemical composition (and thus the density form a data base) and its thickness is needed, this has to be defined here.
 
 ``` YAML
     layers:
@@ -151,38 +160,36 @@ Each sub_stack is made up of one or several layers. It has a unique name which i
                       density. See below
 ```
 
-`material` examples:
-
-- simple case, reference to the `materials` list or a data base
+> `material` examples:
+> 
+> - simple case, reference to the `materials` list or a data base
+>   
+>   ``` YAML
+>       material: Fe
+>   ``` 
+>  
+> - a bit more detailed, therefor no internal reference
+>   
+>   ``` YAML
+>       material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
+>   ```
   
-  ``` YAML
-      material: Fe
-  ``` 
- 
-- a bit more detailed, therefor no internal reference
-  
-  ``` YAML
-      material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
-  ```
-  
-`composition` example:
-  
-- solvent mixture:
-  
-  ``` YAML
-      composition:
-        H2O: 0.4
-        D2O: 0.6
-  ```
-    
-- reduced density (voids, coverage, ...)
-  
-  ``` YAML
-      composition:
-        Ni: 0.95
-  ```   
-
-
+> `composition` example:
+>   
+> - solvent mixture:
+>   
+>   ``` YAML
+>       composition:
+>         H2O: 0.4
+>         D2O: 0.6
+>   ```
+>     
+> - reduced density (voids, coverage, ...)
+>   
+>   ``` YAML
+>       composition:
+>         Ni: 0.95
+>   ```   
 
 #### materials
 
@@ -204,15 +211,15 @@ Each material has a unique name which relates it to an `layer.composition` entry
                             multiplied with this parameter.
 ```
 
-Example:
-
-``` YAML
-    materials:
-      - name: Fe
-        magnetic_moment: 2.2
-        mass_density: 7.87
-        formula: Fe
-```
+> Example:
+> 
+> ``` YAML
+>     materials:
+>       - name: Fe
+>         magnetic_moment: 2.2
+>         mass_density: 7.87
+>         formula: Fe
+> ```
 
 Is the following recursion possible?
 
@@ -236,11 +243,12 @@ Is the following recursion possible?
 #### reference
 
 A string defining the model language and version to be used to interpret the data.<br>
-e.g.
 
-``` YAML
-    reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
-```
+> Example:
+> 
+> ``` YAML
+>     reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
+> ```
 
 ---
 
