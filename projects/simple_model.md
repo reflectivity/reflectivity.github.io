@@ -243,7 +243,7 @@ Each material has a unique name which relates it to an `layer.composition` entry
 >         formula: Fe
 > ```
 
-Is the following recursion possible?
+Is the following construction possible (danger of recursion)?
 
 ``` YAML
     materials:
