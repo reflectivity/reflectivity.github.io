@@ -152,7 +152,11 @@ Is this possible?
 >         repetitions: -1
 >         stack: lipid
 >       - name: lipid
->         stack: head | tail   
+>         layers:
+>           - material: headstuff
+>             thickness: 0.5  
+>           - matrial: tailstuff
+>             thickness: 2.2  
 > ```
 
 
