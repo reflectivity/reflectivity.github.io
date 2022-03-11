@@ -61,7 +61,7 @@ sample:
         reference:    string    optional
 ```
 
-The information is organised according to YAML rules but for the `stack` string(s). The reason is to make it simple and less error-rone to enter this information *by hand*. 
+The information is organised according to YAML rules but for the `stack` string(s). The reason is to make it simple and less error-prone to enter this information *by hand*. 
 
 #### origin
 
