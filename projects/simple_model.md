@@ -7,7 +7,7 @@ author: "Jochen Stahn"
 
 Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
-2022-03-10
+2022-03-12
 
 ---
 
@@ -56,12 +56,13 @@ sample:
         stack:        string    mandatory
         sub_stacks:   list      optional
         layers:       list      optional
+        compositions: list      optional
         materials:    list      optional
         globals:      dict      optional
         reference:    string    optional
 ```
 
-The information is organised according to YAML rules but for the `stack` string(s). The reason is to make it simple and less error-prone to enter this information *by hand*. 
+The information is organised according to YAML rules but for the *stack* string(s). The reason is to make it simple and less error-prone to enter this information *by hand*. 
 
 #### origin
 
@@ -79,11 +80,13 @@ but restricts the content to the absolute minimum.
 
 Rules:
 
-- Entries in the `stack` are separated by the pipe symbol `|`.
-- According to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `stack`.
-- Repeating substacks are marked with `<number> ( ... )`.
-- Each entry has a *name* and probably an assosiated thickness. These are separated buy one or more spaces.
-- The default thickness unit is `nm`.
+1. According to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `*stack*.
+1. Entries in the *stack* are separated by the pipe symbol `|`.
+1. Repeating *sub_stacks* are marked with `<number> ( ... )`.
+1. Each entry has a *name* and probably an assosiated *thickness*. These are separated by one or more spaces.
+1. The default thickness unit is `nm`.
+
+These rules allow to expand the *stack* string into a YAML compliant *sequence*:
 
 > Examples:
 > 
@@ -93,12 +96,48 @@ Rules:
 >       stack: air | Ni 100 | SiO2 0.5 | Si
 >   ```
 >   
+>   expanding to (not sure about the grammar)
+>   
+>   ``` YAML
+>       sequence:
+>         - layer: 
+>             name: air
+>         - layer:
+>             name: Ni
+>             thickness: 100
+>         - layer:
+>             name: SiO2
+>             thickness: 0.5
+>         - layer:   
+>             name: Si
+>   ```
+>
+>   
 > - A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
 >   
 >   ``` YAML
 >       stack: air | 25 ( Si 7 | Fe 7 ) | Si
 >   ```
 >   
+>   expanding to
+>
+>   ``` YAML
+>       sequence:
+>         - layer:
+>             name: air
+>         - sub_stack:
+>             repetitions: 25
+>             long_stack:
+>               - layer: 
+>                   name: Si
+>                   thickness: 7
+>               - layer: 
+>                   name: Fe
+>                   thickness: 7
+>         - layer:
+>             name: Si
+>   ```
+>
 >   No information about the magnetic induction is given on this level.
 >   
 > - A lipid multilayer in a solid-liquid cell:
@@ -114,7 +153,7 @@ Rules:
 
 #### sub_stacks
 
-Each substack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the `stack`.
+Each substack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the *stack*. The purpose of this dictionary is to enable a simple *stack* for complicated models and to provide multy-layer building blocks in data bases.
 
 ``` YAML
     sub_stacks:
@@ -130,39 +169,41 @@ Each substack is made up of one or several layers. It has a unique name which is
                         sequence are defined.  
 ```
 
-> Example:
+> Examples:
 >
-> ``` YAML
->     sub_stacks:
->       - name: lipid_multilayer
->         repetitions: 4
->         stack: head | tail | tail | head    
-> ```
-
-Is this possible?
-
-> ``` YAML
->     sub_stacks:
->       - name: lipid_multilayer
->         repetitions: 4
->         stack: lipid_bilayer
->       - name: lipid_bilayer
->         stack: lipid | lipid_inverse
->       - name: lipid_inverse
->         repetitions: -1
->         stack: lipid
->       - name: lipid
->         layers:
->           - material: headstuff
->             thickness: 0.5  
->           - matrial: tailstuff
->             thickness: 2.2  
+> - expansion of the physical (chemical) unit *lipid multilayer* into a sequence of *layers*:
+>
+>   ``` YAML
+>       sub_stacks:
+>         - name: lipid_multilayer
+>           repetitions: 4
+>           stack: head | tail | tail | head    
+>   ```
+>
+> - the same layer sequence, but assembled hirarchically stating with chemical units: 
+>
+>   ``` YAML
+>       sub_stacks:
+>         - name: lipid
+>           layers:
+>             - material: headstuff
+>               thickness: 0.5  
+>             - matrial: tailstuff
+>               thickness: 2.2  
+>         - name: lipid_inverse
+>           repetitions: -1
+>           stack: lipid
+>         - name: lipid_bilayer
+>           stack: lipid | lipid_inverse
+>         - name: lipid_multilayer
+>           repetitions: 4
+>           stack: lipid_bilayer
 > ```
 
 
 #### layers
 
-If information about a layer besides its chemical composition (and thus the density form a data base) and its thickness is needed, this has to be defined here.
+If information about a layer besides its chemical composition (and thus the density form a data base) and its thickness is needed, this has to be defined here. A *layer* has homogeneous properties. I.e. no density gradients (might be a future option) or separation into sub-layers (that is covered by `sub_stack`).
 
 ``` YAML
     layers:
@@ -213,6 +254,27 @@ If information about a layer besides its chemical composition (and thus the dens
 >         Ni: 0.95
 >   ```   
 
+#### compositions
+
+A composition behaves like a material, but is made up from materials.
+
+``` YAML
+    compositions:
+      - name:
+      - composition:
+``` 
+ 
+> Example:
+>  
+> ``` YAML
+>     composition:
+>       - name: solvent
+>         composition:
+>            cyclohexane: 0.6
+>            toluene: 0.4
+> ```
+
+
 #### materials
 
 Each material has a unique name which relates it to an `layer.composition` entry or referenced in a `stack`.
@@ -231,33 +293,34 @@ Each material has a unique name which relates it to an `layer.composition` entry
         rel_density: 
                             The density is taken from tabulated bulk values and 
                             multiplied with this parameter.
+        deuteration:
+                            For materials containing hydrogen this parameter allows
+                            to tune the deuteration level while keeping the number
+                            density constant. 
+                            Details have to be figured out....
 ```
 
-> Example:
+> Examples:
+>
+> - magnetic moment for iron
+>
+>   ``` YAML
+>       materials:
+>         - name: Fe
+>           magnetic_moment: 2.2
+>   ```
 > 
-> ``` YAML
->     materials:
->       - name: Fe
->         magnetic_moment: 2.2
->         mass_density: 7.87
->         formula: Fe
-> ```
-
-Is the following construction possible (danger of recursion)?
-
-``` YAML
-    materials:
-      - name: cyclohexane
-        formula: C6H12
-        mass_density: 0.778
-      - name: toluene
-        formula: C7H8
-        mass_sensity: 0.87
-      - name: solvent
-        composition:
-          cyclohexane: 0.6
-          toluene: 0.4
-```
+> - clear names for solvents where the formula might be ambiguous:
+>
+>   ``` YAML
+>      materials:
+>        - name: cyclohexane
+>          formula: C6H12
+>          mass_density: 0.778
+>        - name: toluene
+>          formula: C7H8
+>          mass_sensity: 0.87
+>   ```
 
 #### globals
 
@@ -286,12 +349,59 @@ A string defining the model language and version to be used to interpret the dat
 >     reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
 > ```
 
+Brian suggested the alternative 
+
+``` YAML
+    schema: <URL>
+```
+
 ---
 
 ### arguments
 
 - This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
 - The `composition` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
+- *name* ase a key vs. *name* as the value connected a `name` key.
+
+  I.e. (Artur)
+  
+  ``` YAML
+      sub_stacks:
+       - name: lipid_multilayer
+         repetitions: 4
+         stack: lipid_bilayer
+       - name: lipid_bilayer
+         stack: lipid | lipid_inverse
+       - name: lipid_inverse
+         repetitions: -1
+         stack: lipid
+       - name: lipid
+         layers:
+           - material: headstuff
+             thickness: 0.5  
+           - matrial: tailstuff
+             thickness: 2.2  
+  ```
+
+  vs. (Brian)
+
+  ``` YAML
+      sub_stacks:
+        lipid_multilayer:
+          repetitions: 4
+          stack: lipid_bilayer
+        lipid_bilayer:
+          stack: lipid | lipid_inverse
+        lipid_inverse:
+          repetitions: -1
+          stack: lipid
+        lipid:
+          layers:
+            - material: headstuff
+              thickness: 0.5  
+            - matrial: tailstuff
+              thickness: 2.2  
+  ```
 
 
 ### vocabulary
