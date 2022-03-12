@@ -127,7 +127,7 @@ These rules allow to expand the *stack* string into a YAML compliant *sequence*:
 >             name: air
 >         - sub_stack:
 >             repetitions: 25
->             long_stack:
+>             sequence:
 >               - layer: 
 >                   name: Si
 >                   thickness: 7
