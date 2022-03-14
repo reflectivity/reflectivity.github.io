@@ -7,7 +7,7 @@ author: "Jochen Stahn"
 
 Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
-2022-03-12
+2022-03-14
 
 ---
 
@@ -17,6 +17,9 @@ A joint project by the *file formats* and the *data analysis* working groups.
 
 Based on slack discussions and online meetings, Artur and Jochen suggest the following 
 approach for a **simple** and **flexible** way to define a first step sample model.
+
+This document is not free of uncertainties or contradictions! We will 
+correct this according to the state of the discussion.
 
 All previous suggestions and variants are removed in order to avoid confusion.
 
@@ -361,7 +364,7 @@ Brian suggested the alternative
 
 - This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
 - The `composition` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
-- *name* ase a key vs. *name* as the value connected a `name` key.
+- *name* as a key vs. *name* as the value connected a `name` key.
 
   I.e. (Artur)
   
@@ -481,11 +484,12 @@ sample:
           - name: tail
             material: tailstuff
             thickness: 22.
-        materials: 
+        compoisition:
           - name: water
             composition: 
                 H2O: 0.3
-                D2O: 0.7          
+                D2O: 0.7   
+        materials:       
           - name: head_group
             sld: 0.2e6
           - name: tailstuff
