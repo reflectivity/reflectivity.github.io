@@ -99,28 +99,24 @@ Rules:
 >   ``` YAML
 >       stack: air | Ni 100 | SiO2 0.5 | Si
 >   ```  
-<!--- >   ``` YAML
->
->       sequence:
->         - layer: 
->             name: air
->         - layer:
->             name: Ni
->             thickness: 100
->         - layer:
->             name: SiO2
->             thickness: 0.5
->         - layer:   
->             name: Si
->   ```
->
---->
 >   
 > - A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
 >   
 >   ``` YAML
 >       stack: air | 25 ( Si 7 | Fe 7 ) | Si
 >   ```
+>
+>   No information about the magnetic induction is given on this level.
+>   
+> - A lipid multilayer in a solid-liquid cell:
+> 
+>   ``` YAML
+>       stack: Si | SiO2 0.5 | lipid_multilayer | water
+>   ```
+>   
+>   No details about the organic film are given on this level. 
+>   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
+
 <!---
 >
 >   expanding to
@@ -142,19 +138,22 @@ Rules:
 >             name: Si
 >   ```
 --->
->
->   No information about the magnetic induction is given on this level.
->   
-> - A lipid multilayer in a solid-liquid cell:
-> 
->   ``` YAML
->       stack: Si | SiO2 0.5 | lipid_multilayer | water
+
+<!--- >   ``` YAML
+>       sequence:
+>         - layer: 
+>             name: air
+>         - layer:
+>             name: Ni
+>             thickness: 100
+>         - layer:
+>             name: SiO2
+>             thickness: 0.5
+>         - layer:   
+>             name: Si
 >   ```
->   
->   No details about the organic film are given on this level. 
->   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
-
-
+>
+--->
 
 #### sub_stacks
 
