@@ -23,7 +23,8 @@ All facilities have different access mechanisms, but most operate on a schedule 
 
 or see information for specific instruments available at the
 
-  - [List of reflectometers](https://www.reflectometry.org/information/activities)
+  - [List of X-ray reflectometers](https://www.reflectometry.org/information/xray_reflectometers/)
+  - [List of neutron reflectometers](https://www.reflectometry.org/information/reflectometers/)
 
 * ### How can I get my data?
 
