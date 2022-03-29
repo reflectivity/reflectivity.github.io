@@ -265,35 +265,25 @@ If information about a layer besides its chemical composition (and thus the dens
 >             Ni: 0.95
 >   ```   
 
-#### compositions
+#### composits
 
-A composition behaves like a material, but is made up from materials.
+A composit behaves like a material, but is made up from (on or) several materials with respective relative densities.
 
 ``` YAML
-    compositions:
+    compositis:
       <name>:
-        composition:
+        <material 1>: <rel. density 1>
+        <material 2>: <rel. density 2>
 ``` 
  
 > Example:
 >  
 > ``` YAML
->     compositions:
->       solvent:
->         composition:
->            cyclohexane: 0.6
->            toluene: 0.4
-> ```
-
-In case `composition` is the only attribute, one might shorten this to
-
-> ``` YAML
->     compositions:
+>     composits:
 >       solvent:
 >          cyclohexane: 0.6
 >          toluene: 0.4
 > ```
-
 
 #### materials
 
@@ -380,7 +370,7 @@ A string defining the model language and version to be used to interpret the dat
 ### arguments
 
 - This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
-- The `composition` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
+- The `composit` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
 
 
 ### vocabulary
@@ -395,7 +385,8 @@ accept an *absurd* choice at some point.
 - `stack`
 - `layer`
 - `material`
-- `roghness`
+- `composit` material mixture 
+- `roghness` sigma of the errorfunction describing the density variation at an 'interface'
 - `composition`
 - `density` (which one?)
 - `mass_density`
@@ -404,6 +395,7 @@ accept an *absurd* choice at some point.
 - `magnitude`
 - `unit`
 - `schema`
+- `CAS` Chemical Abstracts Service number
 
 
 
@@ -424,17 +416,17 @@ extended version (with more information) on the level of the starting model for 
             origin: guess based on preparation / XRR
             stack: air | 10 ( Si 70 | Fe 70 ) | Si
             materials:          
-            - name: Fe
-              magnetic_moment: 2.2 
-              sld: 5.02e-6
-            - name: Si
-              formula: SiN0.01
-              rel_density: 0.95
+              Fe
+                magnetic_moment: 2.2 
+                sld: 5.02e-6
+              Si
+                formula: SiN0.01
+                rel_density: 0.95
            globals:
               length_unit: angstrom
               m_moment_unit: muB
               roughness: 5
-              sld_unit: 1/angstrom^-2
+              sld_unit: 1/angstrom^2
            reference: ORSO model language | 1.0 | http://bla.bli
 ```
 
@@ -460,11 +452,10 @@ sample:
           tail
             material: tailstuff
             thickness: 22.
-        compoisitions:
-          water:
-            composition: 
-                H2O: 0.3
-                D2O: 0.7   
+        compoisits:
+          water: 
+              H2O: 0.3
+              D2O: 0.7   
         materials:       
           head_group:
             sld: 0.2e6
