@@ -329,7 +329,7 @@ Each material has a unique name which relates it to an `layer.composition` entry
 >          mass_density: 0.778
 >        toluene
 >          formula: C7H8
->          mass_sensity: 0.87
+>          mass_density: 0.87
 >   ```
 
 #### globals
