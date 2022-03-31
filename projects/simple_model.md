@@ -220,10 +220,7 @@ If information about a layer besides its chemical composition (and thus the dens
         roughness:
         material:
                       Either a name of a material or dictionary with 
-                      material parameters. See below
-        composition:
-                      A dictionary of `materials` names and their relative 
-                      density. See below
+                      material parameters. See below.
 ```
 
 > `material` examples:
@@ -243,26 +240,16 @@ If information about a layer besides its chemical composition (and thus the dens
 >         iron:
 >           material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
 >   ```
-  
-> `composition` example:
->   
-> - solvent mixture:
->   
->   ``` YAML
->       layers:
->         water:
->           composition:
->             H2O: 0.4
->             D2O: 0.6
->   ```
 >     
 > - reduced density (voids, coverage, ...)
 >   
 >   ``` YAML
 >       layers:
 >         nickel:
->           composition:
->             Ni: 0.95
+>           material:
+>             composition:
+>                Ni: 0.95
+>           thickness: 7.5     
 >   ```   
 
 #### composits
