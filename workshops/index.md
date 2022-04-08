@@ -6,17 +6,21 @@ permalink: /workshops/
 
 # Upcoming events
 
-Save the date: the 4th annual ORSO workshop will take place online in June 2022. Watch this space for more information.
+the Open Reflectometry Standards Organisation ORSO annual workshop will take place online from the 6th to the 10th of June 2022. As with last year, this will primarily be an online meeting, with sessions covering as many time zones as practically possible. Please save the dates.  
+
+We invite you to join in the organization of the meeting. If you are interested in helping to organise one of these symposia please contact [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu). You are also welcome to send us suggestions for discussion topics for each of the symposia. Your are also invited to nominate speakers (yes self nominations are welcome) for both the plenary sessions and for the symposia. 
+
+
 
 # Events of Interest to the ORSO community
 
 ## Conferences
 
-[SXNS16](www.sxns16.org) has been recheduled for Jan 2022
+[SXNS16](www.sxns16.org) took place in Jan 2022. A number of the talks from this conference are available from the website.
 
 ## Online Seminar series
 
-ChemMatCARS has an Education and Outreach programme including a seminar series and training schools
+ChemMatCARS has an Education and Outreach programme including a seminar series (including videos of past talks) and training schools
 
 - [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
 - [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
