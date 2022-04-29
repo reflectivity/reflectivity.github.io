@@ -22,36 +22,38 @@ The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetabl
 - General introduction to the meeting and how it will work
 - Science talk to be confirmed
 - The AGM. Explanation of ORSO organisation and election of 4 chairs (1 from each working group)
-- A presentation of ORSOPY. We will be voting on the release of this as the first major output from ORSO
+- A presentation of the ORSOPY file format. We will be voting on the release of this as the first major output from ORSO
 
 Recordings of the talks are now uploaded. The saved chat is also available [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Plenary1_chat.txt)
 
 
-### Tuesday 6th June: Teaching Materials Hackathon
+### Tuesday 6th June: Collection of Teaching Materials 
 
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 The aim of this session is to build on the existing work at https://www.reflectometry.org/isis_school/ (URL to change), a short introduction to reflectometry fitting.
 
-In this hackathon, we will work in small groups to develop new material for the webpages. 
+In this hackathon, we will discuss what material would be useful for the webpage. Thgere will bean instruction on how to add material to the page then we will 
+work in small groups to develop new material for the webpages. 
 
 The specific areas of focus will depend on the attendees but some potential areas of work include:
+- Tools for analysing data
 - Expanding Bayesian analysis section
-- Generalising the information to better include X-rays
+- Updating the X-ray reference material
 - Proof reading
 
-The expectation in this hackathon will be to work on this material so please come prepared by reading through the material and potentially getting a Github account.
+The aim in this session is to  update the webpage live in a hackathon. Please come prepared by reading through the current material to identigfy information gaps or bad links and potentially getting a Github account.
 
 
-## Wednesday 7th June: Webpage Workshop
+## Wednesday 7th June: ORSO Webpage Workshop
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
-The aim of this session is to review the ORSO webpages and actively update them according to input.
+The aim of this session is to review the ORSO webpages and update them live in the session according to input.
 
-We will begin with an explanation of how anyone can edit the pages and ensure that all those present have permission to do so.
+We will begin with a short talk explaining how you can edit the pages. Then we will ensure that all those present have permission to do so.
 
-We will then work in small groups to identify changes, collect information and actively modify pages.
+Following a short discussion to identify topics, we will  work in small groups to implement changes, collect information and actively modify pages.
 
 The specific areas of focus will depend on the attendees but some potential areas of work include:
 - Bibliography
@@ -61,16 +63,17 @@ The specific areas of focus will depend on the attendees but some potential area
 ## Wednesday 7th June: Priors and posteriors paper
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
+Introduction talk "Interperting reflectrometry data with Bayesian analysis" (Andrew Mc/Andrew)
 
 More and more Bayesian analysis is being used to interpret reflectometry data.  (Andrew Mc/Andrew C and .....)
 However, how this information is reported is inconsistent potentially limiting the replicability and reproduciblity of the results. 
 To improve this, within the Reproduciblity Working Group, we have started to develop a short publication defining some best practice for reporting results and inputs to Bayesian analysis. 
 
-In this session, we seek feedback on the current draft of the paper and will aim to improve the work based on this feedback. 
-Note the expectation for attending this session is that **you have read the draft and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
+In this session, we first present and then seek feedback on the current draft of the paper and will aim to improve the work based on this feedback. 
+Note: the expectation for attending this session is that **you have read the draft in advance and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
 
-## Thursday 17th June: A Simple model language
+## Thursday 17th June: A Simple model language (Tom, I do not understand this.  do you mean that a new programming language should be created or is the aim to define a voculabary?)
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 03:00-05:00 (US East coast), 17:00-18:00 (Australia East coast):
 
@@ -84,17 +87,19 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 - presentation of the status of the SLD database (Artur)
 - information gathering excercise and release of the database
+- live testing followed by questions, answers and discussion
 - further details to be confirmed
+You are welcome to send suggestions to  XX@ in advance of this session
 
 ## Friday 18th June: Validation datasets
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
- - Creation of validation datasets for PNR analysis software, similar to those that we currently have for unpolarised work.
+ - Creation of validation datasets for Polarised Neutron Reflectometry analysis software, similar to those that we currently have for unpolarised work.
  - Transfer of validation datasets to ORSO format.
  - further details to be confirmed
 
-## Friday 18th June: CANSAS general description for resolution functions
+## Friday 18th June: The collective action for nomadic small angle scatterers: CANSAS general description for resolution functions   (https://www.cansas.org/)
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
