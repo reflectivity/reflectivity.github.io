@@ -9,6 +9,8 @@ The program will consist of scientific and technical talks together with discuss
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record as much of the meeting as possible and post the videos on the ORSO youtube channel.
 We will be running an electronic vote on at least 1 issue during the meeting. The topics of the votes will be presented in the first session and then votes accepted during the week.
 
+For those interested a report from last year's meeting is [here](https://doi.org/10.1080/08940886.2022.2043671)
+
 ## Registration will soon [open](https://indico.esss.lu.se/event/3013/)
 
 # Agenda:
@@ -24,7 +26,7 @@ The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetabl
 - The AGM. Explanation of ORSO organisation and election of 4 chairs (1 from each working group)
 - A presentation of the ORSOPY file format. We will be voting on the release of this as the first major output from ORSO
 
-Recordings of the talks are now uploaded. The saved chat is also available [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Plenary1_chat.txt)
+Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
 
 ### Tuesday 6th June: Collection of Teaching Materials 
@@ -33,7 +35,7 @@ Recordings of the talks are now uploaded. The saved chat is also available [here
 
 The aim of this session is to build on the existing work at https://www.reflectometry.org/isis_school/ (URL to change), a short introduction to reflectometry fitting.
 
-In this hackathon, we will discuss what material would be useful for the webpage. Thgere will bean instruction on how to add material to the page then we will 
+In this session, we will discuss what material would be useful for the webpage. There will bean instruction on how to add material to the page and then we will 
 work in small groups to develop new material for the webpages. 
 
 The specific areas of focus will depend on the attendees but some potential areas of work include:
@@ -42,7 +44,9 @@ The specific areas of focus will depend on the attendees but some potential area
 - Updating the X-ray reference material
 - Proof reading
 
-The aim in this session is to  update the webpage live in a hackathon. Please come prepared by reading through the current material to identigfy information gaps or bad links and potentially getting a Github account.
+The aim in this session is to update the webpage live in a "hackathon". Please come prepared by reading through the current material to identigfy information gaps or bad links and potentially getting a Github account.
+
+You do not need to be confident with Github to participate, what we need is expertise in reflectometry to ensure that the material generated is of high quality and appropriate for the whole ORSO community.
 
 
 ## Wednesday 7th June: ORSO Webpage Workshop
@@ -60,18 +64,21 @@ The specific areas of focus will depend on the attendees but some potential area
 - Beamline lists and publications
 - Site navigation
 
+
 ## Wednesday 7th June: Priors and posteriors paper
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
-Introduction talk "Interperting reflectrometry data with Bayesian analysis" (Andrew Mc/Andrew)
 
-More and more Bayesian analysis is being used to interpret reflectometry data.  (Andrew Mc/Andrew C and .....)
+Introduction talk "Interperting reflectrometry data with Bayesian analysis" (Andrew McCluskey)
+
+More and more Bayesian analysis is being used to interpret reflectometry data.
 However, how this information is reported is inconsistent potentially limiting the replicability and reproduciblity of the results. 
 To improve this, within the Reproduciblity Working Group, we have started to develop a short publication defining some best practice for reporting results and inputs to Bayesian analysis. 
 
 In this session, we first present and then seek feedback on the current draft of the paper and will aim to improve the work based on this feedback. 
 Note: the expectation for attending this session is that **you have read the draft in advance and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
+
 
 ## Thursday 17th June: A Simple model language (Tom, I do not understand this.  do you mean that a new programming language should be created or is the aim to define a voculabary?)
 
