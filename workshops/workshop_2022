@@ -1,0 +1,92 @@
+---
+layout: page
+title: "Workshop 2022"
+permalink: /workshops/workshop_2022
+---
+
+The Annual Meeting of ORSO will take place online in 7th-10th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community.
+The program will consist of scientific and technical talks together with discussion forums and/or hackathons for each of the working groups
+Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record as much of the meeting as possible and post the videos on the ORSO youtube channel.
+We will be running an electronic vote on at least 1 issue during the meeting. The topics of the votes will be presented in the first session and then votes accepted during the week.
+
+## Registration will soon [open](https://indico.esss.lu.se/event/3013/)
+
+# Agenda:
+
+The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
+
+## Tuesday 6th June: Plenary Session
+
+09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
+
+- General introduction to the meeting and how it will work
+- Science talk to be confirmed
+- The AGM. Explanation of ORSO organisation and election of 4 chairs (1 from each working group)
+- A presentation of ORSOPY. We will be voting on the release of this as the first major output from ORSO
+
+Recordings of the talks are now uploaded. The saved chat is also available [here](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2021/ORSO_Plenary1_chat.txt)
+
+
+### Tuesday 6th June: Teaching Materials Hackathon
+
+18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
+
+The aim of this session is to build on the existing work at https://www.reflectometry.org/isis_school/ (URL to change), a short introduction to reflectometry fitting.
+
+In this hackathon, we will work in small groups to develop new material for the webpages. 
+
+The specific areas of focus will depend on the attendees but some potential areas of work include:
+- Expanding Bayesian analysis section
+- Generalising the information to better include X-rays
+- Proof reading
+
+The expectation in this hackathon will be to work on this material so please come prepared by reading through the material and potentially getting a Github account.
+
+
+## Wednesday 7th June: Webpage Hackathon
+
+09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
+
+The aim of this session is to review the ORSO webpages and actively update them according to input.
+
+We will begin with an explanation of how anyone can edit the pages and ensure that all those present have permission to do so.
+
+In this hackathon, we will then work in small groups to actively modify pages and add information.
+
+The specific areas of focus will depend on the attendees but some potential areas of work include:
+- Bibliography
+- Beamline lists and publications
+- Site navigation
+
+## Wednesday 7th June: Priors and posteriors paper
+
+18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
+
+More and more Bayesian analysis is being used to interpret reflectometry data. 
+However, how this information is reported is inconsistent potentially limiting the replicability and reproduciblity of the results. 
+To improve this, within the Reproduciblity Working Group, we have started to develop a short publication defining some best practice for reporting results and inputs to Bayesian analysis. 
+
+In this session, we seek feedback on the current draft of the paper and will aim to improve the work based on this feedback. 
+Note the expectation for attending this session is that **you have read the draft and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
+Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
+
+## Thursday 17th June: 
+
+
+
+## Friday 18th June:
+
+
+
+## Friday 18th June: Concluding Plenary Session
+
+18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
+
+In the final session of the workshop we will summarise the working group sessions and announce the results of the electronic voting.
+
+- Science talk to be confirmed
+- Summary of the weeks sessions and next steps
+- The AGM voting results
+- Science talk to be confirmed
+
+
