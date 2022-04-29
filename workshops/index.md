@@ -36,15 +36,15 @@ Each of the ORSO working groups meets in between AGMs to review open issues. The
 
 ### Past events
 
-| Meeting or Workshop |      Date      |  Place |
-|----------|:-------------:|:------:|
-| AGM | June 2021 |   [Online](./workshop_2021/)  |
-| Education and Outreach | Sep & Oct 2020 | Online |
-| Reproducibility | Sep 2020 | Online  |
-| File Formats | Sep 2020 | Online |
-|  Data Analysis | Oct 13th 10-14 (UTC) | Online | 
-| AGM | May 2020 |   [Online](./workshop_2020/)  |
-| AGM | Oct. 2019 |  [Abingdon, UK](./workshop_2019/)|
+| Meeting or Workshop |      Date      |  Place |  Meeting report | 
+|----------|:-------------:|:------:|:------:|
+| AGM | June 2021 |   [Online](./workshop_2021/)  | [Neutron News](https://doi.org/10.1080/10448632.2021.2005422), [SR News](https://doi.org/10.1080/08940886.2022.2043671) |
+| Education and Outreach | Sep & Oct 2020 | Online |  |
+| Reproducibility | Sep 2020 | Online  |  |
+| File Formats | Sep 2020 | Online |  |
+|  Data Analysis | Oct 13th 10-14 (UTC) | Online |   |
+| AGM | May 2020 |   [Online](./workshop_2020/)  | [Neutron News](https://doi.org/10.1080/10448632.2021.1875749), [SR News](https://doi.org/10.1080/08940886.2020.1812362)  |
+| AGM | Oct. 2019 |  [Abingdon, UK](./workshop_2019/)|  |
 
 For most recent activities please check github issues for each working group:
 - [Education and Outreach](https://github.com/reflectivity/edu_outreach/issues)
