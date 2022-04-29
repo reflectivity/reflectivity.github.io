@@ -43,7 +43,7 @@ The specific areas of focus will depend on the attendees but some potential area
 The expectation in this hackathon will be to work on this material so please come prepared by reading through the material and potentially getting a Github account.
 
 
-## Wednesday 7th June: Webpage Hackathon
+## Wednesday 7th June: Webpage Workshop
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -51,7 +51,7 @@ The aim of this session is to review the ORSO webpages and actively update them 
 
 We will begin with an explanation of how anyone can edit the pages and ensure that all those present have permission to do so.
 
-In this hackathon, we will then work in small groups to actively modify pages and add information.
+We will then work in small groups to identify changes, collect information and actively modify pages.
 
 The specific areas of focus will depend on the attendees but some potential areas of work include:
 - Bibliography
@@ -60,9 +60,9 @@ The specific areas of focus will depend on the attendees but some potential area
 
 ## Wednesday 7th June: Priors and posteriors paper
 
-18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
+14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
-More and more Bayesian analysis is being used to interpret reflectometry data.  (Andrew Mc/Andrew K and .....)
+More and more Bayesian analysis is being used to interpret reflectometry data.  (Andrew Mc/Andrew C and .....)
 However, how this information is reported is inconsistent potentially limiting the replicability and reproduciblity of the results. 
 To improve this, within the Reproduciblity Working Group, we have started to develop a short publication defining some best practice for reporting results and inputs to Bayesian analysis. 
 
@@ -70,17 +70,42 @@ In this session, we seek feedback on the current draft of the paper and will aim
 Note the expectation for attending this session is that **you have read the draft and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
 
-## Thursday 17th June: 
+## Thursday 17th June: A Simple model language
+
+08:00-09:00 (UK), 09:00-10:00 (Europe), 03:00-05:00 (US East coast), 17:00-18:00 (Australia East coast):
+
+- Demo and subsequent discussion of the model language that Jochen/Artur developed (Brians model language?) 
+- further details to be confirmed
 
 
+## Thursday 17th June: The ORSO Scattering Length Database
 
-## Friday 18th June:
+09:00-11:00 (UK), 10:00-12:00 (Europe), 05:00-07:00 (US East coast), 18:00-20:00 (Australia East coast):
 
+- presentation of the status of the SLD database (Artur)
+- information gathering excercise and release of the database
+- further details to be confirmed
+
+## Friday 18th June: Validation datasets
+
+08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
+
+ - Creation of validation datasets for PNR analysis software, similar to those that we currently have for unpolarised work.
+ - Transfer of validation datasets to ORSO format.
+ - further details to be confirmed
+
+## Friday 18th June: CANSAS general description for resolution functions
+
+09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
+
+- presentation of the work being done on resolution function by Cansas 
+- discussion of relevance to ORSO and the potential for collaboration
+- further details to be confirmed
 
 
 ## Friday 18th June: Concluding Plenary Session
 
-18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
+15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (Australia East coast): 
 
 In the final session of the workshop we will summarise the working group sessions and announce the results of the electronic voting.
 
