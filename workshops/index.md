@@ -16,7 +16,7 @@ We invite you to join in the organization of the meeting. If you are interested 
 
 ## Conferences
 
-[SXNS16](www.sxns16.org) took place in Jan 2022. A number of the talks from this conference are available from the website.
+[SXNS16](www.sxns16.org) took place in Jan 2022. A number of the talks from this conference are available from the website and the meeting report is here: [Neutron News](https://doi.org/10.1080/10448632.2022.2050633)
 
 ## Online Seminar series
 
