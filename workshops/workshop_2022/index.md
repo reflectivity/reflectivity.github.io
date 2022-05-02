@@ -80,37 +80,54 @@ Note: the expectation for attending this session is that **you have read the dra
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
 
 
-## Thursday 17th June: A Simple model language (Tom, I do not understand this.  do you mean that a new programming language should be created or is the aim to define a voculabary?)
+## Thursday 17th June: 
 
-08:00-09:00 (UK), 09:00-10:00 (Europe), 03:00-05:00 (US East coast), 17:00-18:00 (Australia East coast):
+09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-- Demo and subsequent discussion of the model language that Jochen/Artur developed (Brians model language?) 
+- Science talk
+- Science talk
+
+## Thursday 17th June: A Simple model language
+
+10:00-11:00 (UK), 11:00-12:00 (Europe), 06:00-07:00 (US East coast), 19:00-20:00 (Australia East coast):
+
+- One of the early aims of the Data Analysis Workig Groups was to create a common vocabulary for the definitionn of reflectometry models.
+- This session will demo the model languages that have started to be developed and will conntinue with a discussion
 - further details to be confirmed
 
 
 ## Thursday 17th June: The ORSO Scattering Length Database
 
-09:00-11:00 (UK), 10:00-12:00 (Europe), 05:00-07:00 (US East coast), 18:00-20:00 (Australia East coast):
+14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
-- presentation of the status of the SLD database (Artur)
-- information gathering excercise and release of the database
-- live testing followed by questions, answers and discussion
+- Presentation of the status of the SLD database (Artur)
+- Information gathering excercise and release of the database
+- Live testing followed by questions, answers and discussion
 - further details to be confirmed
 You are welcome to send suggestions to  XX@ in advance of this session
+
+16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
+
+- Science talk
+- Science talk
+
 
 ## Friday 18th June: Validation datasets
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
  - Creation of validation datasets for Polarised Neutron Reflectometry analysis software, similar to those that we currently have for unpolarised work.
+ - Proposals for other types of datasets
  - Transfer of validation datasets to ORSO format.
  - further details to be confirmed
 
-## Friday 18th June: The collective action for nomadic small angle scatterers: CANSAS general description for resolution functions   (https://www.cansas.org/)
+## Friday 18th June: General description for resolution functions   
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-- presentation of the work being done on resolution function by Cansas 
+The collective action for nomadic small angle scatterers, CANSAS (https://www.cansas.org/) will present their efforts towards on resolution functions
+
+- presentation of the work being done by Cansas 
 - discussion of relevance to ORSO and the potential for collaboration
 - further details to be confirmed
 
