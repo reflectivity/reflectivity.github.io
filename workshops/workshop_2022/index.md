@@ -29,7 +29,7 @@ The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetabl
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
 
-### Tuesday 6th June: Collection of Teaching Materials 
+## Tuesday 6th June: Collection of Teaching Materials 
 
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
@@ -80,7 +80,7 @@ Note: the expectation for attending this session is that **you have read the dra
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
 
 
-## Thursday 17th June: 
+## Thursday 17th June: Plenary Session
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -104,7 +104,11 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - Information gathering excercise and release of the database
 - Live testing followed by questions, answers and discussion
 - further details to be confirmed
+
 You are welcome to send suggestions to  XX@ in advance of this session
+
+
+## Thursday 17th June: Plenary Session
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
