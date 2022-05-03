@@ -65,7 +65,7 @@ The specific areas of focus will depend on the attendees but some potential area
 - Site navigation
 
 
-## Wednesday 7th June: Priors and posteriors paper
+## Wednesday 7th June: [Priors and posteriors paper](/assets/ms.pdf)
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -75,9 +75,11 @@ More and more Bayesian analysis is being used to interpret reflectometry data.
 However, how this information is reported is inconsistent potentially limiting the replicability and reproduciblity of the results. 
 To improve this, within the Reproduciblity Working Group, we have started to develop a short publication defining some best practice for reporting results and inputs to Bayesian analysis. 
 
-In this session, we first present and then seek feedback on the current draft of the paper and will aim to improve the work based on this feedback. 
-Note: the expectation for attending this session is that **you have read the draft in advance and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
+In this session, we first present and then seek feedback on the [current draft of the paper](/assets/ms.pdf) and will aim to improve the work based on this feedback. 
+Note: the expectation for attending this session is that **you have read [the draft](/assets/ms.pdf) in advance and are able to offer feedback**, it is not expected that you are an expert user of Bayesian analysis (as you might be the exact audience that we are targeting in that case). 
 Attendence of this session will lead to inclusion as a co-author of the paper (if desired).
+
+[**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
 ## Thursday 17th June: Plenary Session
