@@ -65,7 +65,7 @@ The specific areas of focus will depend on the attendees but some potential area
 - Site navigation
 
 
-## Wednesday 7th June: [Priors and posteriors paper](/assets/ms.pdf)
+## Wednesday 8th June: [Priors and posteriors paper](/assets/ms.pdf)
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -89,7 +89,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - Science talk
 - Science talk
 
-## Thursday 17th June: A Simple model language
+## Thursday 9th June: A Simple model language
 
 10:00-11:00 (UK), 11:00-12:00 (Europe), 06:00-07:00 (US East coast), 19:00-20:00 (Australia East coast):
 
