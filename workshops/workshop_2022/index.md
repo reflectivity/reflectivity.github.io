@@ -17,7 +17,7 @@ For those interested a report from last year's meeting is [here](https://doi.org
 
 The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
 
-## Tuesday 6th June: Plenary Session
+## Tuesday 7th June: Plenary Session
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -29,7 +29,7 @@ The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetabl
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
 
-## Tuesday 6th June: Collection of Teaching Materials 
+## Tuesday 7th June: Collection of Teaching Materials 
 
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
@@ -49,7 +49,7 @@ The aim in this session is to update the webpage live in a "hackathon". Please c
 You do not need to be confident with Github to participate, what we need is expertise in reflectometry to ensure that the material generated is of high quality and appropriate for the whole ORSO community.
 
 
-## Wednesday 7th June: ORSO Webpage Workshop
+## Wednesday 8th June: ORSO Webpage Workshop
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -82,7 +82,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 17th June: Plenary Session
+## Thursday 9th June: Plenary Session
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -98,7 +98,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - further details to be confirmed
 
 
-## Thursday 17th June: The ORSO Scattering Length Database
+## Thursday 9th June: The ORSO Scattering Length Database
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -110,7 +110,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 You are welcome to send suggestions to  XX@ in advance of this session
 
 
-## Thursday 17th June: Plenary Session
+## Thursday 9th June: Plenary Session
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
@@ -118,7 +118,7 @@ You are welcome to send suggestions to  XX@ in advance of this session
 - Science talk
 
 
-## Friday 18th June: Validation datasets
+## Friday 10th June: Validation datasets
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
@@ -127,7 +127,7 @@ You are welcome to send suggestions to  XX@ in advance of this session
  - Transfer of validation datasets to ORSO format.
  - further details to be confirmed
 
-## Friday 18th June: General description for resolution functions   
+## Friday 10th June: General description for resolution functions   
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -138,7 +138,7 @@ The collective action for nomadic small angle scatterers, CANSAS (https://www.ca
 - further details to be confirmed
 
 
-## Friday 18th June: Concluding Plenary Session
+## Friday 10th June: Concluding Plenary Session
 
 15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (Australia East coast): 
 
