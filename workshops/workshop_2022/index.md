@@ -22,7 +22,7 @@ The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetabl
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
 - General introduction to the meeting and how it will work
-- Science talk to be confirmed
+- Wiebke Lohstroh: Introduction to the DAPHNE project
 - The AGM. Explanation of ORSO organisation and election of 4 chairs (1 from each working group)
 - A presentation of the ORSOPY file format. We will be voting on the release of this as the first major output from ORSO
 
@@ -86,8 +86,8 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-- Science talk
-- Science talk
+- Hayden Robertson: Refellips
+- Science talk to be connfirmed
 
 ## Thursday 9th June: A Simple model language
 
@@ -114,7 +114,7 @@ You are welcome to send suggestions to  XX@ in advance of this session
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
-- Science talk
+- David Hoogerheide
 - Science talk
 
 
@@ -144,7 +144,7 @@ The collective action for nomadic small angle scatterers, CANSAS (https://www.ca
 
 In the final session of the workshop we will summarise the working group sessions and announce the results of the electronic voting.
 
-- Science talk to be confirmed
+- Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
 - Summary of the weeks sessions and next steps
 - The AGM voting results
 - Science talk to be confirmed
