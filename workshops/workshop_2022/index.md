@@ -31,7 +31,7 @@ Recordings of the talks will be uploaded and made available to all to ensure acc
 
 ## Tuesday 7th June: Collection of Teaching Materials 
 
-18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
+17:00-20:00 (UK), 18:00-21:00 (Europe), 12:00-15:00 (US East coast), 02:00-05:00 (Australia East coast): 
 
 The aim of this session is to build on the existing work at https://www.reflectometry.org/isis_school/ (URL to change), a short introduction to reflectometry fitting.
 
