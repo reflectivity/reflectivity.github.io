@@ -98,16 +98,18 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - further details to be confirmed
 
 
-## Thursday 9th June: The ORSO Scattering Length Database
+## Thursday 9th June: The ORSO Scattering Length Density Database
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
-- Presentation of the status of the SLD database (Artur)
+The aim of this session is to launch the ORSO Scattering Length Density Database. A database exists but we now need to add the necessary data to make it useful to the community. The intention is that this database is maintained by the people that use it, so we need your input to make it work. 
+
+- Presentation of the status of the [SLD database](https://slddb.esss.dk/slddb/) (Artur Glavic)
 - Information gathering excercise and release of the database
 - Live testing followed by questions, answers and discussion
 - further details to be confirmed
 
-You are welcome to send suggestions to  XX@ in advance of this session
+You are welcome to send feedback before or after the session
 
 
 ## Thursday 9th June: Plenary Session
@@ -115,7 +117,7 @@ You are welcome to send suggestions to  XX@ in advance of this session
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
 - David Hoogerheide
-- Science talk
+- Science talk to be confirmed
 
 
 ## Friday 10th June: Validation datasets
@@ -131,11 +133,16 @@ You are welcome to send suggestions to  XX@ in advance of this session
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-The collective action for nomadic small angle scatterers, CANSAS (https://www.cansas.org/) will present their efforts towards on resolution functions
+The collective action for nomadic small angle scatterers, CANSAS (https://www.cansas.org/) will present their efforts towards on resolution functions.
 
-- presentation of the work being done by Cansas 
+The numerical convolutions of the appropriate functions for fixed wavelength SANS gives improved Q resolution functions that are slightly flatter in the peak and broader in the tails than the classic Mildner & Carpenter approach. However, in time-of-flight SANS the resolution curves from all the wavelengths contributing to a particular Q value are averaged together, weighted by the number of neutrons detected at each wavelength. Since the resolution width is inversely proportional to wavelength this often gives a curve that is noticeably sharper in the peak and broader in the tails than a simple Gaussian.
+
+In either type of SANS measurement a more detailed description of Q resolution smearing within fitting programs such as SasView will need generic resolution functions of arbitrary shape.
+
+The generic resolution function was subject of discussion at CanSAS workshop in March 2021 and efforts have been for devising data format and using arbitrary function in SasView. The summary of these activities will be provided in the presentation
+
+- presentation of the work being done by Cansas (Wojciech Potrzebowski)
 - discussion of relevance to ORSO and the potential for collaboration
-- further details to be confirmed
 
 
 ## Friday 10th June: Concluding Plenary Session
