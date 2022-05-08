@@ -6,7 +6,9 @@ permalink: /workshops/
 
 # Upcoming events
 
-the Open Reflectometry Standards Organisation ORSO annual workshop will take place online from the 7th to the 10th of June 2022. As with last year, this will primarily be an online meeting, with sessions covering as many time zones as practically possible. 
+## the Open Reflectometry Standards Organisation ORSO annual workshop will take place online from the 7th to the 10th of June 2022. 
+
+As with last year, this will primarily be an online meeting, with sessions covering as many time zones as practically possible. 
 
 Details of the workshop sessions are [here](https://www.reflectometry.org/workshops/workshop_2022/) and [registration is now open](https://indico.esss.lu.se/event/3013/)
 
