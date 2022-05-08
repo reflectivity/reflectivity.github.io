@@ -11,11 +11,11 @@ We will be running an electronic vote on at least 1 issue during the meeting. Th
 
 For those interested a report from last year's meeting is [here](https://doi.org/10.1080/08940886.2022.2043671)
 
-## Registration will soon [open](https://indico.esss.lu.se/event/3013/)
+## Registration is now [open](https://indico.esss.lu.se/event/3013/)
 
 # Agenda:
 
-The agenda is now available [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
+The agenda is not yet finalized but the confirmed details are below and [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
 
 ## Tuesday 7th June: Plenary Session
 
