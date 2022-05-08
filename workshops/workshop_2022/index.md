@@ -133,7 +133,7 @@ You are welcome to send feedback before or after the session
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-The collective action for nomadic small angle scatterers, CANSAS (https://www.cansas.org/) will present their efforts towards on resolution functions.
+The collective action for nomadic small angle scatterers, CanSAS (https://www.cansas.org/) will present their work on resolution functions:
 
 The numerical convolutions of the appropriate functions for fixed wavelength SANS gives improved Q resolution functions that are slightly flatter in the peak and broader in the tails than the classic Mildner & Carpenter approach. However, in time-of-flight SANS the resolution curves from all the wavelengths contributing to a particular Q value are averaged together, weighted by the number of neutrons detected at each wavelength. Since the resolution width is inversely proportional to wavelength this often gives a curve that is noticeably sharper in the peak and broader in the tails than a simple Gaussian.
 
