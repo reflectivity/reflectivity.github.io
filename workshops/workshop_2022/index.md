@@ -17,19 +17,19 @@ For those interested a report from last year's meeting is [here](https://doi.org
 
 The agenda is not yet finalized but the confirmed details are below and [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
 
-## Tuesday 7th June: Plenary Session
+## Tuesday 7th June: Plenary Session (Chair: Tom Arnold)
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
 - General introduction to the meeting and how it will work
 - Wiebke Lohstroh: Introduction to the DAPHNE project
-- The AGM. Explanation of ORSO organisation and election of 4 chairs (1 from each working group)
-- A presentation of the ORSOPY file format. We will be voting on the release of this as the first major output from ORSO
+- The AGM. Explanation of ORSO organisation, voting methodology and election of 4 chairs (1 from each working group)
+- A presentation of the [ORSOPY](https://pypi.org/project/orsopy/). __We will be voting on the release of this as the first major output from ORSO__
 
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
 
-## Tuesday 7th June: Collection of Teaching Materials 
+## Tuesday 7th June: Collection of Teaching Materials (Chair: Andrew McCluskey)
 
 17:00-20:00 (UK), 18:00-21:00 (Europe), 12:00-15:00 (US East coast), 02:00-05:00 (Australia East coast): 
 
@@ -49,7 +49,7 @@ The aim in this session is to update the webpage live in a "hackathon". Please c
 You do not need to be confident with Github to participate, what we need is expertise in reflectometry to ensure that the material generated is of high quality and appropriate for the whole ORSO community.
 
 
-## Wednesday 8th June: ORSO Webpage Workshop
+## Wednesday 8th June: ORSO Webpage Workshop (Chair: Tom Arnold)
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -65,7 +65,7 @@ The specific areas of focus will depend on the attendees but some potential area
 - Site navigation
 
 
-## Wednesday 8th June: [Priors and posteriors paper](/assets/ms.pdf)
+## Wednesday 8th June: [Priors and posteriors paper](/assets/ms.pdf) (Chair: Andrew McCluskey)
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -82,14 +82,14 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 9th June: Plenary Session
+## Thursday 9th June: Plenary Session (Chair: Max Skoda)
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
 - Hayden Robertson: Refellips
-- Science talk to be connfirmed
+- (to be confirmed) Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
 
-## Thursday 9th June: A Simple model language
+## Thursday 9th June: A Simple model language (Chair: )
 
 10:00-11:00 (UK), 11:00-12:00 (Europe), 06:00-07:00 (US East coast), 19:00-20:00 (Australia East coast):
 
@@ -98,7 +98,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - further details to be confirmed
 
 
-## Thursday 9th June: The ORSO Scattering Length Density Database
+## Thursday 9th June: The ORSO Scattering Length Density Database (Chair: Artur Glavic)
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -112,15 +112,15 @@ The aim of this session is to launch the ORSO Scattering Length Density Database
 You are welcome to send feedback before or after the session
 
 
-## Thursday 9th June: Plenary Session
+## Thursday 9th June: Plenary Session (Chair: )
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
 - David Hoogerheide
-- Science talk to be confirmed
+- Dieter Lott
 
 
-## Friday 10th June: Validation datasets
+## Friday 10th June: Validation datasets (Chair: )
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
@@ -129,7 +129,7 @@ You are welcome to send feedback before or after the session
  - Transfer of validation datasets to ORSO format.
  - further details to be confirmed
 
-## Friday 10th June: General description for resolution functions   
+## Friday 10th June: General description for resolution functions  (Chair: )
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -145,15 +145,14 @@ The generic resolution function was subject of discussion at CanSAS workshop in 
 - discussion of relevance to ORSO and the potential for collaboration
 
 
-## Friday 10th June: Concluding Plenary Session
+## Friday 10th June: Concluding Plenary Session (Chair: Bridget Murphy)
 
 15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (Australia East coast): 
 
 In the final session of the workshop we will summarise the working group sessions and announce the results of the electronic voting.
 
-- Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
 - Summary of the weeks sessions and next steps
 - The AGM voting results
-- Science talk to be confirmed
+- (to be confirmed) Alessandra Luchini
 
 
