@@ -4,7 +4,7 @@ title: "Workshop 2022"
 permalink: /workshops/workshop_2022/
 ---
 
-The Annual Meeting of ORSO will take place online in 7th-10th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community.
+The Annual Meeting of ORSO will take place __online__ (Zoom) in 7th-10th June 2021. The purpose of the meeting is to discuss topics of interest to the ORSO community.
 The program will consist of scientific and technical talks together with discussion forums and/or hackathons for each of the working groups
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record as much of the meeting as possible and post the videos on the ORSO youtube channel.
 We will be running an electronic vote on at least 1 issue during the meeting. The topics of the votes will be presented in the first session and then votes accepted during the week.
