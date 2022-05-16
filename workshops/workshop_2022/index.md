@@ -120,7 +120,7 @@ You are welcome to send feedback before or after the session
 - Dieter Lott
 
 
-## Friday 10th June: Validation datasets (Chair: )
+## Friday 10th June: Validation datasets (Chair: Andrew Nelson)
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
