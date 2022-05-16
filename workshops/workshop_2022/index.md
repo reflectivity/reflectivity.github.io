@@ -87,7 +87,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
 - Hayden Robertson: Refellips
-- (to be confirmed) Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
+- Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
 
 ## Thursday 9th June: A Simple model language (Chair: )
 
@@ -153,6 +153,6 @@ In the final session of the workshop we will summarise the working group session
 
 - Summary of the weeks sessions and next steps
 - The AGM voting results
-- (to be confirmed) Alessandra Luchini
+- Alessandra Luchini: "Developing advanced models of biological membranes to investigate protein-lipid interactions"
 
 
