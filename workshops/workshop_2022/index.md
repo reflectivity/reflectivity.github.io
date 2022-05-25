@@ -95,7 +95,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 [Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/abstract_AG.pdf)
 
-## Thursday 9th June: A Simple model language (Chair: )
+## Thursday 9th June: A Simple model language (Chair: Jochen Stahn)
 
 10:00-11:00 (UK), 11:00-12:00 (Europe), 06:00-07:00 (US East coast), 19:00-20:00 (Australia East coast):
 
