@@ -117,8 +117,11 @@ You are welcome to send feedback before or after the session
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
 - David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)
-- Dieter Lott
 
+
+- Dieter Lott: Advantages of 1D detectors for the recording of (x-ray) reflectivity curves on laboratory instruments.
+
+Abstract: In this talk, the advantages of a 1D detector over a point detector for the recording of reflectivity curves at a standard laboratory x-ray source will be discussed. The use of 1D detectors allows one to verify the quality of the recording, correct for shifts due to sample misalignments and gain additional information as e.g. about the diffuse/off-specular scattering. A Python program is developed to automatize the data reduction as well as providing a first hands-on evaluation. It is thought as a potential standard approach for making the recording of reflectivity curves at such lab sources (and others) more reliable, giving an faster and easier access also to non-experienced users of this technique.
 
 ## Friday 10th June: Validation datasets (Chair: Andrew Nelson)
 
