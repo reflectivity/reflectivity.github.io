@@ -86,8 +86,13 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-- Hayden Robertson: Refellips
+- Hayden Robertson: Refellips: Ellipsometry data analysis in Python
+
+[Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/ORSO_Abstract_HRobertson_2022.pdf)
+
 - Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
+
+[Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/abstract_AG.pdf)
 
 ## Thursday 9th June: A Simple model language (Chair: )
 
