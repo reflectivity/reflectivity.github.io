@@ -116,7 +116,7 @@ You are welcome to send feedback before or after the session
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
-- David Hoogerheide
+- David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)
 - Dieter Lott
 
 
@@ -129,7 +129,7 @@ You are welcome to send feedback before or after the session
  - Transfer of validation datasets to ORSO format.
  - further details to be confirmed
 
-## Friday 10th June: General description for resolution functions  (Chair: )
+## Friday 10th June: General description for resolution functions  (Chair: Andrew Nelson)
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
