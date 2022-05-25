@@ -24,7 +24,8 @@ The agenda is not yet finalized but the confirmed details are below and [here](h
 - General introduction to the meeting and how it will work
 - Wiebke Lohstroh: Introduction to the DAPHNE project
 - The AGM. Explanation of ORSO organisation, voting methodology and election of 4 chairs (1 from each working group)
-- A presentation of the [ORSOPY](https://pypi.org/project/orsopy/). __We will be voting on the release of this as the first major output from ORSO__
+- A presentation of [ORSOPY](https://orsopy.readthedocs.io/en/latest). __We will be voting on the release of this as the first major output from ORSO__
+-- please review the osopy specs [here](https://github.com/reflectivity/file_format/blob/master/specification.md)
 
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
