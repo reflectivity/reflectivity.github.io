@@ -123,6 +123,7 @@ You are welcome to send feedback before or after the session
 
 - David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)
 
+Abstract: For an arbitrary neutron reflectometry (NR) experiment, information regarding physical measurables of interest is not uniformly distributed in momentum transfer (Q) space. Thus, some regions of Q space are more advantageous for measurement than others, providing an opportunity for optimization of data collection rates. The optimal conditions, however, are not in general known before the data are collected and analyzed. Here, I demonstrate an active learning algorithm for driving autonomous neutron reflectometry experiments. Within the context of a user-supplied model, the algorithm uses the data that have already been collected to predict the measurement condition that will maximize the information gain rate for the parameters of interest. Data are collected at the optimal measurement condition, and the process repeats until the experiment is terminated or the model parameters are sufficiently constrained. Application of this technique to model systems shows that autonomous data collection rates exceed those of conventional, step-by-step data collection schemes by several times.
 
 - Dieter Lott: Advantages of 1D detectors for the recording of (x-ray) reflectivity curves on laboratory instruments.
 
