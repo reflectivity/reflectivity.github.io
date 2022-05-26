@@ -134,10 +134,16 @@ Abstract: In this talk, the advantages of a 1D detector over a point detector fo
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
- - Creation of validation datasets for Polarised Neutron Reflectometry analysis software, similar to those that we currently have for unpolarised work.
- - Proposals for other types of datasets
+ - Introduction – context of existing validation of calculation kernels (with link to https://github.com/reflectivity/analysis/tree/master/validation)
+ - Brian Maranville: Recent work on development of validation of calculation kernels for Polarised Neutron Reflectometry.
+ - Discussion of what kinds of systems would be good for PNR validation set.
+ - Discussion of validation datasets for targetting XRR, especially RSoXRR.
+ - Implementing of PNR validation for different packages
+ - Standard Samples.
+   - David Cortie: A standard sample for PNR
+   - Christy Kinane: Validation samples used at ISIS
+   - Outlook - discussion on proposals for other areas that could benefit from a similar approach. e.g. anomalous X-ray reflectivity.
  - Transfer of validation datasets to ORSO format.
- - further details to be confirmed
 
 ## Friday 10th June: General description for resolution functions  (Chair: Andrew Nelson)
 
