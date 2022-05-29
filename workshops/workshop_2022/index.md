@@ -139,7 +139,7 @@ Abstract: In this talk, the advantages of a 1D detector over a point detector fo
  - Discussion of what kinds of systems would be good for PNR validation set.
  - Discussion of validation datasets for targetting XRR, especially RSoXRR.
  - Implementing of PNR validation for different packages.
- - Andrew Caruana: Systematic Errors involved with fitting of X-Ray reflectometry data
+ - Andrew Caruana: Systematics in laboratory XRR data: Update and progress on data reduction and methodology
  - Standard Samples.
    - David Cortie: A standard sample for PNR
    - Christy Kinane: Validation samples used at ISIS
