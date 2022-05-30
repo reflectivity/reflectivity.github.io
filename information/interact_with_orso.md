@@ -10,7 +10,7 @@ You can also learn more about Github in general [here](https://lab.github.com/)
 
 1. Interacting with ORSO: This video introduces how ORSO works using Github
 
-    [![IMAGE ALT TEXT](http://img.youtube.com/vi/a6CsZHRRptg/0.jpg)](https://youtu.be/GV0NTj0Nqus)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GV0NTj0Nqus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2. Contributing to ORSO: This video shows how to contribute to the ORSO webpages
 
