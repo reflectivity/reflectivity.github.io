@@ -14,4 +14,4 @@ You can also learn more about Github in general [here](https://lab.github.com/)
 
 2. Contributing to ORSO: This video shows how to contribute to the ORSO webpages
 
-    [![IMAGE ALT TEXT](http://img.youtube.com/vi/rahs0AFs83o/0.jpg)](https://youtu.be/lc3ri5FDNzg)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lc3ri5FDNzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
