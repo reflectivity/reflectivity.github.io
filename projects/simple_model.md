@@ -64,6 +64,7 @@ sample:
         globals:      dict      optional
         reference:    string    optional
         schema:       string    optional
+        databases:    list of strings    optional
 ```
 
 The information is organised according to YAML rules but for the *stack* string(s). The reason is to make it simple and less error-prone to enter this information *by hand*. 
@@ -351,6 +352,49 @@ A string defining the model language and version to be used to interpret the dat
 ``` YAML
     schema: <URL>
 ```
+
+#### databases:
+
+This is a list of places where to look for information about materials or pre-defined substacks. These places are searched for an *unknown* string in the `stack` in the order they are listed. The search is stopped after the first hit. I.e. one can overwrite the ORSO SLD database entry by a local definition.
+
+``` YAML
+    databases:
+     - './model.def'
+     - '/home/amorlnsg/orso/model/'
+     - 'https://slddb.esss.dk/slddb/'
+```
+
+> Example:
+>
+> ``` YAML 
+>     stack: Si | my_bilayer | H2O
+>     databases:
+>      - './model.def'
+>      - ....
+> ```
+>
+> points to the entry `my_bilayer` in `model.def`:
+> 
+>  ``` YAML
+>       substacks:
+>         my_bilayer:
+>           sequence:
+>             - SLD: 1.23
+>               thickness: 0.5  
+>             - matrial: CH2
+>               thickness: 2.2
+>               mass_density: 0.83
+>             - matrial: CH2
+>               thickness: 2.2
+>               mass_density: 0.83
+>             - SLD: 1.23
+>               thickness: 0.5  
+>           origin: Best guess by J. Stahn. Not trustworthy!
+> ```
+
+where `CH2` is treated as a formula and the corresponding parameters are caught from the ORSO SLD database. The head groups are anonymous.
+
+
 
 ---
 
