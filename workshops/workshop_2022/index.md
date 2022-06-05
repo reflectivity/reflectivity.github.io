@@ -50,7 +50,7 @@ The aim in this session is to update the webpage live in a "hackathon". Please c
 You do not need to be confident with Github to participate, what we need is expertise in reflectometry to ensure that the material generated is of high quality and appropriate for the whole ORSO community.
 
 
-## Wednesday 8th June: ORSO Webpage Workshop (Chair: Tom Arnold)
+## Wednesday 8th June: ORSO Webpage Workshop (Chair: [Tom Arnold](mailto:tom.arnold@ess.eu))
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -66,7 +66,7 @@ The specific areas of focus will depend on the attendees but some potential area
 - Site navigation
 
 
-## Wednesday 8th June: [Priors and posteriors paper](/assets/ms.pdf) (Chair: Andrew McCluskey)
+## Wednesday 8th June: [Priors and posteriors paper](/assets/ms.pdf) (Chair: [Andrew McCluskey](mailto:Andrew.McCluskey@ess.eu))
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -83,7 +83,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 9th June: Plenary Session (Chair: Max Skoda)
+## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -95,7 +95,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 [Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/abstract_AG.pdf)
 
-## Thursday 9th June: A Simple model language (Chair: Jochen Stahn)
+## Thursday 9th June: A Simple model language (Chair: [Jochen Stahn](mailto:jochen.stahn@psi.ch))
 
 10:00-11:00 (UK), 11:00-12:00 (Europe), 06:00-07:00 (US East coast), 19:00-20:00 (Australia East coast):
 
@@ -104,7 +104,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 - further details to be confirmed
 
 
-## Thursday 9th June: The ORSO Scattering Length Density Database (Chair: Artur Glavic)
+## Thursday 9th June: The ORSO Scattering Length Density Database (Chair: [Artur Glavic](mailto:artur.glavic@psi.ch))
 
 14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
 
@@ -118,7 +118,7 @@ The aim of this session is to launch the ORSO Scattering Length Density Database
 You are welcome to send feedback before or after the session
 
 
-## Thursday 9th June: Plenary Session (Chair: )
+## Thursday 9th June: Plenary Session (Chair: TBC)
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
@@ -130,7 +130,7 @@ Abstract: For an arbitrary neutron reflectometry (NR) experiment, information re
 
 Abstract: In this talk, the advantages of a 1D detector over a point detector for the recording of reflectivity curves at a standard laboratory x-ray source will be discussed. The use of 1D detectors allows one to verify the quality of the recording, correct for shifts due to sample misalignments and gain additional information as e.g. about the diffuse/off-specular scattering. A Python program is developed to automatize the data reduction as well as providing a first hands-on evaluation. It is thought as a potential standard approach for making the recording of reflectivity curves at such lab sources (and others) more reliable, giving an faster and easier access also to non-experienced users of this technique.
 
-## Friday 10th June: Validation datasets (Chair: Andrew Nelson)
+## Friday 10th June: Validation datasets (Chair: [Andrew Nelson](mailto:anz@ansto.gov.au))
 
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
@@ -146,7 +146,7 @@ Abstract: In this talk, the advantages of a 1D detector over a point detector fo
    - Outlook - discussion on proposals for other areas that could benefit from a similar approach. e.g. anomalous X-ray reflectivity.
  - Transfer of validation datasets to ORSO format.
 
-## Friday 10th June: General description for resolution functions  (Chair: Andrew Nelson)
+## Friday 10th June: General description for resolution functions  (Chair: [Andrew Nelson](mailto:anz@ansto.gov.au))
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -162,7 +162,7 @@ The generic resolution function was subject of discussion at CanSAS workshop in 
 - discussion of relevance to ORSO and the potential for collaboration
 
 
-## Friday 10th June: Concluding Plenary Session (Chair: Bridget Murphy)
+## Friday 10th June: Concluding Plenary Session (Chair: [Bridget Murphy](mailto:murphy@physik.uni-kiel.de))
 
 15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (Australia East coast): 
 
