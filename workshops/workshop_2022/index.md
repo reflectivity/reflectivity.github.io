@@ -17,7 +17,7 @@ For those interested a report from last year's meeting is [here](https://doi.org
 
 The agenda is not yet finalized but the confirmed details are below and [here](https://indico.esss.lu.se/event/3013/timetable/) using the european time zone.
 
-## Tuesday 7th June: Plenary Session (Chair: Tom Arnold)
+## Tuesday 7th June: Plenary Session (Chair: [Tom Arnold](mailto:tom.arnold@ess.eu))
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
@@ -30,7 +30,7 @@ The agenda is not yet finalized but the confirmed details are below and [here](h
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
 
-## Tuesday 7th June: Collection of Teaching Materials (Chair: Andrew McCluskey)
+## Tuesday 7th June: Collection of Teaching Materials (Chair: [Andrew McCluskey](mailto:Andrew.McCluskey@ess.eu))
 
 17:00-20:00 (UK), 18:00-21:00 (Europe), 12:00-15:00 (US East coast), 02:00-05:00 (Australia East coast): 
 
