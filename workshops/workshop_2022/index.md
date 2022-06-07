@@ -85,7 +85,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 9th June: Plenary Session (Chair: TBC)
+## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -120,7 +120,7 @@ The aim of this session is to launch the ORSO Scattering Length Density Database
 You are welcome to send feedback before or after the session
 
 
-## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
+## Thursday 9th June: Plenary Session (Chair: [Bridget Murphy](mailto:murphy@physik.uni-kiel.de))
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
@@ -137,16 +137,16 @@ Abstract: In this talk, the advantages of a 1D detector over a point detector fo
 08:00-09:00 (UK), 09:00-10:00 (Europe), 04:00-06:00 (US East coast), 17:00-18:00 (Australia East coast):
 
  - Introduction – context of existing validation of calculation kernels (with link to https://github.com/reflectivity/analysis/tree/master/validation)
- - Brian Maranville: Recent work on development of validation of calculation kernels for Polarised Neutron Reflectometry.
- - Discussion of what kinds of systems would be good for PNR validation set.
- - Discussion of validation datasets for targetting XRR, especially RSoXRR.
- - Implementing of PNR validation for different packages.
+ - Brian Maranville: Recent work on development of validation of calculation kernels for Polarised Neutron Reflectometry
+ - Discussion of what kinds of systems would be good for PNR validation set
+ - Discussion of validation datasets for targetting XRR (e.g. significant absorption), especially RSoXRR
+ - Implementing of PNR validation for different packages
+ - Transfer of validation datasets to ORSO format
  - Andrew Caruana: Systematics in laboratory XRR data: Update and progress on data reduction and methodology
- - Standard Samples.
+ - Standard Samples
    - David Cortie: A standard sample for PNR
    - Christy Kinane: Validation samples used at ISIS
-   - Outlook - discussion on proposals for other areas that could benefit from a similar approach. e.g. anomalous X-ray reflectivity.
- - Transfer of validation datasets to ORSO format.
+   - Outlook - discussion on proposals for other areas that could benefit from a similar approach. e.g. anomalous X-ray reflectivity
 
 ## Friday 10th June: General description for resolution functions  (Chair: [Andrew Nelson](mailto:anz@ansto.gov.au))
 
