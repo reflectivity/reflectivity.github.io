@@ -85,7 +85,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
+## Thursday 9th June: Plenary Session (Chair: Jos Cooper)
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
@@ -120,7 +120,7 @@ The aim of this session is to launch the ORSO Scattering Length Density Database
 You are welcome to send feedback before or after the session
 
 
-## Thursday 9th June: Plenary Session (Chair: [Bridget Murphy](mailto:murphy@physik.uni-kiel.de))
+## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
