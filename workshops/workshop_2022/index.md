@@ -120,7 +120,7 @@ The aim of this session is to launch the ORSO Scattering Length Density Database
 You are welcome to send feedback before or after the session
 
 
-## Thursday 9th June: Plenary Session (Chair: TBC)
+## Thursday 9th June: Plenary Session (Chair: [Bridget Murphy](mailto:murphy@physik.uni-kiel.de))
 
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
 
