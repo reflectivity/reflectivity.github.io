@@ -21,11 +21,13 @@ The agenda is not yet finalized but the confirmed details are below and [here](h
 
 09:00-11:30 (UK), 10:00-12:30 (Europe), 05:00-07:30 (US East coast), 18:00-20:30 (Australia East coast):
 
-- General introduction to the meeting and how it will work
-- Wiebke Lohstroh: Introduction to the DAPHNE project
-- The AGM. Explanation of ORSO organisation, voting methodology and election of 4 chairs (1 from each working group)
+- [General introduction to the meeting and how it will work](https://youtu.be/JJDeTyHsq_I)
+- [Wiebke Lohstroh: Introduction to the DAPHNE project](https://youtu.be/JJDeTyHsq_I)
+- [The AGM](https://youtu.be/JGxTxajbTD4). Explanation of ORSO organisation, voting methodology and election of 4 chairs (1 from each working group)
 - A presentation of [ORSOPY](https://orsopy.readthedocs.io/en/latest). __We will be voting on the release of this as the first major output from ORSO__
 -- please review the osopy specs [here](https://github.com/reflectivity/file_format/blob/master/specification.md)
+- [RECORDING OF THE PESENTATION OF ORSOPY](https://youtu.be/NEMrE2l_Hfs)
+- [SLIDES](https://github.com/reflectivity/reflectivity.github.io/blob/db5525eaf18abf14a524ef6ec36f00cd172c9b1f/workshops/workshop_2022/ORSO_ort.pdf)
 
 Recordings of the talks will be uploaded and made available to all to ensure access from all time zones.
 
