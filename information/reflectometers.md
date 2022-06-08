@@ -22,7 +22,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [MIRA](https://mlz-garching.de/mira) | Vertical | Yes | No | [2007](https://dx.doi.org/10.1016/j.physb.2007.02.088) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [N-REX](https://mlz-garching.de/nrex) | Horizontal | Yes | No | [2015](https://dx.doi.org/10.17815/jlsrf-1-30) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [REFSANS](https://mlz-garching.de/refsans) | Horizontal | Yes | Yes | [2006](https://dx.doi.org/10.1016/j.physb.2006.05.399), [2015](https://dx.doi.org/10.17815/jlsrf-1-31) | 
-| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | TREFF | Vertical | Yes | No | | 
+| [FRM2](https://www.frm2.tum.de/en/home/) | Germany | TREFF | Vertical | Yes | No | [2017](https://jlsrf.org/index.php/lsf/article/view/161) | 
 | HANARO | South Korea | REF-V | Vertical | No | No | [2012](https://dx.doi.org/10.3938/NPSM.62.1112) | 
 | HANARO | South Korea | REF-H | Horizontal | No | No | | 
 | [ILL](https://www.ill.eu/) | France | [SuperADAM](https://www.ill.eu/users/instruments/instruments-list/superadam/description/instrument-layout/) | Vertical | Yes | No | [1998a](https://dx.doi.org/10.1016/S0921-4526(97)00541-3), [1998b](https://dx.doi.org/10.1016/S0921-4526(98)00263-4) [2013](http://dx.doi.org/10.1063/1.4790717)| 
