@@ -68,7 +68,7 @@ The two representations are:
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
   matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and *q* resolution.
   
-  - The **[specifications document](https://github.com/reflectivity/file_format/blob/master/specification.md)** 
+  - The **[specifications document](https://www.reflectometry.org/file_format/specification)** 
     is quite mature and ready for official release.
   
   - python modules to read and write orso headers are available at **[orsopy](https://orsopy.readthedocs.io/en/latest/)**.
