@@ -13,8 +13,8 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | --- | --- | --- | --- | --- | --- | --- |
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes | [2011](https://dx.doi.org/10.1016/j.nima.2010.12.075),  [2012](https://dx.doi.org/10.1063/1.4738579)| 
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes | | 
-| [BRR, KFKI](https://www.bnc.hu/?q=BRR) | Hungary | [GINA](https://www.bnc.hu/gina) | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| 
-| [BRR, KFKI](https://www.bnc.hu/?q=BRR) | Hungary | [REF](https://www.bnc.hu/?q=ref) | Vertical | Yes | No | | 
+| [BNC](https://www.bnc.hu/) | Hungary | [GINA](https://www.bnc.hu/gina) | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| 
+| [BNC](https://www.bnc.hu/) | Hungary | [REF](https://www.bnc.hu/?q=ref) | Vertical | Yes | No | | 
 | [CIAE, CARR](http://www.ciae.ac.cn/eng/Researchprograms/05.htm) | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | [CSNS](http://english.ihep.cas.cn/csns/) | China | [MR](http://english.ihep.cas.cn/csns/fa/in/202109/t20210915_283257.html) | Vertical | Yes | Yes | [2018](https://www.tandfonline.com/doi/full/10.1080/10448632.2018.1514196)| 
 | [BARC](https://www.barc.gov.in/) | India | PNR | Vertical | Yes | No | [2004](https://link.springer.com/article/10.1007/BF02705003?noAccess=true), [2006](https://content.iospress.com/articles/journal-of-neutron-research/jnr14-2-02)| 
