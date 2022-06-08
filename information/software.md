@@ -11,15 +11,6 @@ The following links provide information about computer programs used for the ana
 
 ## Software with developers engaged with ORSO
 
-*   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
-    [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
-
-*   Neutron Reflection Analysis DRYDOC and LPROF by Adrian Rennie  
-    [http://www.reflectometry.net/fitprogs/drydoc.htm](http://www.reflectometry.net/fitprogs/drydoc.htm)
-
-*   Programs for X-ray reflectometry analysis by Adrian Rennie  
-    [http://www.reflectometry.net/xrefprogs.htm](http://www.reflectometry.net/xrefprog.htm)
-
 *   Neutron reflectometry programs available from the NIST Center for Neutron Research.  
     [https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software](https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software)
     - [Documentation](https://refl1d.readthedocs.io/)
@@ -29,15 +20,9 @@ The following links provide information about computer programs used for the ana
     There is also an extended version for magnetic samples and polarised neutrons:  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html).
 
-*   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
-    [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
-
 *   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
     [http://bornagainproject.org](http://bornagainproject.org)
     - [Documentation](https://bornagainproject.org/documentation/)
-
-*   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
-    [http://motofit.sourceforge.net](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
 
 *   refnx: Neutron and X-ray reflectometry analysis in Python by Andrew Nelson and Stuart Prescott ANSTO.  
     [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
@@ -48,8 +33,23 @@ The following links provide information about computer programs used for the ana
     - [Documentation](https://aglavic.github.io/genx/index.html) and [Tutorials](https://aglavic.github.io/genx/doc/tutorials/neutron_fit.html#tutorial-neutron-fit)
 
 *   EasyReflectometry - a graphical user interface and python library to enable access to a range of calculation engines and optimisers.
-    - [GUI Download](https://easyreflectometry.org), Python [documentation](https://easyscience.github.io/EasyReflectometryLib/) and [tutorials](https://easyscience.github.io/EasyReflectometryLib/tutorials.html)
+*   [https://easyreflectometry.org](https://easyreflectometry.org)
+    - [Documentation](https://easyscience.github.io/EasyReflectometryLib/) and [Tutorials](https://easyscience.github.io/EasyReflectometryLib/tutorials.html)
 
+*   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
+    [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
+
+*   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
+    [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
+
+*   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
+    [http://motofit.sourceforge.net](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
+
+*   Neutron Reflection Analysis DRYDOC and LPROF by Adrian Rennie  
+    [http://www.reflectometry.net/fitprogs/drydoc.htm](http://www.reflectometry.net/fitprogs/drydoc.htm)
+
+*   Programs for X-ray reflectometry analysis by Adrian Rennie  
+    [http://www.reflectometry.net/xrefprogs.htm](http://www.reflectometry.net/xrefprog.htm)
 
 ## Other Reflectometry fitting Software
 
