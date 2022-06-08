@@ -13,7 +13,7 @@ This working group develops and maintains specifications for a standard file for
 
 - ASCII [file format specifications](https://www.reflectometry.org/file_format/specification) 
 - [orsopy](https://orsopy.readthedocs.io/en/latest/) on github
-- draft for [simple model description language](projects/simple_model) and the [github branch](https://github.com/reflectivity/orsopy/pull/83)
+- draft for [simple model description language](https://www.reflectometry.org/projects/simple_model) and the [github branch](https://github.com/reflectivity/orsopy/pull/83)
 
 ## the principles
 
