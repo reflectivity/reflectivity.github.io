@@ -17,14 +17,14 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [BRR, KFKI](https://www.bnc.hu/?q=BRR) | Hungary | [REF](https://www.bnc.hu/?q=ref) | Vertical | Yes | No | | 
 | [CIAE, CARR](http://www.ciae.ac.cn/eng/Researchprograms/05.htm) | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | [CSNS](http://english.ihep.cas.cn/csns/) | China | [MR](http://english.ihep.cas.cn/csns/fa/in/202109/t20210915_283257.html) | Vertical | Yes | Yes | | 
-| [Bhaba (BARC)](https://www.barc.gov.in/) | India | PNR | Vertical | Yes | No |[2006](https://content.iospress.com/articles/journal-of-neutron-research/jnr14-2-02)| 
+| [Bhabha (BARC)](https://www.barc.gov.in/) | India | PNR | Vertical | Yes | No | [2004](https://link.springer.com/article/10.1007/BF02705003?noAccess=true), [2006](https://content.iospress.com/articles/journal-of-neutron-research/jnr14-2-02)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [MARIA](https://mlz-garching.de/maria) | Vertical | Yes | No | [2015](http:s//dx.doi.org/10.17815/jlsrf-1-29), [2018](https://dx.doi.org/10.1107/S1600576718006994)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [MIRA](https://mlz-garching.de/mira) | Vertical | Yes | No | [2007](https://dx.doi.org/10.1016/j.physb.2007.02.088) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [N-REX](https://mlz-garching.de/nrex) | Horizontal | Yes | No | [2015](https://dx.doi.org/10.17815/jlsrf-1-30) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [REFSANS](https://mlz-garching.de/refsans) | Horizontal | Yes | Yes | [2006](https://dx.doi.org/10.1016/j.physb.2006.05.399), [2015](https://dx.doi.org/10.17815/jlsrf-1-31) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [TREFF](https://mlz-garching.de/neutron-optics) | Vertical | Yes | No | [2017](https://jlsrf.org/index.php/lsf/article/view/161) | 
-| [HANARO](https://www.kaeri.re.kr/board?menuId=MENU00732) | South Korea | REF-V | Vertical | No | No | [2012](https://dx.doi.org/10.3938/NPSM.62.1112) | 
-| [HANARO](https://www.kaeri.re.kr/board?menuId=MENU00732) | South Korea | REF-H | Horizontal | No | No | | 
+| HANARO | South Korea | REF-V | Vertical | No | No | [2012](https://dx.doi.org/10.3938/NPSM.62.1112) | 
+| HANARO | South Korea | REF-H | Horizontal | No | No | | 
 | [ILL](https://www.ill.eu/) | France | [SuperADAM](https://www.ill.eu/users/instruments/instruments-list/superadam/description/instrument-layout/) | Vertical | Yes | No | [1998a](https://dx.doi.org/10.1016/S0921-4526(97)00541-3), [1998b](https://dx.doi.org/10.1016/S0921-4526(98)00263-4) [2013](http://dx.doi.org/10.1063/1.4790717)| 
 | [ILL](https://www.ill.eu/) | France | [D16](https://www.ill.eu/users/instruments/instruments-list/d16/description/instrument-layout/) | Vertical | No | No | | 
 | [ILL](https://www.ill.eu/) | France | [D17](https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout/) | Vertical | Yes | Yes | [2002](http://dx.doi.org/10.1007/s003390201611), [2018](http://dx.doi.org/10.1107/S160057671800239X) | 
