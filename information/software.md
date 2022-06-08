@@ -2,7 +2,7 @@
 layout: page
 title: "Software"
 permalink: /information/software/
-author: "Adrian Rennie and Andrew McCluskey"
+author: "Adrian Rennie, Andrew McCluskey, and Jos Cooper"
 ---
 
 The following links provide information about computer programs used for the analysis of neutron reflectivity data. In some case copies of the software are made available to other users. Consult the pages for further details.
