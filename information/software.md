@@ -22,6 +22,7 @@ The following links provide information about computer programs used for the ana
 
 *   Neutron reflectometry programs available from the NIST Center for Neutron Research.  
     [https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software](https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software)
+    - [Documentation](https://refl1d.readthedocs.io/)
 
 *   Interactive, Web-Based Calculator of Neutron and X-ray Reflectivity, provided by Brian Maranville at NIST Center for Neutron Research.  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
