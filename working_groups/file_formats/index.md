@@ -2,6 +2,7 @@
 layout: page
 title: "File Formats"
 permalink: /working_groups/file_formats/
+author: "Jochen Stahn, Artur Glavic"
 ---
 
 <i class="fas fa-file-code fa-5x"></i>
