@@ -39,6 +39,7 @@ The following links provide information about computer programs used for the ana
 
 *   refnx: Neutron and X-ray reflectometry analysis in Python by Andrew Nelson and Stuart Prescott ANSTO.  
     [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
+    - Documentation and [tutorials](https://refnx.readthedocs.io/)
 
 *   GenX - a program that uses a genetic algorithm to refine model fits to reflectivity data writen by Matts Björck, Uppsala University.  
     [https://aglavic.github.io/genx/index.html](https://aglavic.github.io/genx/index.html)
