@@ -24,7 +24,7 @@ andrew.mccluskey@ess.eu
         <i class="fas fa-file-code fa-5x"></i>
         <br>
         <h4>File Formats</h4></a>
-      Develop and maintain a <a href="https://github.com/reflectivity/reflectivity.github.io/blob/master/projects/simple_model.md">standard, shared file format for reflectometry</a><br>
+      Develop and maintain a <a href="https://github.com/reflectivity/file_format/blob/master/specification.md">standard, shared file format for reflectometry</a><br>
         Engage the community in the uptake of this format<br><br>
     </td>
   </tr>
