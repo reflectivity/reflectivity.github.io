@@ -79,6 +79,8 @@ The two representations are:
 
 ## next steps
 
+- we are working on a **[simple model description language](https://github.com/reflectivity/reflectivity.github.io/blob/master/projects/simple_model.md)** 
+
 - release the ASCII representation specs
 - work on the dictionary and the definitions
 
