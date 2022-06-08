@@ -86,7 +86,7 @@ The two representations are:
 
 ## next steps
 
-- we are working on a **[simple model description language](/projects/simple_model)** 
+- we are working on a **[simple model description language](https://www.reflectometry.org/projects/simple_model)**  
 
 - release the ASCII representation specs
 - work on the dictionary and the definitions
