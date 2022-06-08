@@ -56,7 +56,7 @@ For most reflectivity experiements to be sucessful, several factors should be co
 
 * ###  Should I use x-rays, neutrons or both?
 
-A very important question. There are many ways to answer this, we will take quite a high level view here. One of the biggest questions to consider when planning a reflectivity experiment is contrast. In the most basic approach x-rays itneract with electrons and neutrons with the nucleus. There are Scattering Length Density calculators available at ???.  This can be used as simulations to determine where the best contrast can be found. Some experiments, particualrly solid/liquid are more suited to neutron reflectometry due to the penetrating 'power' of neutrons.
+A very important question. There are many ways to answer this, we will take quite a high level view here. One of the biggest questions to consider when planning a reflectivity experiment is contrast. In the most basic approach x-rays itneract with electrons and neutrons with the nucleus. There are Scattering Length Density calculators available [here](https://slddb.esss.dk/slddb/material) and elsewhere on the web.  This can be used as simulations to determine where the best contrast can be found. Some experiments, particualrly solid/liquid are more suited to neutron reflectometry due to the penetrating 'power' of neutrons.
 
 * ###  How can I join ORSO/help?
 
