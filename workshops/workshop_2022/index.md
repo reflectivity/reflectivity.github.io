@@ -108,7 +108,8 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 ## Thursday 9th June: The ORSO Scattering Length Density Database (Chair: [Artur Glavic](mailto:artur.glavic@psi.ch))
 
-14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 22:00-00:00 (Australia East coast): 
+14:00-16:00 (UK), 15:00-17:00 (Europe), 09:00-11:00 (US East coast), 23:00-01:00 (Australia East coast): 
+(please note the error in the Australian time zone for this session has now been accepted)
 
 The aim of this session is to launch the ORSO Scattering Length Density Database. A database exists but we now need to add the necessary data to make it useful to the community. The intention is that this database is maintained by the people that use it, so we need your input to make it work. 
 
@@ -122,7 +123,8 @@ You are welcome to send feedback before or after the session
 
 ## Thursday 9th June: Plenary Session (Chair: [Max Skoda](mailto:maximilian.skoda@stfc.ac.uk))
 
-16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 00:00-01:00 (Australia East coast): 
+16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 01:00-02:00 (Australia East coast): 
+(please note the error in the Australian time zone for this session has now been accepted)
 
 - David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)
 
