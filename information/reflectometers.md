@@ -17,7 +17,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [BRR, KFKI](https://www.bnc.hu/?q=BRR) | Hungary | [REF](https://www.bnc.hu/?q=ref) | Vertical | Yes | No | | 
 | [CIAE, CARR](http://www.ciae.ac.cn/eng/Researchprograms/05.htm) | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | [CSNS](http://english.ihep.cas.cn/csns/) | China | [MR](http://english.ihep.cas.cn/csns/fa/in/202109/t20210915_283257.html) | Vertical | Yes | Yes | | 
-| [Bhabha (BARC)](https://www.barc.gov.in/) | India | PNR | Vertical | Yes | No | [2004](https://link.springer.com/article/10.1007/BF02705003?noAccess=true), [2006](https://content.iospress.com/articles/journal-of-neutron-research/jnr14-2-02)| 
+| [BARC](https://www.barc.gov.in/) | India | PNR | Vertical | Yes | No | [2004](https://link.springer.com/article/10.1007/BF02705003?noAccess=true), [2006](https://content.iospress.com/articles/journal-of-neutron-research/jnr14-2-02)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [MARIA](https://mlz-garching.de/maria) | Vertical | Yes | No | [2015](http:s//dx.doi.org/10.17815/jlsrf-1-29), [2018](https://dx.doi.org/10.1107/S1600576718006994)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [MIRA](https://mlz-garching.de/mira) | Vertical | Yes | No | [2007](https://dx.doi.org/10.1016/j.physb.2007.02.088) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [N-REX](https://mlz-garching.de/nrex) | Horizontal | Yes | No | [2015](https://dx.doi.org/10.17815/jlsrf-1-30) | 
