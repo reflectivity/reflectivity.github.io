@@ -6,8 +6,7 @@ permalink: /working_groups/file_formats/
 
 <i class="fas fa-file-code fa-5x"></i>
 
-This working group aims to draft a specification for a standard file format to be used across X-ray and neutron reflectivity.
-This is an important goal to move towards interoperability across facilities.
+This working group develops and maintains specifications for a standard file format to be used across X-ray and neutron reflectivity.
 
 ## the principles
 
@@ -69,17 +68,18 @@ The two representations are:
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
   matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and *q* resolution.
   
-  - A version 0 **[specifications document](https://github.com/reflectivity/file_format/blob/master/specification.md)** is available.
+  - The **[specifications document](https://github.com/reflectivity/file_format/blob/master/specification.md)** 
+    is quite mature and ready for official release.
   
   - python modules to read and write orso headers are available at **[orsopy](https://orsopy.readthedocs.io/en/latest/)**.
   
-  - An overview of the state was given on the **[SXNS 16 talk](./SXNS_file_formats.pdf)** 2022-01.
+  - An overview of the state was given on the **[SXNS 16 talk](./SXNS_file_formats.pdf)** 2022-01 and more recently
+    at the **[ORSO annual meeting 2022-06](./ORSO_ort.pdf)**.
 - **HDF representation**: At an early stage... 
 
 ## next steps
 
-
-- close open issues with the ASCII representation
+- release the ASCII representation specs
 - work on the dictionary and the definitions
 
 - testing ASCII representation in real life
