@@ -85,7 +85,7 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 [**LINK TO THE DRAFT**](/assets/ms.pdf)
 
 
-## Thursday 9th June: Plenary Session (Chair: Jos Cooper)
+## Thursday 9th June: Plenary Session (Chair: [Jos Cooper](mailto:Jos.Cooper@stfc.ac.uk))
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
