@@ -32,19 +32,19 @@ The following links provide information about computer programs used for the ana
     [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
 
 *   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
-    [http://bornagainproject.org](http://bornagainproject.org)
+    [BORNAGAIN](http://bornagainproject.org)
     - [Documentation](https://bornagainproject.org/documentation/)
 
 *   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
-    [http://motofit.sourceforge.net/wiki/index.php/Main_Page](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
+    [MOTOFIT](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
 
 *   refnx: Neutron and X-ray reflectometry analysis in Python by Andrew Nelson and Stuart Prescott ANSTO.  
-    [https://www.github.com/refnx/refnx](https://www.github.com/refnx/refnx)
-    - [Documentation](https://refnx.readthedocs.io/) and [tutorials](https://www.youtube.com/channel/UCvhOxwZsdFMGqSzasE0ZSOw)
+    [REFNX](https://www.github.com/refnx/refnx)
+    - [Documentation](https://refnx.readthedocs.io/) and [Tutorials](https://www.youtube.com/channel/UCvhOxwZsdFMGqSzasE0ZSOw)
 
 *   GenX - a program that uses a genetic algorithm to refine model fits to reflectivity data writen by Matts Björck, Uppsala University.  
-    [https://aglavic.github.io/genx/index.html](https://aglavic.github.io/genx/index.html)
-    - [Tutorials](https://aglavic.github.io/genx/doc/tutorials/neutron_fit.html#tutorial-neutron-fit)
+    [GenX](https://aglavic.github.io/genx/index.html)
+    - [Documentation](https://aglavic.github.io/genx/index.html) and [Tutorials](https://aglavic.github.io/genx/doc/tutorials/neutron_fit.html#tutorial-neutron-fit)
 
 
 ## Other Reflectometry fitting Software
