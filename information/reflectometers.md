@@ -16,7 +16,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | BRR, KFKI | Hungary | GINA | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| 
 | BRR, KFKI | Hungary | REF | Vertical | Yes | No | | 
 | CIAE, CARR | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
-| CSNS | China | MR | Vertical | Yes | Yes | | 
+| CSNS | China | MR | Vertical | Yes | Yes | [2018] https://www.tandfonline.com/doi/abs/10.1080/10448632.2018.1514196?journalCode=gnnw20 | 
 | Bhaba (BARC) | India | PNR | Vertical | Yes | No | | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MARIA | Vertical | Yes | No | [2015](http:s//dx.doi.org/10.17815/jlsrf-1-29), [2018](https://dx.doi.org/10.1107/S1600576718006994)| 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | MIRA | Vertical | Yes | No | [2007](https://dx.doi.org/10.1016/j.physb.2007.02.088) | 
@@ -54,7 +54,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [SNS](https://neutrons.ornl.gov/) | USA | [Magnetism Reflectometer](https://neutrons.ornl.gov/mr) | Vertical | Yes | Yes | [2002](http://dx.doi.org/10.1007/s003390201798), [2009](http://dx.doi.org/10.1016/j.physb.2009.06.021) | 
 | WRR-M, PNPI | Russia | NR-4M | Vertical | Yes | Yes | | 
 | RINSC | USA | Reflectometer | Variable | No | Yes | | 
-| [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | [AMOR](https://www.psi.ch/en/sinq/amor) | Horizontal | Yes | Yes | [1996](http://dx.doi.org/10.1016/0921-4526(95)00972-8), [2000](http://dx.doi.org/10.1016/S0921-4526(99)01386-1), [2004](http://dx.doi.org/10.1007/BF02704051), [2016](http://dx.doi.org/10.1016/j.nima.2016.03.007)| 
+| [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | AMOR | Horizontal | Yes | Yes | [1996](http://dx.doi.org/10.1016/0921-4526(95)00972-8), [2000](http://dx.doi.org/10.1016/S0921-4526(99)01386-1), [2004](http://dx.doi.org/10.1007/BF02704051), [2016](http://dx.doi.org/10.1016/j.nima.2016.03.007)| 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Morpheus | Vertical | Yes | No | | 
 | [SINQ, PSI](https://www.psi.ch/en/sinq) | Switzerland | Narziss | Vertical | Yes | No | | 
 
