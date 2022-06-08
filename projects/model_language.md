@@ -21,7 +21,7 @@ Two routes have been discussed for implementing a shared model language:
 
 ## Simple model language to use for sample description prior to analysis
 A draft for a computer readable sample description that is quite universal and can be included in the ORSO file header was introduced by the file formats working group:
-[Simple Model Language Specification](simple_model)
+[Simple Model Language Specification](/projects/simple_model)
 
 ## A set of shared names in an agreed-upon programming framework
 In this case, a shared programming framwork is chosen (likely **Python** and/or **Matlab**), and then everyone makes a set of classes/functions with the same names that do the same thing, but the implementation is up to the package maintainer
