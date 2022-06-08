@@ -15,11 +15,6 @@ The following links provide information about computer programs used for the ana
     [https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software](https://www.nist.gov/ncnr/data-reduction-analysis/reflectometry-software)
     - [Documentation](https://refl1d.readthedocs.io/)
 
-*   Interactive, Web-Based Calculator of Neutron and X-ray Reflectivity, provided by Brian Maranville at NIST Center for Neutron Research.  
-    [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
-    There is also an extended version for magnetic samples and polarised neutrons:  
-    [https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html).
-
 *   BornAgain is a program to simulate and fit grazing incidence small-angle scattering  
     [http://bornagainproject.org](http://bornagainproject.org)
     - [Documentation](https://bornagainproject.org/documentation/)
@@ -33,11 +28,16 @@ The following links provide information about computer programs used for the ana
     - [Documentation](https://aglavic.github.io/genx/index.html) and [Tutorials](https://aglavic.github.io/genx/doc/tutorials/neutron_fit.html#tutorial-neutron-fit)
 
 *   EasyReflectometry - a graphical user interface and python library to enable access to a range of calculation engines and optimisers.
-*   [https://easyreflectometry.org](https://easyreflectometry.org)
+    [https://easyreflectometry.org](https://easyreflectometry.org)
     - [Documentation](https://easyscience.github.io/EasyReflectometryLib/) and [Tutorials](https://easyscience.github.io/EasyReflectometryLib/tutorials.html)
 
 *   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
     [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
+
+*   Interactive, Web-Based Calculator of Neutron and X-ray Reflectivity, provided by Brian Maranville at NIST Center for Neutron Research.  
+    [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
+    There is also an extended version for magnetic samples and polarised neutrons:  
+    [https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/magnetic-reflectivity-calculator.html).
 
 *   RASCAL - for  analysis of multi-contrast neutron reflectometry data A. Hughes, RAL  
     [https://github.com/arwelHughes/RasCAL_2019](https://github.com/arwelHughes/RasCAL_2019)
