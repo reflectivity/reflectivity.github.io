@@ -105,6 +105,11 @@ The two representations are:
 
 ## previous workshops:
 
+### Workshop 2022-06-07--10
+
+[presentation of the .ort specs](./ORSO_ort.pdf)
+[presentation of the simple modle description language](./simple_model_2022-06.pdf)
+
 ### Workshop 2021-06-14
 
 [material for session 1](../../projects/file_formats/tasks/ws_2021-06_text.md)
