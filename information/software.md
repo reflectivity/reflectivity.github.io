@@ -27,7 +27,7 @@ The following links provide information about computer programs used for the ana
     [https://aglavic.github.io/genx](https://aglavic.github.io/genx/index.html)
     - [Documentation](https://aglavic.github.io/genx/index.html) and [Tutorials](https://aglavic.github.io/genx/doc/tutorials/neutron_fit.html#tutorial-neutron-fit)
 
-*   EasyReflectometry - a graphical user interface and python library to enable access to a range of calculation engines and optimisers.
+*   EasyReflectometry - a graphical user interface and python library to enable access to a range of calculation engines and optimisers.  
     [https://easyreflectometry.org](https://easyreflectometry.org)
     - [Documentation](https://easyscience.github.io/EasyReflectometryLib/) and [Tutorials](https://easyscience.github.io/EasyReflectometryLib/tutorials.html)
 
