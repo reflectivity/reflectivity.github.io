@@ -508,3 +508,7 @@ sample:
 Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
 
 These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
+
+### Implementation and examples
+The model desciption has been implemented as a .ort header item in a Pull Request to the orsopy package with options to resolve layers for software to easily build a model system from the specification. Header examples and some automatic plotting scripts are included, too.
+See the [Pull Request](https://github.com/reflectivity/orsopy/pull/83) for more details.
