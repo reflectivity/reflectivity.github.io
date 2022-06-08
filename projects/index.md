@@ -11,3 +11,4 @@ Information about our current development projects can be found below:
 - [SLD database](./sld_database)
 - [Standard samples database](./standard_samples)
 - [Universal model definition language](./model_language)
+- [Text reflectivity file specifications](https://www.reflectometry.org/file_format/specification)
