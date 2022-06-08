@@ -48,7 +48,11 @@ As detailed [on this site](https://www.reflectometry.org/information/software/),
 
 * ###  What does reflectivity tell you?
 
-We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/information/learning). Note that the same principles apply for both x-rays and neutrons.
+We are glad you asked! Please check out [our introduction and tutorial about the technique](https://www.reflectometry.org/information/learning) for an in-depth tutorial on what can be extracted, and how. Briefly, the information which can be extracted from specular reflectivity is the scattering length density (average atomic scattering length multiplied by the material density) as a function of distance perpendicular to the film surface. Note that the same principles apply for both x-rays and neutrons.
+
+* ###  What should my sample look like?
+
+For most reflectivity experiements to be sucessful, several factors should be considered, including the surface area, surface roughness and overall flatness. The requirements for each of these will vary by technique, for example x-ray reflectometers can in general measure smaller surface areas than neutron reflectometers since they have a higher flux. A comprehensive list for neutrons is detailed [here](https://www.isis.stfc.ac.uk/Pages/Polref-Sample-design-and-preparation.aspx), but in general, reflectoemetry is limited to film thicknesses below ~400 nm (ideally much below), above 0.5 nm, and with surface roughnesses less than 5 nm. These are rough guidelines and are neither necessary nor sufficient.
 
 * ###  Should I use x-rays, neutrons or both?
 
