@@ -24,7 +24,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [REFSANS](https://mlz-garching.de/refsans) | Horizontal | Yes | Yes | [2006](https://dx.doi.org/10.1016/j.physb.2006.05.399), [2015](https://dx.doi.org/10.17815/jlsrf-1-31) | 
 | [FRM2](https://www.frm2.tum.de/en/home/) | Germany | [TREFF](https://mlz-garching.de/neutron-optics) | Vertical | Yes | No | [2017](https://jlsrf.org/index.php/lsf/article/view/161) | 
 | HANARO | South Korea | REF-V | Vertical | No | No | [2012](https://dx.doi.org/10.3938/NPSM.62.1112), [2015](https://link.springer.com/article/10.3938/jkps.67.1574) | 
-| HANARO | South Korea | REF-H | Horizontal | No | No | | 
+| HANARO | South Korea | REF-H | Horizontal | No | No |[2007](https://www.sciencedirect.com/science/article/abs/pii/S0040609006015409) | 
 | [ILL](https://www.ill.eu/) | France | [SuperADAM](https://www.ill.eu/users/instruments/instruments-list/superadam/description/instrument-layout/) | Vertical | Yes | No | [1998a](https://dx.doi.org/10.1016/S0921-4526(97)00541-3), [1998b](https://dx.doi.org/10.1016/S0921-4526(98)00263-4) [2013](http://dx.doi.org/10.1063/1.4790717)| 
 | [ILL](https://www.ill.eu/) | France | [D16](https://www.ill.eu/users/instruments/instruments-list/d16/description/instrument-layout/) | Vertical | No | No | | 
 | [ILL](https://www.ill.eu/) | France | [D17](https://www.ill.eu/users/instruments/instruments-list/d17/description/instrument-layout/) | Vertical | Yes | Yes | [2002](http://dx.doi.org/10.1007/s003390201611), [2018](http://dx.doi.org/10.1107/S160057671800239X) | 
