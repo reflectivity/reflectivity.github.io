@@ -89,11 +89,11 @@ Attendence of this session will lead to inclusion as a co-author of the paper (i
 
 09:00-10:00 (UK), 10:00-11:00 (Europe), 05:00-06:00 (US East coast), 18:00-19:00 (Australia East coast):
 
-- Hayden Robertson: Refellips: Ellipsometry data analysis in Python
+- [Hayden Robertson: Refellips: Ellipsometry data analysis in Python](https://youtu.be/rcwWq8ANckc)
 
 [Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/ORSO_Abstract_HRobertson_2022.pdf)
 
-- Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks
+- [Alessandro Greco: mlreflect – a Python-based pipeline for neutron and X-ray reflectivity data analysis using neural networks](https://youtu.be/xfxG9HoWa5w)
 
 [Abstract here](https://github.com/reflectivity/reflectivity.github.io/blob/62b180917bf8d83ad03551a4f206f4863431fdc2/workshops/workshop_2022/abstract_AG.pdf)
 
@@ -126,11 +126,11 @@ You are welcome to send feedback before or after the session
 16:00-17:00 (UK), 17:00-18:00 (Europe), 11:00-12:00 (US East coast), 01:00-02:00 (Australia East coast): 
 (please note the error in the Australian time zone for this session has now been accepted)
 
-- David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)
+- [David Hoogerheide: Autonomous neutron reflectometry (real-time entropy hacking using machine learning)](https://youtu.be/QWq8adXUc-w)
 
 Abstract: For an arbitrary neutron reflectometry (NR) experiment, information regarding physical measurables of interest is not uniformly distributed in momentum transfer (Q) space. Thus, some regions of Q space are more advantageous for measurement than others, providing an opportunity for optimization of data collection rates. The optimal conditions, however, are not in general known before the data are collected and analyzed. Here, I demonstrate an active learning algorithm for driving autonomous neutron reflectometry experiments. Within the context of a user-supplied model, the algorithm uses the data that have already been collected to predict the measurement condition that will maximize the information gain rate for the parameters of interest. Data are collected at the optimal measurement condition, and the process repeats until the experiment is terminated or the model parameters are sufficiently constrained. Application of this technique to model systems shows that autonomous data collection rates exceed those of conventional, step-by-step data collection schemes by several times.
 
-- Dieter Lott: Advantages of 1D detectors for the recording of (x-ray) reflectivity curves on laboratory instruments.
+- [Dieter Lott: Advantages of 1D detectors for the recording of (x-ray) reflectivity curves on laboratory instruments.](https://youtu.be/XdOCTfVB4ys)
 
 Abstract: In this talk, the advantages of a 1D detector over a point detector for the recording of reflectivity curves at a standard laboratory x-ray source will be discussed. The use of 1D detectors allows one to verify the quality of the recording, correct for shifts due to sample misalignments and gain additional information as e.g. about the diffuse/off-specular scattering. A Python program is developed to automatize the data reduction as well as providing a first hands-on evaluation. It is thought as a potential standard approach for making the recording of reflectivity curves at such lab sources (and others) more reliable, giving an faster and easier access also to non-experienced users of this technique.
 
