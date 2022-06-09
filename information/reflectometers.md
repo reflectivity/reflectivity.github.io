@@ -39,7 +39,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [FLNP](http://flnph.jinr.ru/en/) | Russia | [REFLEX-P](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/reflex) | Vertical | Yes | Yes | [1992](http://dx.doi.org/10.1117/12.130643), [2007](https://link.springer.com/article/10.1134/S1063774507030376)  | 
 | [FLNP](http://flnph.jinr.ru/en/) | Russia | [REMUR](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/remur) | Vertical | Yes | Yes | [2006](https://www.sciencedirect.com/science/article/abs/pii/S0168900206006802?via%3Dihub), [2016](https://link.springer.com/article/10.1134/S1027451016010146), [2021](https://arxiv.org/abs/2101.09859) | 
 | JINR, Dubna | Russia | SPN | Vertical | Yes | Yes | | 
-| [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | [2011](http://dx.doi.org/10.1140/epjp/i2011-11108-7), [2012](https://www.nature.com/articles/pj2012156) | 
+| [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | [2011](http://dx.doi.org/10.1140/epjp/i2011-11108-7), [2012](https://www.nature.com/articles/pj2012156), [2019](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-19-26807&id=418652) | 
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SHARAKU](https://mlfinfo.jp/en/bl17/) | Vertical | Yes | Yes | [2012](https://www.ps-taiwan.org/cjp/download.php?type=paper&vol=50&num=2&page=161)| 
 | [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | SUIREN | Vertical | Yes | No | [2009](http://dx.doi.org/10.1016/j.physb.2009.06.022)| 
 | [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | MINE | Horizontal | No | No | | 
