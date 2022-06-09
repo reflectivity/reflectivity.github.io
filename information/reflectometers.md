@@ -35,7 +35,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [ISIS](https://www.isis.stfc.ac.uk/) | UK | [Inter](https://www.isis.stfc.ac.uk/Pages/inter.aspx) | Horizontal | No | Yes | [2006](http://dx.doi.org/10.1016/j.physb.2006.05.40), [2011](http://dx.doi.org/10.1140/epjp/i2011-11112-y) | 
 | [ISIS](https://www.isis.stfc.ac.uk/) | UK | [PolRef](https://www.isis.stfc.ac.uk/Pages/ploref.aspx) | Horizontal | Yes | Yes | [2011](http://dx.doi.org/10.1140/epjp/i2011-11112-y)| 
 | [ISIS](https://www.isis.stfc.ac.uk/) | UK | [OffSpec](https://www.isis.stfc.ac.uk/Pages/offspec.aspx) | Horizontal | Yes | Yes | [2011a](http://dx.doi.org/10.1016/j.physb.2010.11.031), [2011b](http://dx.doi.org/10.1140/epjp/i2011-11112-y), [2014](http://dx.doi.org/10.3791/51129)| 
-| JINR, Dubna | Russia | REFLEX-P | Vertical | Yes | Yes | [1992](http://dx.doi.org/10.1117/12.130643) | 
+| [FLNP](http://flnph.jinr.ru/en/) | Russia | [REFLEX-P](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/reflex) | Vertical | Yes | Yes | [1992](http://dx.doi.org/10.1117/12.130643), [2007](https://link.springer.com/article/10.1134/S1063774507030376)  | 
 | JINR, Dubna | Russia | REMUR | Vertical | Yes | Yes | | 
 | JINR, Dubna | Russia | SPN | Vertical | Yes | Yes | | 
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | [2011](http://dx.doi.org/10.1140/epjp/i2011-11108-7) | 
