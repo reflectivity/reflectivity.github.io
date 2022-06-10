@@ -171,7 +171,7 @@ The generic resolution function was subject of discussion at CanSAS workshop in 
 - presentation of the work being done by Cansas (Wojciech Potrzebowski)
 - discussion of relevance to ORSO and the potential for collaboration
 
-
+[Slides](ORSO_resolution_with_actions.pdf)
 ## Friday 10th June: Concluding Plenary Session (Chair: [Bridget Murphy](mailto:murphy@physik.uni-kiel.de))
 
 15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (Australia East coast): 
