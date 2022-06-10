@@ -180,6 +180,6 @@ In the final session of the workshop we will summarise the working group session
 
 - Summary of the weeks sessions and next steps
 - The AGM voting results
-- Alessandra Luchini: "Developing advanced models of biological membranes to investigate protein-lipid interactions"
+- [Alessandra Luchini: "Developing advanced models of biological membranes to investigate protein-lipid interactions"](https://youtu.be/4UVaiIxzaTo)
 
 
