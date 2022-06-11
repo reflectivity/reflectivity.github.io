@@ -178,8 +178,8 @@ The generic resolution function was subject of discussion at CanSAS workshop in 
 
 In the final session of the workshop we will summarise the working group sessions and announce the results of the electronic voting.
 
-- Summary of the weeks sessions and next steps
-- The AGM voting results
+- [Summary of the weeks sessions and next steps](https://github.com/reflectivity/reflectivity.github.io/blob/0f742920e3cc8cbeb51d5fed000f7c9ee3b1bb16/workshops/workshop_2022/ORSO_4_closeout.pdf)
+- The AGM voting results: The motion was passed with 19 votes in favour and 1 against.
 - [Alessandra Luchini: "Developing advanced models of biological membranes to investigate protein-lipid interactions"](https://youtu.be/4UVaiIxzaTo)
 
 
