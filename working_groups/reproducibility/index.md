@@ -17,6 +17,7 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 
 ### Dissemination
 
+- [Bayesian analysis](https://arxiv.org/abs/2207.10406): a short article outlining best practice for Bayesian analysis reporting
 - [Standard samples](../../projects/standard_samples): tell us about the samples you measure regularly by contributing
 - [Calibrations](../../projects/calibrations): We want to share how we check out beamlines are correct
 - [Checklist](../../projects/checklist): A checklist to help users follow best practice in experimental preparation
