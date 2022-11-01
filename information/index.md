@@ -14,6 +14,10 @@ This page contains a list of the resources currently available on this website a
   * [Frequently asked questions](./FAQ)
   * [ORSO Videos](./videos)
 
+# Outputs
+
+  * [Reporting Bayesian analysis](https://arxiv.org/abs/2207.10406)
+
 # Useful information about reflectometry
 
   * [Learn about reflectometry](./learning)
