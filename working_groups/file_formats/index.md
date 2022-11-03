@@ -73,26 +73,24 @@ The two representations are:
   This means among other things not to use attributes in HDF.
 - **ASCII representation**:
   In short: the header is formatted as a *wrapped YAML* text. The data set(s) follow as a rectangular
-  matrix with the 4 first columns pre-defined to be *q*, *R(q)*, *sigma_R* and *q* resolution.
+  matrix with the 4 leading columns pre-defined to be *q*, *R(q)*, *sigma_R* and *q resolution*.
   
   - The **[specifications document](https://www.reflectometry.org/file_format/specification)** 
-    is quite mature and ready for official release.
-  
+    was officialy released 2022-06.
   - python modules to read and write orso headers are available at **[orsopy](https://orsopy.readthedocs.io/en/latest/)**.
-  
   - An overview of the state was given on the **[SXNS 16 talk](./SXNS_file_formats.pdf)** 2022-01 and more recently
     at the **[ORSO annual meeting 2022-06](./ORSO_ort.pdf)**.
+  
+- We are working on a **[simple model description language](https://www.reflectometry.org/projects/simple_model)**. 
 - **HDF representation**: At an early stage... 
 
-## next steps
+## next steps / to-do list
 
-- we are working on a **[simple model description language](https://www.reflectometry.org/projects/simple_model)**  
-
-- release the ASCII representation specs
 - work on the dictionary and the definitions
-
+- adapt to the requirements of lab x-ray reflectometers
+- open and adapt the `.ort` header for other typs of measurements 
 - testing ASCII representation in real life
-- start on HDF representation
+- work on HDF representation
 
 ---
 
