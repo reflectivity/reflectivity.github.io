@@ -14,6 +14,7 @@ This working group develops and maintains specifications for a standard file for
 - ASCII [file format specifications](https://www.reflectometry.org/file_format/specification) 
 - [orsopy](https://orsopy.readthedocs.io/en/latest/) on github
 - draft for [simple model description language](https://www.reflectometry.org/projects/simple_model) and the [github branch](https://github.com/reflectivity/orsopy/pull/83)
+- [To Do list](https://www.reflectometry.org/projects/todo)
 
 ## the principles
 
@@ -85,6 +86,8 @@ The two representations are:
 - **HDF representation**: At an early stage... 
 
 ## next steps / to-do list
+
+see [To Do list](https://www.reflectometry.org/projects/todo) for more details
 
 - work on the dictionary and the definitions
 - adapt to the requirements of lab x-ray reflectometers
