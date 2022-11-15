@@ -25,21 +25,22 @@ All previous suggestions and variants are removed in order to avoid confusion.
 
 ### aims
 
-<dl>
-    <dt> experiment planning </dt>
-    <dd> The model might be used to estimate counting times, statistics and experimental 
-         settings already before and during the experiments.</dd>
-    <dt> completeness of reflectivity file </dt>
-    <dd> The reflectivity file can be related to a sample model without the *external* connection
-         sample name - stack (in the best case this can be found in the log-book, else in the
-         manufactorers lab journal....).</dd>
-    <dt> data analysis </dt>
-    <dd> The standadisation allows the analysis software to automatically create a starting model which is 
-         not too far from the real one.>/dd>
-    <dt> indexing of data and analysis </dt>
-    <dd> A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
-         scale. This might be used to train AI algorithms.</dd>
-</dl>
+**experiment planning**  
+The model might be used to estimate counting times, statistics and experimental 
+settings already before and during the experiments.
+
+**completeness of reflectivity file**  
+The reflectivity file can be related to a sample model without the *external* connection
+manufactorers lab journal....).
+         
+**data analysis**  
+The standadisation allows the analysis software to automatically create a starting model which is 
+not too far from the real one.
+
+**indexing of data and analysis**  
+A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+scale. This might be used to train AI algorithms.
+    
 
 ### complexity
 
