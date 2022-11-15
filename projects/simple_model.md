@@ -51,7 +51,7 @@ This langage allows to provide a simple model description on only 2 lines:
 > ```  
 
 More complexity to the modle (e.g. magnetic induction) can be provided by adding a few more lines. 
-The key words used in the *stack* (here `air`, `Ni`, SiO2` and 'Si`) either refere to a data base 
+The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refere to a data base 
 or to declaration within the model. This declaration is quite flexible so that an detailed 
 model for a complex sample might reach up to 100 lines.
 The idea is that recuring entries are defined in detail and strored in a local data base. The 
