@@ -23,23 +23,21 @@ correct this according to the state of the discussion.
 
 All previous suggestions and variants are removed in order to avoid confusion.
 
+
 ### aims
 
-**experiment planning**  
-The model might be used to estimate counting times, statistics and experimental 
-settings already before and during the experiments.
-
-**completeness of reflectivity file**  
-The reflectivity file can be related to a sample model without the *external* connection
-manufactorers lab journal....).
-         
-**data analysis**  
-The standadisation allows the analysis software to automatically create a starting model which is 
-not too far from the real one.
-
-**indexing of data and analysis**  
-A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
-scale. This might be used to train AI algorithms.
+- **experiment planning**  
+  The model might be used to estimate counting times, statistics and experimental  
+  settings already before and during the experiments.
+- **completeness of reflectivity file**  
+  The reflectivity file can be related to a sample model without the *external* connection
+  manufactorers lab journal....). 
+- **data analysis**  
+  The standadisation allows the analysis software to automatically create a starting model which is 
+  not too far from the real one.
+- **indexing of data and analysis**  
+  A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+  scale. This might be used to train AI algorithms.
     
 
 ### complexity
