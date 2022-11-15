@@ -13,7 +13,7 @@ Brian Maranville, *NIST, USA* <br>
 
 ## simplified model description for .ort files
 
-A joint project by the *file formats* and the *data analysis* working groups.
+This is a joint project by the *file formats* and the *data analysis* working groups.
 
 Based on slack discussions and online meetings, Artur and Jochen suggest the following 
 approach for a **simple** and **flexible** way to define a first step sample model.
@@ -25,27 +25,37 @@ All previous suggestions and variants are removed in order to avoid confusion.
 
 ### aims
 
-##### experiment planning
+<dl>
+    <dt> experiment planning </dt>
+    <dd> The model might be used to estimate counting times, statistics and experimental 
+         settings already before and during the experiments.</dd>
+    <dt> completeness of reflectivity file </dt>
+    <dd> The reflectivity file can be related to a sample model without the *external* connection
+         sample name - stack (in the best case this can be found in the log-book, else in the
+         manufactorers lab journal....).</dd>
+    <dt> data analysis </dt>
+    <dd> The standadisation allows the analysis software to automatically create a starting model which is 
+         not too far from the real one.>/dd>
+    <dt> indexing of data and analysis </dt>
+    <dd> A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+         scale. This might be used to train AI algorithms.</dd>
+</dl>
 
-The model might be used to estimate counting times, statistics and experimental 
-settings already before and during the experiments.
+### complexity
 
-##### completeness of reflectivity file
+This langage allows to provide a simple model description on only 2 lines:
 
-The reflectivity file can be related to a sample model without the *external* connection
-sample name - stack (in the best case this can be found in the log-book, else in the
-manufactorers lab journal....)
+> ``` YAML
+>     model:
+>         stack: air | Ni 100 | SiO2 0.5 | Si
+> ```  
 
-##### data analysis
-
-The standadisation allows the analysis software to automatically create a starting model which is 
-not too far from the real one.
-
-##### indexing of data and analysis
-
-A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
-scale. This might be used to train AI algorithms.
-
+More complexity to the modle (e.g. magnetic induction) can be provided by adding a few more lines. 
+The key words used in the *stack* (here `air`, `Ni`, SiO2` and 'Si`) either refere to a data base 
+or to declaration within the model. This declaration is quite flexible so that an detailed 
+model for a complex sample might reach up to 100 lines.
+The idea is that recuring entries are defined in detail and strored in a local data base. The 
+model description in the header then stays simple and easy to use.
 
 
 ### structure
@@ -55,7 +65,6 @@ The model description has the following structure:
 ``` YAML
 sample:
     model:
-        origin:       string    optional
         stack:        string    mandatory
         sub_stacks:   dict      optional
         layers:       dict      optional
@@ -65,18 +74,12 @@ sample:
         reference:    string    optional
         schema:       string    optional
         databases:    list of strings    optional
+        origin:       string    optional
 ```
 
-The information is organised according to YAML rules but for the *stack* string(s). The reason is to make it simple and less error-prone to enter this information *by hand*. 
+The information is organised according to YAML rules but for the *stack* string(s). 
+The reason is to make it simple and less error-prone to enter this information *by hand*. 
 
-#### origin
-
-A string to declare where the model parameters come from.
-
-> Example:
-> ``` YAML
->     origin: thicknesses based on XR mesurements, nominal compositions
-> ```
 
 #### stack
 
@@ -91,7 +94,7 @@ Rules:
 1. Each entry has a *name* and probably an assosiated *thickness*. These are separated by one or more spaces.
 1. The default thickness unit is `nm`.
 
-<!--- These rules allow to expand the *stack* string into a YAML compliant *sequence*: --->
+(These rules allow to expand the *stack* string into a YAML compliant *sequence*)
 
 > Examples:
 > 
@@ -119,8 +122,13 @@ Rules:
 >   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
 <!---
+> Expansion of the *stack*
 >
->   expanding to
+>   ``` YAML
+>       stack: air | 25 ( Si 7 | Fe 7 ) | Si
+>   ```
+>
+> into a YAML compliant *sequence*: 
 >
 >   ``` YAML
 >       sequence:
@@ -140,21 +148,6 @@ Rules:
 >   ```
 --->
 
-<!--- >   ``` YAML
->       sequence:
->         - layer: 
->             name: air
->         - layer:
->             name: Ni
->             thickness: 100
->         - layer:
->             name: SiO2
->             thickness: 0.5
->         - layer:   
->             name: Si
->   ```
->
---->
 
 #### sub_stacks
 
@@ -164,13 +157,17 @@ Each substack is made up of one or several layers. It has a unique name which is
     sub_stacks:
       <name>: 
         repititions: 
-                        int   optional  (default: 1) defines how ofteh the substack
-                        is repeated. A negaive value means an inversion of the order.
+                        int
+                        optional  (default: 1)
+                        defines how often the substack is repeated. A negaive value means an inversion of the order.
         stack:       
-                        str   optional  Same rules as for the top-level stack apply.
+                        str
+                        optional
+                        Same rules as for the top-level stack apply.
         sequence:         
-                        list  optional  Instead of an other stack, the layers and their 
-                        sequence are defined.  
+                        list
+                        optional
+                        Instead of an other stack, the layers and their sequence are defined.  
 ```
 
 > Examples:
@@ -256,6 +253,7 @@ If information about a layer besides its chemical composition (and thus the dens
 #### composits
 
 A composit behaves like a material, but is made up from (on or) several materials with respective relative densities.
+It enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
 
 ``` YAML
     compositis:
@@ -395,15 +393,19 @@ This is a list of places where to look for information about materials or pre-de
 where `CH2` is treated as a formula and the corresponding parameters are caught from the ORSO SLD database. The head groups are anonymous.
 
 
+#### origin
+
+A string to declare where the model parameters come from.
+
+> Example:
+> ``` YAML
+>     origin: thicknesses based on XR mesurements, nominal compositions
+> ```
+
 
 ---
 
-### arguments
-
-- This structure allows to enter the same (or contradicting) information at various levels. E.g. the `thickness` can be defined in the `stack` and the `layer`. This is not nice for programming and might be a source of errors, but on the oter side it allows for a very compact and human readable notation.
-- The `composit` enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
-
-
+<!---
 ### vocabulary
 
 There is a wide variety of meanings associated with key words such as *layer* or *material*. 
@@ -427,7 +429,7 @@ accept an *absurd* choice at some point.
 - `unit`
 - `schema`
 - `CAS` Chemical Abstracts Service number
-
+--->
 
 
 ### examples
