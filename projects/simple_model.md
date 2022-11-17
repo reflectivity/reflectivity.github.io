@@ -42,20 +42,29 @@ All previous suggestions and variants are removed in order to avoid confusion.
 
 ### complexity
 
-This langage allows to provide a simple model description on only 2 lines:
+This langage allows to provide a **very simple** model description on only 2 lines:
 
-> ``` YAML
->     model:
->         stack: air | Ni 100 | SiO2 0.5 | Si
-> ```  
+``` YAML
+>   model:
+>       stack: air | Ni 100 | SiO2 0.5 | Si
+```  
 
-More complexity to the modle (e.g. magnetic induction) can be provided by adding a few more lines. 
-The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refere to a data base 
-or to declaration within the model. This declaration is quite flexible so that an detailed 
-model for a complex sample might reach up to 100 lines.
-The idea is that recuring entries are defined in detail and strored in a local data base. The 
-model description in the header then stays simple and easy to use.
+The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refere to an
+external data base (`https://slddb.esss.dk/slddb/`), a local dictionary or a declaration within the *model* entry.
 
+More complexity (e.g. magnetic induction, roughness, reduced density, ...) can be provided by adding a few more lines. 
+
+``` YAML
+>       materials:
+>         Ni:
+>           rel_density: 0.95
+```  
+
+Dentailed models for complex samples might reach several tens of lines, thus they are no longer
+that *simple*. 
+The idea then is, that recuring fracments (sub-stacks, layers, materials) are defined in detail and strored in a 
+local dictionary or even in the orso data base. 
+The model description in the header then stays simple and easy to use.
 
 ### structure
 
@@ -64,16 +73,16 @@ The model description has the following structure:
 ``` YAML
 sample:
     model:
-        stack:        string    mandatory
-        sub_stacks:   dict      optional
-        layers:       dict      optional
-        compositions: dict      optional
-        materials:    dict      optional
-        globals:      dict      optional
-        reference:    string    optional
-        schema:       string    optional
-        databases:    list of strings    optional
-        origin:       string    optional
+        stack:         string             mandatory   \
+        sub_stacks:    dict               optional     |
+        layers:        dict               optional     |  hirarchy of keys to define a SLD depth profile
+        compositions:  dict               optional     | 
+        materials:     dict               optional    /
+        globals:       dict               optional    \
+        reference:     string             optional     |
+        schema:        string             optional     |  meta data 
+        databases:     list of strings    optional     |
+        origin:        string             optional    /
 ```
 
 The information is organised according to YAML rules but for the *stack* string(s). 
