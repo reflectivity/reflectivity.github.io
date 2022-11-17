@@ -45,8 +45,8 @@ All previous suggestions and variants are removed in order to avoid confusion.
 This langage allows to provide a **very simple** model description on only 2 lines:
 
 ``` YAML
->   model:
->       stack: air | Ni 100 | SiO2 0.5 | Si
+   model:
+       stack: air | Ni 100 | SiO2 0.5 | Si
 ```  
 
 The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refere to an
@@ -55,9 +55,9 @@ external data base (`https://slddb.esss.dk/slddb/`), a local dictionary or a dec
 More complexity (e.g. magnetic induction, roughness, reduced density, ...) can be provided by adding a few more lines. 
 
 ``` YAML
->       materials:
->         Ni:
->           rel_density: 0.95
+       materials:
+         Ni:
+           rel_density: 0.95
 ```  
 
 Dentailed models for complex samples might reach several tens of lines, thus they are no longer
