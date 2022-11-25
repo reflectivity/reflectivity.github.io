@@ -81,7 +81,6 @@ sample:
         globals:       dict               optional    \
         reference:     string             optional     |
         schema:        string             optional     |  meta data 
-        databases:     list of strings    optional     |
         origin:        string             optional    /
 ```
 
@@ -227,6 +226,8 @@ If information about a layer besides its chemical composition (and thus the dens
         material:
                       Either a name of a material or dictionary with 
                       material parameters. See below.
+        composition:  
+                      series of <material>: <rel_density> pairs
 ```
 
 > `material` examples:
@@ -252,9 +253,8 @@ If information about a layer besides its chemical composition (and thus the dens
 >   ``` YAML
 >       layers:
 >         nickel:
->           material:
->             composition:
->                Ni: 0.95
+>           composition:
+>             Ni: 0.95
 >           thickness: 7.5     
 >   ```   
 
@@ -296,7 +296,8 @@ Each material has a unique name which relates it to an `layer.composition` entry
         magnetic_moment:
         rel_density: 
                             The density is taken from tabulated bulk values and 
-                            multiplied with this parameter.
+                            multiplied with this parameter (on top of the other 
+                            densities!).
         deuteration:
                             For materials containing hydrogen this parameter allows
                             to tune the deuteration level while keeping the number
@@ -310,7 +311,7 @@ Each material has a unique name which relates it to an `layer.composition` entry
 >
 >   ``` YAML
 >       materials:
->         Fe
+>         Fe:
 >           magnetic_moment: 2.2
 >   ```
 > 
@@ -358,7 +359,7 @@ A string defining the model language and version to be used to interpret the dat
 ``` YAML
     schema: <URL>
 ```
-
+<!---
 #### databases:
 
 This is a list of places where to look for information about materials or pre-defined substacks. These places are searched for an *unknown* string in the `stack` in the order they are listed. The search is stopped after the first hit. I.e. one can overwrite the ORSO SLD database entry by a local definition.
@@ -399,7 +400,7 @@ This is a list of places where to look for information about materials or pre-de
 > ```
 
 where `CH2` is treated as a formula and the corresponding parameters are caught from the ORSO SLD database. The head groups are anonymous.
-
+--->
 
 #### origin
 
