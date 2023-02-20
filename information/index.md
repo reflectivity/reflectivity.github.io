@@ -16,7 +16,7 @@ This page contains a list of the resources currently available on this website a
 
 # Outputs
 
-  * [Reporting Bayesian analysis](https://arxiv.org/abs/2207.10406)
+  * [Reporting Bayesian analysis](https://doi.org/10.1107/S1600576722011426)
 
 # Useful information about reflectometry
 
