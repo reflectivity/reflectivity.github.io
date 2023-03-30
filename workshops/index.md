@@ -6,13 +6,16 @@ permalink: /workshops/
 
 # Upcoming events
 
-## the Open Reflectometry Standards Organisation ORSO annual workshop will take place online from the 7th to the 10th of June 2022. 
+## the Open Reflectometry Standards Organisation ORSO annual meeting will take place online at 12:00 to 15:00 CET (20:00-23:00 Aus, 06:00-09:00 US East coast) on the 21st of June 2023. 
 
-As with last year, this will primarily be an online meeting, with sessions covering as many time zones as practically possible. 
+Unlike previous years for this meeting will we plan to include just an administrative AGM and a short workshop.
+The topics for the workshop this year will be:
+* Discussion of AI software, including a presentation of from Frank Schreiber’s group and possibilities for incorporation into existing fitting packages across the community.
+* Format for Meta data for X-ray and neutron reflectometry consistent with Daphne/Expands
+* Creation of a community catalogue of reflectometry reference data
 
-Details of the workshop sessions are [here](https://www.reflectometry.org/workshops/workshop_2022/) and [registration is now open](https://indico.esss.lu.se/event/3013/)
-
-If you are interested in helping to organise one of these symposia please contact [Tom Arnold (ESS)](mailto:tom.arnold@ess.eu). You are also invited to nominate speakers (yes self nominations are welcome) for both the plenary sessions and for the symposia. 
+Further details will follow soon.
+Next year we plan to hold a more extensive in-person meeting associated with the SXNS17 conference in Grenoble, France. 
 
 
 
@@ -20,7 +23,7 @@ If you are interested in helping to organise one of these symposia please contac
 
 ## Conferences
 
-[SXNS16](www.sxns16.org) took place in Jan 2022. A number of the talks from this conference are available from the website and the meeting report is here: [Neutron News](https://doi.org/10.1080/10448632.2022.2050633)
+
 
 ## Online Seminar series
 
@@ -31,7 +34,7 @@ ChemMatCARS has an Education and Outreach programme including a seminar series (
 
 ## Schools and training courses in reflectometry and related techniques
 
-[Virtual ISIS reflectivity training course November 16th-25th 2021](https://indico.stfc.ac.uk/event/355/)
+
 
 
 # Historical ORSO Workshops
@@ -42,6 +45,7 @@ Each of the ORSO working groups meets in between AGMs to review open issues. The
 
 | Meeting or Workshop |      Date      |  Place |  Meeting report | 
 |----------|:-------------:|:------:|:------:|
+| 4th Annual Meeting | June 2022 |   [Online](./workshop_2022/)  |  |
 | 3rd Annual Meeting | June 2021 |   [Online](./workshop_2021/)  | [Neutron News](https://doi.org/10.1080/10448632.2021.2005422), [SR News](https://doi.org/10.1080/08940886.2022.2043671) |
 | Education and Outreach | Sep & Oct 2020 | Online |  |
 | Reproducibility | Sep 2020 | Online  |  |
