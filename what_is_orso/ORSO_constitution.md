@@ -27,10 +27,10 @@ These objectives can be changed as required, according to the rules set out in S
 
 *	elect chair persons for each Working Group (every 4 years)
 *	allow the chairs persons of each working group to report on the activities of the previous year
-*	discuss and vote on significant issues and/or the decisions made by the ORSO chairs (refer to section 5)
+*	discuss and vote on significant issues and/or the decisions made by the ORSO chairs (refer to section 4)
 *	resolve disputes on any these decisions
 
-2.3 In certain cases, in order to ensure timely decision making, consultation with the ORSO membership can be done online between AGMs (see section 5). The outcome of the consultation or vote should be reported at the AGM in the appropriate forum or working group.
+2.3 In certain cases, in order to ensure timely decision making, consultation with the ORSO membership can be done online between AGMs (see section 4). The outcome of the consultation or vote should be reported at the AGM in the appropriate forum or working group.
 
 2.4. The work of the ORSO shall be managed by eight elected chair persons, two for each of the Working Groups.  The currently active Working Groups are:
 
@@ -47,7 +47,7 @@ The composition and function of these Working Groups are defined in Section 3.
 
 # 3. Working Groups
 
-3.1 Each Working group will have at least two chair persons. These positions will normally have a term of four years with one chair from each Working Group elected every two years at the AGM. There is no limit to the number of consecutive terms. Nominations (including self-nominations) for these positions can be made and voted on at the AGM (as defined in Section 4.3).
+3.1 Each Working group will have at least two chair persons. These positions will normally have a term of four years with one chair from each Working Group elected every two years at the AGM. There is no limit to the number of consecutive terms. Nominations (including self-nominations) for these positions can be made and voted on at the AGM (as defined in Section 4).
 
 3.2 Each Working group will be responsible for documenting its contributions and uploading them to the GitHub or other current online repository for the membership to access.
 
