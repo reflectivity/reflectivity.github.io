@@ -14,7 +14,7 @@ permalink: /what_is_orso/ORSO_constitution
 *	to facilitate international standardization of methods, of units, of nomenclature and of symbols used in X-ray and neutron reflectometry
 * to provide useful resources for both new and experienced users of these techniques
 
-These objectives can be changed as required, according to the rules set out in Section 5.
+These objectives can be changed as required, according to the rules set out in Section 4.
 
 1.2. ORSO is a collective and open collaboration, and has no legal status.
 
@@ -22,7 +22,7 @@ These objectives can be changed as required, according to the rules set out in S
 
 2.1. ORSO is a fully open organisation and does not have any formal membership criteria. ORSO will seek balanced representation of the international community. An ORSO member is any person that registers via the ORSO webpage or contributes to the activities of one of the working groups, sets up a working group or attends the Annual General Meeting (AGM). 
 
-2.2. The AGM will be open to all. Notification of the meeting will be issued via the ORSO webpage and mailing list, at least one month prior to the meeting. The purpose of the AGM is to:
+2.2. The AGM will be open to all. Notification of the meeting will be issued via the ORSO webpage and mailing list, at least 4 weeks prior to the meeting. The purpose of the AGM is to:
 
 *	elect chair persons for each Working Group (every 4 years)
 *	allow the chairs persons of each working group to report on the activities of the previous year
@@ -38,7 +38,7 @@ These objectives can be changed as required, according to the rules set out in S
 *	the Data Analysis Working Group
 *	the Education and Outreach Working Group
 
-The composition and function of these Working Groups are defined in Section 4. 
+The composition and function of these Working Groups are defined in Section 3. 
 
 2.5. A webpage, mailing list, GitHub organisation and Slack channel will be maintained by the ORSO chairs to facilitate communication on active issues. Access to these should be granted to all that request it, with the exception of malicious actors (as decided by the ORSO chairs).
 
@@ -46,7 +46,7 @@ The composition and function of these Working Groups are defined in Section 4.
 
 # 3. Working Groups
 
-3.1 Each Working group will have at least two chair persons. These positions will normally have a term of four years with one chair from each Working Group elected every two years at the AGM. There is no limit to the number of consecutive terms. Nominations (including self-nominations) for these positions can be made and voted on at the AGM (as defined in  Section 5.3).
+3.1 Each Working group will have at least two chair persons. These positions will normally have a term of four years with one chair from each Working Group elected every two years at the AGM. There is no limit to the number of consecutive terms. Nominations (including self-nominations) for these positions can be made and voted on at the AGM (as defined in Section 4.3).
 
 3.2 Each Working group will be responsible for documenting its contributions and uploading them to the GitHub or other current online repository for the membership to access.
 
@@ -94,6 +94,6 @@ The composition and function of these Working Groups are defined in Section 4.
 
 6.3. ORSO is a collaboration. It is therefore expected that efforts should be made to be inclusive of anyone wishing to contribute. In particular, all activities should be documented on the website or GitHub, and reported at the AGM.
 
-6.4. ORSO should be independent of any governing large facility or university. However, it should be acknowledged that contributions can only be made with the consent of such bodies (the employers of ORSO members). This consent is assumed through contributions made to the ISA and ORSO.
+6.4. ORSO should be independent of any governing large facility or university. However, it should be acknowledged that contributions can only be made with the consent of such bodies (the employers of ORSO members). This consent is assumed through contributions made to ORSO.
 
 6.5 ORSO does not take responsibility for output, which has not followed the above guidelines.
