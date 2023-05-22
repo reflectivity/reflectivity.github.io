@@ -4,6 +4,8 @@ title: "ORSO Constitution"
 permalink: /what_is_orso/ORSO_constitution
 ---
 
+(this constitution is in draft from bending approval at the next Annual General Meeting)
+
 # 1. Objectives of the Open Reflectometry Standards Organisation (ORSO)
 
 1.1. ORSO is an open group of reflectometry scientists from across the globe that are interested in improving our field through collaboration. The objectives of the organisation are: 
