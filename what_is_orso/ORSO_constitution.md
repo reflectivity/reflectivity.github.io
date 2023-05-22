@@ -9,10 +9,10 @@ permalink: /what_is_orso/ORSO_constitution
 
 1.1. ORSO is an open group of reflectometry scientists from across the globe that are interested in improving our field through collaboration. The objectives of the organisation are: 
 
-a)	to promote international cooperation in X-ray and neutron reflectometry
-b)	to facilitate consistency across instrumentation and software packages and thereby improve reproducibility of measurement and analysis
-c)	to facilitate international standardization of methods, of units, of nomenclature and of symbols used in X-ray and neutron reflectometry
-d)	to provide useful resources for both new and experienced users of these techniques
+*	to promote international cooperation in X-ray and neutron reflectometry
+*	to facilitate consistency across instrumentation and software packages and thereby improve reproducibility of measurement and analysis
+*	to facilitate international standardization of methods, of units, of nomenclature and of symbols used in X-ray and neutron reflectometry
+* to provide useful resources for both new and experienced users of these techniques
 
 These objectives can be changed as required, according to the rules set out in Section 5.
 
@@ -24,18 +24,19 @@ These objectives can be changed as required, according to the rules set out in S
 
 2.2. The AGM will be open to all. Notification of the meeting will be issued via the ORSO webpage and mailing list, at least one month prior to the meeting. The purpose of the AGM is to:
 
-a)	elect chair persons for each Working Group (every 4 years)
-b)	allow the chairs persons of each working group to report on the activities of the previous year
-c)	discuss and vote on significant issues and/or the decisions made by the ORSO chairs (refer to section 5)
-d)	resolve disputes on any these decisions
+*	elect chair persons for each Working Group (every 4 years)
+*	allow the chairs persons of each working group to report on the activities of the previous year
+*	discuss and vote on significant issues and/or the decisions made by the ORSO chairs (refer to section 5)
+*	resolve disputes on any these decisions
 
 2.3 In certain cases, in order to ensure timely decision making, consultation with the ORSO membership can be done online between AGMs (see section 5). The outcome of the consultation or vote should be reported at the AGM in the appropriate forum or working group.
 
 2.4. The work of the ORSO shall be managed by eight elected chair persons, two for each of the Working Groups.  The currently active Working Groups are:
-a)	the Reproducibility Working Group
-b)	the File Formats Working Group
-c)	the Data Analysis Working Group
-d)	the Education and Outreach Working Group
+
+*	the Reproducibility Working Group
+*	the File Formats Working Group
+*	the Data Analysis Working Group
+*	the Education and Outreach Working Group
 
 The composition and function of these Working Groups are defined in Section 4. 
 
