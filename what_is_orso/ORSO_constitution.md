@@ -3,7 +3,6 @@ layout: page
 title: "ORSO Constitution"
 permalink: /what_is_orso/ORSO_constitution
 ---
-# Constitution of ORSO
 
 # 1. Objectives of the Open Reflectometry Standards Organisation (ORSO)
 
