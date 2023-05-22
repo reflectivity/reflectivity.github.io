@@ -51,13 +51,13 @@ The composition and function of these Working Groups are defined in Section 3.
 
 3.2 Each Working group will be responsible for documenting its contributions and uploading them to the GitHub or other current online repository for the membership to access.
 
-3.2. The Reproducibility Working Group is concerned with improving reproducibility in reflectometry by defining calibrations and common references samples. The working group will evangelise on the subject of analytical reproducibility and its importance.
+  3.2.1 The Reproducibility Working Group is concerned with improving reproducibility in reflectometry by defining calibrations and common references samples. The working group will evangelise on the subject of analytical reproducibility and its importance.
 
-3.3. The File Formats Working Group is concerned with managing a standard, shared file format for reflectometry and engaging the community in the uptake of this format.
+  3.2.2 The File Formats Working Group is concerned with managing a standard, shared file format for reflectometry and engaging the community in the uptake of this format.
 
-3.4. The Data Analysis Working Group is concerned with collaboration between reflectometry analysis software developers. This will include developing a universal descriptive model language for analysis and generate information about efficiencies of reflectometry calculations.
+  3.2.3 The Data Analysis Working Group is concerned with collaboration between reflectometry analysis software developers. This will include developing a universal descriptive model language for analysis and generate information about efficiencies of reflectometry calculations.
 
-3.5. The Education and Outreach Working Group is concerned with improving the understanding of reflectometry techniques and cataloguing information about reflectometry methods and software. The working group will take the lead on dissemination of the output from all the working groups and organization of annual meetings.
+  3.2.4 The Education and Outreach Working Group is concerned with improving the understanding of reflectometry techniques and cataloguing information about reflectometry methods and software. The working group will take the lead on dissemination of the output from all the working groups and organization of annual meetings.
 
 # 4. Decision making
 
