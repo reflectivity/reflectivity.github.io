@@ -6,15 +6,17 @@ permalink: /workshops/
 
 # Upcoming events
 
-## the Open Reflectometry Standards Organisation ORSO annual meeting will take place online at 12:00 to 15:00 CET (20:00-23:00 Aus, 06:00-09:00 US East coast) on the 21st of June 2023. 
+## the Open Reflectometry Standards Organisation ORSO annual meeting 
+will take place online at 12:00 to 15:00 CET (20:00-23:00 Aus, 06:00-09:00 US East coast) on the 21st of June 2023. 
 
-Unlike previous years for this meeting will we plan to include just an administrative AGM and a short workshop.
+Unlike previous years this meeting will only include a short workshop (with joint sessions with DAPHNE4NFD) and an administrative AGM.
 The topics for the workshop this year will be:
 * Discussion of AI software, including a presentation of from Frank Schreiber’s group and possibilities for incorporation into existing fitting packages across the community.
 * Format for Meta data for X-ray and neutron reflectometry consistent with Daphne/Expands
 * Creation of a community catalogue of reflectometry reference data
 
-Further details will follow soon.
+[Registration is now open]{https://indico.esss.lu.se/event/3289/}
+
 Next year we plan to hold a more extensive in-person meeting associated with the SXNS17 conference in Grenoble, France. 
 
 
