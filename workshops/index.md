@@ -15,7 +15,7 @@ The topics for the workshop this year will be:
 * Format for Meta data for X-ray and neutron reflectometry consistent with Daphne/Expands
 * Creation of a community catalogue of reflectometry reference data
 
-[Registration is now open]{https://indico.esss.lu.se/event/3289}
+[Registration is now open](https://indico.esss.lu.se/event/3289)
 
 Next year we plan to hold a more extensive in-person meeting associated with the SXNS17 conference in Grenoble, France. 
 
