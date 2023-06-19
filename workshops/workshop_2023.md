@@ -44,9 +44,8 @@ The workshop will start with a scientific contribution outlining machine learnin
 13:50 - 14:00  short break
 
 ## 14:00-16:00: FAIR data for reflectometry (Chair: Bridget Murphy)
-The aim of this session is to discuss and adopt an international community standard set of defined metadata for reflectometry experiments.
-
-14:00 - 16:00 Finding data DAPHNE4NFDI/ORSO joint session: We aim to determine a community-based definition for reflectivity metadata based and creation of a community catalogue of reflectometry reference data.
+This is another DAPHNE4NFDI/ORSO joint session:
+The aim of this session is to discuss and adopt an international community standard set of defined metadata for reflectometry experiments and the creation of a community catalogue of reflectometry reference data.
 
 14:00 - 14:05 	Bridget Murphy (CAU-Kiel): Brief introduction and Outline of session 
 
