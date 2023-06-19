@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "workshop_2023"
-permalink: /workshops/workshop_2023/
+permalink: /workshop_2023/
 ---
 
 
