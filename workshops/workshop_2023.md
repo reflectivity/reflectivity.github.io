@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "workshop_2023"
+title: "Workshop 2023"
 permalink: /workshops/workshop_2023/
 ---
 
