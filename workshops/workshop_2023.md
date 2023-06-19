@@ -57,9 +57,8 @@ The aim of this session is to discuss and adopt an international community stand
 
 14:45 - 15:20 5 minute (maximum) impulse talks 
 * Nicolas Hayen  (CAU- KielP08/PETRA III) 		Metadata for X-ray reflectivity at P08/PETRA III
-* Sebastain Busch (Hereon) (TBC) 			Meta data catalogue for Neutron reflectivity at REFSANS/ MLZ
+* Sebastain Busch (Hereon), Jonas Graetz (FAU) 			Meta data catalogue for Neutron reflectivity at REFSANS/ MLZ
 * Andrew Nelson (ANSTO)   Metadata at ANSTO
-* Jonas Graetz (FAU)    Metadata at MLZ
 * Brian Maranville (NIST)  Metadat at NIST
 * Further talks to be confirmed
 Please contact [Bridget](mailto:murphy@physik.uni-kiel.de) if you would like to present a 5 minute impulse presentation of the metadata you require for your reflectivity data.
