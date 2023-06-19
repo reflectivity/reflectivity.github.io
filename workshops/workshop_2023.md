@@ -52,13 +52,16 @@ The aim of this session is to discuss and adopt an international community stand
 
 14:05 - 14:20  	Heike Görzig (HZB): Metadata to make FAIR data 
 
-14:20 - 14:30   Jochen Stahn (PSI): Metadata in the ORSO data format .ort
+14:20 - 14:35   Jochen Stahn (PSI): Metadata in the ORSO data format .ort
 
-14:30 - 15:20 5 minute (maximum) impulse talks 
+14:35 - 14:45   Max Novelli (ESS): Metadata at ESS and the [Scitacean project](https://scicatproject.github.io/scitacean/) 
+
+14:45 - 15:20 5 minute (maximum) impulse talks 
 * Nicolas Hayen  (CAU- KielP08/PETRA III) 		Metadata for X-ray reflectivity at P08/PETRA III
 * Sebastain Busch (Hereon) (TBC) 			Meta data catalogue for Neutron reflectivity at REFSANS/ MLZ
 * Andrew Nelson (ANSTO)   Metadata at ANSTO
-* Jonas Graetz (FAU)    Metadata at MLZ 
+* Jonas Graetz (FAU)    Metadata at MLZ
+* Brian Maranville (NIST)  Metadat at NIST
 * Further talks to be confirmed
 Please contact [Bridget](mailto:murphy@physik.uni-kiel.de) if you would like to present a 5 minute impulse presentation of the metadata you require for your reflectivity data.
 
