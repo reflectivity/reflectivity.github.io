@@ -9,7 +9,7 @@ permalink: /workshops/
 ## the Open Reflectometry Standards Organisation ORSO annual meeting in collaboration with DAPHNE4NFDI
 Will take place online at 12:00 to 16:00 CET (20:00-00:00 Aus, 06:00-10:00 US East coast) on the 21st of June 2023. 
 
-[See dedicated page for more detail](./workshop_2023)
+[See dedicated page for more detail](./workshop_2023.md)
 
 # Events of Interest to the ORSO community
 
