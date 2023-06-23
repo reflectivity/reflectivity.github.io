@@ -55,7 +55,7 @@ The aim of this session was to discuss and adopt an international community stan
 
 14:45 - 15:20 5 minute (maximum) impulse talks 
 * Nicolas Hayen  (CAU- KielP08/PETRA III) 		Metadata for X-ray reflectivity at P08/PETRA III [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/ORSO_Annual_Jun2023_NHayen.pdf), [Video](https://youtu.be/UxlIPjPTmRg)
-* Jonas Graetz (FAU) 			Meta data catalogue for Neutron reflectivity at REFSANS/ MLZ, [Video](https://youtu.be/2Ra08Qiub5Q)
+* Jonas Graetz (FAU) 			Meta data catalogue for Neutron reflectivity at REFSANS/ MLZ, [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/5c23d1a36b78ad2c81ff83538231c0b7c670b571/workshops/workshop_2023/2023-06-21-ORSO-REFSANS-metadata.pdf), [Video](https://youtu.be/2Ra08Qiub5Q)
 * Andrew Nelson (ANSTO)   Metadata at ANSTO, [Video](https://youtu.be/S9rmS1M-AeM)
 * Brian Maranville (NIST)  Metadat at NIST [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/ORSO%20NeXus.pdf), [Video](https://youtu.be/OFupD5PBNXE)
 * Linus Pithan [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/orso_scicat.pdf)
