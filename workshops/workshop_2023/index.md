@@ -45,9 +45,9 @@ The workshop started with a scientific contribution outlining machine learning a
 This is another DAPHNE4NFDI/ORSO joint session:
 The aim of this session was to discuss and adopt an international community standard set of defined metadata for reflectometry experiments and the creation of a community catalogue of reflectometry reference data.
 
-14:00 - 14:05 	Bridget Murphy (CAU-Kiel): Brief introduction and Outline of session , [Video](https://youtu.be/pMkC0F3jmJ8)
+14:00 - 14:05 	Bridget Murphy (CAU-Kiel): Brief introduction and Outline of session, [Video](https://youtu.be/pMkC0F3jmJ8)
 
-14:05 - 14:20  	Heike Görzig (HZB): Metadata to make FAIR data , [Video](https://youtu.be/LzrBDuM4lGw)
+14:05 - 14:20  	Heike Görzig (HZB): Metadata to make FAIR data, [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/b17d062091a5c0ab98245bc093cf65e4310ff1c6/workshops/workshop_2023/20230621-ORSO-ExPaNDS-metadata-framework.pdf), [Video](https://youtu.be/LzrBDuM4lGw)
 
 14:20 - 14:35   Jochen Stahn (PSI): Metadata in the ORSO data format .ort [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/FAIR_ort.pdf), [Video](https://youtu.be/gpXm3R3MLho)
 
