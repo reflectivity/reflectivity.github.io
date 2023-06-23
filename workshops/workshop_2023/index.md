@@ -17,8 +17,6 @@ In Germany we have a large consortium DAPHNE4NFDI which aims to make research da
 
 These sessions at the ORSO annual meeting had the aim of discussing the status-quo of meta-data, archiving and re-using of data in our Reflectometry community and at the different facilities. 
 
-[Registration is now open](https://indico.esss.lu.se/event/3289)
-
 ## Schedule:
 
 ## 12:00-13:00: Machine learning (Chair: Bridget Murphy)
@@ -28,7 +26,7 @@ The workshop started with a scientific contribution outlining machine learning a
 
 12:05- 12:35 Frank Schreiber  (University of Tübingen): Machine learning for reflectometry: Concepts, applications, and challenges [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-FrankSchreiber-version-2023-06-21-for-website.pdf)
 
-12:35-12:45 Vladimir Starostin  (University of Tübingen): Machine learning for reflectometry: Algorithms and performance [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-VladimirStarostin-version-2023-06-21-for-website.pdf)
+12:35-12:45 Vladimir Starostin  (University of Tübingen): Machine learning for reflectometry: Algorithms and performance [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-VladimirStarostin-version-2023-06-21-for-website.pdf), [Video](https://youtu.be/FavK0QAlM7U)
 
 12:45-13:00  Discussion
 
@@ -51,7 +49,7 @@ The aim of this session was to discuss and adopt an international community stan
 
 14:05 - 14:20  	Heike Görzig (HZB): Metadata to make FAIR data , [Video](https://youtu.be/LzrBDuM4lGw)
 
-14:20 - 14:35   Jochen Stahn (PSI): Metadata in the ORSO data format .ort [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/FAIR_ort.pdf)
+14:20 - 14:35   Jochen Stahn (PSI): Metadata in the ORSO data format .ort [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/FAIR_ort.pdf), [Video](https://youtu.be/gpXm3R3MLho)
 
 14:35 - 14:45   Max Novelli (ESS): Metadata at ESS and the [Scitacean project](https://scicatproject.github.io/scitacean/), [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/Metdata_data_at_ESS_ORSO_20230621.pdf), [Video](https://youtu.be/8kuEdIaZ3G8)
 
@@ -61,7 +59,6 @@ The aim of this session was to discuss and adopt an international community stan
 * Andrew Nelson (ANSTO)   Metadata at ANSTO, [Video](https://youtu.be/S9rmS1M-AeM)
 * Brian Maranville (NIST)  Metadat at NIST [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/ORSO%20NeXus.pdf), [Video](https://youtu.be/OFupD5PBNXE)
 * Linus Pithan [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/593b6828283d33cd74ca6c5d4a36b56c2478d96f/workshops/workshop_2023/orso_scicat.pdf)
-* Further talks to be confirmed
-Please contact [Bridget](mailto:murphy@physik.uni-kiel.de) if you would like to present a 5 minute impulse presentation of the metadata you require for your reflectivity data.
+
 
 15:20 - 16:00 Discussion
