@@ -24,7 +24,7 @@ The workshop started with a scientific contribution outlining machine learning a
 
 12:00 -12:05 Welcome (Tom Arnold (ESS))
 
-12:05- 12:35 Frank Schreiber  (University of Tübingen): Machine learning for reflectometry: Concepts, applications, and challenges [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-FrankSchreiber-version-2023-06-21-for-website.pdf)
+12:05- 12:35 Frank Schreiber  (University of Tübingen): Machine learning for reflectometry: Concepts, applications, and challenges [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-FrankSchreiber-version-2023-06-21-for-website.pdf), [Video](https://youtu.be/neJfgfa4MSU)
 
 12:35-12:45 Vladimir Starostin  (University of Tübingen): Machine learning for reflectometry: Algorithms and performance [Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/6cbda5ae164a7bb034c4a7c372785b5c2c709bab/workshops/workshop_2023/ORSO-ML-VladimirStarostin-version-2023-06-21-for-website.pdf), [Video](https://youtu.be/FavK0QAlM7U)
 
