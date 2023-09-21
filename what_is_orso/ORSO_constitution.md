@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "ORSO Constitution"
+title: "ORSO Governing Principles"
 permalink: /what_is_orso/ORSO_constitution
 ---
 
-(this constitution is in draft from pending approval at the next Annual General Meeting)
+(this is in draft from pending approval at the next Annual General Meeting)
 
 # What is ORSO and how do we collaborate?
 
