@@ -13,9 +13,9 @@ permalink: /what_is_orso/ORSO_constitution
 ORSO is an open group of reflectometry scientists from across the globe that are interested in improving our field through collaboration. The collaboration is formed by the efforts of its contributors and has no legal status.
 
 The objectives of the organisation were agreed when the organisation was formed in 2019: 
-- to promote international cooperation in X-ray and neutron reflectometry
-- to facilitate consistency across instrumentation and software packages and thereby improve reproducibility of measurement and analysis
-- to facilitate international standardization of methods, of units, of nomenclature and of symbols used in X-ray and neutron reflectometry
+- to promote international cooperation across X-ray and neutron reflectometry
+- to facilitate consistency across instrumentation and software packages, thereby improving reproducibility of measurement and analysis
+- to facilitate international standardization of methods, units, nomenclature and symbols used in X-ray and neutron reflectometry
 - to provide useful resources for both new and experienced users of these techniques
 
 These objectives can be changed as required, if the ORSO community agrees (see rules for decision making below). 
@@ -28,7 +28,7 @@ The ORSO chairs (see below) will organise an AGM that is open to all, either as 
 - elect chair persons for each Working Group (every 4 years)
 - allow the chairs persons of each working group to report on the activities of the previous year
 -	discuss and vote on significant issues and/or the decisions made by the ORSO chairs
--	esolve disputes on any of these decisions.
+-	resolve disputes on any of these decisions.
 
 In certain cases, in order to ensure timely decision making, consultation with the ORSO membership can be done online between AGMs. The outcome of the consultation or vote should be reported at the AGM in the appropriate forum or working group.
 The work of ORSO is currently managed by eight elected chair persons, with at least two per Working Group. These positions will normally have a term of four years with one chair from each Working Group elected every two years at the AGM. There is no limit to the number of consecutive terms and self-nominations for these positions are always welcome. 
@@ -59,7 +59,7 @@ For the purpose of voting each ORSO member will have one vote only. Any interest
 
 ## Code of Conduct
 
-- Be considerate, respectful, and collaborative. Communicate openly with respect for others, critiquing ideas rather than individuals and avoid personal attacks.
+- Be considerate, respectful, and collaborative. Communicate openly, with respect for others, critiquing ideas rather than individuals and avoid personal attacks.
 - Contributions to any working group should be appropriately credited in any publicly disseminated output from ORSO (webpage, applications, presentations etc.)
 - It should be understood that acknowledgement will be made on a best-effort basis by anyone making the acknowledgement. Significant contributors should always be acknowledged by name, with minor contributions acknowledged as the “ORSO community”.
 - Each contributor is responsible for policing their own acknowledgement. Any perceived misrepresentation or bad practice should be reported to the ORSO chairs.
