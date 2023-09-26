@@ -15,10 +15,10 @@ Brian Maranville, *NIST, USA* <br>
 
 This is a joint project by the *file formats* and the *data analysis* working groups.
 
-Based on slack discussions and online meetings, Artur and Jochen suggest the following 
+Based on slack discussions and online meetings, Artur and Jochen suggest the following
 approach for a **simple** and **flexible** way to define a first step sample model.
 
-This document is not free of uncertainties or contradictions! We will 
+This document is not free of uncertainties or contradictions! We will
 correct this according to the state of the discussion.
 
 All previous suggestions and variants are removed in order to avoid confusion.
@@ -26,19 +26,19 @@ All previous suggestions and variants are removed in order to avoid confusion.
 
 ### aims
 
-- **experiment planning**  
-  The model might be used to estimate counting times, statistics and experimental  
+- **experiment planning**
+  The model might be used to estimate counting times, statistics and experimental
   settings already before and during the experiments.
-- **completeness of reflectivity file**  
+- **completeness of reflectivity file**
   The reflectivity file can be related to a sample model without the *external* connection
-  manufactorers lab journal....). 
-- **data analysis**  
-  The standadisation allows the analysis software to automatically create a starting model which is 
+  manufactorers lab journal....).
+- **data analysis**
+  The standardization allows the analysis software to automatically create a starting model which is
   not too far from the real one.
-- **indexing of data and analysis**  
-  A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+- **indexing of data and analysis**
+  A standardized model might be used for indexing and filing of the data - within the lab or on a more general
   scale. This might be used to train AI algorithms.
-    
+
 
 ### complexity
 
@@ -47,23 +47,23 @@ This langage allows to provide a **very simple** model description on only 2 lin
 ``` YAML
    model:
        stack: air | Ni 100 | SiO2 0.5 | Si
-```  
+```
 
-The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refere to an
+The key words used in the *stack* (here `air`, `Ni`, `SiO2` and `Si`) either refer to an
 external data base (`https://slddb.esss.dk/slddb/`), a local dictionary or a declaration within the *model* entry.
 
-More complexity (e.g. magnetic induction, roughness, reduced density, ...) can be provided by adding a few more lines. 
+More complexity (e.g. magnetic induction, roughness, reduced density, ...) can be provided by adding a few more lines.
 
 ``` YAML
        materials:
          Ni:
            rel_density: 0.95
-```  
+```
 
 Dentailed models for complex samples might reach several tens of lines, thus they are no longer
-that *simple*. 
-The idea then is, that recuring fracments (sub-stacks, layers, materials) are defined in detail and strored in a 
-local dictionary or even in the orso data base. 
+that *simple*.
+The idea then is, that recurring fragments (sub-stacks, layers, materials) are defined in detail and strored in a
+local dictionary or even in the orso data base.
 The model description in the header then stays simple and easy to use.
 
 ### structure
@@ -75,23 +75,23 @@ sample:
     model:
         stack:         string             mandatory   \
         sub_stacks:    dict               optional     |
-        layers:        dict               optional     |  hirarchy of keys to define a SLD depth profile
-        compositions:  dict               optional     | 
+        layers:        dict               optional     |  hierarchy of keys to define a SLD depth profile
+        compositions:  dict               optional     |
         materials:     dict               optional    /
         globals:       dict               optional    \
         reference:     string             optional     |
-        schema:        string             optional     |  meta data 
+        schema:        string             optional     |  meta data
         origin:        string             optional    /
 ```
 
-The information is organised according to YAML rules but for the *stack* string(s). 
-The reason is to make it simple and less error-prone to enter this information *by hand*. 
+The information is organized according to YAML rules but for the *stack* string(s).
+The reason is to make it simple and less error-prone to enter this information *by hand*.
 
 
 #### stack
 
 The simplified model description is given in one line. This allows for a very compact notation,
-but restricts the content to the absolute minimum. 
+but restricts the content to the absolute minimum.
 
 Rules:
 
@@ -104,28 +104,28 @@ Rules:
 (These rules allow to expand the *stack* string into a YAML compliant *sequence*)
 
 > Examples:
-> 
+>
 > - The standard 1000 angstrom Ni film to check the resolution:
-> 
+>
 >   ``` YAML
 >       stack: air | Ni 100 | SiO2 0.5 | Si
->   ```  
->   
-> - A polarising multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
->   
+>   ```
+>
+> - A polarizing multilayer with 25 repetitions of 70 angstrom Fe and 70 angstrom Si:
+>
 >   ``` YAML
 >       stack: air | 25 ( Si 7 | Fe 7 ) | Si
 >   ```
 >
 >   No information about the magnetic induction is given on this level.
->   
+>
 > - A lipid multilayer in a solid-liquid cell:
-> 
+>
 >   ``` YAML
 >       stack: Si | SiO2 0.5 | lipid_multilayer | water
 >   ```
->   
->   No details about the organic film are given on this level. 
+>
+>   No details about the organic film are given on this level.
 >   To allow for automated processing, further information must be provided in the `sub_stack` section or in a data base.
 
 <!---
@@ -135,7 +135,7 @@ Rules:
 >       stack: air | 25 ( Si 7 | Fe 7 ) | Si
 >   ```
 >
-> into a YAML compliant *sequence*: 
+> into a YAML compliant *sequence*:
 >
 >   ``` YAML
 >       sequence:
@@ -144,10 +144,10 @@ Rules:
 >         - sub_stack:
 >             repetitions: 25
 >             sequence:
->               - layer: 
+>               - layer:
 >                   name: Si
 >                   thickness: 7
->               - layer: 
+>               - layer:
 >                   name: Fe
 >                   thickness: 7
 >         - layer:
@@ -162,19 +162,19 @@ Each substack is made up of one or several layers. It has a unique name which is
 
 ``` YAML
     sub_stacks:
-      <name>: 
-        repititions: 
+      <name>:
+        repititions:
                         int
                         optional  (default: 1)
-                        defines how often the substack is repeated. A negaive value means an inversion of the order.
-        stack:       
+                        Defines how often the substack is repeated. A negative value means an inversion of the order.
+        stack:
                         str
                         optional
                         Same rules as for the top-level stack apply.
-        sequence:         
+        sequence:
                         list
                         optional
-                        Instead of an other stack, the layers and their sequence are defined.  
+                        Instead of an other stack, the layers and their sequence are defined.
 ```
 
 > Examples:
@@ -185,19 +185,19 @@ Each substack is made up of one or several layers. It has a unique name which is
 >       sub_stacks:
 >         lipid_multilayer:
 >           repetitions: 4
->           stack: head | tail | tail | head    
+>           stack: head | tail | tail | head
 >   ```
 >
-> - the same layer sequence, but assembled hirarchically stating with chemical units: 
+> - the same layer sequence, but assembled hierarchically, starting with chemical units:
 >
 >   ``` YAML
 >       sub_stacks:
 >         lipid:
 >           sequence:
 >             - material: headstuff
->               thickness: 0.5  
+>               thickness: 0.5
 >             - matrial: tailstuff
->               thickness: 2.2  
+>               thickness: 2.2
 >         lipid_inverse:
 >           repetitions: -1
 >           stack: lipid
@@ -216,62 +216,62 @@ If information about a layer besides its chemical composition (and thus the dens
 ``` YAML
     layers:
       <name>:
-                      Each layer from the layers list has a unique name which 
-                      relates it to an entry in one of the stacks. 
-                      Layers defined in a sub_stack list are only used once 
+                      Each layer from the layers list has a unique name which
+                      relates it to an entry in one of the stacks.
+                      Layers defined in a sub_stack list are only used once
                       and do not require naming.
         thickness:
                       This overwrites the thickness given in the stack
         roughness:
         material:
-                      Either a name of a material or dictionary with 
+                      Either a name of a material or dictionary with
                       material parameters. See below.
-        composition:  
+        composition:
                       series of <material>: <rel_density> pairs
 ```
 
 > `material` examples:
-> 
+>
 > - simple case, reference to the `materials` list or a data base
->   
+>
 >   ``` YAML
 >       layers:
 >         iron:
 >           material: Fe
->   ``` 
->  
+>   ```
+>
 > - a bit more detailed, therefor no internal reference
->   
+>
 >   ``` YAML
 >       layers:
 >         iron:
 >           material: {formula: Fe, magnetic_moment: 2.4, mass_density: 6.8}
 >   ```
->     
+>
 > - reduced density (voids, coverage, ...)
->   
+>
 >   ``` YAML
 >       layers:
 >         nickel:
 >           composition:
 >             Ni: 0.95
->           thickness: 7.5     
->   ```   
+>           thickness: 7.5
+>   ```
 
 #### composits
 
 A composit behaves like a material, but is made up from (on or) several materials with respective relative densities.
-It enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
+It enables an easy way to define mixtures (solvents, interdiffusion, absorption).
 
 ``` YAML
-    compositis:
+    composits:
       <name>:
         <material 1>: <rel. density 1>
         <material 2>: <rel. density 2>
-``` 
- 
+```
+
 > Example:
->  
+>
 > ``` YAML
 >     composits:
 >       solvent:
@@ -287,21 +287,21 @@ Each material has a unique name which relates it to an `layer.composition` entry
     materials:
       <name>:
         formula:
-        sld: 
-                            The scattering length density for the radiation that was 
-                            used in this experiment. 
+        sld:
+                            The scattering length density for the radiation that was
+                            used in this experiment.
                             (neutron or x-ray for given energy)
         mass_density:
         number_density:
         magnetic_moment:
-        rel_density: 
-                            The density is taken from tabulated bulk values and 
-                            multiplied with this parameter (on top of the other 
+        rel_density:
+                            The density is taken from tabulated bulk values and
+                            multiplied with this parameter (on top of the other
                             densities!).
         deuteration:
                             For materials containing hydrogen this parameter allows
                             to tune the deuteration level while keeping the number
-                            density constant. 
+                            density constant.
                             Details have to be figured out....
 ```
 
@@ -314,7 +314,7 @@ Each material has a unique name which relates it to an `layer.composition` entry
 >         Fe:
 >           magnetic_moment: 2.2
 >   ```
-> 
+>
 > - clear names for solvents where the formula might be ambiguous:
 >
 >   ``` YAML
@@ -349,7 +349,7 @@ Unless overwritten, the following default values are used:
 A string defining the model language and version to be used to interpret the data.<br>
 
 > Example:
-> 
+>
 > ``` YAML
 >     reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
 > ```
@@ -373,7 +373,7 @@ This is a list of places where to look for information about materials or pre-de
 
 > Example:
 >
-> ``` YAML 
+> ``` YAML
 >     stack: Si | my_bilayer | H2O
 >     databases:
 >      - './model.def'
@@ -381,13 +381,13 @@ This is a list of places where to look for information about materials or pre-de
 > ```
 >
 > points to the entry `my_bilayer` in `model.def`:
-> 
+>
 >  ``` YAML
 >       substacks:
 >         my_bilayer:
 >           sequence:
 >             - SLD: 1.23
->               thickness: 0.5  
+>               thickness: 0.5
 >             - matrial: CH2
 >               thickness: 2.2
 >               mass_density: 0.83
@@ -395,7 +395,7 @@ This is a list of places where to look for information about materials or pre-de
 >               thickness: 2.2
 >               mass_density: 0.83
 >             - SLD: 1.23
->               thickness: 0.5  
+>               thickness: 0.5
 >           origin: Best guess by J. Stahn. Not trustworthy!
 > ```
 
@@ -417,17 +417,17 @@ A string to declare where the model parameters come from.
 <!---
 ### vocabulary
 
-There is a wide variety of meanings associated with key words such as *layer* or *material*. 
-It will be quite complicated to find an agreement here, because most of us will have to 
+There is a wide variety of meanings associated with key words such as *layer* or *material*.
+It will be quite complicated to find an agreement here, because most of us will have to
 accept an *absurd* choice at some point.
 
 - `sample` already defined
 - `model`
-- `origin` provides some informaton about how trustworthy the model is (*guess* vs. *based on XRD*) 
+- `origin` provides some informaton about how trustworthy the model is (*guess* vs. *based on XRD*)
 - `stack`
 - `layer`
 - `material`
-- `composit` material mixture 
+- `composit` material mixture
 - `roghness` sigma of the errorfunction describing the density variation at an 'interface'
 - `composition`
 - `density` (which one?)
@@ -457,9 +457,9 @@ extended version (with more information) on the level of the starting model for 
         model:
             origin: guess based on preparation / XRR
             stack: air | 10 ( Si 70 | Fe 70 ) | Si
-            materials:          
+            materials:
               Fe
-                magnetic_moment: 2.2 
+                magnetic_moment: 2.2
                 sld: 5.02e-6
               Si
                 formula: SiN0.01
@@ -481,7 +481,7 @@ sample:
         stack: substrate | film | water
         sub_stacks:
           substrate:
-            sequence: 
+            sequence:
                - material: Si
                  sigma: 2
                - material: SiO2
@@ -494,11 +494,11 @@ sample:
           tail
             material: tailstuff
             thickness: 22.
-        compoisits:
-          water: 
+        composits:
+          water:
               H2O: 0.3
-              D2O: 0.7   
-        materials:       
+              D2O: 0.7
+        materials:
           head_group:
             sld: 0.2e6
           tailstuff:
@@ -516,9 +516,9 @@ sample:
         reference: ORSO model language | 1.0 | https://www.reflectometry.org/projects/simple_model
 ```
 
-Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
+Here `film` refers to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
 
-These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
+These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach....
 
 ### Implementation and examples
 The model desciption has been implemented as a .ort header item in a Pull Request to the orsopy package with options to resolve layers for software to easily build a model system from the specification. Header examples and some automatic plotting scripts are included, too.
