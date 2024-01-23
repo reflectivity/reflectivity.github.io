@@ -24,5 +24,5 @@ To get involved in the Reproducibility working group you should sign up to GitHu
 
 ### Co-chairs
 
-- [Christy Kinane (ISIS)](mailto:christy.kinane@stfc.ac.uk)
+- [Stefan Kowarik](mailto:stefan.kowarik@uni-graz.at)
 - [Andrew McCluskey (ESS)](mailto:andrew.mccluskey@ess.eu) 
