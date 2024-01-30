@@ -44,7 +44,7 @@ ORSO is an open international initiative to ...
 
 ### standards \& implementation
 
-- [X] [file format](https://www.reflectometry.org/advanced_and_expert_level/file_format/specification)
+- [X] [file format](advanced_and_expert_level/file_format/specification)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
