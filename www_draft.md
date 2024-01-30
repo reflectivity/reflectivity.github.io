@@ -14,7 +14,11 @@ ORSO is an open international initiative to ...
 
 - [ ] [simple intro](https://github.com/reflectivity/reflectivity.github.io/blob/master/learn_about_reflectometry/simple_intro.md)
 - [ ] tutorials
+  - text
+  - videos
 - [ ] key publications
+  - papers
+  - talks
 
 ### how to get beamtime
 
