@@ -44,7 +44,7 @@ ORSO is an open international initiative to ...
 
 ### standards \& implementation
 
-- [X] [file format](./advanced_and_expert_level/file_format/specification)
+- [X] [file format](./advanced_and_expert_level/file_format/file_format_specs)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
