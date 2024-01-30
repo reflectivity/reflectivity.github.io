@@ -27,7 +27,7 @@ ambiguity is the schema of the orsopy implementation (if up-to-date).
 If you detect some inconsistency, please report it to <Jochen.Stahn@psi.ch>.
 
 Items under discussion and changes intended for **future releases** can be found at the   
-[discussion page](https://www.reflectometry.org/advanced_and_expert_level/file_format/specs_discussion) and on the [simple model specifications page](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model).
+[discussion page](./specs_discussion) and on the [simple model specifications page](./simple_model).
 Please have a look and contribute (critics, suggestions, hints, ...).
 
 ---
