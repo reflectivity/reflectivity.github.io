@@ -26,7 +26,7 @@ This specification file aims at describing and defining the ORSO `.ort` format. 
 ambiguity is the schema of the orsopy implementation (if up-to-date). 
 If you detect some inconsistency, please report it to <Jochen.Stahn@psi.ch>.
 
-Items under discussion and changes intended for **future releases** can be found at the   
+Items under discussion and changes intended for **future releases** can be found at the 
 [discussion page](./specs_discussion.md) and on the [simple model specifications page](./simple_model.md).
 Please have a look and contribute (critics, suggestions, hints, ...).
 
