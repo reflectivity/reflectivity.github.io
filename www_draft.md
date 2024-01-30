@@ -44,11 +44,11 @@ ORSO is an open international initiative to ...
 
 ### standards \& implementation
 
-- [X] [file format](advanced_and_expert_level/file_format/specification)
+- [X] [file format](./advanced_and_expert_level/file_format/specification)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
-- [X] [model language](https://www.reflectometry.org/advanced_and_expert_level/simple_model)
+- [X] [model language](./advanced_and_expert_level/simple_model)
 - [ ] [standard samples](https://www.reflectometry.org/projects/standard_samples)
 
 ---
