@@ -48,7 +48,7 @@ ORSO is an open international initiative to ...
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
-- [X] [model language](./advanced_and_expert_level/simple_model)
+- [X] [model language](./advanced_and_expert_level/file_format/simple_model)
 - [ ] [standard samples](https://www.reflectometry.org/projects/standard_samples)
 
 ---
