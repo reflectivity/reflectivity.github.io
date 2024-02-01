@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "What is ORSO?"
-permalink: /who_we_are/
+permalink: /organisation_and_communication/who_we_are/
 ---
 
 ORSO is an open group of reflectometry scientists from across the globe that are interested in improving our field through collaboration.
