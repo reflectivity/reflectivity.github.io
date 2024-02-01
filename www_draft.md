@@ -1,12 +1,13 @@
-This is a draft for the STRUCTURE of the reflectometry start page. The layout is a different thing....
-
-Please correct mistakes and make additional and alternative suggestions for the key words. Please add your alternatives next to the existing one(s) to allow for a discussion. E.g. 'YouTube tutorials | video tutorials'
+This is a draft for the STRUCTURE of the reflectometry start page. The layout is a different thing.... In the end, this file will become the new orso home (index) page.
 
 ---
 
-# ![](orso_logo.eps) open reflectometry standards organisation
+<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="30%">
 
-ORSO is an open international initiative to ...
+# open reflectometry standards organisation
+
+ORSO is an international, open effort to improve the scientific techniques 
+of neutron and X-ray reflectometry 
 
 ---
 
