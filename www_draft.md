@@ -12,7 +12,7 @@ ORSO is an open international initiative to ...
 
 ## learn about reflectometry
 
-- [ ] [simple intro](https://github.com/reflectivity/reflectivity.github.io/blob/master/learn_about_reflectometry/simple_intro.md)
+- [ ] [simple intro](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
 - [ ] tutorials
   - text
   - videos
@@ -44,12 +44,12 @@ ORSO is an open international initiative to ...
 
 ### standards \& implementation
 
-- [X] [file format](./advanced_and_expert_level/file_format)
+- [X] [file format](https://www.reflectometry.org/advanced_and_expert_level/file_format)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
-- [X] [model language](./advanced_and_expert_level/file_format/simple_model)
-- [ ] [standard samples](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
+- [X] [model language](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model)
+- [X] [standard samples](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
 ---
 
