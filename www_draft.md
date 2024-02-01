@@ -22,7 +22,7 @@ ORSO is an open international initiative to ...
 
 ### how to get beamtime
 
-- [ ] table of reflectometers
+- [X] table of reflectometers
   - [neutrons](./learn_about_reflectoemtry/list_of_neutron_reflectometers)
   - [x-rays](./learn_about_reflectoemtry/list_of_x-ray_reflectometers)
 - [ ] [prepare a beamtime](https://www.reflectometry.org/prepare-for-beamtime/)
@@ -44,12 +44,12 @@ ORSO is an open international initiative to ...
 
 ### standards \& implementation
 
-- [X] [file format](./advanced_and_expert_level/file_format/)
+- [X] [file format](./advanced_and_expert_level/file_format)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
   - discussion
   - working group page
 - [X] [model language](./advanced_and_expert_level/file_format/simple_model)
-- [ ] [standard samples](https://www.reflectometry.org/projects/standard_samples)
+- [ ] [standard samples](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
 ---
 
