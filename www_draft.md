@@ -54,7 +54,7 @@ of neutron and X-ray reflectometry
 
 ## organisation & communication
 
-- [ ] [who we are](https://www.reflectometry.org/what_is_orso)
+- [X] [who we are](https://www.reflectometry.org/organisation_and_communication/who_we_are)
 - [ ] [ORSO Governing Principles](https://www.reflectometry.org/what_is_orso/ORSO_constitution)
 - [ ] how to participate
 - [ ] [orso workshops](https://www.reflectometry.org/workshops)
