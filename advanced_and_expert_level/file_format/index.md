@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: "ORSO - file formats - specifications for the text reflectivity file"  
-permalink: /advanced_and_expert_level/file_format/file_format_specs
+permalink: /advanced_and_expert_level/file_format
 author: "Jochen Stahn"  
 ---
 
