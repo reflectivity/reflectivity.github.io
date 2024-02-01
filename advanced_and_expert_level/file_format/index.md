@@ -5,8 +5,6 @@ permalink: /advanced_and_expert_level/file_format
 author: "Jochen Stahn"  
 ---
 
-# ORSO - file formats - specifications for the text reflectivity file
-
 This document contains the specifications and some examples for the text representation of the ORSO reflectivity file. 
 It is the basis for the development of the [**orsopy** python modules](https://orsopy.readthedocs.io/en/latest) to read and write these files.
 
