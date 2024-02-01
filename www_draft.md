@@ -30,30 +30,28 @@ ORSO is an open international initiative to ...
 ### tools
 
 - [ ] analysis software
-- [ ] [SDL data base](https://slddb.esss.dk/slddb/)
+- [X] [SDL data base](https://slddb.esss.dk/slddb/)
 
 ---
 
 ## advanced and expert level
 
-### advice \& best practice
+### advice & best practice
 
 - [ ] [instrument callibration](https://www.reflectometry.org/projects/calibrations)
 - [ ] [reproducibility checklist](https://www.reflectometry.org/projects/checklist)
 - [ ] [Bayesian analysis](https://arxiv.org/abs/2207.10406)
 
-### standards \& implementation
+### standards & implementation
 
 - [X] [file format](https://www.reflectometry.org/advanced_and_expert_level/file_format)
   \& [orsopy](https://orsopy.readthedocs.io/en/latest)
-  - discussion
-  - working group page
-- [X] [model language](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model)
+- [X] [model language](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) & [examples](https://slddb.esss.dk/slddb/sample)
 - [X] [standard samples](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
 ---
 
-## organisation \& communication
+## organisation & communication
 
 - [ ] [who we are](https://www.reflectometry.org/what_is_orso)
 - [ ] [ORSO Governing Principles](https://www.reflectometry.org/what_is_orso/ORSO_constitution)
