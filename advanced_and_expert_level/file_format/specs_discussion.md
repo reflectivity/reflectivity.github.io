@@ -1,6 +1,7 @@
 ---
 layout: page  
 title: "ORSO - file formats - discussions on specifications"  
+permalink: /advanced_and_expert_level/file_format/specs_discussions
 author: "Jochen Stahn"  
 ---
 
