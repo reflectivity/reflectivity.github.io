@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ORSO file formats & data analysis: simplified model description"
-permalink: /projects/simple_model
+permalink: /advanced_and_expert_level/file_format/simple_model
 author: "Jochen Stahn"
 ---
 
