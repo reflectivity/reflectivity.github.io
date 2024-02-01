@@ -30,7 +30,7 @@ ORSO is an open international initiative to ...
 ### tools
 
 - [ ] analysis software
-- [X] [SDL data base](https://slddb.esss.dk/slddb/)
+- [X] [SLD data base](https://slddb.esss.dk/slddb/)
 
 ---
 
