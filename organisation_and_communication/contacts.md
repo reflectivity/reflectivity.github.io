@@ -79,7 +79,7 @@ This organisation and its working group are open to all, to join a working group
         <br>
         <h4>Reproducibility</h4></a>
       <a href="mailto:stefan.kowarik@uni-graz.at">Stefan Kowarik (acting chair)</a><br>
-      <a href="mailto:andrew.mccluskey@ess.eu">Andrew McCluskey</a>
+      <a href="mailto:andrew.mccluskey@bristol.ac.uk">Andrew McCluskey</a>
     </td>
   </tr>
 </table>
