@@ -12,3 +12,4 @@ The rules by which ORSO is governed and a code of conduct (currently in draft fo
 On this webpage, we host information about reflectometry that we have generated to inform others and detail projects that are being developed within our working groups.
 The organisation hosts annual [workshops](../workshops/) that are either in person or virtual meetings where we discuss topics of interest to the community.
 
+If you would like to get involved, find out how to participate [here](./how_to_participate.md)
