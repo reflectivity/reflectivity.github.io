@@ -24,8 +24,8 @@ of neutron and X-ray reflectometry
 ### how to get beamtime
 
 - [X] table of reflectometers
-  - [neutrons](./learn_about_reflectoemtry/list_of_neutron_reflectometers)
-  - [x-rays](./learn_about_reflectoemtry/list_of_x-ray_reflectometers)
+  - [neutrons](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_neutron_reflectometers)
+  - [x-rays](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_x-ray_reflectometers)
 - [ ] [prepare a beamtime](https://www.reflectometry.org/prepare-for-beamtime/)
 
 ### tools
@@ -72,6 +72,6 @@ of neutron and X-ray reflectometry
   
 ### further relevant links
 
-- [X] [canSAS](cansas.org)
+- [X] [canSAS](https://www.cansas.org)
 - [ ] Daphne
 - [ ] *reflectometry-related conferences*
