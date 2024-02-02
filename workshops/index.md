@@ -1,33 +1,15 @@
 ---
 layout: page
-title: "Workshops and Seminars"
+title: "ORSO Workshops and Seminars"
 permalink: /workshops/
 ---
 
 # Upcoming events
 
-## the Open Reflectometry Standards Organisation ORSO annual meeting in collaboration with DAPHNE4NFDI
-Took place online on the 21st of June 2023. 
+## the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
+The 2024 annual meeting of ORSO will take place in person on 19th July as a satelite of the [SXNS17](https://workshops.ill.fr/event/393/) meeting at ILL & ESRF Campus, in Grenoble, France. 
 
-[See dedicated page for more detail](./workshop_2023/index.md)
-
-# Events of Interest to the ORSO community
-
-## Conferences
-
-
-
-## Online Seminar series
-
-ChemMatCARS has an Education and Outreach programme including a seminar series (including videos of past talks) and training schools
-
-- [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
-- [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
-
-## Schools and training courses in reflectometry and related techniques
-
-
-
+More detail will follow soon so watch this space
 
 # Historical ORSO Workshops
 
