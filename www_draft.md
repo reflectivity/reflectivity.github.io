@@ -77,4 +77,4 @@ of neutron and X-ray reflectometry
 
 - [X] [canSAS](https://www.cansas.org)
 - [ ] Daphne
-- [ ] *reflectometry-related conferences*
+- [X] [other workshops](https://www.reflectometry.org/organisation_and_communication/other_links)
