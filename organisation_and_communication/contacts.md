@@ -78,7 +78,7 @@ This organisation and its working group are open to all, to join a working group
         <i class="fas fa-redo fa-5x"></i>
         <br>
         <h4>Reproducibility</h4></a>
-      <a href="mailto:christy.kinane@stfc.ac.uk">Christy Kinane</a><br>
+      <a href="mailto:stefan.kowarik@uni-graz.at">Stefan Kowarik (acting chair)</a><br>
       <a href="mailto:andrew.mccluskey@ess.eu">Andrew McCluskey</a>
     </td>
   </tr>
