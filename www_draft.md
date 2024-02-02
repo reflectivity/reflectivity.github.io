@@ -68,13 +68,14 @@ of neutron and X-ray reflectometry
 
 ### communication channels
 
-- [ ] mailing list \& archive
+- [X] [mailing list](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4)
+- [X] [archive of mail shots](https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4)
 - [X] [slack](https://orso-co.slack.com)
 - [X] [github](https://github.com/reflectivity)
-- [ ] contacts
+- [X] [contacts](https://www.reflectometry.org/organisation_and_communication/contacts)
   
 ### further relevant links
 
 - [X] [canSAS](https://www.cansas.org)
-- [ ] Daphne
+- [X] [DAPHNE4NFDI](https://www.daphne4nfdi.de/english/index.php)
 - [X] [other workshops](https://www.reflectometry.org/organisation_and_communication/other_links)
