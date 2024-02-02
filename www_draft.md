@@ -57,7 +57,7 @@ of neutron and X-ray reflectometry
 - [X] [who we are](https://www.reflectometry.org/organisation_and_communication/who_we_are)
 - [X] [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles)
 - [X] [how to participate](https://www.reflectometry.org/organisation_and_communication/how_to_participate)
-- [ ] [orso workshops](https://www.reflectometry.org/workshops)
+- [X] [orso workshops](https://www.reflectometry.org/workshops) [//]: # Note this does not need to migrate. I think it is fine to have the workshops folder on the top-level
   - Workshop 23
   - Workshop 22
   - etc.
