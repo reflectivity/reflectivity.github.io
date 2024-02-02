@@ -9,7 +9,7 @@ This page contains a list of the resources currently available on this website a
 
 # About ORSO
 
-  * [How to interact with ORSO](./interact_with_orso)
+  * [How to interact with ORSO](../organisation_and_communication/how_to_participate)
   * [Our active projects](../projects)
   * [Frequently asked questions](./FAQ)
   * [ORSO Videos](./videos)
