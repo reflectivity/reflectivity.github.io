@@ -26,13 +26,13 @@ Physical attendance will require registration at SXNS, but we will additionally 
 
 **10:30 - 10:45** Coffee break 
 
-### Discussion on the common model language (Chaired by Brian Marranville)
+### Discussion on the common model language (Chaired by Brian Maranville)
 
 * details to follow
 
 ### How to get involved and contribute to ORSO (Chaired by Tom Arnold)
 This session is aimed at explaining how you can contribute to ORSO with demonstrations aimed at different levels
-* Introduction to Github
+* Introduction to GitHub
 * How to edit the website and contribute material
 
 
@@ -61,7 +61,7 @@ Speaker(s) to be confirmed:
 
 **14:30 - 14:45** Coffee break 
 
-## Afternoon Parrallel Breakout Sessions 14:45-17:00
+## Afternoon Parallel Breakout Sessions 14:45-17:00
 
 ### Reproducibility working group (Chaired by Bridget Murphy, Max Skoda)
 
@@ -72,13 +72,11 @@ Speaker(s) to be confirmed:
 * Talk and short discussion on 'lost' techniques. e.g. Maximum Entropy. 
 
 ### SLD database (Chaired by Tom Arnold, Jochen Stahn)
-The [ORSO SLD data base](https://slddb.esss.dk/slddb/) is now live and we would like to host a session to
-*  Present the database and recieve feedback
-*  Demonstate usage and data enty
+The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live, and we would like to host a session to
+*  Present the database and receive feedback
+*  Demonstrate usage and data entry
 *  Actively contribute data to the database
 
 ### Teaching materials (chaired by Andrew McCluskey)
 
 * live edit of the [Guide to Reflectometry](https://www.reflectometry.org/learn/intro.html)
-
-
