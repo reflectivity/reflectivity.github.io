@@ -373,15 +373,14 @@ The `comment` is used to give some more information.
 
 This data representation is meant to store the physical quantity *reflectivity* (*R*) as a function of the
 *normal momentum transfer* (*Qz*). 
-Together with the related information about the error of *R* and the resolution of *Qz* this leads to the defined 
-leading 4 columns of the data set. 
+Together with the related information about the error of *R* and the resolution of *Qz* this leads to the defined leading 4 columns of the data set. 
 I.e.
 
 1. `normal_momentum_transfer` with unit `1/angstrom` or `1/nm` and label `Qz`
 2. `reflectivity` with unit 1 and label `R`  
    (fuzzy use of the term *reflectivity* since the data might still be affected by resolution, background, etc, and might not be normalized)
-4. error of the `reflectivity`
-5. resolution of the `normal_momentum_transfer` 
+3. error of the `reflectivity`
+4. resolution of the `normal_momentum_transfer` 
 
 for columns 3 and 4 the default is *sigma*, the standard deviation of a Gaussian distribution. 
 (While the specification allows for error columns of different type (FWHM or non-gaussian), this description is to be preferred.)
@@ -422,16 +421,40 @@ These further columns correspond to the fifth column onwards, meaning that the t
 (in the worst case filled with `nan`).
 
 ```
-#     - name:               alpha_i
-#       unit:               deg  
-#       physical_quantity:  incident_angle
-#     - error_of:           alpha_i
-#       error_type:         resolution
-#       distribution:       rectangular
-#       value_is:           FWHM
-#     - name:               lambda
-#       unit:               angstrom 
-#       physical_quantity:  wavelength
+#      - name:               alpha_i
+#        unit:               deg  
+#        physical_quantity:  incident_angle
+#      - error_of:           alpha_i
+#        error_type:         resolution
+#        distribution:       rectangular
+#        value_is:           FWHM
+#      - name:               lambda
+#        unit:               angstrom 
+#        physical_quantity:  wavelength
+```
+
+It is possible to use a column for setting **flags**, e.g. to indicate the spin state
+or to mark a certain Qz interval. The corresponding column description is
+
+```
+#      - name:                <descriptive name>
+#        flag_is:             <list of 'integer key: string' pairs>
+```
+
+When processed, the values in this column are converted to integers (by truncation towards zero) in order to match the description.
+
+Example:
+
+```
+#      - name:                spin_polarisation
+#        flag_is:             {1: 'plus', -1: 'minus'}
+```
+
+or
+
+```
+#      - name:                attenuator
+#        flag_is:             {0: 'none', 1: '0.1 mm Cu', 2: '0.2 mm Cu', 3: '0.4 mm Cu'}
 ```
 
 #### canonical names for physical quantities
