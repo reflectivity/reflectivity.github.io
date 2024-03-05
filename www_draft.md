@@ -13,24 +13,24 @@ of neutron and X-ray reflectometry
 
 ## learn about reflectometry
 
-- [ ] [simple intro](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
-- [ ] tutorials
-  - text
-  - videos
+- [X] [simple intro](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
+- [X] tutorials
+  - [text tutorial](https://www.reflectometry.org/learn/intro.html)
+  - [intro lecture](https://www.youtube.com/watch?v=PHBLK_3sfi8)
 - [ ] key publications
   - papers
-  - talks
+  - youTube channel
 
 ### how to get beamtime
 
 - [X] table of reflectometers
   - [neutrons](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_neutron_reflectometers)
   - [x-rays](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_x-ray_reflectometers)
-- [ ] [prepare a beamtime](https://www.reflectometry.org/prepare-for-beamtime/)
+- [X] [advice for facility users](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users/)
 
 ### tools
 
-- [ ] analysis software
+- [X] [analysis software](https://www.reflectometry.org/learn_about_reflectometry/analysis_software)
 - [X] [SLD data base](https://slddb.esss.dk/slddb/)
 
 ---
@@ -39,9 +39,9 @@ of neutron and X-ray reflectometry
 
 ### advice & best practice
 
-- [ ] [instrument callibration](https://www.reflectometry.org/projects/calibrations)
-- [ ] [reproducibility checklist](https://www.reflectometry.org/projects/checklist)
-- [ ] [Bayesian analysis](https://arxiv.org/abs/2207.10406)
+- [X] [instrument callibration](https://www.reflectometry.org/learn_about_reflectometry/calibrations)
+- [X] [reproducibility checklist](https://www.reflectometry.org/learn_about_reflectometry/reproducibility_checklist)
+- [X] [Bayesian analysis](https://arxiv.org/abs/2207.10406) [Publication](https://journals.iucr.org/j/issues/2023/01/00/yr5098/index.html)
 
 ### standards & implementation
 
