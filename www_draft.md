@@ -24,8 +24,8 @@ of neutron and X-ray reflectometry
 ### how to get beamtime
 
 - [X] table of reflectometers
-  - [neutrons](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_neutron_reflectometers)
-  - [x-rays](https://www.reflectometry.org/learn_about_reflectoemtry/list_of_x-ray_reflectometers)
+  - [neutrons](https://www.reflectometry.org/learn_about_reflectometry/list_of_neutron_reflectometers)
+  - [x-rays](https://www.reflectometry.org/learn_about_reflectometry/list_of_x-ray_reflectometers)
 - [X] [advice for facility users](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users/)
 
 ### tools
