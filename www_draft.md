@@ -17,9 +17,9 @@ of neutron and X-ray reflectometry
 - [X] tutorials
   - [text tutorial](https://www.reflectometry.org/learn/intro.html)
   - [intro lecture](https://www.youtube.com/watch?v=PHBLK_3sfi8)
-- [ ] key publications
-  - papers
-  - youTube channel
+- [X] key publications
+  - [papers](https://www.reflectometry.org/learn_about_reflectometry/orso_papers)
+  - youTube channel - external link... will update when this is made open
 
 ### how to get beamtime
 
