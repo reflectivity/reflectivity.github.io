@@ -9,7 +9,7 @@ permalink: /workshops/
 ## the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
 The 2024 annual meeting of ORSO will take place in person on 19th July as a satelite of the [SXNS17](https://workshops.ill.fr/event/393/) meeting at ILL & ESRF Campus, in Grenoble, France. 
 
-More detail will follow soon so watch this space
+Registration is now open and more details of the workshop are available [here](./workshop_2024/)
 
 # Historical ORSO Workshops
 
