@@ -14,7 +14,7 @@ Physical attendance will require registration at SXNS, but we will additionally 
 
 If you wish to attend the meeting but not participate in SXNS, please contact [tom](mailto:tom.arnold@ess.eu)
 
-## Outline of planned agenda (to be confirmed)
+## Outline of planned agenda
 
 We have suggested 6 discussion sessions that will be run in parallel during the morning and afternoon. We would also like to invite the community to raise any issues that they would like to discuss, and have reserved slots for extra parallel sessions as required. If you would like to propose a discussion session please submit an abstract [here](https://indico.esss.lu.se/event/3461) or discuss with on of the chairs.
 
@@ -40,13 +40,13 @@ The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live, and we would 
 *  Demonstrate usage and data entry
 *  Actively contribute data to the database
 
-**10:20 - 10:40** Coffee break 
+## 10:20 - 10:40 Coffee break 
 
-### 10:40-12:00 Discussion on the common model language (Chaired by Brian Maranville)
+### 10:40-12:00 Discussion on the orso model language(s) (Chaired by Brian Maranville)
 
-This session will discuss...
-* presentation on common languge (Brian Maranville)
-* presentation on simple languge (Jochen Stahn)
+This session is aimed at introducing orso model language(s). The session will include
+* a presentation of the [simple languge](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) (Jochen Stahn)
+* testing, feedback and hopefully improvement of this language
 * discussion
 
 ### 10:40-12:00 Teaching materials "code camp" (chaired by Andrew McCluskey)
@@ -56,7 +56,7 @@ Andrew will introduce the online material and how changes can be made to the mat
 You will then be set of to work, independly or in group to improve the material in whatever way that you see fit. 
 Andrew will be around to help anyone that is struggling with the technology. 
 
-
+## 12:00 - 13:00 Lunch
 
 ## Afternoon Plenary session 13:00-14:45
 
@@ -91,7 +91,7 @@ We would like to have a discussion on how to encourage contributions to ORSO. Th
 * Election of 4 chairs (1 from each working group)
 * Formal approval of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).
 
-**14:45 - 15:00** Coffee break 
+## 14:45 - 15:00 Coffee break 
 
 ## Afternoon Parallel Breakout Sessions 15:00-17:00
 
