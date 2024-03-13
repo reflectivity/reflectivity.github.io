@@ -62,10 +62,15 @@ Andrew will be around to help anyone that is struggling with the technology.
 
 ### Keynote science talk(s) 13:00-13:45
 
-Speaker(s) to be confirmed:
-* Mathieu Doucet (NIST)
+Speaker(s):
 
-* Stefan Kowarik (Graz): "Quick XRR down to 300 µs and fast, accurate AI analysis”
+**Mathieu Doucet (Neutron Scattering Division, ORNL): "Time-resolved neutron reflectometry study of lithium-mediated nitrogen reduction"**
+
+Abstract: Li-mediated electrochemical reduction of nitrogen to NH3 has been identified as an alternative to the resource-demanding Haber-Bosch ammonia process. Through this process, an initial electrodeposition of Li is followed by a reaction to form Li3N and subsequent ethanolysis of Li3N to form NH3. We studied Li electrodeposition on molybdenum and copper thin films and compared LiClO4 and LiBF4-based THF electrolytes. 
+We used time-resolved neutron reflectometry to understand the SEI formation during the nitrogen reduction process. 
+The neutron reflectometry data acquired during plating was sliced in 15- to 60-second intervals in a wide enough Q range to allow time-resolved modeling of the plating and SEI formation processes. We will present our approach to time-resolved reflectometry and discuss the recent developments and challenges of analyzing transient data.
+
+**Stefan Kowarik (University of Graz): "Quick XRR down to 300 µs and fast, accurate AI analysis”**
 
 Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond timeframes using fast scanning galvo mirrors / rotating samples, and going to the limits of detectors and photon flux at synchrotrons. Leveraging the speed of quick XRR, this method permits the real-time monitoring of rapid thin film deposition processes such as spin coating. The resultant high volume of XRR data, often reaching tens of thousands of curves, benefits from the integration of a rapid machine learning algorithms. These AI / machine learning algorithms not only expedite the analysis but also surpass traditional differential evolution methods with fewer outliers. Additionally, AI-controlled adaptive in XRR measurements can contribute to a fourfold reduction in the number of measurement points required for comparable results.  These methods together pave the way for XRR to study ever faster processes in fields such as electrochemistry or thin film growth.
   
