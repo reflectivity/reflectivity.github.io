@@ -44,10 +44,18 @@ The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live, and we would 
 
 ### 10:40-12:00 Discussion on the orso model language(s) (Chaired by Brian Maranville)
 
-This session is aimed at introducing orso model language(s). The session will include
-* a presentation of the [simple languge](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) (Jochen Stahn)
-* testing, feedback and hopefully improvement of this language
-* discussion
+The [model languge](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) initiative within ORSO is an effort to create a standard way to specify a reflectometry model.  As a first step, we want to provide a syntax to define a layered structure with slabs of material with a known scattering strength (SLD) or Material. 
+
+In addition we define a very compact syntax for providing a quick summary of the structure of layered samples, that can be added to searchable metadata attached to an ORSO datafile, e.g. "air | Ni 100 | SiO2 0.5 | Si".  
+
+A benefit of the standard (serializable) model language is that we can then share effort among the entire community on building model-builders, for general layer-based models and then in the future for more specialized representations of reflectivity samples.  It is expected that specialized domains like membrane reflectometry will have their own specialized model languages (that can be rendered into a layered version), as well as custom model builders.
+
+Discussion topics for the session:
+ * the relationship of this compact language to the full model language
+ * the draft model language that is implemented in the orsopy package: the current capabilities and what we might want to add or change.  
+ *  what are the barriers to broad adoption of the model language by common analysis packages
+ * first steps on cooperative work on a model-builder targeting the shared language
+ * any comments on how to get started with domain-specific sub-languages (and domain-specific model builders)
 
 ### 10:40-12:00 Teaching materials "code camp" (chaired by Andrew McCluskey)
 
