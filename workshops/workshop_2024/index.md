@@ -46,7 +46,7 @@ The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live, and we would 
 
 The [model languge](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) initiative within ORSO is an effort to create a standard way to specify a reflectometry model.  As a first step, we want to provide a syntax to define a layered structure with slabs of material with a known scattering strength (SLD) or Material. 
 
-In addition we define a very compact syntax for providing a quick summary of the structure of layered samples, that can be added to searchable metadata attached to an ORSO datafile, e.g. "air | Ni 100 | SiO2 0.5 | Si".  
+In addition we define a very compact syntax for providing a quick summary of the structure of layered samples, that can be added to searchable metadata attached to an ORSO datafile, e.g. "air  \| Ni 100  \| SiO2 0.5  \| Si".  
 
 A benefit of the standard (serializable) model language is that we can then share effort among the entire community on building model-builders, for general layer-based models and then in the future for more specialized representations of reflectivity samples.  It is expected that specialized domains like membrane reflectometry will have their own specialized model languages (that can be rendered into a layered version), as well as custom model builders.
 
