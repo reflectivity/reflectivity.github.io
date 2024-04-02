@@ -42,7 +42,7 @@ All previous suggestions and variants are removed in order to avoid confusion.
 
 ### complexity
 
-This langage allows to provide a **very simple** model description on only 2 lines:
+This language allows to provide a **very simple** model description on only 2 lines:
 
 ``` YAML
    model:
