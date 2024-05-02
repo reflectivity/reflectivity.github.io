@@ -18,7 +18,7 @@ If you wish to attend the meeting but not participate in SXNS, please contact [t
 
 We have suggested 6 discussion sessions that will be run in parallel during the morning and afternoon. We would also like to invite the community to raise any issues that they would like to discuss, and have reserved slots for extra parallel sessions as required. If you would like to propose a discussion session please submit an abstract [here](https://indico.esss.lu.se/event/3461) or discuss with on of the chairs.
 
-## Morning Parrallel Breakout Sessions
+## Morning Parallel Breakout Sessions
 
 ### 09:00-10:20 Open Data in Reflectometry (Chaired by Bridget Murphy, Max Skoda): 
 
