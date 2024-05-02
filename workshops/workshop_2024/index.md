@@ -85,37 +85,37 @@ Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond
 
 ### Annual General Meeting
 
-**13:45 – 14.15: Short Reports from each of the Working groups.**
+**13:45 – 14.05: Short Reports from each of the Working groups.**
 
 * Tom Arnold, Bridget Murphy: Education & Outreach Working Group 
 * Andrew McCluskey: Reproducibility Working Group 
 * Max Skoda, Jochen Stahn: Data Formats Working Group 
 * Brian Maranville, Andrew Nelson: Data Analysis Working Group Presentation
 
-**14:15 - 14:30 How to get involved and contribute to ORSO**
+**14:05 - 14:40 How to get involved and contribute to ORSO**
 We would like to have a discussion on how to encourage contributions to ORSO. This will involve a short explaination on how we currently work with demonstrations aimed at different levels including: 
 * A survey of how people would be able to contribute
 * Introduction to GitHub
 * How to edit the website and contribute material
 
-**14:30 - 14:45: Voting**
+**14:40 - 15:00: Voting**
 
 * Explanation of ORSO organisation & voting methodology
 * Election of 4 chairs (1 from each working group)
 * Formal approval of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).
 
-## 14:45 - 15:00 Coffee break 
+## 15:00 - 15:30 Coffee break 
 
-## Afternoon Parallel Breakout Sessions 15:00-17:00
+## Afternoon Parallel Breakout Sessions 15:30-17:00
 
-### 15:00 - 17:00 Reproducibility working group (Chaired by Bridget Murphy, Max Skoda)
+### 15:30 - 17:00 Reproducibility working group (Chaired by Bridget Murphy, Max Skoda)
 
 Several tasks within ORSO present opportunities for application of machine learning techniques, such as experimental design, script generation, and fitting procedures. Machine learning often relies on training with existing data, and the process of curating appropriate training datasets is frequently the most challenging and time-intensive aspect of model development. Notably, the collective expertise of x-ray and neutron reflectivity users encompasses a wealth of (labeled) datasets, including data, fitting models, and experiment scripts. Consolidating these resources into a unified database could yield significant synergistic advantages. Such a repository would facilitate easy access to labeled data for individuals seeking training datasets and for those validating their own models and scripts. In this session, our aim is to explore the potential benefits of such a database and to discern the necessary steps for its establishment.
 
 * [Talk by Jos Cooper (ESS): Optimizing experiments and creating unlimited realistic data for AI using HOGBEN](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2024/ORSO_HOGBEN_2024.pdf)
 * A discussion on the potential for reference datasets for machine learning and other uses
 
-### 15:00 - 17:00 Recent Developments in Reflectometry Analysis (Chaired by Andrew Nelson)
+### 15:30 - 17:00 Recent Developments in Reflectometry Analysis (Chaired by Andrew Nelson)
 
 This session will discuss recent developments to the state of the art reflectometry packages available to the scientific community. Each package will have the opportunity to give a 10-15 minute presentation, which is intended to stimulate conversations for new scientific directions.
 
