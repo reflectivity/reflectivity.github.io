@@ -14,6 +14,12 @@ Physical attendance will require registration at SXNS, but we will additionally 
 
 If you wish to attend the meeting but not participate in SXNS, please contact [tom](mailto:tom.arnold@ess.eu)
 
+The meeting is organised (including financial support) in association with: 
+
+![image](DAPHNE4NFDI_logo_cut.jpg)
+
+The mission of [DAPHNE4NFDI](https://www.daphne4nfdi.de/english/index.php) is to make data from photon and neutron experiments "FAIR", thereby making scientific work more efficient and gaining more knowledge from the data.
+
 ## Outline of planned agenda
 
 We have suggested 6 discussion sessions that will be run in parallel during the morning and afternoon. We would also like to invite the community to raise any issues that they would like to discuss, and have reserved slots for extra parallel sessions as required. If you would like to propose a discussion session please submit an abstract [here](https://indico.esss.lu.se/event/3461) or discuss with on of the chairs.
