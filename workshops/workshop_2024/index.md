@@ -100,7 +100,7 @@ Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond
 
 **14:05 - 14:40 How to get involved and contribute to ORSO**
 We would like to have a discussion on how to encourage contributions to ORSO. This will involve a short explaination on how we currently work with demonstrations aimed at different levels including: 
-* A survey of how people would be able to contribute
+* A survey of how people would be able to contribute. Please complete this [survey](https://reflectometry.us10.list-manage.com/track/click?u=e7e953117fa45f665f9030aaa&id=25f4a162c3&e=36bf5c9247) in advance of the meeting! 
 * Introduction to GitHub
 * How to edit the website and contribute material
 
