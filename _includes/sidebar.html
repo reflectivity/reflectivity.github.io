@@ -1,0 +1,45 @@
+{% assign sidebar = site.data.sidebar.entries %}
+
+{% for entry in sidebar %}
+    <h3>
+        {{ entry.title }}
+    </h3>
+    <ul class="nav">
+        {% for folder in entry.folders %}
+            <li>
+                {{ folder.title}}
+                <ul>
+                    {% for link in folder.links %}
+                        {% if link.url %}
+                            {% if page.url == link.url %}
+                                <li class="active">
+                                    <a href="{{ link.url }}">{{ link.title }}</a>
+                                </li>
+                            {% else %}
+                                <li>
+                                    <a href="{{ link.url }}">{{ link.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% else %}
+                            <li>
+                                <a>{{ link.title }}</a>
+                            </li>
+                        {% endif %}
+                        <ul>
+                            {% for sublink in link.sublinks %}
+                                <li class="thirdlevel">
+                                    <a href="{{ sublink.url }}">{{ sublink.title }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}
