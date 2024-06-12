@@ -1,19 +1,39 @@
 # If you want to link only specific pages in your header, add the path to the
 # pages in order as they should show up.
 main:
-  - title: "Workshops"
-    url: /workshops/
   - title: "What is ORSO?"
-    url: /what_is_orso/
-  - title: "Working Groups"
-    url: /working_groups/
-  - title: "Get Involved"
-    url: /get_involved/
-  - title: News
-    url: https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4
-  - title: FAQs
-    url: /information/FAQ/
+    url: /organisation_and_communication/
+  - title: "Orsopy"
+    url: https://www.reflectometry.org/orsopy/
+  - title: "SLD Database"
+    url: https://slddb.esss.dk/slddb/
+
+  # - title: "Working Groups"
+  #   url: /working_groups/
+  # - title: "Get Involved"
+  #   url: /get_involved/
+  # - title: News
+  #   url: https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4
+  # - title: FAQs
+  #   url: /information/FAQ/
 #  - title: "Mailing List"
 #    url: http://eepurl.com/g7le3v
 #  - title: "GitHub"
 #    url: https://github.com/reflectivity
+
+body: 
+  - title: "Learn About Reflectometry"
+    icon: fa-solid fa-chalkboard-user
+    items: 
+    - title: "Simple Intro"
+      url: /learn_about_reflectometry/simple_intro
+    - title: "Text Tutorial"
+      url: /learn/intro.html
+    - title: "Intro Lecture"
+      url: https://www.youtube.com/watch?v=PHBLK_3sfi8
+    - title: "Key Publications"
+      url: learn_about_reflectometry/orso_papers
+  - title: "Advanced and Expert Users"
+    icon: fa-solid fa-user-graduate
+  - title: "Organisation and Communcations"
+    icon: fa-solid fa-users

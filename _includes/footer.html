@@ -1,11 +1,18 @@
-<footer class="site-footer">
-
-  <div class="wrapper">
-
-    <p>
-      {% include footer_content.html %}
-    </p>
-
-  </div>
-
+<footer>
+    <div class="row">
+        <div class="col-lg-12 footer">
+            {% if page.author.size > 0 %}
+                <span>
+                    The page has been written with contributions from: {{page.author}}.
+                </span><br>
+            {% endif %}
+            <span>
+                Edit this page on GitHub <a href="https://github.com/reflectivity/reflectivity.github.io/blob/master/{{page.path}}">by clicking here.</a>
+            </span><br>
+            {% if page.last_updated %}
+                <span>Page last updated:</span> {{page.last_updated}}<br>
+            {% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }}.<br>
+        </div>
+    </div>
 </footer>
+
