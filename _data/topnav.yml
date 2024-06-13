@@ -4,8 +4,8 @@ topnav:
     - title: What is ORSO?
       url: /organisation_and_communication/
     - title: Reflectometry Guide
-      url: /learn/intro.html
+      external_url: https://www.reflectometry.org/learn/
     - title: Orsopy 
-      url: https://www.reflectometry.org/orsopy/
+      external_url: https://www.reflectometry.org/orsopy/
     - title: SLD Database
-      url: https://slddb.esss.dk/slddb/
+      external_url: https://slddb.esss.dk/slddb/

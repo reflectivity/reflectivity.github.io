@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Advice for Facility Users: Frequently Askaed Questions"
-permalink: /learn_about_reflectoemtry/advise_for_facility_users/
+permalink: /learn_about_reflectometry/advice_for_facility_users/
 author: "Andrew McCluskey, Jos Cooper"
 ---
 
@@ -63,6 +63,6 @@ A very important question. There are many ways to answer this, we will take quit
 
 * ###  How can I join ORSO/help?
 
-Please contact the chair of the working group which most interests you, or dive straight into the Github issues and take ownership of one (e.g. [for reproducibility](https://github.com/reflectivity/reproducibility/projects/2))
+Please [contact the chair of the working group](/organisation_and_communication/contacts/) which most interests you or [join the Slack channel](https://orso-co.slack.com/).
 
 [How to interact with ORSO - instructional videos](https://www.reflectometry.org/information/interact_with_orso/)

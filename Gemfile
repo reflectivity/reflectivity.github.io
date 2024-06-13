@@ -6,3 +6,5 @@ gem 'github-pages', group: :jekyll_plugins
 # to publich without github page
 #gem "jekyll"
 gem "webrick"
+gem "jekyll-redirect-from"
+gem "csv"

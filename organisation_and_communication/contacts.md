@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How to contact the ORSO chairs"
-permalink: /organisation_and_communication/contacts/
+permalink: /organisation_and_communication/contacts
 ---
 
 <!-- This organisation and its working group are open to all, to join a working group please just contact one of the working group chairs or sign up to the [mailing list](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&amp;id=fa298202d4).

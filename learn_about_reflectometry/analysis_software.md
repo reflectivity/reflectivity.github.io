@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software"
-permalink: /learn_about_reflectometry/analysis_software/
+permalink: /learn_about_reflectometry/analysis_software
 author: "Adrian Rennie, Andrew McCluskey, and Jos Cooper"
 ---
 

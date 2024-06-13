@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ORSO Publications"
-permalink: /learn_about_reflectometry/orso_papers/
+permalink: /learn_about_reflectometry/orso_papers
 author: "Tom Arnold"
 ---
 

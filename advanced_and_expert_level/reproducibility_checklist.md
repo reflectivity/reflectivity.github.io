@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reproducibility Checklist"
-permalink: /learn_about_reflectometry/reproducibility_checklist
+permalink: /advanced_and_expert_level/reproducibility_checklist
 author: "Andrew McCluskey"
 ---
 

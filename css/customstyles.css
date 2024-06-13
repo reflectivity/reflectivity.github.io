@@ -85,8 +85,8 @@ margin-top: -40px
 
 .post-content img {
     margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
+    /* width: auto;
+    height: auto; */
     max-width: 100%;
     max-height: 100%;
 }
@@ -883,8 +883,8 @@ span.soft {
 
 .post-content img {
     margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
+    /* width: auto;
+    height: auto; */
     max-width: 100%;
     max-height: 100%;
 }
@@ -896,8 +896,8 @@ span.soft {
 
 .post-content img {
     margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
+    /* width: auto;
+    height: auto; */
     max-width: 100%;
     max-height: 100%;
 }

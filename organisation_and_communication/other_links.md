@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Other external links of interest"
-permalink: /organisation_and_communication/other_links/
+permalink: /organisation_and_communication/other_links
 ---
 
 # Events of Interest to the ORSO community
