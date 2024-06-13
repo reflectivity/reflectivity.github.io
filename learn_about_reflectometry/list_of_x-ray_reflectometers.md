@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "X-ray Reflectometers"
-permalink: /learn_about_reflectometry/list_of_x-ray_reflectometers/
+permalink: /learn_about_reflectometry/list_of_x-ray_reflectometers
 author: "Adrian Rennie, Andrew McCluskey, Tom Arnold, Bridget Murphy"
 ---
 

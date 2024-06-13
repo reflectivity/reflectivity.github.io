@@ -1,21 +1,24 @@
 ---
 layout: page
-title: "Other external links of interest"
+title: "Events of Interest to the ORSO community"
 permalink: /organisation_and_communication/other_links
 ---
 
-# Events of Interest to the ORSO community
-
-## Conferences
-
-
-
-## Online Seminar series
-
-ChemMatCARS has an Education and Outreach programme including a seminar series (including videos of past talks) and training schools
-
-- [ChemMatCARS Soft Matter Interest Group Seminars](https://chemmatcars.uchicago.edu/education-and-outreach/soft-matter-interest-group-seminar/)
-- [2021 Data Analysis School on X-ray Scattering from Liquid Interfaces](https://chemmatcars.uchicago.edu/2021-data-analysis-school-liquid-interfaces/)
-
-## Schools and training courses in reflectometry and related techniques
-
+<p>
+{% for type in site.data.events %}
+    {% if type.items.size > 0 %}
+        <h2>
+            {{ type.type }}
+        </h2>
+        <ul>
+            {% for event in type.items %}
+                <li>
+                    <a href="{{ event.url }}" target="_blank" rel="noopener">
+                        {{ event.name }} 
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endfor %}
+</p>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Neutron Reflectometers"
-permalink: /learn_about_reflectometry/list_of_neutron_reflectometers/
+permalink: /learn_about_reflectometry/list_of_neutron_reflectometers
 author: "Adrian Rennie, Andrew McCluskey, Tom Arnold, Bridget Murphy"
 ---
 
