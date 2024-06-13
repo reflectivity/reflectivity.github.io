@@ -132,3 +132,12 @@ If time permits there will be a talk and short discussion on 'lost' techniques -
 * What does the community want from analysis software?
 * Talk and short discussion on 'lost' techniques. e.g. Maximum Entropy. 
 
+#### Speakers
+* refnx - Andrew Nelson
+* genx - Artur Glavic
+* refl1d - Brian Maranville
+* RasCal - Arwel Hughes 
+* mlreflect - TBD who presents
+* anaklasis - Alexandros Koutsioumpas
+* BornAgain - Joachim Wuttke
+* easyReflectivity - Andrew McCluskey
