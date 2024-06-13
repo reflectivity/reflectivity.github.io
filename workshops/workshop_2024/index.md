@@ -93,7 +93,7 @@ Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond
 
 **13:45 – 14.05: Short Reports from each of the Working groups.**
 
-* Tom Arnold, Bridget Murphy: Education & Outreach Working Group 
+* Tom Arnold, Bridget Murphy: Education & Outreach Working Group (inc. review of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).)
 * Andrew McCluskey: Reproducibility Working Group 
 * Max Skoda, Jochen Stahn: Data Formats Working Group 
 * Brian Maranville, Andrew Nelson: Data Analysis Working Group Presentation
@@ -108,7 +108,6 @@ We would like to have a discussion on how to encourage contributions to ORSO. Th
 
 * Explanation of ORSO organisation & voting methodology
 * Election of 4 chairs (1 from each working group)
-* Formal approval of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).
 
 ## 15:00 - 15:30 Coffee break 
 
