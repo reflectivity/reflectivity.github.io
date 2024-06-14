@@ -39,7 +39,7 @@ of neutron and X-ray reflectometry.*
 
 > [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
 > [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
-> [[[how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
+> [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
 > [[ orso workshops ]](https://www.reflectometry.org/workshops) 
 >  
 > **communication channels:**  
