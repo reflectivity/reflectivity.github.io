@@ -71,11 +71,11 @@ entries:
       external_url: https://github.com/reflectivity
     - title: Contacts
       url: /organisation_and_communication/contacts
-  - title: Further Relevant Links
-    links: 
-    - title: canSAS
-      external_url: https://www.cansas.org/
-    - title: DAPHNE4NFDI
-      external_url: https://www.daphne4nfdi.de/english/index.php
-    - title: Other Workshops
-      url: /organisation_and_communication/other_links
+- title: Further Relevant Links
+  folders: 
+  - title: canSAS
+    external_url: https://www.cansas.org/
+  - title: DAPHNE4NFDI
+    external_url: https://www.daphne4nfdi.de/english/index.php
+  - title: Other Workshops
+    url: /organisation_and_communication/other_links

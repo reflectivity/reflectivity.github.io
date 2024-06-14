@@ -393,6 +393,20 @@ ul#mysidebar {
     background-color: whitesmoke !important;
 }
 
+.nav li.thirdlevel > a > span:after {
+    content: '';
+}
+
+.nav li.secondlevel > a {
+    color: #248EC2;
+    font-weight:bold;
+    padding-left:10px;
+    background-color: whitesmoke !important;
+}
+
+.nav li.secondlevel > a > span:after {
+    content: '';
+}
 
 .nav ul li a {
     background-color: #FAFAFA;
@@ -403,6 +417,14 @@ ul#mysidebar {
 }
 
 .nav li a:hover {
+    background-color: #8D8D8D;
+}
+
+.nav li.thirdlevel a:hover {
+    background-color: #8D8D8D;
+}
+
+.nav li.secondlevel a:hover {
     background-color: #8D8D8D;
 }
 

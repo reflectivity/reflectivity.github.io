@@ -8,10 +8,18 @@
             </a>
             <ul>
                 {% for folder in entry.folders %}
+                    {% if folder.url %}
+                    <li class="secondlevel">
+                        <a href="{{ folder.url }}">{{ folder.title }}</a>
+                    {% elsif folder.external_url %}
+                    <li class="secondlevel">
+                        <a href="{{ folder.external_url }}" target="_blank" rel="noopener">{{ folder.title }}</a>
+                    {% else %}
                     <li>
                         <a>{{ folder.title }}</a>
+                    {% endif %}
                         <ul>
-                            <li class="thirdlevel">
+                            <li>
                                 {% for link in folder.links %}
                                     {% if page.permalink == link.url %}
                                         <li class="active">
@@ -20,13 +28,13 @@
                                             </a>
                                         </li>
                                     {% elsif link.external_url.size > 0 %}
-                                        <li>
+                                        <li class="thirdlevel">
                                             <a href="{{ link.external_url }}" target="_blank" rel="noopener">
                                                 {{ link.title }} 
                                             </a>
                                         </li>
                                     {% else %}
-                                        <li>
+                                        <li class="thirdlevel">
                                             <a href="{{ link.url }}">
                                                 {{ link.title }}
                                             </a>

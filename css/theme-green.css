@@ -39,6 +39,12 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
     font-weight: bold;
 }
 
+.nav li.secondlevel > a {
+    background-color: #FAFAFA !important;
+    color: #72ac4a;
+    font-weight: bold;
+}
+
 a[data-toggle="tooltip"] {
     color: #649345;
     font-style: italic;
