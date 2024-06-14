@@ -1,4 +1,3 @@
----
 
 [<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">]()
 **Open Reflectometry Standards Organisation**
