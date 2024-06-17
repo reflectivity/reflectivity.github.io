@@ -11,6 +11,11 @@ of neutron and X-ray reflectometry.*
 
 ---
 
+> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
+> [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
+> [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
+> [[ orso workshops ]](https://www.reflectometry.org/workshops) 
+
 ### learn about reflectometry
 
 > [[ simple intro ]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
@@ -39,14 +44,8 @@ of neutron and X-ray reflectometry.*
 > & [ examples \]](https://slddb.esss.dk/slddb/sample)
 > [[ standard samples ]](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
-### organisation & communication
+### communication channels:
 
-> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
-> [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
-> [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
-> [[ orso workshops ]](https://www.reflectometry.org/workshops) 
->  
-> **communication channels:**  
 > [[ mailing list ]](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
 > [[ archive of mail shots ]](https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
 > [[ slack ]](https://orso-co.slack.com) 
@@ -55,12 +54,9 @@ of neutron and X-ray reflectometry.*
 
 ---
 
-<details>
-
-<summary>further relevant links</summary>
-
+> **further relevant links**  
 > [[ canSAS ]](https://www.cansas.org)
 > [[ DAPHNE4NFDI ]](https://www.daphne4nfdi.de/english/index.php)
 > [[ other workshops ]](https://www.reflectometry.org/organisation_and_communication/other_links)
 
-</details>
+
