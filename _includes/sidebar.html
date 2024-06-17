@@ -1,0 +1,58 @@
+{% assign sidebar = site.data.sidebar.entries %}
+
+<ul id="mysidebar" class="nav" style="height: 80%; overflow: auto">
+    {% for entry in sidebar %}
+        <li>
+            <a title="{{entry.title}}" href="#">
+                {{ entry.title }}
+            </a>
+            <ul>
+                {% for folder in entry.folders %}
+                    {% if folder.url %}
+                    <li class="secondlevel">
+                        <a href="{{ folder.url }}">{{ folder.title }}</a>
+                    {% elsif folder.external_url %}
+                    <li class="secondlevel">
+                        <a href="{{ folder.external_url }}" target="_blank" rel="noopener">{{ folder.title }}</a>
+                    {% else %}
+                    <li>
+                        <a>{{ folder.title }}</a>
+                    {% endif %}
+                        <ul>
+                            <li>
+                                {% for link in folder.links %}
+                                    {% if page.permalink == link.url %}
+                                        <li class="active">
+                                            <a href="{{ link.url }}">
+                                                {{ link.title }}
+                                            </a>
+                                        </li>
+                                    {% elsif link.external_url.size > 0 %}
+                                        <li class="thirdlevel">
+                                            <a href="{{ link.external_url }}" target="_blank" rel="noopener">
+                                                {{ link.title }} 
+                                            </a>
+                                        </li>
+                                    {% else %}
+                                        <li class="thirdlevel">
+                                            <a href="{{ link.url }}">
+                                                {{ link.title }}
+                                            </a>
+                                        </li>
+                                    {% endif %}
+                                {% endfor %}
+                            </li>
+                        </ul>
+                    </li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+    <p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="{{ page.url }}" id="expandAll">Expand All</a>
+    </p>
+</ul>
+
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>

@@ -1,0 +1,24 @@
+- title: Education & Outreach
+  chairs:
+  - name: Tom Arnold
+    email: tom.arnold@ess.eu
+  - name: Bridget Murphy
+    email: murphy@physik.uni-kiel.de
+- title: File Formats
+  chairs:
+  - name: Jochen Stahn
+    email: jochen.stahn@psi.ch
+  - name: Max Skoda
+    email: maximilian.skoda@stfc.ac.uk
+- title: Analysis
+  chairs:
+  - name: Brian Maranville
+    email: brian.maranville@nist.gov
+  - name: Andrew Nelson
+    email: anz@ansto.gov.au
+- title: Reproducibility
+  chairs: 
+  - name: Andrew McCluskey
+    email: andrew.mccluskey@bristol.ac.uk
+  - name: Stefan Kowarik (Acting)
+    email: stefan.kowarik@uni-graz.at

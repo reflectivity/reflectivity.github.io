@@ -1,74 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Title of the GitHub repository
+repository: reflectivity/reflectivity.github.io
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: ORSO
-author: ORSO
-description: Torwards a collaborative neutron and X-ray reflectivity community.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://reflectivity.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-lang: en
-timezone: UTC
+# This appears on the top navigation bar next to the home button
+topnav_title: ORSO
+
+# This appears in the html browser tab for the site title (seen mostly by search engines, not users)
+site_title: Open Reflectometry Standards Organisation
+
+# Site logo
+logo: https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png
+
+# The preview server and port used. Leave as is.
+host: 127.0.0.1
+port: 4000
+
+# These are the files and directories that jekyll will exclude from the build
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - README.md
-  - LICENSE.txt
-  - CHANGELOG.md
-  - jekyll-whiteglass.gemspec
-  - screenshot.png
+  - .idea/
+  - .gitignore
   - vendor
 
-# Social media
-twitter_username:
-twitter_image:
-facebook_app_id:
-facebook_image:
-google_analytics:
-comments: false
+# Library used for code syntax highlighting
+highlighter: rouge
 
-# Plugins
-plugins:
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Build settings
+# Filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 markdown: kramdown
-excerpt_separator: "<!-- more -->"
-
-# Outputting
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 5
-
-# Markdown settings
 kramdown:
-  auto_ids: false
-  enable_coderay: false
-  entity_output: as_char
-  footnote_nr: 1
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: 1..6
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 
-# jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+github: [metadata]

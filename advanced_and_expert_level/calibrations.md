@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Advice on instrument calibration"
-permalink: /learn_about_reflectometry/calibrations
+permalink: /advanced_and_expert_level/calibrations
 author: "Andrew McCluskey, Andrew Nelson"
 ---
 

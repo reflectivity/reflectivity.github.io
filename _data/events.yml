@@ -1,0 +1,10 @@
+- type: Conferences
+  items: 
+  - name: SXNS17
+    url: https://workshops.ill.fr/event/393/
+- type: Seminars
+  items:
+- type: Schools
+  items:
+  - name: DMSC Summer School
+    url: https://indico.ess.eu/event/3514/

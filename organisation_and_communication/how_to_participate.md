@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How to interact with ORSO"
-permalink: /organisation_and_communication/how_to_participate/
+permalink: /organisation_and_communication/how_to_participate
 author: "Wojciech Potrzebowski"
 ---
 If you are interested in joining ORSO you may consider watching following videos:

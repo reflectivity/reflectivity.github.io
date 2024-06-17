@@ -1,0 +1,81 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Learn About Reflectometry
+  folders: 
+  - title: Materials 
+    links:
+    - title: Simple Introduction
+      url: /learn_about_reflectometry/simple_intro
+    - title: Reflectometry Guide
+      external_url: https://www.reflectometry.org/learn/intro.html
+    - title: Introductory Lecture
+      external_url: https://www.youtube.com/watch?v=PHBLK_3sfi8
+    - title: Key Publications
+      url: /learn_about_reflectometry/orso_papers
+  - title: How To Get Beamtime
+    links:
+    - title: Neutron Reflectometers
+      url: /learn_about_reflectometry/list_of_neutron_reflectometers
+    - title: X-ray Reflectometers
+      url: /learn_about_reflectometry/list_of_x-ray_reflectometers
+    - title: Advice for Facility Users
+      url: /learn_about_reflectometry/advice_for_facility_users
+  - title: Tools
+    links:
+    - title: Analysis Software
+      url: /learn_about_reflectometry/analysis_software
+    - title: SLD Database
+      external_url: https://slddb.esss.dk/slddb/
+- title: Advanced and Expert Users
+  folders: 
+  - title: Advice & Best Practices
+    links:
+    - title: Calibrations
+      url: /advanced_and_expert_level/calibrations
+    - title: Reproducibility
+      url: /advanced_and_expert_level/reproducibility_checklist
+    - title: Reporting Bayesian Analysis
+      external_url: https://journals.iucr.org/j/issues/2023/01/00/yr5098/index.html
+  - title: Standards & Implementation
+    links: 
+    - title: File Format
+      url: /advanced_and_expert_level/file_format
+    - title: Orsopy
+      external_url: https://www.reflectometry.org/orsopy/
+    - title: Model Language
+      url: /advanced_and_expert_level/file_format/simple_model
+    - title: Standard Samples
+      url: /advanced_and_expert_level/standard_samples
+- title: Organisation and Communcation
+  folders:
+  - title: About ORSO
+    links:
+    - title: Who We Are
+      url: /organisation_and_communication/
+    - title: ORSO Governing Principles
+      url: /organisation_and_communication/orso_governing_principles
+    - title: How To Participate
+      url: /organisation_and_communication/how_to_participate
+    - title: ORSO Workshops
+      url: /workshops/
+  - title: Communication Channels
+    links: 
+    - title: Mailing List
+      external_url: https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4
+    - title: Archive
+      external_url: https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4
+    - title: Slack
+      external_url: https://orso-co.slack.com/
+    - title: GitHub
+      external_url: https://github.com/reflectivity
+    - title: Contacts
+      url: /organisation_and_communication/contacts
+- title: Further Relevant Links
+  folders: 
+  - title: canSAS
+    external_url: https://www.cansas.org/
+  - title: DAPHNE4NFDI
+    external_url: https://www.daphne4nfdi.de/english/index.php
+  - title: Other Workshops
+    url: /organisation_and_communication/other_links
