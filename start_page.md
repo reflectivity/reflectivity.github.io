@@ -1,11 +1,16 @@
 
-[<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">]()
+[<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">]() 
 **Open Reflectometry Standards Organisation**
 
 *ORSO is an international, open effort to improve the scientific techniques 
 of neutron and X-ray reflectometry.*
 
 ---
+
+> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
+> [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
+> [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
+> [[ orso workshops ]](https://www.reflectometry.org/workshops) 
 
 ### learn about reflectometry
 
@@ -35,19 +40,13 @@ of neutron and X-ray reflectometry.*
 > & [ examples \]](https://slddb.esss.dk/slddb/sample)
 > [[ standard samples ]](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
-### organisation & communication
-
-> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
-> [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
-> [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
-> [[ orso workshops ]](https://www.reflectometry.org/workshops) 
->  
-> **communication channels:**  
+### communication
+ 
+> [[ contacts ]](https://www.reflectometry.org/organisation_and_communication/contacts)
+> [[ github ]](https://github.com/reflectivity)
+> [[ slack ]](https://orso-co.slack.com) 
 > [[ mailing list ]](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
 > [[ archive of mail shots ]](https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
-> [[ slack ]](https://orso-co.slack.com) 
-> [[ github ]](https://github.com/reflectivity) 
-> [[ contacts ]](https://www.reflectometry.org/organisation_and_communication/contacts) 
 
 ---
 
