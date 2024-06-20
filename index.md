@@ -1,10 +1,9 @@
 ---
-title: "ORSO Homepage"
+title: "Open Reflectometry Standards Organisation"
 permalink: /index.html
 ---
 
-[<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">]()
-**Open Reflectometry Standards Organisation**
+<img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">
 
 *ORSO is an international, open effort to improve the scientific techniques 
 of neutron and X-ray reflectometry.*
@@ -14,11 +13,11 @@ of neutron and X-ray reflectometry.*
 > [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
 > [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
 > [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
-> [[ orso workshops ]](https://www.reflectometry.org/workshops) 
+> [[ **orso workshops** ]](https://www.reflectometry.org/workshops) 
 
 ### learn about reflectometry
 
-> [[ simple intro ]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
+> [[ **simple intro** ]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
 > [[ tutorials ]]()
 > [[ key publications ]]()
 >
@@ -27,8 +26,8 @@ of neutron and X-ray reflectometry.*
 > [[ advice for facility users ]](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users/)
 > 
 > **tools:**  
-> [[ analysis software ]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
-> [[ SLD data base ]](https://slddb.esss.dk/slddb/)
+> [[ **analysis software** ]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
+> [[ **SLD data base** ]](https://slddb.esss.dk/slddb/)
 
 ### advanced and expert level
 
@@ -39,18 +38,18 @@ of neutron and X-ray reflectometry.*
 > 
 > **standards & implementation:**  
 > [\[ file format ](https://www.reflectometry.org/advanced_and_expert_level/file_format)
-> & [ orsopy \]](https://orsopy.readthedocs.io/en/latest)
+> & [ **orsopy** \]](https://orsopy.readthedocs.io/en/latest)
 > [\[ model language ](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) 
 > & [ examples \]](https://slddb.esss.dk/slddb/sample)
 > [[ standard samples ]](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 
 ### communication channels:
 
+> [[ contacts ]](https://www.reflectometry.org/organisation_and_communication/contacts) 
 > [[ mailing list ]](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
 > [[ archive of mail shots ]](https://us10.campaign-archive.com/home/?u=e7e953117fa45f665f9030aaa&id=fa298202d4) 
 > [[ slack ]](https://orso-co.slack.com) 
 > [[ github ]](https://github.com/reflectivity) 
-> [[ contacts ]](https://www.reflectometry.org/organisation_and_communication/contacts) 
 
 ---
 
