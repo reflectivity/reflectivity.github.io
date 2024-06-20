@@ -10,20 +10,20 @@ of neutron and X-ray reflectometry.*
 
 ---
 
-> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication/who_we_are) 
-> [[ ORSO Governing Principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
+> [[ who we are ]](https://www.reflectometry.org/organisation_and_communication) 
+> [[ orso governing principles ]](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles) 
 > [[ how to participate ]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
 > [[ **orso workshops** ]](https://www.reflectometry.org/workshops) 
 
 ### learn about reflectometry
 
 > [[ **simple intro** ]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
-> [[ tutorials ]]()
-> [[ key publications ]]()
+> [[ tutorial ]](https://www.reflectometry.org/learn/intro.html)
 >
 > **how to get beamtime:**  
-> [[ table of reflectometers ]]()
-> [[ advice for facility users ]](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users/)
+> [[ x-ray reflectometers ]](https://www.reflectometry.org/learn_about_reflectometry/list_of_x-ray_reflectometers)
+> [[ neutron reflectometers ]](https://www.reflectometry.org/learn_about_reflectometry/list_of_neutron_reflectometers)
+> [[ advice for facility users ]](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users)
 > 
 > **tools:**  
 > [[ **analysis software** ]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
@@ -32,8 +32,8 @@ of neutron and X-ray reflectometry.*
 ### advanced and expert level
 
 > **advice & best practice:**  
-> [[ instrument callibration ]](https://www.reflectometry.org/learn_about_reflectometry/calibrations)
-> [[ reproducibility checklist ]](https://www.reflectometry.org/learn_about_reflectometry/reproducibility_checklist)
+> [[ instrument callibration ]](https://www.reflectometry.org/advanced_and_expert_level/calibrations)
+> [[ reproducibility checklist ]](https://www.reflectometry.org/advanced_and_expert_level/reproducibility_checklist)
 > [[ Bayesian analysis ]](https://journals.iucr.org/j/issues/2023/01/00/yr5098/index.html)
 > 
 > **standards & implementation:**  
