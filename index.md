@@ -8,7 +8,7 @@ permalink: /index.html
 *ORSO is an international, open effort to improve the scientific techniques 
 of neutron and X-ray reflectometry.*
 
-### [6*th* orso annual meeting](https://www.reflectometry.org/workshops/workshop_2024), Grenoble FR, 2024-07-19
+### &rarr; [6*th* orso annual meeting](https://www.reflectometry.org/workshops/workshop_2024), Grenoble FR, 2024-07-19
 
 ---
 
