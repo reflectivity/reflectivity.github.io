@@ -22,7 +22,9 @@ The mission of [DAPHNE4NFDI](https://www.daphne4nfdi.de/english/index.php) is to
 
 ## Outline of planned agenda
 
-We have suggested 6 discussion sessions that will be run in parallel during the morning and afternoon. We would also like to invite the community to raise any issues that they would like to discuss, and have reserved slots for extra parallel sessions as required. If you would like to propose a discussion session please submit an abstract [here](https://indico.esss.lu.se/event/3461) or discuss with on of the chairs.
+### 08:50-09:00 Opening Plenary 
+
+The meeting will start at 08:50 with a short plenary in the ESRF Auditorium to explain how the parallel sessions will work.
 
 ## Morning Parallel Breakout Sessions
 
@@ -41,10 +43,14 @@ The output is expected to be a joint paper on Metadata and the setting up of a r
 You are welcome to fill-in the survey [here](https://docs.google.com/forms/d/e/1FAIpQLSdx4waVnd19mK2QW_qBlYsS1E8Z_PhjQ5pxQUTUSemUacikjQ/viewform).
 
 ### 09:00-10:20 SLD database (Chaired by Tom Arnold, Jochen Stahn)
-The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live, and we would like to host a session to
-*  Present the database and receive feedback
-*  Demonstrate usage and data entry
-*  Actively contribute data to the database
+The [ORSO SLD database](https://slddb.esss.dk/slddb/) is now live.
+
+The first part of the session will be used to present the current status of the database:
+*  **Artur Glavic: Presention of the database including a demonstration of usage and data entry**
+*  Feedback and discussion
+
+In the secod part of the session we will actively ask you to contribute data to the database. To do this please bring with you some details of the materials you used in your recent publications. The idea is to check that the relevant parameters & references are entered into the database and to input the data if not. 
+
 
 ## 10:20 - 10:40 Coffee break 
 
@@ -70,57 +76,20 @@ Andrew will introduce the online material and how changes can be made to the mat
 You will then be set of to work, independly or in group to improve the material in whatever way that you see fit. 
 Andrew will be around to help anyone that is struggling with the technology. 
 
-## 12:00 - 13:00 Lunch
 
-## Afternoon Plenary session 13:00-14:45
+## Afternoon Parallel Breakout Sessions 12:00-14:45
 
-### Keynote science talk(s) 13:00-13:45
+## 13:00 - 14:00 Lunch break 
+The afternoon sessions will break for lunch at 13:00
 
-Speaker(s):
-
-**Mathieu Doucet (Neutron Scattering Division, ORNL): "Time-resolved neutron reflectometry study of lithium-mediated nitrogen reduction"**
-
-Abstract: Li-mediated electrochemical reduction of nitrogen to NH3 has been identified as an alternative to the resource-demanding Haber-Bosch ammonia process. Through this process, an initial electrodeposition of Li is followed by a reaction to form Li3N and subsequent ethanolysis of Li3N to form NH3. We studied Li electrodeposition on molybdenum and copper thin films and compared LiClO4 and LiBF4-based THF electrolytes. 
-We used time-resolved neutron reflectometry to understand the SEI formation during the nitrogen reduction process. 
-The neutron reflectometry data acquired during plating was sliced in 15- to 60-second intervals in a wide enough Q range to allow time-resolved modeling of the plating and SEI formation processes. We will present our approach to time-resolved reflectometry and discuss the recent developments and challenges of analyzing transient data.
-
-**Stefan Kowarik (University of Graz): "Quick XRR down to 300 µs and fast, accurate AI analysis”**
-
-Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond timeframes using fast scanning galvo mirrors / rotating samples, and going to the limits of detectors and photon flux at synchrotrons. Leveraging the speed of quick XRR, this method permits the real-time monitoring of rapid thin film deposition processes such as spin coating. The resultant high volume of XRR data, often reaching tens of thousands of curves, benefits from the integration of a rapid machine learning algorithms. These AI / machine learning algorithms not only expedite the analysis but also surpass traditional differential evolution methods with fewer outliers. Additionally, AI-controlled adaptive in XRR measurements can contribute to a fourfold reduction in the number of measurement points required for comparable results.  These methods together pave the way for XRR to study ever faster processes in fields such as electrochemistry or thin film growth.
-  
-
-### Annual General Meeting
-
-**13:45 – 14.05: Short Reports from each of the Working groups.**
-
-* Tom Arnold, Bridget Murphy: Education & Outreach Working Group (inc. review of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).)
-* Andrew McCluskey: Reproducibility Working Group 
-* Max Skoda, Jochen Stahn: Data Formats Working Group 
-* Brian Maranville, Andrew Nelson: Data Analysis Working Group Presentation
-
-**14:05 - 14:40 How to get involved and contribute to ORSO**
-We would like to have a discussion on how to encourage contributions to ORSO. This will involve a short explaination on how we currently work with demonstrations aimed at different levels including: 
-* A survey of how people would be able to contribute. Please complete this [survey](https://reflectometry.us10.list-manage.com/track/click?u=e7e953117fa45f665f9030aaa&id=25f4a162c3&e=36bf5c9247) in advance of the meeting! 
-* Introduction to GitHub
-* How to edit the website and contribute material
-
-**14:40 - 15:00: Voting**
-
-* Explanation of ORSO organisation & voting methodology
-* Election of 4 chairs (1 from each working group)
-
-## 15:00 - 15:30 Coffee break 
-
-## Afternoon Parallel Breakout Sessions 15:30-17:00
-
-### 15:30 - 17:00 Reproducibility working group (Chaired by Bridget Murphy, Max Skoda)
+### 12:00 - 14:45 Reproducibility working group (Chaired by Bridget Murphy, Max Skoda)
 
 Several tasks within ORSO present opportunities for application of machine learning techniques, such as experimental design, script generation, and fitting procedures. Machine learning often relies on training with existing data, and the process of curating appropriate training datasets is frequently the most challenging and time-intensive aspect of model development. Notably, the collective expertise of x-ray and neutron reflectivity users encompasses a wealth of (labeled) datasets, including data, fitting models, and experiment scripts. Consolidating these resources into a unified database could yield significant synergistic advantages. Such a repository would facilitate easy access to labeled data for individuals seeking training datasets and for those validating their own models and scripts. In this session, our aim is to explore the potential benefits of such a database and to discern the necessary steps for its establishment.
 
 * [Talk by Jos Cooper (ESS): Optimizing experiments and creating unlimited realistic data for AI using HOGBEN](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2024/ORSO_HOGBEN_2024.pdf)
 * A discussion on the potential for reference datasets for machine learning and other uses
 
-### 15:30 - 17:00 Recent Developments in Reflectometry Analysis (Chaired by Andrew Nelson)
+### 12:00 - 14:45 Recent Developments in Reflectometry Analysis (Chaired by Andrew Nelson)
 
 This session will discuss recent developments to the state of the art reflectometry packages available to the scientific community. Each package will have the opportunity to give a 10-15 minute presentation, which is intended to stimulate conversations for new scientific directions.
 
@@ -141,3 +110,46 @@ If time permits there will be a talk and short discussion on 'lost' techniques -
 * anaklasis - Alexandros Koutsioumpas
 * BornAgain - Joachim Wuttke
 * easyReflectivity - Andrew McCluskey
+
+
+## Afternoon Plenary session 15:00-17:00
+
+### Keynote science talk(s) 15:00-15:45
+
+Speaker(s):
+
+**Mathieu Doucet (Neutron Scattering Division, ORNL): "Time-resolved neutron reflectometry study of lithium-mediated nitrogen reduction"**
+
+Abstract: Li-mediated electrochemical reduction of nitrogen to NH3 has been identified as an alternative to the resource-demanding Haber-Bosch ammonia process. Through this process, an initial electrodeposition of Li is followed by a reaction to form Li3N and subsequent ethanolysis of Li3N to form NH3. We studied Li electrodeposition on molybdenum and copper thin films and compared LiClO4 and LiBF4-based THF electrolytes. 
+We used time-resolved neutron reflectometry to understand the SEI formation during the nitrogen reduction process. 
+The neutron reflectometry data acquired during plating was sliced in 15- to 60-second intervals in a wide enough Q range to allow time-resolved modeling of the plating and SEI formation processes. We will present our approach to time-resolved reflectometry and discuss the recent developments and challenges of analyzing transient data.
+
+**Stefan Kowarik (University of Graz): "Quick XRR down to 300 µs and fast, accurate AI analysis”**
+
+Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond timeframes using fast scanning galvo mirrors / rotating samples, and going to the limits of detectors and photon flux at synchrotrons. Leveraging the speed of quick XRR, this method permits the real-time monitoring of rapid thin film deposition processes such as spin coating. The resultant high volume of XRR data, often reaching tens of thousands of curves, benefits from the integration of a rapid machine learning algorithms. These AI / machine learning algorithms not only expedite the analysis but also surpass traditional differential evolution methods with fewer outliers. Additionally, AI-controlled adaptive in XRR measurements can contribute to a fourfold reduction in the number of measurement points required for comparable results.  These methods together pave the way for XRR to study ever faster processes in fields such as electrochemistry or thin film growth.
+  
+## 14:45 - 15:00 Coffee break 
+
+### Annual General Meeting
+
+**15:45 – 16.05: Short Reports from each of the Working groups.**
+
+* Tom Arnold, Bridget Murphy: Education & Outreach Working Group (inc. review of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).)
+* Andrew McCluskey: Reproducibility Working Group 
+* Max Skoda, Jochen Stahn: Data Formats Working Group 
+* Brian Maranville, Andrew Nelson: Data Analysis Working Group Presentation
+
+**16:05 - 16:40 How to get involved and contribute to ORSO**
+We would like to have a discussion on how to encourage contributions to ORSO. This will involve a short explaination on how we currently work with demonstrations aimed at different levels including: 
+* A survey of how people would be able to contribute. Please complete this [survey](https://reflectometry.us10.list-manage.com/track/click?u=e7e953117fa45f665f9030aaa&id=25f4a162c3&e=36bf5c9247) in advance of the meeting! 
+* Introduction to GitHub
+* How to edit the website and contribute material
+
+**16:40 - 17:00: Voting**
+
+* Explanation of ORSO organisation & voting methodology
+* Election of 4 chairs (1 from each working group)
+
+### Close
+
+
