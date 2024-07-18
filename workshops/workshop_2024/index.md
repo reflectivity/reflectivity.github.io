@@ -56,7 +56,7 @@ In the secod part of the session we will actively ask you to contribute data to 
 
 ### 10:40-12:00 Discussion on the orso model language(s) (Chaired by Brian Maranville)
 
-The [model languge](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) initiative within ORSO is an effort to create a standard way to specify a reflectometry model.  As a first step, we want to provide a syntax to define a layered structure with slabs of material with a known scattering strength (SLD) or Material. 
+The [model language](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) initiative within ORSO is an effort to create a standard way to specify a reflectometry model.  As a first step, we want to provide a syntax to define a layered structure with slabs of material with a known scattering strength (SLD) or Material. 
 
 In addition we define a very compact syntax for providing a quick summary of the structure of layered samples, that can be added to searchable metadata attached to an ORSO datafile, e.g. "air  \| Ni 100  \| SiO2 0.5  \| Si".  
 
@@ -137,8 +137,8 @@ Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond
 * Tom Arnold, Bridget Murphy: Education & Outreach Working Group (inc. review of the [ORSO Governing Principles](https://www.reflectometry.org/organisation_and_communication/orso_governing_principles/).)
 * Andrew McCluskey: Reproducibility Working Group 
 * Max Skoda, Jochen Stahn: Data Formats Working Group 
-* Brian Maranville, Andrew Nelson: Data Analysis Working Group Presentation
-
+* Brian Maranville, Andrew Nelson: [Data Analysis Working Group Presentation](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2024/ORSO-analysis-update.pdf)
+  
 **16:05 - 16:40 How to get involved and contribute to ORSO**
 We would like to have a discussion on how to encourage contributions to ORSO. This will involve a short explaination on how we currently work with demonstrations aimed at different levels including: 
 * A survey of how people would be able to contribute. Please complete this [survey](https://reflectometry.us10.list-manage.com/track/click?u=e7e953117fa45f665f9030aaa&id=25f4a162c3&e=36bf5c9247) in advance of the meeting! 
