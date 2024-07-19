@@ -10,7 +10,9 @@ Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale s
 - **Depth Profiling**: These techniques offer depth profiles by evaluating reflectivity changes with angle, revealing layer thicknesses, interface roughness, and density gradients not just in single layers but also in stacks of many layers.
 - **<i>In situ</i> capability**:  Quick reflectometry measurements on the sub-second scale can probe the growth of novel thin film (2D) materials, and follow structural changes during adsorption processes, thermal annealing or optically induced changes. Neutrons and X-rays can penetrate matter, liquids, gases or vacuum so reflectometry as a non-invasive technique is very flexible with respect to sample environments.
 
-
+<center>
+<img src="/assets/insituXRR.gif" alt="A simple diagram of a reflectometry step up">
+</center>
 
 <center>
 <img src="/assets/simple.png" alt="A simple diagram of a reflectometry step up">
