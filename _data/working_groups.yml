@@ -2,12 +2,12 @@
   chairs:
   - name: Tom Arnold
     email: tom.arnold@ess.eu
-  - name: Bridget Murphy
-    email: murphy@physik.uni-kiel.de
+  - name: Stefan Kowarik
+    email: stefan.kowarik@uni-graz.at
 - title: File Formats
   chairs:
-  - name: Jochen Stahn
-    email: jochen.stahn@psi.ch
+  - name: Jos Cooper
+    email: Jos.Cooper@ess.se
   - name: Max Skoda
     email: maximilian.skoda@stfc.ac.uk
 - title: Analysis
@@ -20,5 +20,11 @@
   chairs: 
   - name: Andrew McCluskey
     email: andrew.mccluskey@bristol.ac.uk
-  - name: Stefan Kowarik (Acting)
-    email: stefan.kowarik@uni-graz.at
+  - name: Maciej Jankowski   
+    email: maciej.jankowski@esrf.fr
+- title: Sample Environments
+  chairs:
+  - name: Sophie Ayscough
+    email: sophie.ayscough@ess.eu
+  - name: Ben Humphreys
+    email: humphreys@ill.fr
