@@ -31,7 +31,7 @@ All previous suggestions and variants are removed in order to avoid confusion.
   settings already before and during the experiments.
 - **completeness of reflectivity file**  
   The reflectivity file can be related to a sample model without the *external* connection
-  manufactorers lab journal....). 
+  manufacturers lab journal....). 
 - **data analysis**  
   The standardisation allows the analysis software to automatically create a starting model which is 
   not too far from the real one.
