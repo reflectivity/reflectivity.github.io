@@ -428,7 +428,7 @@ accept an *absurd* choice at some point.
 - `layer`
 - `material`
 - `composite` material mixture 
-- `roghness` sigma of the errorfunction describing the density variation at an 'interface'
+- `roughness` sigma of the error function describing the density variation at an 'interface'
 - `composition`
 - `density` (which one?)
 - `mass_density`
