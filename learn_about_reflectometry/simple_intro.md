@@ -11,7 +11,7 @@ Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale s
 - **<i>In situ</i> capability**:  Quick reflectometry measurements on the sub-second scale can probe the growth of novel thin film (2D) materials, and follow structural changes during adsorption processes, thermal annealing or optically induced changes. Neutrons and X-rays can penetrate matter, liquids, gases or vacuum so reflectometry as a non-invasive technique is very flexible with respect to sample environments.
 
 <center>
-<img src="/assets/insituXRR.gif" alt="A simple diagram of a reflectometry step up">
+<img src="/assets/insituXRR.gif" alt="reflectometry from a growing thin film">
 </center>
 
 <center>
