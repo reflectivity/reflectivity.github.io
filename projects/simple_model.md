@@ -31,18 +31,18 @@ All previous suggestions and variants are removed in order to avoid confusion.
   settings already before and during the experiments.
 - **completeness of reflectivity file**  
   The reflectivity file can be related to a sample model without the *external* connection
-  manufactorers lab journal....). 
+  manufacturers lab journal....). 
 - **data analysis**  
-  The standadisation allows the analysis software to automatically create a starting model which is 
+  The standardisation allows the analysis software to automatically create a starting model which is 
   not too far from the real one.
 - **indexing of data and analysis**  
-  A standadised model might be used for indexing and filing of the data - within the lab or on a more general 
+  A standardised model might be used for indexing and filing of the data - within the lab or on a more general 
   scale. This might be used to train AI algorithms.
     
 
 ### complexity
 
-This langage allows to provide a **very simple** model description on only 2 lines:
+This language allows to provide a **very simple** model description on only 2 lines:
 
 ``` YAML
    model:
@@ -258,13 +258,13 @@ If information about a layer besides its chemical composition (and thus the dens
 >           thickness: 7.5     
 >   ```   
 
-#### composits
+#### composites
 
-A composit behaves like a material, but is made up from (on or) several materials with respective relative densities.
+A composite behaves like a material, but is made up from (on or) several materials with respective relative densities.
 It enables an easy way to define mixtures (solvents, interdiffusion, absorption).   
 
 ``` YAML
-    compositis:
+    composites:
       <name>:
         <material 1>: <rel. density 1>
         <material 2>: <rel. density 2>
@@ -273,7 +273,7 @@ It enables an easy way to define mixtures (solvents, interdiffusion, absorption)
 > Example:
 >  
 > ``` YAML
->     composits:
+>     composites:
 >       solvent:
 >          cyclohexane: 0.6
 >          toluene: 0.4
@@ -427,8 +427,8 @@ accept an *absurd* choice at some point.
 - `stack`
 - `layer`
 - `material`
-- `composit` material mixture 
-- `roghness` sigma of the errorfunction describing the density variation at an 'interface'
+- `composite` material mixture 
+- `roughness` sigma of the error function describing the density variation at an 'interface'
 - `composition`
 - `density` (which one?)
 - `mass_density`
