@@ -6,25 +6,18 @@ permalink: /workshops/workshop_2024/
 
 # the 6th Open Reflectometry Standards Organisation ORSO annual meeting
 
-Will take place on the 19th July at ILL/ESRF campus as a satellite to the [SXNS17 Conference](https://workshops.ill.fr/e/sxns17). 
-Physical attendance will require registration at SXNS, but we will additionally run some hybrid sessions for remote participants.
+Took place on the 19th July at ILL/ESRF campus as a satellite to the [SXNS17 Conference](https://workshops.ill.fr/e/sxns17). 
 
-* To register for **physical attendance (including SXNS17)** please register [here](https://workshops.ill.fr/event/393/registrations/209/)
-* To register for **remote access only** please  register [here](https://indico.esss.lu.se/event/3461)
-
-If you wish to attend the meeting but not participate in SXNS, please contact [tom](mailto:tom.arnold@ess.eu)
-
-The meeting is organised (including financial support) in association with: 
+The meeting was organised (including financial support) in association with: 
 
 ![image](DAPHNE4NFDI_logo_cut.jpg)
 
 The mission of [DAPHNE4NFDI](https://www.daphne4nfdi.de/english/index.php) is to make data from photon and neutron experiments "FAIR", thereby making scientific work more efficient and gaining more knowledge from the data.
 
-## Outline of planned agenda
+Unfortunately we were not able to record all of the sessions, but all available content from the meeting will be linked here:
 
-### 08:50-09:00 Opening Plenary 
+## Session details
 
-The meeting will start at 08:50 with a short plenary in the ESRF Auditorium to explain how the parallel sessions will work.
 
 ## Morning Parallel Breakout Sessions
 
@@ -106,7 +99,7 @@ If time permits there will be a talk and short discussion on 'lost' techniques -
 * genx - Artur Glavic
 * refl1d - Brian Maranville
 * RasCal - Arwel Hughes 
-* mlreflect - TBD who presents
+* mlreflect - Vlad Starostin
 * anaklasis - Alexandros Koutsioumpas
 * BornAgain - Joachim Wuttke
 * easyReflectivity - Andrew McCluskey
