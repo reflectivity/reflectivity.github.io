@@ -4,12 +4,12 @@ title: "ORSO Workshops and Seminars"
 permalink: /workshops/
 ---
 
-# Upcoming events
+# Recent events
 
 ## the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
-The 2024 annual meeting of ORSO will take place in person on 19th July as a satelite of the [SXNS17](https://workshops.ill.fr/event/393/) meeting at ILL & ESRF Campus, in Grenoble, France. 
+The 2024 annual meeting of ORSO took place in person on 19th July as a satelite of the [SXNS17](https://workshops.ill.fr/event/393/) meeting at ILL & ESRF Campus, in Grenoble, France. 
 
-Registration is now open and more details of the workshop are available [here](./workshop_2024/)
+Details of the workshop are available [here](./workshop_2024/)
 
 # Historical ORSO Workshops
 
@@ -19,6 +19,7 @@ Each of the ORSO working groups meets in between AGMs to review open issues. The
 
 | Meeting or Workshop |      Date      |  Place |  Meeting report | 
 |----------|:-------------:|:------:|:------:|
+| 6th Annual Meeting | July 2024 |   [Grenoble, France](./workshop_2024/)  |  |
 | 5th Annual Meeting | June 2023 |   [Online](./workshop_2023/)  |  |
 | 4th Annual Meeting | June 2022 |   [Online](./workshop_2022/)  |  |
 | 3rd Annual Meeting | June 2021 |   [Online](./workshop_2021/)  | [Neutron News](https://doi.org/10.1080/10448632.2021.2005422), [SR News](https://doi.org/10.1080/08940886.2022.2043671) |
