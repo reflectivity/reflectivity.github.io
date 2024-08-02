@@ -152,14 +152,15 @@ We would like to have a discussion on how to encourage contributions to ORSO. Th
 **16:40 - 17:00: Voting**
 
 Elections were held and the following people were elected for a 4-year term as ORSO Co-chair:
-Education and Outreach: Stefan Kowarik (Bridget Murphy has stood down)
-Redproducibility: Max Skoda
-Data Formats: Maciej Jankowski (Jochen Stahn has stood down)
-Data Analysis: Andrew Nelson
+* Education and Outreach: Stefan Kowarik (Bridget Murphy has stood down)
+* Redproducibility: Max Skoda
+* Data Formats: Maciej Jankowski (Jochen Stahn has stood down)
+* Data Analysis: Andrew Nelson
 
 In addition it was proposed to create a new working group on Sample Environment. The first chairs of this working group were nominated as:
-Sophie Ayscough 
-Ben Humphreys 
+* Sophie Ayscough 
+* Ben Humphreys 
+
 They will now work to define the scope of this working group
 
 ### Close
