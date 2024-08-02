@@ -28,6 +28,11 @@ The Reflectometry community along users of all Photon and Neutron (PaN) faciliti
 ORSO in collaboration with the DAPHNE4NFDI consortium are addressing the topics and implications of FAIR data and Open Data policy for the reflectometry community. The purpose of the first part of this meeting is to exchange the current status across the world to get as wide as possible an input and discuss the issues from differing national user communities’ perspectives. The session will include:
 
 * Presentations of the work done to date by DAPHNE, ORSO & ExPaNDS
+* Slides:
+  * [Bridget Murphy](https://github.com/reflectivity/reflectivity.github.io/blob/76a34d6ed5aaaa123c6ac72548769cba27080e75/workshops/workshop_2024/1_Daphne_4_ORSO_SXNS17_20240719.pdf),
+  * [Julia Kobos](https://github.com/reflectivity/reflectivity.github.io/blob/76a34d6ed5aaaa123c6ac72548769cba27080e75/workshops/workshop_2024/2_2024_ORSO.pdf),
+  * [Wout De Nolf](https://github.com/reflectivity/reflectivity.github.io/blob/76a34d6ed5aaaa123c6ac72548769cba27080e75/workshops/workshop_2024/3_2024_07_ORSO_WDN.pdf),
+  * [Andy G&ouml;tz](https://github.com/reflectivity/reflectivity.github.io/blob/9e2bbcab92ad8b7e11ad442271dd000ad77f0a25/workshops/workshop_2024/PaNOSC_ExPaNDS_ORSO_2024.pdf)
 * Discussion of overlap and collaboration opportunities
 * Discussion on legal issues associated with personally identifiable info (e.g. GDPR/data protection/names).
 * We also invite any interested particiants to submit an abstract for presentation
@@ -48,6 +53,8 @@ In the secod part of the session we will actively ask you to contribute data to 
 ## 10:20 - 10:40 Coffee break 
 
 ### 10:40-12:00 Discussion on the orso model language(s) (Chaired by Brian Maranville)
+
+[slides](https://github.com/reflectivity/reflectivity.github.io/blob/62c033fec209f6f12d056531012b11f739ec2fb9/workshops/workshop_2024/ORSO_AGM_2024_Analysis_Session_1_Model_Language.pdf)
 
 The [model language](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) initiative within ORSO is an effort to create a standard way to specify a reflectometry model.  As a first step, we want to provide a syntax to define a layered structure with slabs of material with a known scattering strength (SLD) or Material. 
 
@@ -95,13 +102,13 @@ If time permits there will be a talk and short discussion on 'lost' techniques -
 * Talk and short discussion on 'lost' techniques. e.g. Maximum Entropy. 
 
 #### Speakers
-* refnx - Andrew Nelson
+* refnx - Andrew Nelson [slides](https://github.com/reflectivity/reflectivity.github.io/blob/6b05e75fb1f8771ed67524d9cd92eb2bfa0dd000/workshops/workshop_2024/6_ORSO_refnx_update.pdf)
 * genx - Artur Glavic
-* refl1d - Brian Maranville
+* refl1d - Brian Maranville [slides](https://github.com/reflectivity/reflectivity.github.io/blob/6b05e75fb1f8771ed67524d9cd92eb2bfa0dd000/workshops/workshop_2024/3_SXNS_2024_Refl1D_Update.pdf)
 * RasCal - Arwel Hughes 
 * mlreflect - Vlad Starostin
 * anaklasis - Alexandros Koutsioumpas
-* BornAgain - Joachim Wuttke
+* BornAgain - Joachim Wuttke [slides](https://github.com/reflectivity/reflectivity.github.io/blob/6b05e75fb1f8771ed67524d9cd92eb2bfa0dd000/workshops/workshop_2024/talkWuttke.pdf)
 * easyReflectivity - Andrew McCluskey
 
 
@@ -113,11 +120,15 @@ Speaker(s):
 
 **Mathieu Doucet (Neutron Scattering Division, ORNL): "Time-resolved neutron reflectometry study of lithium-mediated nitrogen reduction"**
 
+[slides](https://github.com/reflectivity/reflectivity.github.io/blob/16bd35b760902dc53dabea194fd28f5a78cecd45/workshops/workshop_2024/t_NR_ORSO_doucet.pdf)
+
 Abstract: Li-mediated electrochemical reduction of nitrogen to NH3 has been identified as an alternative to the resource-demanding Haber-Bosch ammonia process. Through this process, an initial electrodeposition of Li is followed by a reaction to form Li3N and subsequent ethanolysis of Li3N to form NH3. We studied Li electrodeposition on molybdenum and copper thin films and compared LiClO4 and LiBF4-based THF electrolytes. 
 We used time-resolved neutron reflectometry to understand the SEI formation during the nitrogen reduction process. 
 The neutron reflectometry data acquired during plating was sliced in 15- to 60-second intervals in a wide enough Q range to allow time-resolved modeling of the plating and SEI formation processes. We will present our approach to time-resolved reflectometry and discuss the recent developments and challenges of analyzing transient data.
 
 **Stefan Kowarik (University of Graz): "Quick XRR down to 300 µs and fast, accurate AI analysis”**
+
+[slides](https://github.com/reflectivity/reflectivity.github.io/blob/f0b1c9d7642ab5ae65edbb102c62ee5ebafc0f4a/workshops/workshop_2024/ORSO_Kowarik_01.pdf)
 
 Abstract: We show that we can accurately measure XRR curves in (sub)-millisecond timeframes using fast scanning galvo mirrors / rotating samples, and going to the limits of detectors and photon flux at synchrotrons. Leveraging the speed of quick XRR, this method permits the real-time monitoring of rapid thin film deposition processes such as spin coating. The resultant high volume of XRR data, often reaching tens of thousands of curves, benefits from the integration of a rapid machine learning algorithms. These AI / machine learning algorithms not only expedite the analysis but also surpass traditional differential evolution methods with fewer outliers. Additionally, AI-controlled adaptive in XRR measurements can contribute to a fourfold reduction in the number of measurement points required for comparable results.  These methods together pave the way for XRR to study ever faster processes in fields such as electrochemistry or thin film growth.
   
