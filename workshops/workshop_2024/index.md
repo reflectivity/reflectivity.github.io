@@ -86,7 +86,7 @@ The afternoon sessions will break for lunch at 13:00
 
 Several tasks within ORSO present opportunities for application of machine learning techniques, such as experimental design, script generation, and fitting procedures. Machine learning often relies on training with existing data, and the process of curating appropriate training datasets is frequently the most challenging and time-intensive aspect of model development. Notably, the collective expertise of x-ray and neutron reflectivity users encompasses a wealth of (labeled) datasets, including data, fitting models, and experiment scripts. Consolidating these resources into a unified database could yield significant synergistic advantages. Such a repository would facilitate easy access to labeled data for individuals seeking training datasets and for those validating their own models and scripts. In this session, our aim is to explore the potential benefits of such a database and to discern the necessary steps for its establishment.
 
-* [Talk by Jos Cooper (ESS): Optimizing experiments and creating unlimited realistic data for AI using HOGBEN](https://github.com/reflectivity/reflectivity.github.io/blob/master/workshops/workshop_2024/ORSO_HOGBEN_2024.pdf)
+* [Talk by Jos Cooper (ESS): Optimizing experiments and creating unlimited realistic data for AI using HOGBEN](https://zenodo.org/records/13219541)
 * A discussion on the potential for reference datasets for machine learning and other uses
 
 ### 12:00 - 14:45 Recent Developments in Reflectometry Analysis (Chaired by Andrew Nelson)
