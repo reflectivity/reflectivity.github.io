@@ -143,7 +143,7 @@ We would like to have a discussion on how to encourage contributions to ORSO. Th
 
 Elections were held and the following people were elected for a 4-year term as ORSO Co-chair:
 * Education and Outreach: Stefan Kowarik (Bridget Murphy has stood down)
-* Redproducibility: Maciej Jankowski
+* Reproducibility: Maciej Jankowski
 * File Formats: Jos Cooper and Max Skoda (Jochen Stahn has stood down)
 * Data Analysis: Andrew Nelson
 
