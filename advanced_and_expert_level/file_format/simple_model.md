@@ -60,9 +60,9 @@ More complexity (e.g. magnetic induction, roughness, reduced density, ...) can b
            rel_density: 0.95
 ```  
 
-Dentailed models for complex samples might reach several tens of lines, thus they are no longer
+Detailed models for complex samples might reach several tens of lines, thus they are no longer
 that *simple*. 
-The idea then is, that recuring fracments (sub-stacks, layers, materials) are defined in detail and strored in a 
+The idea then is, that recuring fragments (sub-stacks, layers, materials) are defined in detail and stored in a 
 local dictionary or even in the orso data base. 
 The model description in the header then stays simple and easy to use.
 
@@ -75,7 +75,7 @@ sample:
     model:
         stack:         string             mandatory   \
         sub_stacks:    dict               optional     |
-        layers:        dict               optional     |  hirarchy of keys to define a SLD depth profile
+        layers:        dict               optional     |  hierarchy of keys to define a SLD depth profile
         compositions:  dict               optional     | 
         materials:     dict               optional    /
         globals:       dict               optional    \
@@ -98,7 +98,7 @@ Rules:
 1. According to the first axiom of optics, the beam enters from the left. I.e. the backing medium is the last entry in the `*stack*.
 1. Entries in the *stack* are separated by the pipe symbol `|`.
 1. Repeating *sub_stacks* are marked with `<number> ( ... )`.
-1. Each entry has a *name* and probably an assosiated *thickness*. These are separated by one or more spaces.
+1. Each entry has a *name* and probably an associated *thickness*. These are separated by one or more spaces.
 1. The default thickness unit is `nm`.
 
 (These rules allow to expand the *stack* string into a YAML compliant *sequence*)
@@ -158,12 +158,12 @@ Rules:
 
 #### sub_stacks
 
-Each substack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the *stack*. The purpose of this dictionary is to enable a simple *stack* for complicated models and to provide multy-layer building blocks in data bases.
+Each substack is made up of one or several layers. It has a unique name which is used to relate the substack to an entry in the *stack*. The purpose of this dictionary is to enable a simple *stack* for complicated models and to provide multi-layer building blocks in data bases.
 
 ``` YAML
     sub_stacks:
       <name>: 
-        repititions: 
+        repetitions: 
                         int
                         optional  (default: 1)
                         defines how often the substack is repeated. A negaive value means an inversion of the order.
@@ -188,7 +188,7 @@ Each substack is made up of one or several layers. It has a unique name which is
 >           stack: head | tail | tail | head    
 >   ```
 >
-> - the same layer sequence, but assembled hirarchically stating with chemical units: 
+> - the same layer sequence, but assembled hierarchically stating with chemical units: 
 >
 >   ``` YAML
 >       sub_stacks:
@@ -196,7 +196,7 @@ Each substack is made up of one or several layers. It has a unique name which is
 >           sequence:
 >             - material: headstuff
 >               thickness: 0.5  
->             - matrial: tailstuff
+>             - material: tailstuff
 >               thickness: 2.2  
 >         lipid_inverse:
 >           repetitions: -1
@@ -518,7 +518,7 @@ sample:
 
 Here `film` referes to a stack with 5 repetitions of some organic bilayer, which in turn consists of 4 sublayers. These are defined either again as layer (here for the tails) or directly with a thickness and a material. The `materials` section allows to define the materials used above. When missing, the name is taken as the chemical formula (e.g. Si or SiO2) or as a pre-defined material (water, air) and the corresponding values are taken from a data base.
 
-These examples show how a model might be declared. There are various ways to do so for exactely the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
+These examples show how a model might be declared. There are various ways to do so for exactly the same model, and the choice depends mainly on the human readability and on *logical units* (like POPC). For automated writing (e.g. as an output from the data analysis software), we will have to find a reasonable and programmable approach.... 
 
 ### Implementation and examples
 The model desciption has been implemented as a .ort header item in a Pull Request to the orsopy package with options to resolve layers for software to easily build a model system from the specification. Header examples and some automatic plotting scripts are included, too.
