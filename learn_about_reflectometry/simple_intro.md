@@ -10,10 +10,11 @@ Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale s
 - **Contrast Mechanisms**: X-rays and neutrons respond to different material densities. Neutrons are especially sensitive to isotopic differences, making them ideal for soft materials where hydrogen can be replaced with deuterium to enhance the thin film's visibility for neutron reflectometry. 
 - **<i>In situ</i> capability**:  Fast, sub-second reflectometry measurements can track the growth of novel thin film (2D) materials and monitor structural changes during adsorption, thermal annealing, or optically induced processes. Since neutrons and X-rays penetrate various media (e.g., liquids, gases, and vacuum), these non-invasive techniques are highly adaptable to different sample environments.
   
-<center>
-<img src="/assets/insituXRR.gif" alt="reflectometry from a growing thin film">
+<!--<center>
+//<img src="/assets/insituXRR.gif" alt="reflectometry from a growing thin film">
 </center>
 
 <center>
 <img src="/assets/simple.png" alt="A simple diagram of a reflectometry step up">
 </center>
+-->
