@@ -9,7 +9,7 @@ Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale s
 - **Depth Profiling**: These techniques enable detailed depth profiling by analyzing changes in reflectivity with angle, revealing not only layer thickness but also roughness and density gradients across single layers and multilayered stacks.
 - **Contrast Mechanisms**: X-rays and neutrons respond to different material densities. Neutrons are especially sensitive to isotopic differences, making them ideal for soft materials where hydrogen can be replaced with deuterium to enhance the thin film's visibility for neutron reflectometry. 
 - **<i>In situ</i> capability**:  Fast, sub-second reflectometry measurements can track the growth of novel thin film (2D) materials and monitor structural changes during adsorption, thermal annealing, or optically induced processes. Since neutrons and X-rays penetrate various media (e.g., liquids, gases, and vacuum), these non-invasive techniques are highly adaptable to different sample environments.
-- 
+  
 <center>
 <img src="/assets/insituXRR.gif" alt="reflectometry from a growing thin film">
 </center>
