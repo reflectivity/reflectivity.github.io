@@ -3,13 +3,13 @@ title: Simple Introduction
 permalink: /learn_about_reflectometry/simple_intro
 ---
 
-Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale structure of thin films and interfaces. Based on the principle of specular reflection -- where the incident angle equals the reflection angle relative to the surface normal - reflectometry can measure the thickness of thin films, their density and roughness. Its applications include thin films for semiconductor devices, optical coatings, magnetic layers, biological membranes among many others.
+Neutron and X-ray reflectometry are key techniques for analyzing the nanoscale structure of thin films and interfaces. These methods rely on the principle of specular reflection, where the incident angle equals the reflection angle relative to the surface normal. Reflectometry provides measurements of thin film thickness, density, and roughness, and is used in applications such as semiconductor devices, optical coatings, magnetic layers, and biological membranes.
 
-- **Specular Reflection**: Central to both methods, it involves measuring the reflected beam's intensity as a function of angle to deduce material properties.
-- **Contrast Mechanisms**: X-rays and neutrons respond to different material densities. Neutrons are also sensitive to isotopic differences, ideal for soft materials where hydrogen can be exchanged for deuterium to improve the visibility of the thin film for neutrons. 
-- **Depth Profiling**: These techniques offer depth profiles by evaluating reflectivity changes with angle, revealing layer thicknesses, interface roughness, and density gradients not just in single layers but also in stacks of many layers.
-- **<i>In situ</i> capability**:  Quick reflectometry measurements on the sub-second scale can probe the growth of novel thin film (2D) materials, and follow structural changes during adsorption processes, thermal annealing or optically induced changes. Neutrons and X-rays can penetrate matter, liquids, gases or vacuum so reflectometry as a non-invasive technique is very flexible with respect to sample environments.
-
+- **Specular Reflection**: Central to both methods, it involves measuring the intensity of the reflected beam as a function of angle, allowing researchers to deduce material properties.
+- **Depth Profiling**: These techniques enable detailed depth profiling by analyzing changes in reflectivity with angle, revealing not only layer thickness but also roughness and density gradients across single layers and multilayered stacks.
+- **Contrast Mechanisms**: X-rays and neutrons respond to different material densities. Neutrons are especially sensitive to isotopic differences, making them ideal for soft materials where hydrogen can be replaced with deuterium to enhance the thin film's visibility for neutron reflectometry. 
+- **<i>In situ</i> capability**:  Fast, sub-second reflectometry measurements can track the growth of novel thin film (2D) materials and monitor structural changes during adsorption, thermal annealing, or optically induced processes. Since neutrons and X-rays penetrate various media (e.g., liquids, gases, and vacuum), these non-invasive techniques are highly adaptable to different sample environments.
+- 
 <center>
 <img src="/assets/insituXRR.gif" alt="reflectometry from a growing thin film">
 </center>
