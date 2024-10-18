@@ -69,7 +69,7 @@ Discussion topics for the session included:
 
 ### 10:40-12:00 Teaching materials "code camp" (chaired by Andrew McCluskey)
 
-Building on the success of the previous session to improve the online [Guide to Reflectometry](https://www.reflectometry.org/learn/intro.html) this was another "hackathon" style session to improve this material. The session was able to add material and identify some areas for further work
+Building on the success of the previous session to improve the online [Guide to Reflectometry](https://www.reflectometry.org/learn/intro.html) this was another "hackathon" style session to improve this material. The session was able to add material and identify some areas for further work.
 
 ## Afternoon Parallel Breakout Sessions 12:00-14:45
 
