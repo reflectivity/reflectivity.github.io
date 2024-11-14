@@ -23,7 +23,9 @@ of neutron and X-ray reflectometry.*
 > **how to get beamtime:**  
 > [\[ x-ray reflectometers \]](https://www.reflectometry.org/learn_about_reflectometry/list_of_x-ray_reflectometers)
 > [\[ neutron reflectometers \]](https://www.reflectometry.org/learn_about_reflectometry/list_of_neutron_reflectometers)
-> [\[ advice for facility users \]](https://www.reflectometry.org/learn_about_reflectoemtry/advice_for_facility_users)
+> [\[ advice for facility users \]](https://www.reflectometry.org/learn_about_reflectometry/advice_for_facility_users)
+> [\[ list of user committee reps \]](https://www.reflectometry.org/learn_about_reflectometry/list_of_user_committee_reps)
+>
 > 
 > **tools:**  
 > [\[ **analysis software** \]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
