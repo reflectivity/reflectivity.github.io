@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Advice for Facility Users: Frequently Askaed Questions"
+title: "Advice for Facility Users: Frequently Asked Questions"
 permalink: /learn_about_reflectometry/advice_for_facility_users
 author: "Andrew McCluskey, Jos Cooper"
 ---
