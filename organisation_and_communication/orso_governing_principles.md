@@ -4,8 +4,6 @@ title: "ORSO Governing Principles"
 permalink: /organisation_and_communication/orso_governing_principles
 ---
 
-(this is in draft from pending approval at the next Annual General Meeting)
-
 # What is ORSO and how do we collaborate?
 
 ## The Objectives of the Open Reflectometry Standards Organisation (ORSO)
