@@ -8,6 +8,8 @@ permalink: /workshops/workshop_2024/
 
 Took place on the 19th July at ILL/ESRF campus as a satellite to the [SXNS17 Conference](https://workshops.ill.fr/e/sxns17). 
 
+![image](ORSO_meeting_24_photo.jpg)
+
 The meeting was organised (including financial support) in association with: 
 
 ![image](DAPHNE4NFDI_logo_cut.jpg)
