@@ -4,6 +4,11 @@ title: "ORSO Workshops and Seminars"
 permalink: /workshops/
 ---
 
+# Current event
+
+## ORSO drop-in session at ICNS 2025 (Copenhagen)
+Come and join us on [July 7th 15:30 - 18:00 at ICNS](./ICNS_drop-in.md), for reflectometry help or advice.
+
 # Recent events
 
 ## the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
