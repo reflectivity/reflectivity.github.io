@@ -208,16 +208,19 @@ e.g.
 
 ### data source
 
-**mandatory**
+(mandatory)
 
-This section contains information about the origin and ownership of the raw data, together with details.
-
-All entries marked with an asterisk `*` are optional.
+This section contains information about the origin and ownership of the raw data, together with 
+sample- and instrument-related details.
 
 ```
-# data_source:               This information should be available from the raw data 
-                             file. If not, one has to find ways to provide it.  
+# data_source:
+```
 
+This information should be available from the raw data 
+file(s). If not, one has to find ways to provide it.  
+                             
+```
 #     owner:                 This refers to the actual owner of the data set, i.e.
                              the main proposer or the person doing the measurement
                              on a lab reflectometer.
@@ -283,6 +286,97 @@ In case there are several temperatures:
 ```
     
 and so on for `pressure`, `surface_pressure`, `pH`, ....
+
+#### not sample-related details about the set-up
+
+```
+#    measurement:
+```
+
+This section contains the general settings of the instrument and a list of raw data files and supporting files.
+
+
+```
+#        instrument_settings:
+```
+
+(mandatory) general instrument settings not closely related to the sample
+
+```
+#            incident_angle:   
+```
+
+(mandatory)
+
+- one of
+  - `magnitude`
+  - `range`
+      one of
+      - `min` and `max`
+      - `individual_magnitudes`
+- `unit`
+- `offset` (optional) to indicate a discrepancy between 'target' positions and actual (fitted) values
+- `movement` (optional) one of `steps` or `continuous`
+
+```
+#            wavelength:
+```
+
+(mandatory)
+
+- one of
+  - `magnitude`
+  - `range`
+     - `min` and `max`
+
+```
+#            polarization:
+```
+
+(mandatory)
+Qualitative description of the *intended* instrument setting.
+
+- for neutrons:
+    
+  A two-letter code where the first letter describes the preparation of the beam before the sample
+  and the second the manipulation of the reflected beam.
+  - *p* (plus polarization): neutrons with **magnetic moment parallel** to the external field arrive at the 
+    sample / detector.
+  - *n* (minus polarization): neutrons with **magnetic moment antiparallel** to the external field arrive at the 
+    sample / detector. 
+  - *o*: no polarization or polarization analysis is performed.
+      
+  This leads to the combinations:
+  `pp`, `mp`, `op`, `pm`, `mm`, `om`, `po`, `mo` and `oo`,
+  where the last can also be written as `unpolarized`. 
+
+  > This definition of *plus* and *minus*
+  > - has the experimentally verificable consequence that
+  >   the measured critical momentum transfer of a saturated Fe film on silicon is higher
+  >   in the `pp` configuration of the
+  >   instrument than in the `mm` configuration. 
+  >   ($q_z^{c\ \mathrm{pp}} > q_z^{c\ \mathrm{mm}}$);
+  > - means that for the *plus*/*minus* configuration one gets
+  >   $V = V_\mathrm{nuc} +/- \mu_\mathrm{n} B$;
+  > - is opposite to the one used in CANSAS, where they
+  >   refere to the **spin** alignment relative to the external field.
+
+- for x-rays:
+    
+  One of
+  `pi`, `sigma`, `right` (circular right), `left` (circular left) or `unpolarized` 
+  or combinations of those concatenated by `_` (e.g. `pi_sigma`).
+
+```
+#            configuration:
+```
+
+(optional)
+free text, e.g. 'liquid surface set-up' or 'theta-2theta mode'
+
+
+
+
 
 ```
 #    measurement: 
