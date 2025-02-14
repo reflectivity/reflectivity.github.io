@@ -365,15 +365,19 @@ Qualitative description of the *intended* instrument setting.
 
 - for x-rays:
 
-  One of `pi` (linear with E-field in scattering plane), `sigma` (linear perpendicular to scattering plane),
-  `right` (circular right), `left` (circular left) or `unpolarized` 
+  One of   
+  `pi` (linear with E-field in scattering plane),   
+  `sigma` (linear perpendicular to scattering plane),   
+  `right` (circular right),   
+  `left` (circular left) or   
+  `unpolarized`    
   or combinations of two linear polarizations concatenated by `_` (e.g. `pi_sigma`).
 
   > This definition of linear polarizations with respect to the scattering plane affects
   > components measureble in resonant scattering. In the case of pure charge scattering
-  > it also affects the intensity correction by a polarization factor for larger scattering
+  > it also affects the intensity correction by a polarization factor $P$ for larger scattering
   > angles. For `sigma` polarization this factor is $P=1$, for `pi` $P=\cos^2 (2\theta)$ and for
-  > `unpolarized` $P = 1/2 (1+\cos^2(2\theta))$.
+  > `unpolarized` $P = 1/2 (1+\cos^2(2\theta))$.      
   > See, for example, J Fink *et al.* 2013 Rep. Prog. Phys. **76** 056502 (DOI: 10.1088/0034-4885/76/5/056502)
 
 
