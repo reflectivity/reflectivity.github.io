@@ -1,8 +1,3 @@
----
-layout: page
-title: "ICNS 2025 drop-in session"
-permalink: /workshops/ICNS_drop-in/
----
 
 # **ORSO at ICNS 2025**
 
