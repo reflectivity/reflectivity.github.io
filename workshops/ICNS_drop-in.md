@@ -13,3 +13,4 @@ This event will be a drop-in session where we aim to provide 1-to-1 help for oth
 * Are you keen to contribute to ORSO, but don't know where to start?
 
 Come by, say hi, and see if we can help!
+Contact [Tom Arnold](mailto:tom.arnold@ess.eu) or [Jos Cooper](mailto:jos.cooper@ess.eu) for more information
