@@ -6,12 +6,18 @@ permalink: /workshops/
 
 # Current event
 
+## the Open Reflectometry Standards Organisation ORSO annual meeting 2025
+
+Save the date: We are currently planning to hold the annual workshop for ORSO during the week **23rd - 27th June 2025**
+
+This will be an online meeting with sessions covering as many time zones as we can.
+
 ## ORSO drop-in session at ICNS 2025 (Copenhagen)
 Come and join us on [July 7th 15:30 - 18:00 at ICNS](./ICNS_drop-in.md), for reflectometry help or advice.
 
 # Recent events
 
-## the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
+### the Open Reflectometry Standards Organisation ORSO annual meeting at SXNS17
 The 2024 annual meeting of ORSO took place in person on 19th July as a satelite of the [SXNS17](https://workshops.ill.fr/event/393/) meeting at ILL & ESRF Campus, in Grenoble, France. 
 
 Details of the workshop are available [here](./workshop_2024/)
