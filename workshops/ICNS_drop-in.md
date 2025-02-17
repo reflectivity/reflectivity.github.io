@@ -1,13 +1,20 @@
+---
+layout: page
+title: "ICNS 2025 drop-in session"
+permalink: /workshops/ICNS_drop-in/
+---
+
 # **ORSO at ICNS 2025**
 
-The Open Reflectometry Standards Organisation (ORSO) aims to help standardise the field of reflectivity, and push towards FAIR data and reproducible workflows. 
+The [Open Reflectometry Standards Organisation (ORSO)](https://www.reflectometry.org/organisation_and_communication/) is an international, open effort to improve the scientific techniques of neutron and X-ray reflectometry. Over the past 5 years we have been collaborating together in a number of areas to define standards in the push towards FAIR data and reproducible workflows, to produce educational material for both new and experienenced users of these techniques and to create various resources to assit them.
 
-Many of the members of ORSO are reflectivity experts; this event will be a drop-in session where we aim to provide 1-to-1 help for others within the reflectivity world:
+Come and learn more about ORSO and how we can help you at [ICNS in Copenhagen](https://www.icns2025.dk/)
+ORSO will be hosting a [mini-symposium](https://www.icns2025.dk/programme/mini-symposia) at ICNS: 
+This event will be a drop-in session where we aim to provide 1-to-1 help for others within the reflectivity community:
 
-Are you a PhD student looking for learning resources? 
+* Are you a PhD student looking for learning resources? 
+* Are you a postdoc wanting to create complex fitting models?
+* Or even are you an instrument scientist interested in implementing the ORSO file writer on your beamline?
+* Are you keen to contribute to ORSO, but don't know where to start?
 
-Are you a postdoc wanting to create complex fitting models?
-
-Or even are you an instrument scientist interested in implementing the ORSO file writer on their beamline?
-
-Come by, say hi, and see if we can help 
+Come by, say hi, and see if we can help!
