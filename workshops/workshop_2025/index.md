@@ -47,13 +47,13 @@ Recordings of the talks will be uploaded to the orso youtube channel.
   - Data Analysis: 
   - Reproducibility: 
 
-## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2025//Tuesday.md)
+## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2025/tuesday.md)
 
-## [Wednesday 16th June: Reproducibility Working Group](/workshops/workshop_2025/Wednesday.md/)
+## [Wednesday 16th June: Reproducibility Working Group](/workshops/workshop_2025/wednesday.md/)
 
-## [Thursday 17th June: Data Analysis Working Group](/workshops/workshop_2025//Thursday.md)
+## [Thursday 17th June: Data Analysis Working Group](/workshops/workshop_2025/thursday.md)
 
-## [Friday 18th June: Education and Outreach Working Group](/workshops/workshop_2025//Friday.md) 
+## [Friday 18th June: Education and Outreach Working Group](/workshops/workshop_2025/friday.md) 
 
 ## Friday 18th June: Concluding Plenary Session
 
