@@ -10,9 +10,9 @@ The tables have a colour coded indicator of the status of implementation
 
 |  |  |
 | --- | --- | 
-| <img src="./implemented.png" width="200"> | All beamline routinely output in the ORSO format|
-| <img src="./partiallyimplemented.png" width="200"> | Partially Implemented: At least 1 beamline routinely outputs in the ORSO format |
-| <img src="./workingtowards.png" width="200"> | Working Towards: The facility is working on implementation
+| <img src="/projects/file_formats/implemented.png" width="200"> | All beamline routinely output in the ORSO format|
+| <img src="/projects/file_formats/partiallyimplemented.png" width="200"> | Partially Implemented: At least 1 beamline routinely outputs in the ORSO format |
+| <img src="/projects/file_formats/workingtowards.png" width="200"> | Working Towards: The facility is working on implementation
 |  |  |
 
 
