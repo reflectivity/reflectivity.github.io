@@ -20,16 +20,16 @@ The tables have a colour coded indicator of the status of implementation
 
 | Neutron Scattering Facility | Reduced data as .ort files | Synchrotron Scattering Facility | Reduced data as .ort files |
 | --- | --- | --- | --- | 
-| ANSTO | <img src="./implemented.png" width="200">  | APS | <img src="./workingtowards.png" width="200">  | 
-| CSNS | <img src="./workingtowards.png" width="200">  | Brookhaven Lab - NSLS-II | <img src="./workingtowards.png" width="200">  | 
-| ESS | <img src="./workingtowards.png" width="200">  | Diamond Light Source  | <img src="./partiallyimplemented.png" width="200">  | 
-| ILL | <img src="./workingtowards.png" width="200">  | DESY – PETRA III | <img src="./workingtowards.png" width="200"> | 
-| J-PARC | <img src="./partiallyimplemented.png" width="200">  | ESRF | <img src="./workingtowards.png" width="200">  | 
-| MLZ | <img src="./workingtowards.png" width="200">  | 
-| STFC | <img src="./implemented.png" width="200">  | 
-| NIST | <img src="./implemented.png" width="200">  | 
-| PSI | <img src="./partiallyimplemented.png" width="200">  | 
-| SNS | <img src="./workingtowards.png" width="200">  | 
+| ANSTO | <img src="/projects/file_formats/implemented.png" width="200">  | APS | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
+| CSNS | <img src="/projects/file_formats/workingtowards.png" width="200">  | Brookhaven Lab - NSLS-II | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
+| ESS | <img src="/projects/file_formats/workingtowards.png" width="200">  | Diamond Light Source  | <img src="/projects/file_formats/partiallyimplemented.png" width="200">  | 
+| ILL | <img src="/projects/file_formats/workingtowards.png" width="200">  | DESY – PETRA III | <img src="/projects/file_formats/workingtowards.png" width="200"> | 
+| J-PARC | <img src="/projects/file_formats/partiallyimplemented.png" width="200">  | ESRF | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
+| MLZ | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
+| STFC | <img src="/projects/file_formats/implemented.png" width="200">  | 
+| NIST | <img src="/projects/file_formats/implemented.png" width="200">  | 
+| PSI | <img src="/projects/file_formats/partiallyimplemented.png" width="200">  | 
+| SNS | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
 
 
 
