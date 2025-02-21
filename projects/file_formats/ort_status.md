@@ -10,9 +10,9 @@ The tables have a colour coded indicator of the status of implementation
 
 |  |  |
 | --- | --- | 
-| <img src="implemented.png" width="200"> | All beamline routinely output in the ORSO format|
-| <img src="partiallyimplemented.png" width="200"> | Partially Implemented: At least 1 beamline routinely outputs in the ORSO format |
-| <img src="workingtowards.png" width="200"> | Working Towards: The facility is working on implementation
+| <img src="./implemented.png" width="200"> | All beamline routinely output in the ORSO format|
+| <img src="./partiallyimplemented.png" width="200"> | Partially Implemented: At least 1 beamline routinely outputs in the ORSO format |
+| <img src="./workingtowards.png" width="200"> | Working Towards: The facility is working on implementation
 |  |  |
 
 
@@ -20,16 +20,16 @@ The tables have a colour coded indicator of the status of implementation
 
 | Neutron Scattering Facility | Reduced data as .ort files | Synchrotron Scattering Facility | Reduced data as .ort files |
 | --- | --- | --- | --- | 
-| ANSTO | <img src="implemented.png" width="200">  | APS | <img src="workingtowards.png" width="200">  | 
-| CSNS | <img src="workingtowards.png" width="200">  | Brookhaven Lab - NSLS-II | <img src="workingtowards.png" width="200">  | 
-| ESS | <img src="workingtowards.png" width="200">  | Diamond Light Source  | <img src="partiallyimplemented.png" width="200">  | 
-| ILL | <img src="workingtowards.png" width="200">  | DESY – PETRA III | <img src="workingtowards.png" width="200"> | 
-| J-PARC | <img src="partiallyimplemented.png" width="200">  | ESRF | <img src="workingtowards.png" width="200">  | 
-| MLZ | <img src="workingtowards.png" width="200">  | 
-| STFC | <img src="implemented.png" width="200">  | 
-| NIST | <img src="implemented.png" width="200">  | 
-| PSI | <img src="partiallyimplemented.png" width="200">  | 
-| SNS | <img src="workingtowards.png" width="200">  | 
+| ANSTO | <img src="./implemented.png" width="200">  | APS | <img src="./workingtowards.png" width="200">  | 
+| CSNS | <img src="./workingtowards.png" width="200">  | Brookhaven Lab - NSLS-II | <img src="./workingtowards.png" width="200">  | 
+| ESS | <img src="./workingtowards.png" width="200">  | Diamond Light Source  | <img src="./partiallyimplemented.png" width="200">  | 
+| ILL | <img src="./workingtowards.png" width="200">  | DESY – PETRA III | <img src="./workingtowards.png" width="200"> | 
+| J-PARC | <img src="./partiallyimplemented.png" width="200">  | ESRF | <img src="./workingtowards.png" width="200">  | 
+| MLZ | <img src="./workingtowards.png" width="200">  | 
+| STFC | <img src="./implemented.png" width="200">  | 
+| NIST | <img src="./implemented.png" width="200">  | 
+| PSI | <img src="./partiallyimplemented.png" width="200">  | 
+| SNS | <img src="./workingtowards.png" width="200">  | 
 
 
 
