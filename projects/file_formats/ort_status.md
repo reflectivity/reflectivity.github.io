@@ -26,7 +26,7 @@ The tables have a colour coded indicator of the status of implementation
 | ILL | <img src="/projects/file_formats/workingtowards.png" width="200">  | DESY – PETRA III | <img src="/projects/file_formats/workingtowards.png" width="200"> | 
 | J-PARC | <img src="/projects/file_formats/partiallyimplemented.png" width="200">  | ESRF | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
 | MLZ | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
-| STFC | <img src="/projects/file_formats/implemented.png" width="200">  | 
+| STFC/ISIS | <img src="/projects/file_formats/implemented.png" width="200">  | 
 | NIST | <img src="/projects/file_formats/implemented.png" width="200">  | 
 | PSI | <img src="/projects/file_formats/partiallyimplemented.png" width="200">  | 
 | SNS | <img src="/projects/file_formats/workingtowards.png" width="200">  | 
