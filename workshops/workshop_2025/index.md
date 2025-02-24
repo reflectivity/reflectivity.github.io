@@ -17,7 +17,7 @@ A more detailed agenda will follow [here]() using the european time zone.
 
 ## Monday 23rd June: Plenary Sessions
 
-The pleanry sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
+The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
 There will also be some scientific talks on subjects of interest to the ORSO community (speakers to be confirmed).
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary session and post the videos here after the meeting.
 
