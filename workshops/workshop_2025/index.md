@@ -48,13 +48,13 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 For the discussion sessions we would like to ask one of the attendees to act as a scribe to keep some notes on the discussion. This person should be able to attend the final plenary session on Friday and give a report about what happened in the discussion. For further details on the breakout sessions, please see the separate pages for each day:
 
-### [Tuesday 15th June](/workshops/workshop_2025/tuesday.md)
+### [Tuesday 24th June](/workshops/workshop_2025/tuesday.md)
 
-### [Wednesday 16th June](/workshops/workshop_2025/wednesday.md/)
+### [Wednesday 25th June](/workshops/workshop_2025/wednesday.md/)
 
-### [Thursday 17th June](/workshops/workshop_2025/thursday.md)
+### [Thursday 26th June](/workshops/workshop_2025/thursday.md)
 
-## Friday 18th June: Concluding Plenary Session
+## Friday 27th June: Concluding Plenary Session
 
 In the final session of the workshop we will summarise the working group discussions and look to the future with some further science talks
 
