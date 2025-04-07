@@ -4,7 +4,7 @@ title: "Workshop 2025"
 permalink: /workshops/workshop_2025/
 ---
 
-The Annual Genral Meeting of ORSO will take place online in **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
+The Annual General Meeting of ORSO will take place online over the **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
 The program will consist of scientific and technical talks together with discussion forums for each of the working groups
 
 ## Registration is not yet open
