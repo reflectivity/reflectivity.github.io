@@ -7,6 +7,8 @@ permalink: /workshops/workshop_2025/
 The Annual General Meeting of ORSO will take place online over the **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
 The program will consist of scientific and technical talks together with discussion forums for each of the working groups
 
+**In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
+
 ## Registration is not yet open
 
 This page is under construction
@@ -20,8 +22,9 @@ There will also be some scientific talks on subjects of interest to the ORSO com
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary sessions and post the videos here after the meeting.
 Where feasible we will repeat the breakout discussion sessions in different time zones or attempt to schedule at a time accessible to all. Please bear with us for unsociable meeting times!
 
+
 ### Plenary Session 1
-08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
+**08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):**
 
 **Recordings of all talks will be uploaded to the orso youtube channel.**
 
@@ -30,19 +33,20 @@ Where feasible we will repeat the breakout discussion sessions in different time
 - Scientific talk 1
 - Scientific talk 2
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Formats: 
-  - Education and Outreach: 
+  - Data Formats Working group 
+  - Education and Outreach Working group
+  - Sample Environment Working group 
 
 ### Plenary Session 2
-18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
+**18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast):**
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk 3
 - Scientific talk 4
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Analysis: 
-  - Reproducibility: 
+  - Data Analysis Working group 
+  - Reproducibility Working group 
 
 ## Tuesday to Thursday: Breakout discussion sessions
 
@@ -58,7 +62,7 @@ For the discussion sessions we would like to ask one of the attendees to act as 
 
 In the final session of the workshop we will summarise the working group discussions and look to the future with some further science talks
 
-12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):
+**12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):**
 
 #### Confirmed Speakers
 - Annual General Meeting.
