@@ -26,7 +26,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 **Recordings of all talks will be uploaded to the orso youtube channel.**
 
 #### Confirmed Speakers
-- **Tom Arnold** Introduction 
+- **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk 1
 - Scientific talk 2
 - The ORSO Chairs. Summary of progress since the last meeting
@@ -37,7 +37,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast): 
 
 #### Confirmed Speakers
-- **Tom Arnold** Introduction
+- **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk 3
 - Scientific talk 4
 - The ORSO Chairs. Summary of progress since the last meeting
