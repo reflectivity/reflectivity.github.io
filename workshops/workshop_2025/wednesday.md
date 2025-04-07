@@ -9,7 +9,7 @@ permalink: /workshops/workshop_2025/Wednesday.md/
 12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):
 
 This session will split into two parts:
-- Following the successful sessions in pervious meetings on generating advice on defining some best practice for reporting results and inputs to Bayesian analysis, we would like to begin a new initiative on publishing a checklist for reproducible publishing in reflectometry. This session will begin with a discussion on how useful and general this would be, and try to define what we think "best paractice" actually is.
+- Following the successful sessions in previous meetings on generating advice on defining some best practice for reporting results and inputs to Bayesian analysis, we would like to begin a new initiative on publishing a checklist for reproducible publishing in reflectometry. This session will begin with a discussion on how useful and general this would be, and try to define what we think "best paractice" actually is.
 - For neutron reflectometry we have, for quite some time, been trying to collect data on a "round-robin" sample to compare neutron instruments. This session will look at the results from this study and recruit volunteers to actually write the paper. We would also like to consider what we would need to make a similar study for Synchrotron beamlines.
 
 
