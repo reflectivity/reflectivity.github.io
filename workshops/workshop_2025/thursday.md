@@ -8,7 +8,7 @@ permalink: /workshops/workshop_2025/Thursday.md/
 **12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):**
 
 For many users, one of the barriers to modern data analysis tools is the need to have a background in coding. We have begun creating a common model language to make this easier across different platforms but we also think that the creation of a library of example models would be a useful starting point for users to build an appropriate model for their system. This session will therefore:
-- Review the current statsus of the common model language
+- Review the current status of the common model language
 - Review relevant results of the [ORSO survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)
 - Discuss how such a library could work in practice
 - Canvas what types of example would be useful
