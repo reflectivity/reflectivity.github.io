@@ -4,7 +4,7 @@ title: "Workshop 2025"
 permalink: /workshops/workshop_2025/
 ---
 
-The Annual Genral Meeting of ORSO will take place online in 23th-27th June 2025. The purpose of the meeting is to discuss topics of interest to the ORSO community.
+The Annual Genral Meeting of ORSO will take place online in **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
 The program will consist of scientific and technical talks together with discussion forums for each of the working groups
 
 ## Registration is not yet open
@@ -13,24 +13,22 @@ This page is under construction
 
 # Agenda:
 
-A more detailed agenda will follow [here]() using the european time zone.
-
 ## Monday 23rd June: Plenary Sessions
 
 The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
 There will also be some scientific talks on subjects of interest to the ORSO community (speakers to be confirmed).
-Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary session and post the videos here after the meeting.
+Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary sessions and post the videos here after the meeting.
+Where feasible we will repeat the breakout discussion sessions in different time zones or attempt to schedule at a time accessible to all. Please bear with us for unsociable meeting times!
 
 ### Plenary Session 1
 08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):
 
-Recordings of the talks will be uploaded to the orso youtube channel.
+**Recordings of all talks will be uploaded to the orso youtube channel.**
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction 
 - Scientific talk 1
 - Scientific talk 2
-- Scientific talk 3
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Formats: 
   - Education and Outreach: 
@@ -40,28 +38,30 @@ Recordings of the talks will be uploaded to the orso youtube channel.
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction
+- Scientific talk 3
 - Scientific talk 4
-- Scientific talk 5
-- Scientific talk 6
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis: 
   - Reproducibility: 
 
-## [Tuesday 15th June: Data Formats Working Group](/workshops/workshop_2025/tuesday.md)
+## Tuesday to Thursday: Breakout discussion sessions
 
-## [Wednesday 16th June: Reproducibility Working Group](/workshops/workshop_2025/wednesday.md/)
+For the discussion sessions we would like to ask one of the attendees to act as a scribe to keep some notes on the discussion. This person should be able to attend the final plenary session on Friday and give a report about what happened in the discussion. For further details on the breakout sessions, please see the separate pages for each day:
 
-## [Thursday 17th June: Data Analysis Working Group](/workshops/workshop_2025/thursday.md)
+### [Tuesday 15th June](/workshops/workshop_2025/tuesday.md)
 
-## [Friday 18th June: Education and Outreach Working Group](/workshops/workshop_2025/friday.md) 
+### [Wednesday 16th June](/workshops/workshop_2025/wednesday.md/)
+
+### [Thursday 17th June](/workshops/workshop_2025/thursday.md)
 
 ## Friday 18th June: Concluding Plenary Session
 
 In the final session of the workshop we will summarise the working group discussions and look to the future with some further science talks
 
-18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast): 
+12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):
 
 #### Confirmed Speakers
-- Summary of the working group sessions - 
-- Scientific talk 7
-- Scientific talk 8
+- Annual General Meeting.
+  - Recruitment of a temporary stand-in chair for the Reproducibility working group (to replace Andrew McCluskey)
+- Summary of the working group sessions.
+- Scientific talk 5
