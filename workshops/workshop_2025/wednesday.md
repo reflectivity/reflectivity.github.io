@@ -13,7 +13,7 @@ This session will split into two parts:
 - For neutron reflectometry we have, for quite some time, been trying to collect data on a "round-robin" sample to compare neutron instruments. This session will look at the results from this study and recruit volunteers to actually write the paper. We would also like to consider what we would need to make a similar study for Synchrotron beamlines.
 
 
-## The current status of orsopy & what next
+## Orsopy and a standard model language 
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
 
 This session will start a discussion around the model language. The session will aim to understand what is missing from the current definition of the the language, for example, can it be adapted to improve representaion of models for biological systems.
