@@ -42,7 +42,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 #### Confirmed Speakers
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk 3
+- Scientific talk: Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’
 - Scientific talk 4
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis Working group 
