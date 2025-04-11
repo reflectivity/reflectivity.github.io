@@ -4,14 +4,14 @@ title: "Workshop 2025"
 permalink: /workshops/workshop_2025/
 ---
 
+# the 7th Open Reflectometry Standards Organisation ORSO annual meeting
+
 The Annual General Meeting of ORSO will take place online over the **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
 The program will consist of scientific and technical talks together with discussion forums for each of the working groups
 
 **In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
 
-## Registration is not yet open
-
-This page is under construction
+## Registration will open soon
 
 # Agenda:
 
@@ -28,10 +28,10 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 **Recordings of all talks will be uploaded to the orso youtube channel.**
 
-#### Confirmed Speakers
+#### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk 1
-- Scientific talk 2
+- Scientific talk 1 (to be confirmed)
+- Scientific talk 2 (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Formats Working group 
   - Education and Outreach Working group
@@ -40,10 +40,10 @@ Where feasible we will repeat the breakout discussion sessions in different time
 ### Plenary Session 2
 **18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast):**
 
-#### Confirmed Speakers
+#### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk: Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’
-- Scientific talk 4
+- Scientific talk 3: Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’
+- Scientific talk 4 (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis Working group 
   - Reproducibility Working group 
@@ -64,8 +64,8 @@ In the final session of the workshop we will summarise the working group discuss
 
 **12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):**
 
-#### Confirmed Speakers
+#### Session Schedule
 - Annual General Meeting.
   - Recruitment of a temporary stand-in chair for the Reproducibility working group (to replace Andrew McCluskey)
 - Summary of the working group sessions.
-- Scientific talk 5
+- Scientific talk 5 (to be confirmed)
