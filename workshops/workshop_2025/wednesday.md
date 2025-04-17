@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wednesday 25th June: Reproducibility Working Group"
-permalink: /workshops/workshop_2025/Wednesday.md/
+permalink: /workshops/workshop_2025/wednesday.md/
 ---
 
 ## Orsopy and a standard model language 
