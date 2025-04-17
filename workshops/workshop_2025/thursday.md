@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thursday 26th June"
-permalink: /workshops/workshop_2025/Thursday.md/
+permalink: /workshops/workshop_2025/thursday.md/
 ---
 
 ## Session 1 & 2: Intro to the Sample Environment Working Group
