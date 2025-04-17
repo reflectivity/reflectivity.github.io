@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tuesday 24th June"
-permalink: /workshops/workshop_2025/Tuesday.md/
+permalink: /workshops/workshop_2025/tuesday.md/
 ---
 
 ## A reference library of data analysis models
