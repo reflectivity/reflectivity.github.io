@@ -11,7 +11,7 @@ The program will consist of scientific and technical talks together with discuss
 
 **In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
 
-## Registration will open soon
+## [Registration is now open](https://indico.ess.eu/event/3810/)
 
 # Agenda:
 
@@ -24,7 +24,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 
 ### Plenary Session 1
-**08:00-11:00 (UK), 09:00-12:00 (Europe), 04:00-07:00 (US East coast), 17:00-20:00 (Australia East coast):**
+**08:00-10:30 (UK), 09:00-11:30 (Europe), 04:00-06:30 (US East coast), 17:00-19:30 (Australia East coast):**
 
 **Recordings of all talks will be uploaded to the orso youtube channel.**
 
@@ -38,7 +38,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
   - Sample Environment Working group 
 
 ### Plenary Session 2
-**18:00-21:00 (UK), 19:00-22:00 (Europe), 13:00-16:00 (US East coast), 03:00-06:00 (Australia East coast):**
+**18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast):**
 
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
