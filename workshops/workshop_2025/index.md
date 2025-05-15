@@ -15,6 +15,14 @@ The program will consist of scientific and technical talks together with discuss
 
 # Agenda:
 
+## Tuesday 17th June: Satelite session organised by the "Liquid surface scattering working group"
+**15:00-117:00 (UK), 16:00-18:00 (Europe), 04:00-06:30 (US East coast), 17:00-19:30 (Australia East coast):**
+
+- Scientific talk: Chen Shen Liquid surface scattering at Petra III
+
+**Abstract:** Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
+- Discussion on matters relating to X-ray Scattering from liquid interfaces
+
 ## Monday 23rd June: Plenary Sessions
 
 The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
