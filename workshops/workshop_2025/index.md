@@ -16,7 +16,7 @@ The program will consist of scientific and technical talks together with discuss
 # Agenda:
 
 ## Tuesday 17th June: Satelite session organised by the "Liquid surface scattering working group"
-**15:00-117:00 (UK), 16:00-18:00 (Europe), 04:00-06:30 (US East coast), 17:00-19:30 (Australia East coast):**
+**15:00-117:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (18th June, Australia East coast):**
 
 - Scientific talk: Chen Shen Liquid surface scattering at Petra III
 
