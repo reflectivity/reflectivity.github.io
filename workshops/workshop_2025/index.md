@@ -18,7 +18,7 @@ The program will consist of scientific and technical talks together with discuss
 ## Tuesday 17th June: Satelite session organised by the "Liquid surface scattering working group"
 **15:00-117:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (18th June, Australia East coast):**
 
-- Scientific talk: Chen Shen Liquid surface scattering at Petra III
+- Scientific talk: **Chen Shen, 'Liquid surface scattering at Petra III'**
 
 **Abstract:** Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
 - Discussion on matters relating to X-ray Scattering from liquid interfaces
@@ -50,7 +50,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk 3: Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’
+- Scientific talk 3: **Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’**
 - Scientific talk 4 (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Analysis Working group 
@@ -76,4 +76,6 @@ In the final session of the workshop we will summarise the working group discuss
 - Annual General Meeting.
   - Recruitment of a temporary stand-in chair for the Reproducibility working group (to replace Andrew McCluskey)
 - Summary of the working group sessions.
-- Scientific talk 5 (to be confirmed)
+- Scientific talk: **David P. Hoogerheide, 'The CANDOR polychromatic reflectometer'**
+
+**Abstract** The CANDOR reflectometer at the NIST Center for Neutron Research marries the advantages of time-of-flight polychromatic reflectometers, such as those commonly employed at pulsed neutron sources, to the high time-averaged flux of a reactor neutron source. CANDOR’s unique energy dispersive detector, currently comprising 108 individual wavelength-sensitive neutron detectors operating at over 90% efficiency, allows simultaneous detection of cold neutrons in the 4 Å to 6 Å wavelength range. In this talk, I will describe instrument design, detector operation and performance, and data reduction considerations. Reflectivity curves measured by CANDOR using polychromatic detection will be compared to standard curves measured at NIST’s monochromatic reflectometers, and the performance of CANDOR’s polarization capabilities will be discussed. For measurements of materials at solid/liquid interfaces, I will show that CANDOR’s high flux and intrinsic background rejection enables measurement to about twice the scattering vector, and hence resolution, of conventional measurements.
