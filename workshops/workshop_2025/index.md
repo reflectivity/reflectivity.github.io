@@ -38,7 +38,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk 1 (to be confirmed)
+- Scientific talk: **Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry'**
 - Scientific talk 2 (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Data Formats Working group 
