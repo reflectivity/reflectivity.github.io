@@ -40,6 +40,10 @@ Where feasible we will repeat the breakout discussion sessions in different time
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk: **Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry'**
 - Scientific talk:  **Michael Haberl, 'Photon-Limited X-Ray Reflectometry: Improved Fitting via the Anscombe Transform'**
+
+**Abstract:** With the current developments in fast X-ray reflectometry (XRR) reaching
+scan times as short as a few hundred microseconds, the few-photon count data reflects the inherent Poisson statistics of the counting process. In this regime, standard least squares fitting - which assumes symmetric Gaussian errors - can produce biased results. While Poisson log-likelihood methods exist, we demonstrate that applying the Anscombe transform - a well known variance-stabilizing transformation that converts Poisson-distributed data into approximately Gaussian-distributed data - permits continued use of the default least squares minimization utilized in most fitting softwares such as refnx or refl1d. This approach simplifies implementation and enables incorporation of additional noise sources, such as readout noise. It offers a practical and robust solution for accurate modeling in photon-limited XRR, relevant to the ORSO reflectometry community.
+
 - Scientific talk:  (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Sample Environment Working group
