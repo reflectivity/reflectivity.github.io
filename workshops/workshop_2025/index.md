@@ -50,7 +50,7 @@ scan times as short as a few hundred microseconds, the few-photon count data ref
   - Data Analysis Working group
 
 ### Plenary Session 2
-**18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast):**
+**18:00-20:20 (UK), 19:00-21:20 (Europe), 13:00-15:20 (US East coast), 03:00-05:20 (Australia East coast):**
 
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
