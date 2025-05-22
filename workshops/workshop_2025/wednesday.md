@@ -11,9 +11,9 @@ This session will start a discussion around the model language. The session will
 
 What can be done to improve uptake?
 - How do we ensure all facilities give users data in .ort format.
-- What is the added value to users for using this format (The ORSO text format is now reasonably well defined and the orsopy tool is available, but can the decumention be improved).
+- What is the added value to users for using this format (The ORSO text format is now reasonably well defined and the orsopy tool is available, but can the documention be improved).
  
-Finally is there some merit in defining a standard format (or formats) for fit results. There is often a bottleneck after running analysis to get the fit, the SLD profile(s) and the confidence intervals etc out of the analysis software into an appropriate format for publication. The vision here is to add some kind of export funcionality into the analysis software to export those things in formats suitable for common plotting software (Origin, Sigmaplot, Python (Plotly, Matplotlib etc), Matlab etc). This would be similar to the various image formats - not a single format, but a small collections of standard formats. 
+Finally is there some merit in defining a standard format (or formats) for fit results. There is often a bottleneck after running analysis to get the fit, the SLD profile(s) and the confidence intervals etc out of the analysis software into an appropriate format for publication. The vision here is to add some kind of export functionality into the analysis software to export those things in formats suitable for common plotting software (Origin, Sigmaplot, Python (Plotly, Matplotlib etc), Matlab etc). This would be similar to the various image formats - not a single format, but a small collections of standard formats. 
 
 ## Reproducibility Working Group
 
