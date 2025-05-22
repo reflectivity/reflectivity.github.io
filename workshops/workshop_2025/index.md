@@ -39,7 +39,7 @@ Where feasible we will repeat the breakout discussion sessions in different time
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk: **Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry'**
-- Scientific talk:  (to be confirmed)
+- Scientific talk:  **Michael Haberl, 'Photon-Limited X-Ray Reflectometry: Improved Fitting via the Anscombe Transform'**
 - Scientific talk:  (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
   - Sample Environment Working group
