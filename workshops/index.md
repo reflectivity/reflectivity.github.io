@@ -14,7 +14,7 @@ This will be an online meeting with sessions covering as many time zones as we c
 
 [The Outline Agenda for the meeting is now available.](https://www.reflectometry.org/workshops/workshop_2025/)
 
-Registration will open soon
+Registration is open
 
 ## ORSO drop-in session at ICNS 2025 (Copenhagen)
 Come and join us on [July 7th 15:30 - 18:00 at ICNS](./ICNS_drop-in.md), for reflectometry help or advice.
