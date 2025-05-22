@@ -39,22 +39,23 @@ Where feasible we will repeat the breakout discussion sessions in different time
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
 - Scientific talk: **Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry'**
-- Scientific talk 2 (to be confirmed)
+- Scientific talk:  (to be confirmed)
+- Scientific talk:  (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Formats Working group 
-  - Education and Outreach Working group
-  - Sample Environment Working group 
+  - Sample Environment Working group
+  - Data Analysis Working group
 
 ### Plenary Session 2
 **18:00-20:00 (UK), 19:00-21:00 (Europe), 13:00-15:00 (US East coast), 03:00-05:00 (Australia East coast):**
 
 #### Session Schedule
 - **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk 3: **Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’**
-- Scientific talk 4 (to be confirmed)
+- Scientific talk: **Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’**
+- Scientific talk: (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Data Analysis Working group 
-  - Reproducibility Working group 
+  - Education and Outreach Working group
+  - Reproducibility Working group
+  - Data Formats Working group  
 
 ## Tuesday to Thursday: Breakout discussion sessions
 
