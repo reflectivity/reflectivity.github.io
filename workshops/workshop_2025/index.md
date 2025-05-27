@@ -18,10 +18,11 @@ The program will consist of scientific and technical talks together with discuss
 ## Tuesday 17th June: Satelite session organised by the "Liquid surface scattering working group"
 **15:00-17:00 (UK), 16:00-18:00 (Europe), 10:00-12:00 (US East coast), 00:00-02:00 (18th June, Australia East coast):**
 
-- Scientific talk: **Chen Shen, 'Liquid surface scattering at Petra III'**
-
-**Abstract:** Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
-- Discussion on matters relating to X-ray Scattering from liquid interfaces
+<details>
+<summary>Scientific talk: <b>Chen Shen, 'Liquid surface scattering at Petra III'</b> </summary>
+<br>
+<b> Abstract:</b> Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
+</details>
 
 ## Monday 23rd June: Plenary Sessions
 
@@ -37,30 +38,72 @@ Where feasible we will repeat the breakout discussion sessions in different time
 **Recordings of all talks will be uploaded to the orso youtube channel.**
 
 #### Session Schedule
-- **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk: **Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry'**
-- Scientific talk:  **Michael Haberl, 'Photon-Limited X-Ray Reflectometry: Improved Fitting via the Anscombe Transform'**
+<details>
+<summary> <b>Introduction: Tom Arnold  </b> </summary>
+<br>
+Introduction and discussion on how to better promote/publicise ORSO 
+</details>
 
-**Abstract:** With the current developments in fast X-ray reflectometry (XRR) reaching
+<details>
+<summary> Scientific talk: <b>Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry' </b> </summary>
+<br>
+<b> Abstract:</b> 
+</details>
+
+<details>
+<summary>  Scientific talk:  <b>Michael Haberl, 'Photon-Limited X-Ray Reflectometry: Improved Fitting via the Anscombe Transform'
+ </b> </summary>
+<br>
+<b> Abstract:</b> With the current developments in fast X-ray reflectometry (XRR) reaching
 scan times as short as a few hundred microseconds, the few-photon count data reflects the inherent Poisson statistics of the counting process. In this regime, standard least squares fitting - which assumes symmetric Gaussian errors - can produce biased results. While Poisson log-likelihood methods exist, we demonstrate that applying the Anscombe transform - a well known variance-stabilizing transformation that converts Poisson-distributed data into approximately Gaussian-distributed data - permits continued use of the default least squares minimization utilized in most fitting softwares such as refnx or refl1d. This approach simplifies implementation and enables incorporation of additional noise sources, such as readout noise. It offers a practical and robust solution for accurate modeling in photon-limited XRR, relevant to the ORSO reflectometry community.
+</details>
 
-- Scientific talk: **Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning'**
+<details>
+<summary> Scientific talk: <b>Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning' </b> </summary>
+<br>
+<b> Abstract:</b> 
+</details>
 
-- The ORSO Chairs. Summary of progress since the last meeting
+<details>
+<summary> <b>The ORSO Chairs. Summary of progress since the last meeting </b> </summary>
+<br>
+  
   - Sample Environment Working group (Sophie Ayscough)
   - Data Analysis Working group (Andrew Nelson)
+</details>
+
+
 
 ### Plenary Session 2
 **18:00-20:20 (UK), 19:00-21:20 (Europe), 13:00-15:20 (US East coast), 03:00-05:20 (Australia East coast):**
 
 #### Session Schedule
-- **Tom Arnold** Introduction and discussion on how to better promote/publicise ORSO
-- Scientific talk: **Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’**
-- Scientific talk: (to be confirmed)
-- The ORSO Chairs. Summary of progress since the last meeting
+<details>
+<summary> <b>Introduction: Tom Arnold  </b> </summary>
+<br>
+Introduction and discussion on how to better promote/publicise ORSO 
+</details>
+
+<details>
+<summary> Scientific talk: <b>Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’ </b> </summary>
+<br>
+<b> Abstract:</b> 
+</details>
+
+<details>
+<summary> Scientific talk: to be confirmed </b> </summary>
+<br>
+<b> Abstract:</b> 
+</details>
+
+<details>
+<summary> <b>The ORSO Chairs. Summary of progress since the last meeting </b> </summary>
+<br>
+
   - Education and Outreach Working group (Stefan Kowarik)
   - Reproducibility Working group 
   - Data Formats Working group (Jos Cooper)
+</details>
 
 ## Tuesday to Thursday: Breakout discussion sessions
 
@@ -79,9 +122,19 @@ In the final session of the workshop we will summarise the working group discuss
 **12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):**
 
 #### Session Schedule
-- Annual General Meeting.
-  - Recruitment of a temporary stand-in chair for the Reproducibility working group (to replace Andrew McCluskey)
-- Summary of the working group sessions.
-- Scientific talk: **David P. Hoogerheide, 'The CANDOR polychromatic reflectometer'**
+<details>
+<summary> <b>Annual General Meeting </b> </summary>
+<br>
 
-**Abstract** The CANDOR reflectometer at the NIST Center for Neutron Research marries the advantages of time-of-flight polychromatic reflectometers, such as those commonly employed at pulsed neutron sources, to the high time-averaged flux of a reactor neutron source. CANDOR’s unique energy dispersive detector, currently comprising 108 individual wavelength-sensitive neutron detectors operating at over 90% efficiency, allows simultaneous detection of cold neutrons in the 4 Å to 6 Å wavelength range. In this talk, I will describe instrument design, detector operation and performance, and data reduction considerations. Reflectivity curves measured by CANDOR using polychromatic detection will be compared to standard curves measured at NIST’s monochromatic reflectometers, and the performance of CANDOR’s polarization capabilities will be discussed. For measurements of materials at solid/liquid interfaces, I will show that CANDOR’s high flux and intrinsic background rejection enables measurement to about twice the scattering vector, and hence resolution, of conventional measurements.
+- Recruitment of a temporary stand-in chair for the Reproducibility working group (to replace Andrew McCluskey)
+- Summary of the working group sessions.
+
+</details>
+
+<details>
+<summary> Scientific talk: <b>David P. Hoogerheide, 'The CANDOR polychromatic reflectometer' </b> </summary>
+<br>
+<b> Abstract:</b> The CANDOR reflectometer at the NIST Center for Neutron Research marries the advantages of time-of-flight polychromatic reflectometers, such as those commonly employed at pulsed neutron sources, to the high time-averaged flux of a reactor neutron source. CANDOR’s unique energy dispersive detector, currently comprising 108 individual wavelength-sensitive neutron detectors operating at over 90% efficiency, allows simultaneous detection of cold neutrons in the 4 Å to 6 Å wavelength range. In this talk, I will describe instrument design, detector operation and performance, and data reduction considerations. Reflectivity curves measured by CANDOR using polychromatic detection will be compared to standard curves measured at NIST’s monochromatic reflectometers, and the performance of CANDOR’s polarization capabilities will be discussed. For measurements of materials at solid/liquid interfaces, I will show that CANDOR’s high flux and intrinsic background rejection enables measurement to about twice the scattering vector, and hence resolution, of conventional measurements.
+</details>
+
+
