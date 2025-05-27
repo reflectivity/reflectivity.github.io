@@ -44,10 +44,11 @@ Where feasible we will repeat the breakout discussion sessions in different time
 **Abstract:** With the current developments in fast X-ray reflectometry (XRR) reaching
 scan times as short as a few hundred microseconds, the few-photon count data reflects the inherent Poisson statistics of the counting process. In this regime, standard least squares fitting - which assumes symmetric Gaussian errors - can produce biased results. While Poisson log-likelihood methods exist, we demonstrate that applying the Anscombe transform - a well known variance-stabilizing transformation that converts Poisson-distributed data into approximately Gaussian-distributed data - permits continued use of the default least squares minimization utilized in most fitting softwares such as refnx or refl1d. This approach simplifies implementation and enables incorporation of additional noise sources, such as readout noise. It offers a practical and robust solution for accurate modeling in photon-limited XRR, relevant to the ORSO reflectometry community.
 
-- Scientific talk:  (to be confirmed)
+- Scientific talk: **Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning'**
+
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Sample Environment Working group
-  - Data Analysis Working group
+  - Sample Environment Working group (Sophie Ayscough)
+  - Data Analysis Working group (Andrew Nelson)
 
 ### Plenary Session 2
 **18:00-20:20 (UK), 19:00-21:20 (Europe), 13:00-15:20 (US East coast), 03:00-05:20 (Australia East coast):**
@@ -57,9 +58,9 @@ scan times as short as a few hundred microseconds, the few-photon count data ref
 - Scientific talk: **Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’**
 - Scientific talk: (to be confirmed)
 - The ORSO Chairs. Summary of progress since the last meeting
-  - Education and Outreach Working group
-  - Reproducibility Working group
-  - Data Formats Working group  
+  - Education and Outreach Working group (Stefan Kowarik)
+  - Reproducibility Working group 
+  - Data Formats Working group (Jos Cooper)
 
 ## Tuesday to Thursday: Breakout discussion sessions
 
