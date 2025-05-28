@@ -49,7 +49,7 @@ Introduction and discussion on how to better promote/publicise ORSO
 <details>
 <summary> Scientific talk: <b>Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry' </b> </summary>
 <br>
-<b> Abstract:</b> 
+<b> Abstract:</b> TBC
  
 </details>
 
@@ -65,7 +65,7 @@ scan times as short as a few hundred microseconds, the few-photon count data ref
 <details>
 <summary> Scientific talk: <b>Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning' </b> </summary>
 <br>
-<b> Abstract:</b> 
+<b> Abstract:</b> TBC
  
 </details>
 
@@ -93,14 +93,14 @@ Introduction and discussion on how to better promote/publicise ORSO
 <details>
 <summary> Scientific talk: <b>Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’ </b> </summary>
 <br>
-<b> Abstract:</b> 
+<b> Abstract:</b> TBC
  
 </details>
 
 <details>
-<summary> Scientific talk: to be confirmed </b> </summary>
+<summary> Scientific talk: to be confirmed </summary>
 <br>
-<b> Abstract:</b> 
+<b> Abstract: TBC </b> 
  
 </details>
 
