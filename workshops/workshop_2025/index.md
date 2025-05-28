@@ -22,6 +22,7 @@ The program will consist of scientific and technical talks together with discuss
 <summary>Scientific talk: <b>Chen Shen, 'Liquid surface scattering at Petra III'</b> </summary>
 <br>
 <b> Abstract:</b> Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
+ 
 </details>
 
 ## Monday 23rd June: Plenary Sessions
@@ -42,12 +43,14 @@ Where feasible we will repeat the breakout discussion sessions in different time
 <summary> <b>Introduction: Tom Arnold  </b> </summary>
 <br>
 Introduction and discussion on how to better promote/publicise ORSO 
+ 
 </details>
 
 <details>
 <summary> Scientific talk: <b>Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry' </b> </summary>
 <br>
 <b> Abstract:</b> 
+ 
 </details>
 
 <details>
@@ -56,12 +59,14 @@ Introduction and discussion on how to better promote/publicise ORSO
 <br>
 <b> Abstract:</b> With the current developments in fast X-ray reflectometry (XRR) reaching
 scan times as short as a few hundred microseconds, the few-photon count data reflects the inherent Poisson statistics of the counting process. In this regime, standard least squares fitting - which assumes symmetric Gaussian errors - can produce biased results. While Poisson log-likelihood methods exist, we demonstrate that applying the Anscombe transform - a well known variance-stabilizing transformation that converts Poisson-distributed data into approximately Gaussian-distributed data - permits continued use of the default least squares minimization utilized in most fitting softwares such as refnx or refl1d. This approach simplifies implementation and enables incorporation of additional noise sources, such as readout noise. It offers a practical and robust solution for accurate modeling in photon-limited XRR, relevant to the ORSO reflectometry community.
+ 
 </details>
 
 <details>
 <summary> Scientific talk: <b>Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning' </b> </summary>
 <br>
 <b> Abstract:</b> 
+ 
 </details>
 
 <details>
@@ -70,6 +75,7 @@ scan times as short as a few hundred microseconds, the few-photon count data ref
   
   - Sample Environment Working group (Sophie Ayscough)
   - Data Analysis Working group (Andrew Nelson)
+
 </details>
 
 
@@ -88,12 +94,14 @@ Introduction and discussion on how to better promote/publicise ORSO
 <summary> Scientific talk: <b>Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’ </b> </summary>
 <br>
 <b> Abstract:</b> 
+ 
 </details>
 
 <details>
 <summary> Scientific talk: to be confirmed </b> </summary>
 <br>
 <b> Abstract:</b> 
+ 
 </details>
 
 <details>
