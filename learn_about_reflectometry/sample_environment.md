@@ -10,7 +10,7 @@ author: "Sophie Ayscough"
 
 | Facility |Instruments| S. E. | Type of Sample | Block Substrate | Dimensions of block (min/max) | Orientation on Beamline | Mounting | Internal Sample Volume  | Material| Associated Equipment|Webpages|Literature|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISIS | OFFSPEC/INTER/SURF/POLREF | Standard Solid-Liquid Flow Cell | Soft Matter i.e. lipids,protein,polymers  | Silicon, Silicon-Chromium-Gold, Quartz | 15mm by 50mm/100mm/150mm by 80mm | Horizontal | Kinematic Mount | 3 ml | Teflon trough,  Aluminium Base | HPLC pump, Julabo, Water Bath, Syringe Pump, in-line QCM-D | Web links | Recent Publications |
+| ISIS | OFFSPEC /INTER /SURF /POLREF | Standard Solid-Liquid Flow Cell | Soft Matter i.e. lipids,protein,polymers  | Silicon, Silicon-Chromium-Gold, Quartz | 15mm by 50mm/100mm/150mm by 80mm | Horizontal | Kinematic Mount | 3 ml | Teflon trough,  Aluminium Base | HPLC pump, Julabo, Water Bath, Syringe Pump, in-line QCM-D | Web links | Recent Publications |
 
 ## Table of trough environments
 
