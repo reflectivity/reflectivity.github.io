@@ -21,6 +21,8 @@ author: "Sophie Ayscough"
 ## Table of magnets
 
 | Facility |Instruments| S. E. | Max Pole Gap | Min Pole Gap | Max/Min Field | Diameter of Pole Pieces | Type of Pole | Sample Size  | Field Uniformity | Combined Sample Environments |Remenant Field|Weight|polarisation neutron optimised| Literature|Webpages|
-| ISIS | POLREF | restive electrode magnet | --- | --- | --- | --- | Flat-faced | --- | --- | --- | --- | --- |--- | --- |--- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- |
+| ISIS | POLREF | restive electrode magnet | - | - | - | - | Flat-faced | - | - | - | - | - |- | - |- |
+
 
 
