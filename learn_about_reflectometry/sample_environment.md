@@ -16,11 +16,11 @@ author: "Sophie Ayscough"
 
 | Facility |Instruments| S. E. | Number of trough positions | Dimensions of Trough | Barrier Orientation | Trough Volume | Material | Temperature Control? Range?  | Compression Ratio | Trough Box details|Associated Equipment|Literature|Webpages|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
+| ISIS | INTER | Static Liquid Troughs | 7 | - | - | - | - | RT to 80 degrees | n/a | - | - | - | - |
 
 ## Table of magnets
 
 | Facility |Instruments| S. E. | Max Pole Gap | Min Pole Gap | Max/Min Field | Diameter of Pole Pieces | Type of Pole | Sample Size  | Field Uniformity | Combined Sample Environments |Remenant Field|Weight|polarisation neutron optimised| Literature|Webpages|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- |--- |
+| ISIS | POLREF | restive electrode magnet | --- | --- | --- | --- | Flat-faced | --- | --- | --- | --- | --- |--- | --- |--- |
 
 
