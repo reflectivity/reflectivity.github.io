@@ -21,9 +21,27 @@ As a new working group of ORSO, the sample environment (S.E.) working group are 
 
 The move towards open science continues to gather pace, and is becoming well established at central facilities. The situation is less clear for X-ray reflectometry studies conducted in home laboratories. In this session, we review the current landscape and present the latest from the Photon and Neutron Open Science Cluster (PaNOSC) and discuss how we can leverage these developments within the Reflectometry community. We will also explore data catalogues and data support and hold an open discussion to facilitate a gap analysis of needs.
 
-Provisional Schedule to be confirmed:
-- Speaker to be confirmed: “The EOSC PaN node”
-- Speaker to be confirmed:  “Updates on the database and the reflectivity use case contribution  to the NFDI and the PanoSc EOSC node.”
-- Speaker to be confirmed:  “The need for DOIs for open data and how to mint them using the public-data.desy.de”   
-- Tom Hase: “The new UK Physical Sciences Data Infrastructure project and how we can exploit it” 
-- Bridget Murphy: “Open discussion on moving towards open data (focus on metadata needs)”   
+Schedule:
+
+<details markdown="1">
+<summary>Speaker: <b>Tim Wetzel: 'The devlopement and implimentation of the reflectivity data base and  its integration to EOSC.'</b> </summary>
+<br>
+<b> Abstract:</b>
+  
+</details>
+
+<details markdown="1">
+<summary>Speaker: <b>Tom Hase: 'The new UK Physical Sciences Data Infrastructure project and how we can exploit it' </b> </summary>
+<br>
+<b> Abstract:</b> 
+ 
+</details>
+
+<details markdown="1">
+<summary>Speaker: <b>Bridget Murphy: 'Open discussion on moving towards open data (focus on metadata needs)'</b> </summary>
+<br>
+<b> Abstract:</b> 
+ 
+</details>
+
+
