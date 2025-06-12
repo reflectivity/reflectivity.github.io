@@ -24,9 +24,12 @@ The move towards open science continues to gather pace, and is becoming well est
 Schedule:
 
 <details markdown="1">
-<summary>Speaker: <b>Tim Wetzel: 'The devlopement and implimentation of the reflectivity data base and  its integration to EOSC.'</b> </summary>
+<summary>Speaker: <b>Tim Wetzel: 'A catalogue concept for FAIR and Open Data implemented at DESY for NFDI and EOSC.'</b> </summary>
 <br>
-<b> Abstract:</b>
+<b> Abstract:</b> DESY, a leading European synchrotron facility, has taken a significant step towards making research data publicly available by establishing a metadata catalogue for data publications. This development is in line with the Open and FAIR data principles, which aim to make data easily discoverable, accessible, and reusable for the wider scientific community. The metadata catalogue, Scicat, provides a comprehensive overview of public research data, making it easier for scientists to find and access relevant data sets. The catalogue is accessible through federated user accounts, allowing community members to log in using their institutional accounts via eduGAIN, HelmholtzID, NFDI, and soon EOSC-AAI.
+We also enable scientists to upload their datasets via a self-service portal that provides an easy way of entering all relevant metadata according to predefined metadata schemata, which also allow for automated validation and a curation process that ensures data and metadata quality.
+By establishing this infrastructure, DESY is contributing to the growing movement towards Open Science, as requested by funding agencies and scientific journals. The blueprint for DESY’s Open Data solution will be shared with the wider community through HIFIS, NFDI and EOSC, enabling other research institutions to benefit from this development.
+The talk will give a short overview of the established services and their architecture. Demonstrating the workflow of minting a DOI for an Open dataset to make it findable from anywhere in the metadata catalogue and subsequently accessing the corresponding dataset itself will be one focus of the talk. Also, general information about the necessity of FAIR and Open Data with persistent identifiers such as DOIs will be given and elaborated.
   
 </details>
 
