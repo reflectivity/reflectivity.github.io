@@ -36,7 +36,7 @@ The talk will give a short overview of the established services and their archit
 <details markdown="1">
 <summary>Speaker: <b>Tom Hase: 'The new UK Physical Sciences Data Infrastructure project and how we can exploit it' </b> </summary>
 <br>
-<b> Abstract:</b> 
+<b> Abstract:</b> The PSDI (psdi.ac.uk) is a new infrastructure that aims to accelerate research across the physical sciences, by connection and building on the data systems already in use. A range of resources provide access to diverse data sources, data handling, and data conversion along with guidance and training. In this presentation we will discuss how the international reflectometry community can make use of the support offered by PSDI, including how new and emerging needs may be accommodated, especially for research activities away from central facilities.
  
 </details>
 
