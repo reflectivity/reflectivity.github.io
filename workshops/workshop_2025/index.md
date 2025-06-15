@@ -98,7 +98,7 @@ Introduction and discussion on how to better promote/publicise ORSO
 </details>
 
 <details markdown="1">
-<summary> Scientific talk: to be confirmed </summary>
+<summary> Scientific talk: <b> Giannis Koumoutsos, 'Leveraging Ontologies and Reasoning for FAIR Data in ESRF Experiments' </b> </summary>
 <br>
 <b> Abstract: TBC </b> 
  
