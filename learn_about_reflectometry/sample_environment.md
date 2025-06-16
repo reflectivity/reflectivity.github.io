@@ -16,9 +16,10 @@ author: "Sophie Ayscough"
 
 | Facility |Instruments| S. E. | Number of trough positions | Dimensions of Trough | Barrier Orientation | Trough Volume | Material | Temperature Control? Range?  | Compression Ratio | Trough Box details|Associated Equipment|Literature|Webpages|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ISIS | INTER | Static Liquid Troughs | 7 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | |
-| ISIS | CRISP/SURF | Static Liquid Troughs | 5 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | |
-| ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | - | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
+| ISIS | INTER | Static Liquid Troughs | 7 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) |- |
+| ISIS | CRISP/SURF | Static Liquid Troughs | 5 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) |- |
+| ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | - | - | - |[ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
+
 ## Table of magnets
 
 | Facility |Instruments| S. E. | Max Pole Gap | Min Pole Gap | Max/Min Field | Diameter of Pole Pieces | Type of Pole | Sample Size  | Field Uniformity | Combined Sample Environments |Remenant Field|Weight|polarisation neutron optimised| Literature|Webpages|
