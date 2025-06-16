@@ -109,7 +109,9 @@ Introduction and discussion on how to better promote/publicise ORSO
 <details markdown="1">
 <summary> Scientific talk: <b>Frank Heinrich, ‘Composition-space modeling in neutron reflectometry from biological and soft matter interfaces.’ </b> </summary>
 <br>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> Composition-space modeling provides a versatile framework for interpreting scattering data from biological and soft matter systems. Rather than starting with abstract layers of scattering length density, this approach builds real-space models based on molecular groups that fill the available volume while satisfying spatial and stoichiometric constraints. From these physically grounded models, the corresponding scattering length density profiles and predicted reflectivity curves are derived and compared to experimental data.
+ 
+This talk will provide an overview of the development and principles of composition-space modeling, highlighting its relevance to systems where components overlap spatially and interact in complex ways. I will present recent applications across neutron reflectometry, X-ray diffraction, and small-angle neutron scattering. I will discuss ongoing efforts at NIST to modernize and extend the modeling framework, including its integration into the Refl1D webview interface. This integration enables real-time visual feedback, streamlining model construction and enhancing accessibility for researchers working with layered biological and soft matter systems.
  
 </details>
 
