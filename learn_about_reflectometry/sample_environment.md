@@ -18,7 +18,7 @@ author: "Sophie Ayscough"
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ISIS | INTER | Static Liquid Troughs | 7 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | [Picture](https://www.isis.stfc.ac.uk/Gallery/DSCF0028.jpg) |
 | ISIS | CRISP/SURF | Static Liquid Troughs | 5 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | [Picture](https://www.isis.stfc.ac.uk/Gallery/DSCF0035.jpg) |
-| ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
+| ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | - | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
 ## Table of magnets
 
 | Facility |Instruments| S. E. | Max Pole Gap | Min Pole Gap | Max/Min Field | Diameter of Pole Pieces | Type of Pole | Sample Size  | Field Uniformity | Combined Sample Environments |Remenant Field|Weight|polarisation neutron optimised| Literature|Webpages|
