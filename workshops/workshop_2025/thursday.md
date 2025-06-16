@@ -40,11 +40,6 @@ The talk will give a short overview of the established services and their archit
  
 </details>
 
-<details markdown="1">
-<summary>Speaker: <b>Bridget Murphy: 'Open discussion on moving towards open data (focus on metadata needs)'</b> </summary>
-<br>
-<b> Abstract:</b> 
- 
-</details>
+* Open discussion on moving towards open data (focus on metadata needs): Moderated by Bridget Murphy: 
 
 
