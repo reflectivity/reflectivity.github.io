@@ -65,7 +65,23 @@ scan times as short as a few hundred microseconds, the few-photon count data ref
 <details markdown="1">
 <summary> Scientific talk: <b>Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning' </b> </summary>
 <br>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> Neutron reflectometry (NR) provides sub‑nm structural information at
+buried interfaces; however, time‑resolved NR is constrained by the
+minutes‑long counting times needed for acceptable statistics. This study
+introduces a data‑driven denoising methodology based on convolutional
+neural networks (CNNs) to overcome this limitation. One million
+synthetic multi-layered structures were generated; for each, both ideal
+and noise‑degraded reflectivity profiles were computed to supervise CNN
+training. The resulting model was applied to experimental‑style spectra
+acquired with 5 % of the usual neutron counts. CNN‑filtered profiles
+reproduced layer thicknesses and scattering‑length‑density distributions
+obtained from standard exposures within experimental uncertainty. These
+results confirm that acquisition times can be shortened by at least an
+order of magnitude without compromising analytical accuracy, enabling
+second‑scale observation of interfacial kinetics. The proposed approach
+shifts the limiting factor in time‑resolved NR from neutron flux to
+advanced data processing, substantially expanding the applicability of
+this technique to dynamic surface and interface studies.
  
 </details>
 
