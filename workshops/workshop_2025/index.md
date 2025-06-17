@@ -11,7 +11,7 @@ The program will consist of scientific and technical talks together with discuss
 
 **In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
 
-## [Registration is now open](https://indico.ess.eu/event/3810/)
+## [Registration will close on 22nd June](https://indico.ess.eu/event/3810/)
 
 # Agenda:
 
