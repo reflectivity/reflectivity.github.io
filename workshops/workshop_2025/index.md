@@ -47,9 +47,9 @@ Introduction and discussion on how to better promote/publicise ORSO
 </details>
 
 <details markdown="1">
-<summary> Scientific talk: <b>Anton Le Brun, 'Recent Advances in Sample Environments for Neutron Reflectometry' </b> </summary>
+<summary> Scientific talk: <b>Anton Le Brun, 'Overview and Recent Advances in Sample Environments for Neutron Reflectometry' </b> </summary>
 <br>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> Having the correct sample environment is integral to any part of a neutron scattering experiment as the scientist wishes to make measurements as a function of some external environmental condition. This presentation will present an overview of the latest developments in sample environments in neutron reflectometry with a focus on the reflectometers at the neutron beam facility at the OPAL Research Reactor, ANSTO. Trends in current developments in sample environments determined from analysis of the literature will be discussed highlighting where future developments could be found.
  
 </details>
 
