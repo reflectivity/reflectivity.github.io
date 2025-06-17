@@ -25,6 +25,8 @@ The program will consist of scientific and technical talks together with discuss
  
 </details>
 
+A video of Chen's Talk is available [here](https://www.youtube.com/watch?v=vmclGPNefc4)
+
 ## Monday 23rd June: Plenary Sessions
 
 The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
