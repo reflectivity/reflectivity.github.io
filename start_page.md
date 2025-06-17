@@ -21,7 +21,7 @@ of neutron and X-ray reflectometry.*
 > [[ analysis software ]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
 > [[ SLD data base ]](https://slddb.esss.dk/slddb/)
 >
-> **sample environment**
+> **sample environment:**
 > [[list of sample environments]](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)
 
 ### advanced and expert level
