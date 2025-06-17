@@ -16,6 +16,17 @@ As a new working group of ORSO, the sample environment (S.E.) working group are 
 - We will then have more focused mini sessions on solid-liquid flow cells and on troughs, giving the opportunity for groups/facilities that require support to ask questions and find support from partner facilities. (30 minutes)
 - Finally will focus on population of the Sample Environment ORSO webpages. We wish to build a comprehensive list of environments available at different facilities, and we hope that you will take this time with us to contribute information on available environments at facilities but also novel sample environments by research groups. We would also in general like to build educational pages on sample environment use. Please attend the session if you are interested in contributing and helping to build what would be a valuable resource for the community. (1 hour)
 
+## ORSO Drop-in help
+**11:00-12:00 (UK), 12:00-13:00 (Europe), 06:00-07:00 (US East coast), 20:00-21:00 (Australia East coast):**
+
+We would like to give you an opportunity to drop in and ask us for help with anything to do with ORSO & reflectometry. 
+- How to get involved with orso?
+- How to work with orsopy?
+- How to edit the website?
+- Advice on fitting or reflectometry software bugs
+
+The ORSO chairs and possibly some others will be available to answer your specific questions and feedback on what we do.
+
 ## Moving towards fully Open Data for Reflectometry
 **13:00-14:00 (UK), 14:00-15:00 (Europe), 08:00-09:00 (US East coast), 22:00-23:00 (Australia East coast):**
 
