@@ -11,7 +11,7 @@ The program will consist of scientific and technical talks together with discuss
 
 **In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
 
-## [Registration will close on 21st June](https://indico.ess.eu/event/3810/)
+## [Registration is now closed](https://indico.ess.eu/event/3810/)
 
 # Agenda:
 
@@ -129,7 +129,7 @@ This talk will provide an overview of the development and principles of composit
 <br>
 
   - Education and Outreach Working group (Stefan Kowarik)
-  - Reproducibility Working group 
+  - Reproducibility Working group (Maciej Jankowski)
   - Data Formats Working group (Jos Cooper)
 </details>
 
