@@ -30,7 +30,7 @@ A video of Chen's Talk is available [here](https://www.youtube.com/watch?v=vmclG
 ## Monday 23rd June: Plenary Sessions
 
 The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
-There will also be some scientific talks on subjects of interest to the ORSO community (speakers to be confirmed).
+There will also be some scientific talks on subjects of interest to the ORSO community.
 Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary sessions and post the videos here after the meeting.
 Where feasible we will repeat the breakout discussion sessions in different time zones or attempt to schedule at a time accessible to all. Please bear with us for unsociable meeting times!
 
