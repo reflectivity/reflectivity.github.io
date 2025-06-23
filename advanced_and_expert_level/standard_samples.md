@@ -12,3 +12,8 @@ We are looking for people to volunteer the following:
 - An example of the data you get from this sample
 
 Once you add your sample, please include yourself in the authors of this page.
+
+ANSTO calibration samples
+---------------
+- Ni(120 Angstrom)/Ti(80 Angstrom) multilayer, 25 repeats. Its Bragg peaks are used to perform wavelength and sample-detector distance calibrations.
+  
