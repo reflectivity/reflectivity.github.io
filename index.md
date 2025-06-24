@@ -19,6 +19,7 @@ of neutron and X-ray reflectometry.*
 
 > [\[ **simple intro** \]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
 > [\[ tutorial \]](https://www.reflectometry.org/learn/intro.html)
+> [\[ model library \]](https://www.reflectometry.org/learn_about_reflectometry/model_library)
 >
 > **how to get beamtime:**  
 > [\[ x-ray reflectometers \]](https://www.reflectometry.org/learn_about_reflectometry/list_of_x-ray_reflectometers)
