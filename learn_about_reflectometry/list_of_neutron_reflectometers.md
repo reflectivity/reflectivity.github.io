@@ -13,7 +13,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Platypus](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/platypus-neutron-reflectometer) | Horizontal | Yes | Yes | [2011](https://dx.doi.org/10.1016/j.nima.2010.12.075),  [2012](https://dx.doi.org/10.1063/1.4738579)| <img src="/projects/file_formats/implemented.png" width="150"> |
 | [ANSTO](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments) | Australia | [Spatz](https://www.ansto.gov.au/user-access/instruments/neutron-scattering-instruments/spatz-neutron-reflectometer) | Vertical | No | Yes | | <img src="/projects/file_formats/implemented.png" width="150">  |
-| [BNC](https://www.bnc.hu/) | Hungary | [GINA](https://www.bnc.hu/gina) | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)|  |
+| [BNC](https://www.bnc.hu/) | Hungary | [GINA](https://www.bnc.hu/gina) | Vertical | Yes | No | [2012](https://dx.doi.org/10.1080/10448632.2012.645693), [2013](https://dx.doi.org/10.1063/1.4770129)| <img src="/projects/file_formats/implemented.png" width="150"> |
 | [BNC](https://www.bnc.hu/) | Hungary | [REF](https://www.bnc.hu/?q=ref) | Vertical | Yes | No | | 
 | [CIAE, CARR](http://www.ciae.ac.cn/eng/Researchprograms/05.htm) | China | NR | Horizontal | No | No | [2011](https://dx.doi.org/10.1016/j.nima.2011.08.003)| 
 | [CSNS](http://english.ihep.cas.cn/csns/) | China | [MR](http://english.ihep.cas.cn/csns/fa/in/202109/t20210915_283257.html) | Vertical | Yes | Yes | [2018](https://www.tandfonline.com/doi/full/10.1080/10448632.2018.1514196)| 
@@ -36,7 +36,6 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | [FLNP](http://flnph.jinr.ru/en/) | Russia | [GRAINS](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/grains) | Horizontal | Yes | Yes | [2010](https://iopscience.iop.org/article/10.1088/1742-6596/251/1/012060), [2017](https://link.springer.com/article/10.1134/S1063774517060025) | 
 | [FLNP](http://flnph.jinr.ru/en/) | Russia | [REFLEX-P](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/reflex) | Vertical | Yes | Yes | [1992](http://dx.doi.org/10.1117/12.130643), [2007](https://link.springer.com/article/10.1134/S1063774507030376)  | 
 | [FLNP](http://flnph.jinr.ru/en/) | Russia | [REMUR](http://flnph.jinr.ru/en/facilities/ibr-2/instruments/remur) | Vertical | Yes | Yes | [2006](https://www.sciencedirect.com/science/article/abs/pii/S0168900206006802?via%3Dihub), [2016](https://link.springer.com/article/10.1134/S1027451016010146), [2021](https://arxiv.org/abs/2101.09859) | 
-| JINR, Dubna | Russia | SPN | Vertical | Yes | Yes | | 
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SOFIA](https://mlfinfo.jp/en/bl16/) | Horizontal | No | Yes | [2011](http://dx.doi.org/10.1140/epjp/i2011-11108-7), [2012](https://www.nature.com/articles/pj2012156), [2019](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-19-26807&id=418652) | 
 | [J-PARC](https://mlfinfo.jp/en/) | Japan | [SHARAKU](https://mlfinfo.jp/en/bl17/) | Vertical | Yes | Yes | [2013](https://www.sciencedirect.com/science/article/pii/S1875389213002253#aep-article-footnote-id8), [2014](https://iopscience.iop.org/article/10.1088/1742-6596/528/1/012020/meta)|  <img src="/projects/file_formats/implemented.png" width="150">  |
 | [JRR-3](https://jrr3.jaea.go.jp/jrr3e/index.htm) | Japan | SUIREN | Vertical | Yes | No | [2009](http://dx.doi.org/10.1016/j.physb.2009.06.022)| 
@@ -44,7 +43,7 @@ This list may not be exhaustive or up-to-date. Please contact us with your beaml
 | LANSCE | USA | ASTERIX | Vertical | Yes | Yes | | 
 | CMRR | China | Diting TPNR | Vertical | Yes | Yes | | 
 | MIT Reactor | USA | 4DH4 | -- | No | Yes | | 
-| MURR | USA | GANS | Vertical | Yes | No | | 
+| [MURR](https://www.murr.missouri.edu/research/materials-science/) | USA | [GANS](https://www.murr.missouri.edu/research/materials-science/neutron-reflectometer/) | Vertical | Yes | No | | 
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [CANDOR](https://www.nist.gov/ncnr/chrns-candor-white-beam-reflectometer) | Vertical | No | No | |  <img src="/projects/file_formats/implemented.png" width="150">  |
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [MAGIK](https://www.nist.gov/ncnr/magik-reflectometer) | Vertical | No | No | |  <img src="/projects/file_formats/implemented.png" width="150">  |
 | [NIST](https://www.nist.gov/ncnr/neutron-instruments/reflectometry) | USA | [Polarized Beam Reflectometer](https://www.nist.gov/ncnr/polarized-beam-reflectometer) | Vertical | Yes | No | |  <img src="/projects/file_formats/implemented.png" width="150">  |
