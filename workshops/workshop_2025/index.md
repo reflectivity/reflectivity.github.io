@@ -55,6 +55,8 @@ Introduction and discussion on how to better promote/publicise ORSO
  
 </details>
 
+A video of the Talk is available [here](https://youtu.be/vtSqH9Xb_W0)
+
 <details markdown="1">
 <summary>  Scientific talk:  <b>Michael Haberl, 'Photon-Limited X-Ray Reflectometry: Improved Fitting via the Anscombe Transform'
  </b> </summary>
@@ -63,6 +65,8 @@ Introduction and discussion on how to better promote/publicise ORSO
 scan times as short as a few hundred microseconds, the few-photon count data reflects the inherent Poisson statistics of the counting process. In this regime, standard least squares fitting - which assumes symmetric Gaussian errors - can produce biased results. While Poisson log-likelihood methods exist, we demonstrate that applying the Anscombe transform - a well known variance-stabilizing transformation that converts Poisson-distributed data into approximately Gaussian-distributed data - permits continued use of the default least squares minimization utilized in most fitting softwares such as refnx or refl1d. This approach simplifies implementation and enables incorporation of additional noise sources, such as readout noise. It offers a practical and robust solution for accurate modeling in photon-limited XRR, relevant to the ORSO reflectometry community.
  
 </details>
+
+A video of the Talk is available [here](https://youtu.be/eq5bS58-It4)
 
 <details markdown="1">
 <summary> Scientific talk: <b>Hiro Aoki, 'Boosting the resolution of time-resolved neutron reflectometry with deep learning' </b> </summary>
@@ -87,6 +91,8 @@ this technique to dynamic surface and interface studies.
  
 </details>
 
+A video of the Talk is available [here](https://youtu.be/vtSqH9Xb_W0)
+
 <details markdown="1">
 <summary> <b>The ORSO Chairs. Summary of progress since the last meeting </b> </summary>
 <br>
@@ -96,7 +102,7 @@ this technique to dynamic surface and interface studies.
 
 </details>
 
-
+Videos of the Talks are available here: [Sample Environment Working group](https://youtu.be/fGi9F8lQQkc) and [Data Analysis Working group](https://youtu.be/y6F9Fbn75i8)
 
 ### Plenary Session 2
 **18:00-20:20 (UK), 19:00-21:20 (Europe), 13:00-15:20 (US East coast), 03:00-05:20 (Australia East coast):**
@@ -117,12 +123,16 @@ This talk will provide an overview of the development and principles of composit
  
 </details>
 
+A video of the Talk is available [here](https://youtu.be/4qIgmfEf0Zs)
+
 <details markdown="1">
 <summary> Scientific talk: <b> Giannis Koumoutsos, 'Leveraging Ontologies and Reasoning for FAIR Data in ESRF Experiments' </b> </summary>
 <br>
 <b> Abstract: TBC </b> 
  
 </details>
+
+A video of the Talk is available [here](https://youtu.be/t1Rk9gjGnH4)
 
 <details markdown="1">
 <summary> <b>The ORSO Chairs. Summary of progress since the last meeting </b> </summary>
@@ -132,6 +142,8 @@ This talk will provide an overview of the development and principles of composit
   - Reproducibility Working group (Maciej Jankowski)
   - Data Formats Working group (Jos Cooper)
 </details>
+
+Videos of the Talks are available here: [Education and Outreach Working group](https://youtu.be/CaP5jcd44kk), [Data Formats Working group](https://youtu.be/XMbC061eyi8) and [Reproducibility Working group](https://youtu.be/vWlhl5Yzvso)
 
 ## Tuesday to Thursday: Breakout discussion sessions
 
