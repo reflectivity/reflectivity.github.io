@@ -102,7 +102,7 @@ A video of the Talk is available [here](https://youtu.be/vtSqH9Xb_W0)
 
 </details>
 
-Videos of the Talks are available here: [Sample Environment Working group](https://youtu.be/fGi9F8lQQkc) and [Data Analysis Working group](https://youtu.be/y6F9Fbn75i8)
+Videos of the Talks are available here: [Sample Environment Working group](https://youtu.be/Ja7RaBvnvCc) and [Data Analysis Working group](https://youtu.be/y6F9Fbn75i8)
 
 ### Plenary Session 2
 **18:00-20:20 (UK), 19:00-21:20 (Europe), 13:00-15:20 (US East coast), 03:00-05:20 (Australia East coast):**
