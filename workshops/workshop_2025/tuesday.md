@@ -13,10 +13,13 @@ For many users, one of the barriers to modern data analysis tools is the need to
 - Discuss how such a library could work in practice
 - Canvas what types of example would be useful
 
+[Video of the introduction for this session](https://youtu.be/oAH7qgZPWNU)
 
 ## The use of nested sampling in reflectometry
 **20:00-21:30 (UK), 21:00-22:30 (Europe), 15:00-16:30 (US East coast), 05:00-06:30 (Australia East coast):** 
 
 Whilst Bayesian approaches are now common for estimating posterior distributions (to understand parameter uncertainty), data analyses that obtain the Bayesian evidence term for model selection (which of model A or B is a better way of treating the data?) are much scarcer. Nested sampling is a Bayesian statistical technique for estimating this evidence term, as well as being able to estimate the parameter posterior distribution.
 - The first half of this session will have a brief introduction to nested sampling and its historical use in neutron reflectometry (45 minutes, speakers Andrew Nelson and Andrew Caruana).
+- [Video of Andrew Nelson's Talk](https://youtu.be/4iOahSFktC0)
+- [Video of Andrew Caruana's Talk](https://youtu.be/fGhcBe4YHhc)
 - The second half of the session will discuss possible future uses of nested sampling in reflectometry analysis (45 minutes).
