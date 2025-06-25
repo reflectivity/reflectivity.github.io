@@ -15,6 +15,8 @@ What can be done to improve uptake?
  
 Finally is there some merit in defining a standard format (or formats) for fit results. There is often a bottleneck after running analysis to get the fit, the SLD profile(s) and the confidence intervals etc out of the analysis software into an appropriate format for publication. The vision here is to add some kind of export functionality into the analysis software to export those things in formats suitable for common plotting software (Origin, Sigmaplot, Python (Plotly, Matplotlib etc), Matlab etc). This would be similar to the various image formats - not a single format, but a small collections of standard formats. 
 
+[Reference of Artur Glavic's tool for interpreting the model language.](https://github.com/aglavic/orso_tools)
+
 ## Reproducibility Working Group
 
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
