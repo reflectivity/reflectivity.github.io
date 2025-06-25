@@ -342,7 +342,7 @@ Qualitative description of the *intended* instrument setting.
   and the second the manipulation of the reflected beam.
   - *p* (plus polarization): neutrons with **magnetic moment parallel** to the external field arrive at the 
     sample / detector.
-  - *n* (minus polarization): neutrons with **magnetic moment antiparallel** to the external field arrive at the 
+  - *m* (minus polarization): neutrons with **magnetic moment antiparallel** to the external field arrive at the 
     sample / detector. 
   - *o*: no polarization or polarization analysis is performed.
       
