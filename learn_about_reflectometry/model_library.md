@@ -14,3 +14,11 @@ The exact format is under debate and for the moment we collect suggestions. If y
 
 We will meet sometime in August to decide on location, form and content of this library.
 
+In the meantime if you would like to submit a model you can do so [here](https://github.com/reflectivity/analysis/tree/master/model_library) 
+
+**You will need to have a github account and be a member of the orso github organisation**
+
+If you are not a member email one of the above to invite you.
+
+If you would prefer not to join github then you can just email us your model and we will add it.
+
