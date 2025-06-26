@@ -14,21 +14,6 @@
   - Data are harvested from facility-specific catalogs; end users do not upload manually.
 - Challenges: Data is not easily findable e.g. due to missing meta data or developing search engine
 
-**Data Formats and Standards**
-
-**NeXus**
-
-- Common hierarchical data format for storing raw and processed scientific data.
-- Built on HDF5; designed for large-scale experimental data.
-- Widely used across PaNOSC facilities for techniques like neutron scattering and X-ray imaging.
-
-**ort (orso reflectometry textfile)**
-
-- Toolkit and metadata schema for standardizing reflectometry data.
-- Developed in collaboration with the Orso community.
-- Supports integration with NeXus format and consistent metadata for reflectometry workflows.
-- Python module orsopy is available for data handeling
-
 **PaNet**
 
 - A metadata schema and ontology developed by PaNOSC.
@@ -56,10 +41,6 @@
 - Complements PaNOSC by linking experimental datasets with computational counterparts.
 - Shared interest in FAIR principles and metadata interoperability.
 
-**ORSO**
-
-- Community initiative to standardize reflectometry data formats and workflows.
-- Ensures data from PaNOSC can be used in Orso-compliant tools.
 
 **Summary Map**
 
@@ -67,72 +48,5 @@
 - Orso & ort: Organization for standardization in reflectometry, Reflectometry-specific standards.
 - PaNet: Central metadata model for search, harvesting, and interoperability.
 - ESRF-ET: Ontology supporting semantic classification of techniques.
-- Data Portal: Front-end for search, access, and discovery.
+- ESRFData Portal: Front-end for search, access, and discovery.
 
-**Overview of VIPR**
-
-VIPR aims to develop a flexible software framework for data-driven solutions to inverse problems, which are prevalent in various scientific fields, including photon and neutron research. The project focuses on leveraging **invertible neural networks (INNs)** to address challenges where traditional direct inversion methods are not applicable due to the loss of essential phase information in experimental data.
-
-**Key Objectives**
-
-- **Develop a versatile software framework**: Create tools that can handle complex inverse problems across different scientific domains.
-- **Implement invertible neural networks (INNs)**: Utilize INNs to provide efficient and accurate solutions to non-convex optimization problems inherent in inverse problem scenarios.
-- **Facilitate user-friendly data analysis**: Offer a cloud-based software environment that allows researchers to perform analyses without extensive computational resources.
-
-**Application Areas**
-
-The VIPR framework is designed to be applicable in various experimental techniques, including:
-
-- Grazing incidence small- and wide-angle scattering (GISAXS and GIWAXS)
-- Neutron and X-ray reflectivity
-- Ptychography
-- Spectroscopy
-- Particle physics
-
-By addressing the computational challenges associated with inverse problems in these areas, VIPR aims to enhance the efficiency and accessibility of data analysis for researchers working with complex experimental data.
-
-For more detailed information about the VIPR project and its developments check the official project website: <https://vipr-project.de/>.
-
-**VISA (Virtual Infrastructure for Scientific Analysis)**
-
-**Overview**
-
-**VISA** is a key outcome of the **PaNOSC** project, designed to enable **remote data analysis** at large-scale photon and neutron research facilities. It allows users to **process experimental data without needing to download it locally**, using powerful compute resources provided by the facilities themselves.
-
-VISA aligns with **EOSC (European Open Science Cloud)** and **FAIR** data principles, providing a scalable, federated solution for scientific computing in photon and neutron science.
-
-**Key Features**
-
-- **Remote Access to Compute Resources**  
-    Researchers can run data analysis workflows directly at the facility where the data is stored, minimizing data movement.
-- **Federated Authentication**  
-    Uses identity federation (e.g., **eduGAIN**) so users can log in with their **home institution credentials**. No need to create local accounts at each facility.
-- **Supports Standard Tools and Notebooks**  
-    VISA instances typically offer:
-  - **Jupyter Notebooks**
-  - Command-line access
-  - Facility-specific analysis software
-  - Visualization tools (e.g., Matplotlib, PyMca, Mantid)
-- **Integrated with Data Portal**  
-    Once users discover a dataset via the **PaNOSC Data Portal**, they can launch a VISA session to analyze it without downloading.
-- **Reusable Scientific Workflows**  
-    Promotes standardized, reproducible workflows that can be reused across datasets and facilities.
-
-**Relationship to Other Components**
-
-- **PaNOSC Data Portal**: VISA is the compute and analysis backend that complements data discovery.
-- **NeXus format**: Analysis workflows in VISA often operate directly on NeXus data structures.
-- **PaNet and ESRF-ET**: Metadata models help select the appropriate workflows or tools in VISA.
-- **DAPHNE4NFDI**: Potential for alignment on reusable workflows and remote analysis standards within the German NFDI framework.
-- **EOSC**: VISA is fully aligned with the vision of EOSC for enabling seamless, federated, and FAIR-aligned scientific computing across Europe.
-
-**Summary**
-
-**VISA** empowers researchers by:
-
-- Reducing barriers to data analysis.
-- Supporting collaboration across borders.
-- Enabling efficient use of large-scale data.
-- Promoting reproducibility through standardized workflows.
-
-It represents a significant step forward in making photon and neutron science **open, efficient, and FAIR**.
