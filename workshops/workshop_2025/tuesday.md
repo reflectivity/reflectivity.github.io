@@ -23,3 +23,4 @@ Whilst Bayesian approaches are now common for estimating posterior distributions
 - [Video of Andrew Nelson's Talk](https://youtu.be/4iOahSFktC0)
 - [Video of Andrew Caruana's Talk](https://youtu.be/fGhcBe4YHhc)
 - The second half of the session will discuss possible future uses of nested sampling in reflectometry analysis (45 minutes).
+- [Notes on the discussion](https://github.com/reflectivity/reflectivity.github.io/blob/f258e3be6155bce8bb113d8c976f1768dd38c99c/workshops/workshop_2025/ORSO_notes_Nested_Sampling.pdf)
