@@ -19,6 +19,11 @@ of neutron and X-ray reflectometry.*
 
 > [\[ **simple intro** \]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
 > [\[ tutorial \]](https://www.reflectometry.org/learn/intro.html)
+> 
+>
+> **sample environment:**
+> 
+> [[list of sample environments]](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)
 >
 >
 > **how to get beamtime:**  
