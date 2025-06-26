@@ -4,7 +4,7 @@ title: "Reflectometry Sample Environment"
 permalink: /learn_about_reflectometry/sample_environments
 author: "Sophie Ayscough"
 ---
-## Below is an incomplete list of sample environments(S.E.) available at different facilities, please feel free to add to it (with answers).
+## Below is an incomplete list of sample environments(S.E.), please add to it S. E. available at facilities or independently developed S.E..  
 
 ## Table of Solid-Liquid Flow Cell Sample Environments
 
