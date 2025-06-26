@@ -53,6 +53,14 @@ The talk will give a short overview of the established services and their archit
  
 </details>
 
-* Open discussion on moving towards open data (focus on metadata needs): Moderated by Bridget Murphy: 
+* [Video of the Talk by Tim Wetzel](https://youtu.be/fAyRdv9ARwA)
+* [Video of the Talk by Tom Hase](https://youtu.be/gVN1MKqSi_E)
+* Open discussion on moving towards open data (focus on metadata needs): Moderated by Bridget Murphy:
+
+Some useful links from the discussion:
+* [SciCat](https://www.scicatproject.org/)
+* [PSDI](https://www.psdi.ac.uk/)
+* [FAIR data – the photon and neutron communities move together towards open science](https://journals.iucr.org/m/issues/2025/01/00/ti5033/index.html)
+* [Snip](https://snip.roentgen.physik.uni-goettingen.de/frontpage)
 
 
