@@ -23,7 +23,7 @@ of neutron and X-ray reflectometry.*
 >
 > **sample environment:**
 > 
-> [[list of sample environments]](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)
+> [\[list of sample environments]](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)
 >
 >
 > **how to get beamtime:**  
@@ -55,7 +55,7 @@ of neutron and X-ray reflectometry.*
 >
 > **depositing data in public repositories and FAIR data**
 > 
-> [[list of repositories and related efforts]](https://github.com/reflectivity/reflectivity.github.io/commit/815c703722c365e3794138312518f1746b742f58)
+> [\[list of repositories and related efforts]](https://github.com/reflectivity/reflectivity.github.io/commit/815c703722c365e3794138312518f1746b742f58)
 
 ### communication channels:
 
