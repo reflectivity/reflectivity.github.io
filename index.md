@@ -3,6 +3,7 @@ title: "Open Reflectometry Standards Organisation"
 permalink: /index.html
 ---
 
+
 <img src="https://github.com/reflectivity/logo/raw/master/aglavic/ORSO_Logo_clean.png" width="20%">
 
 *ORSO is an international, open effort to improve the scientific techniques 
