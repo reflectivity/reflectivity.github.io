@@ -52,6 +52,8 @@ of neutron and X-ray reflectometry.*
 > [\[ model language ](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) 
 > & [ examples \]](https://slddb.esss.dk/slddb/sample)
 > [\[ standard samples \]](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
+>
+> **depositing data in public repositories and FAIR data**  
 
 ### communication channels:
 
