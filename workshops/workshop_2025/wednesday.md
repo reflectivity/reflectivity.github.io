@@ -27,6 +27,7 @@ Finally is there some merit in defining a standard format (or formats) for fit r
 This session will split into two parts:
 - Following the successful sessions in previous meetings on generating advice on defining some best practice for reporting results and inputs to Bayesian analysis, we would like to begin a new initiative on publishing a checklist for reproducible publishing in reflectometry. This session will begin with a discussion on how useful and general this would be, and try to define what we think "best practice" actually is.
 - For neutron reflectometry we have, for quite some time, been trying to collect data on a "round-robin" sample to compare neutron instruments. This session will look at the results from this study and recruit volunteers to actually write the paper. We would also like to consider what we would need to make a similar study for Synchrotron beamlines.
+- [Notes from the discussion](https://github.com/reflectivity/reflectivity.github.io/blob/214550b42c1eb9e32c20300740829688b9f3a7f1/workshops/workshop_2025/library_session_notes_ot.pdf)
 - [Video of the Talk by Andrew Nelso on the Round Robin](https://youtu.be/PZBQIZn8cTg)
 - [Slides provided by Christy Kinane on what could be the minimum definition of a best-practice](https://github.com/reflectivity/reflectivity.github.io/blob/d008278d0c8da412cea9dd2986dce914d63b20ed/workshops/workshop_2025/RGSAD_2025_CJK_whatarewepresentinginpublications.pdf)
 
