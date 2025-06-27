@@ -18,7 +18,8 @@ Finally is there some merit in defining a standard format (or formats) for fit r
 - [Video of the Introduction by Max Skoda](https://youtu.be/pAQvBKWiWnA)
 - [Video of the Demo by Artur Glavic](https://youtu.be/ymj4EcHPX0c)
 - [Reference of Artur Glavic's tool for interpreting the model language.](https://github.com/aglavic/orso_tools)
-
+- [Notes from the discussion](https://github.com/reflectivity/reflectivity.github.io/blob/d6b3c6a45df70f67ba3f0ee7da4b691e962bec14/workshops/workshop_2025/ORSO_Orsopy%20and%20a%20standard%20model%20language.pdf)
+  
 ## Reproducibility Working Group
 
 20:00-22:00 (UK), 21:00-23:00 (Europe), 15:00-17:00 (US East coast), 05:00-07:00 (Australia East coast): 
