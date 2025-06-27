@@ -31,9 +31,6 @@ The following links provide information about computer programs used for the ana
     [https://easyreflectometry.org](https://easyreflectometry.org)
     - [Documentation](https://easyscience.github.io/EasyReflectometryLib/) and [Tutorials](https://easyscience.github.io/EasyReflectometryLib/tutorials.html)
 
-*   A catalogue of neutron reflectivity fitting programs written by Adrian Rennie that also use the [Fitfun](http://www.ccp14.ac.uk/exill/tools/fitfun.htm) data fitting package developed at the ILL by Dr Ron Ghosh and the [Clickfit](http://www.ccp14.ac.uk/exill/tools/clickfit.html) GUI  
-    [http://www.reflectometry.net/refprog.htm](http://www.reflectometry.net/refprog.htm)
-
 *   Interactive, Web-Based Calculator of Neutron and X-ray Reflectivity, provided by Brian Maranville at NIST Center for Neutron Research.  
     [https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html](https://www.ncnr.nist.gov/instruments/magik/calculators/reflectivity-calculator.html).  
     There is also an extended version for magnetic samples and polarised neutrons:  
@@ -45,11 +42,6 @@ The following links provide information about computer programs used for the ana
 *   MOTOFIT: A package that uses IGOR Pro for co-refinement of neutron and X-ray reflectivity data written by Andrew Nelson, Bragg Institute, ANSTO.  
     [http://motofit.sourceforge.net](http://motofit.sourceforge.net/wiki/index.php/Main_Page)
 
-*   Neutron Reflection Analysis DRYDOC and LPROF by Adrian Rennie  
-    [http://www.reflectometry.net/fitprogs/drydoc.htm](http://www.reflectometry.net/fitprogs/drydoc.htm)
-
-*   Programs for X-ray reflectometry analysis by Adrian Rennie  
-    [http://www.reflectometry.net/xrefprogs.htm](http://www.reflectometry.net/xrefprog.htm)
 
 ## Other Reflectometry fitting Software
 
