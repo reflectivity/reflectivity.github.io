@@ -12,8 +12,8 @@ For many users, one of the barriers to modern data analysis tools is the need to
 - Review relevant results of the [ORSO survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)
 - Discuss how such a library could work in practice
 - Canvas what types of example would be useful
-
-[Video of the introduction for this session](https://youtu.be/oAH7qgZPWNU)
+- [Notes from the discussion](https://github.com/reflectivity/reflectivity.github.io/blob/fa37786b4b5e2321a4a6cb1f0f2d6f0c2987553f/workshops/workshop_2025/Notes%20ORSO%20reproducibily.pdf)
+- [Video of the introduction for this session](https://youtu.be/oAH7qgZPWNU)
 
 ## The use of nested sampling in reflectometry
 **20:00-21:30 (UK), 21:00-22:30 (Europe), 15:00-16:30 (US East coast), 05:00-06:30 (Australia East coast):** 
