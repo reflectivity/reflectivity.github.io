@@ -56,7 +56,8 @@ The talk will give a short overview of the established services and their archit
 * [Video of the Talk by Tim Wetzel](https://youtu.be/fAyRdv9ARwA)
 * [Video of the Talk by Tom Hase](https://youtu.be/gVN1MKqSi_E)
 * Open discussion on moving towards open data (focus on metadata needs): Moderated by Bridget Murphy:
-
+* [Notes on the discussion](https://github.com/reflectivity/reflectivity.github.io/blob/2d2c553f776044f26a33a4a6f1530c9b8c3f1b08/workshops/workshop_2025/ORSOsummary_OpenData.pdf)
+  
 Some useful links from the discussion:
 * [SciCat](https://www.scicatproject.org/)
 * [PSDI](https://www.psdi.ac.uk/)
