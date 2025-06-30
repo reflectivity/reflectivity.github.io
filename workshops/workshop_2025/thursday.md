@@ -18,6 +18,8 @@ As a new working group of ORSO, the sample environment (S.E.) working group are 
 
 **Because this session was repeated there are was no video recording to try to encourage an open discussion**
 
+[Notes from the dicussion](https://github.com/reflectivity/reflectivity.github.io/blob/4cc65140389d9b4a510b8bcd0ba807006d9dec19/workshops/workshop_2025/ORSOsampleenvironment_summary.pdf)
+
 ## ORSO Drop-in help
 **11:00-12:00 (UK), 12:00-13:00 (Europe), 06:00-07:00 (US East coast), 20:00-21:00 (Australia East coast):**
 
