@@ -20,7 +20,7 @@ of neutron and X-ray reflectometry.*
 
 > [\[ **simple intro** \]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
 > [\[ tutorial \]](https://www.reflectometry.org/learn/intro.html)
-> 
+> [\[ orso youtube channel \]](https://www.youtube.com/@orso-openreflectometrystan8910)
 >
 > **sample environment:**
 > 
