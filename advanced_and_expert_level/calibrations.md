@@ -34,7 +34,7 @@ Things to get you thinking: (if you calibrate/measure something not on this list
  
 ## Frequent Calibration Examples
 
-- [DCD q-calibration at I07 Diamond](./calibration_diamond)
+- [DCD q-calibration at I07 Diamond](https://www.reflectometry.org/projects/calibration_diamond))
 - Flood detector POLREF-ISIS
 
 ## Infrequent Calibration Examples
@@ -43,5 +43,5 @@ Things to get you thinking: (if you calibrate/measure something not on this list
  
 ## Examples 
 
-- [Platypus TOF reflectometer at ANSTO](./calibrations_platypus)
+- [Platypus TOF reflectometer at ANSTO](https://www.reflectometry.org/projects/calibrations_platypus)
 
