@@ -2,7 +2,7 @@
 layout: page
 title: "AI tools"
 permalink: /learn_about_reflectometry/AI_tools
-author: "Stefan Kowarikr"
+author: "Stefan Kowarik"
 ---
 
 
