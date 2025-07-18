@@ -37,7 +37,7 @@ of neutron and X-ray reflectometry.*
 > [\[ **analysis software** \]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
 > [\[ **SLD data base** \]](https://slddb.esss.dk/slddb/)
 > [\[ **model library** \]](https://www.reflectometry.org/learn_about_reflectometry/model_library)
-
+> [\[ **AI tools** \]](https://www.reflectometry.org/learn_about_reflectometry/AI_tools)
 
 ### advanced and expert level
 
