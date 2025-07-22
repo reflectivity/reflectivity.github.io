@@ -6,12 +6,14 @@ permalink: /workshops/workshop_2025/
 
 # the 7th Open Reflectometry Standards Organisation ORSO annual meeting
 
-The Annual General Meeting of ORSO will take place online over the **23th-27th June 2025**. The purpose of the meeting is to discuss topics of interest to the ORSO community.
-The program will consist of scientific and technical talks together with discussion forums for each of the working groups
+The Annual General Meeting of ORSO took place online over the **23th-27th June 2025**. The purpose of the meeting was to discuss topics of interest to the ORSO community.
+The program is outlined below, consisting of scientific and technical talks together with discussion forums for each of the working groups
 
-**In advance of the meeting please complete the [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl)**
+![closing webinar](./AGM2025.png)
 
-## [Registration is now closed](https://indico.ess.eu/event/3810/)
+**The [ORSO Survey](https://forms.office.com/pages/responsepage.aspx?id=HDZmP36oWEGPYZnoLbPKyGNjGj0JBmlFoh6F5vEqATRUNUlaNjU1Mk9CUEFBMElSMVBVMVkyNFFVUC4u&route=shorturl) is still available for input**
+
+
 
 # Agenda:
 
@@ -21,7 +23,7 @@ The program will consist of scientific and technical talks together with discuss
 <details markdown="1">
 <summary>Scientific talk: <b>Chen Shen, 'Liquid surface scattering at Petra III'</b> </summary>
 <br>
-<b> Abstract:</b> Chen will present the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
+<b> Abstract:</b> Chen presented the beamline P08 of PETRA III. The beamline has three main setups: a six circle diffractometer, the Langmuir trough GID setup, and the Uni-Kiel owned LISA liquid surface diffractometer. He will also talk in details the recent news from our Langmuir trough GID setup and GIXOS - pseudo reflectivity method.
  
 </details>
 
@@ -29,11 +31,8 @@ A video of Chen's Talk is available [here](https://www.youtube.com/watch?v=vmclG
 
 ## Monday 23rd June: Plenary Sessions
 
-The plenary sessions will introduce ORSO and summarise our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
-There will also be some scientific talks on subjects of interest to the ORSO community.
-Since the agenda is scheduled to try to cover all time zones, we acknowledge that it may be difficult to attend all these sessions. We will therefore record the plenary sessions and post the videos here after the meeting.
-Where feasible we will repeat the breakout discussion sessions in different time zones or attempt to schedule at a time accessible to all. Please bear with us for unsociable meeting times!
-
+The plenary sessions introduced ORSO and summarised our activities since the [last meeting](https://www.reflectometry.org/workshops/workshop_2024/). 
+There were also be some scientific talks on subjects of interest to the ORSO community.
 
 ### Plenary Session 1
 **08:00-10:30 (UK), 09:00-11:30 (Europe), 04:00-06:30 (US East coast), 17:00-19:30 (Australia East coast):**
@@ -157,7 +156,7 @@ For the discussion sessions we would like to ask one of the attendees to act as 
 
 ## Friday 27th June: Concluding Plenary Session
 
-In the final session of the workshop we will summarise the working group discussions and look to the future with some further science talks
+In the final session of the workshop we summarised the working group discussions and closed the meeting with a final science talk:
 
 **12:00-14:30 (UK), 13:00-15:30 (Europe), 07:00-09:30 (US East coast), 21:00-23:30 (Australia East coast):**
 
