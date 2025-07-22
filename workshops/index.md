@@ -8,16 +8,15 @@ permalink: /workshops/
 
 ## the Open Reflectometry Standards Organisation ORSO annual meeting 2025
 
-Save the date: We are pleased to announce the annual workshop for ORSO on **23rd - 27th June 2025**
+The annual workshop for ORSO took place on **23rd - 27th June 2025**
 
-This will be an online meeting with sessions covering as many time zones as we can.
+It was an online meeting with sessions covering as many time zones as we can.
 
-[The Outline Agenda for the meeting is now available.](https://www.reflectometry.org/workshops/workshop_2025/)
+[The Agenda and reports from the meeting are available here.](https://www.reflectometry.org/workshops/workshop_2025/)
 
-Registration is open
 
 ## ORSO drop-in session at ICNS 2025 (Copenhagen)
-Come and join us on [July 7th 15:30 - 18:00 at ICNS](./ICNS_drop-in.md), for reflectometry help or advice.
+On [July 7th 15:30 - 18:00 at ICNS](./ICNS_drop-in.md), we held a drop-in session for ORSO.
 
 # Recent events
 
@@ -34,6 +33,7 @@ Each of the ORSO working groups meets in between AGMs to review open issues. The
 
 | Meeting or Workshop |      Date      |  Place |  Meeting report | 
 |----------|:-------------:|:------:|:------:|
+| 7th Annual Meeting | June 2025 |   [Online](./workshop_2025/) |
 | 6th Annual Meeting | July 2024 |   [Grenoble, France](./workshop_2024/)  |  |
 | 5th Annual Meeting | June 2023 |   [Online](./workshop_2023/)  |  |
 | 4th Annual Meeting | June 2022 |   [Online](./workshop_2022/)  |  |
