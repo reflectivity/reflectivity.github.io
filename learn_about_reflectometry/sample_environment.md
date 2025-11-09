@@ -20,7 +20,7 @@ author: "Sophie Ayscough"
 | ISIS | INTER | Static Liquid Troughs | 7 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) |- |
 | ISIS | CRISP/SURF | Static Liquid Troughs | 5 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) |- |
 | ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | - | - | - |[ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
-| PETRA III | P08 - Langmuir GID setup | Kibron G4-P08 Langmuir trough | 1 | 155mm x 350mm, 600mm, 155mm, 60mm | may be vertical... | 280mL, 480mL, 100mL or 25mL | PTFE | 5 to 40degC / consult P08 for measurements >30degC | 4.5 or 8 | integrated trough in the GID setup | subphase exchange system | [setup paper](https://doi.org/10.1088/1742-6596/2380/1/012047) | [P08 website](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_high_resolution_diffraction/experimental_hutch/index_eng.html) |
+| PETRA III | P08 - Langmuir GID setup | Kibron G4-P08 Langmuir trough | 1 | 155mm x 350mm, 600mm, 155mm, 60mm | may be vertical... | 280mL, 480mL, 100mL or 25mL | PTFE | 5 to 40degC | 4.5 or 8 | integrated trough in the GID setup | subphase exchange system | [setup paper](https://doi.org/10.1088/1742-6596/2380/1/012047) | [P08 website](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_high_resolution_diffraction/experimental_hutch/index_eng.html) |
 
 ## Table of magnets
 
