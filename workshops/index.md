@@ -6,8 +6,10 @@ permalink: /workshops/
 
 # Current event
 
-There are no events planned yet
+ORSO Sample Environment workshop on **electrochemistry cells for NR**
 
+2025-11-19 15:00/17:00Z  
+[agenda and registration](https://indico.stfc.ac.uk/event/1705/)
 
 # Recent events
 
