@@ -22,6 +22,11 @@ of neutron and X-ray reflectometry.*
 > [\[ tutorial \]](https://www.reflectometry.org/learn/intro.html)
 > [\[ orso youtube channel \]](https://www.youtube.com/@orso-openreflectometrystan8910)
 >
+> **Forums:**
+> 
+>[\[ liquid surfaces working group \]](https://www.reflectometry.org/liquidsurfaces)
+>[\[ sample environments working group \]](https://www.reflectometry.org/SEWG)
+> 
 > **sample environment:**
 > 
 > [[list of sample environments ]](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)
