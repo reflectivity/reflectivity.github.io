@@ -25,7 +25,7 @@ of neutron and X-ray reflectometry.*
 > **Forums:**
 > 
 >[\[ liquid surfaces working group \]](https://www.reflectometry.org/liquidsurfaces)
->[\[ sample environments working group \]](https://www.reflectometry.org/SEWG)
+>[\[ sample environments working group workshops \]](https://www.reflectometry.org/SEWorkshops)
 > 
 > **sample environment:**
 > 
