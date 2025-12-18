@@ -13,7 +13,9 @@ Currently this working group includes (alphabetical order on the facilities): AP
 
 | date | host | topic | notes |
 | --- | --- | --- | --- |
-| 2025.12.16 | ESRF/ID10-SURF | ID10-SURF | to come |
+| 2026.06 | Diamond Light Source / I07 | Diamond Light Source / I07 | to come |
+| 2025.03 | ILL / FIGARO | ILL / FIGARO | to come |
+| 2025.12.16 | ESRF/ID10-SURF | ID10-SURF | n/a |
 | 2025.9 | BESSY II/ELISA | the future ELISA instrument of BESSY II - a soft X-ray / IR instrument for liquid surfaces and interfaces | n/a |
 | 2025.06 | PETRA III/P08 | Langmuir GID setup and pseudo reflectivity method - acquring XRR via single shot GIXS | n/a |
 | 2025.03 | Soleil/SIRIUS | SIRIUS beamline with video tour, and its new XRR option on liquid surface using deflecting mirror | n/a |
