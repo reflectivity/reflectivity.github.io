@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Liquid Surface Working Group"
-permalink: /liquidsurfaces
+permalink: /liquidsurfaces/index
 author: "Chen Shen"
 ---
 
