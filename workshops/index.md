@@ -6,12 +6,14 @@ permalink: /workshops/
 
 # Current event
 
-ORSO Sample Environment workshop on **electrochemistry cells for NR**
+[The 8th annual ORSO (Open Reflectometry Standards Organization ) satellite meeting](./workshop_2026/) will follow immediately after [SXNS18](https://cvent.me/EaW77l) on July 24, 2026.
+
+# Recent events
+
+## ORSO Sample Environment workshop on **electrochemistry cells for NR**
 
 2025-11-19 15:00/17:00Z  
 [agenda and registration](https://indico.stfc.ac.uk/event/1705/)
-
-# Recent events
 
 ## the Open Reflectometry Standards Organisation ORSO annual meeting 2025
 
@@ -29,6 +31,7 @@ Each of the ORSO working groups meets in between AGMs to review open issues. The
 
 | Meeting or Workshop |      Date      |  Place |  Meeting report | 
 |----------|:-------------:|:------:|:------:|
+| 8th Annual Meeting | July 2026 |   [Chicago](./workshop_2026/) |
 | 7th Annual Meeting | June 2025 |   [Online](./workshop_2025/) |
 | 6th Annual Meeting | July 2024 |   [Grenoble, France](./workshop_2024/)  |  |
 | 5th Annual Meeting | June 2023 |   [Online](./workshop_2023/)  |  |
