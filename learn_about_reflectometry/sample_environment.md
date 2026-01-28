@@ -17,7 +17,7 @@ Contact persons to be listed when possible and contact details are available on 
 | ILL | Figaro/D17/SuperAdam | Standard 5 by 5 Solid-Liquid Flow Cell | Soft Matter i.e. lipids, proteins, polymers  | Silicon, Silicon-Titanium-Gold, Quartz | 10mm by 50mm by 50mm | Horizontal/Vertical | Kinematic Mount | 2 ml | Peek trough,  Aluminium Base | HPLC pump, Julabo, Water Bath, Syringe Pump, in-line QCM-D | | Recent Publications |
 
 ## Table of electrochemical environments
-|Facility/Group|Beamlines used|Science Application|Design speciality of cell|WE material|WE area/cm2|RE material|CE material|publications|contact|
+|Facility or Group|Beamlines used|Science Application|Design speciality|WE|WE area/cm2|RE|CE|publications|contact|
 |--|--|--|--|--|--|--|--|--|--|
 |ILL|D17, FIGARO|Batteries, polymers, electrolyte brushes|Solid-Liquid|Gold-coated surfaces|25-30|Ag wire|Gold-coated copper|publications|Sophie Ayscough|
 |ILL|FIGARO|Electrolyte, lipid assembly|Liquid-Liquid|Pt-mesh|---|Ag wire|Pt-mesh|https://www.sciencedirect.com/science/article/pii/S0013468621006265|Sophie Ayscough|
