@@ -9,9 +9,9 @@ author: "Sophie Ayscough"
 | Date  | Topic  |link to list of sample environments|
 | --- | --- | --- |
 | 19/11/2025  | Electrochemical cells |--|
-|February 2026|Furnaces|--|
+|09/02/2026|Furnaces|--|
 |April 2026|Humidity cells?|--|
-|June 2026|Oil-Water trough?|--|
+|June 2026|Air-Water trough?|--|
 
 Do you have a sample environment that you would like to discuss with the community? Either because you have a new development
 or because you want to discuss possibilities with a group of experienced reflectometry scientists. Contact us the sample environment working group 
