@@ -18,7 +18,7 @@ Currently this working group includes (alphabetical order on the facilities): AP
 | 2025.12.16 | ESRF/ID10-SURF | ID10-SURF | [note 2025-12](http://www.reflectometry.org/liquidsurfaces/note_2025-12.md)|
 | 2025.9 | BESSY II/ELISA | the future ELISA instrument of BESSY II - a soft X-ray / IR instrument for liquid surfaces and interfaces | n/a |
 | 2025.06 | PETRA III/P08 | Langmuir GID setup and pseudo reflectivity method - acquring XRR via single shot GIXS | [powerpoint](http://www.reflectometry.org/liquidsurfaces/note_2025-06.pdf) |
-| 2025.03 | Soleil/SIRIUS | SIRIUS beamline with video tour, and its new XRR option on liquid surface using deflecting mirror | [note](http://www.reflectometry.org/liquidsurfaces/note_2025-03.md) |
+| 2025.03 | Soleil/SIRIUS | SIRIUS beamline with video tour, and its new XRR option on liquid surface using deflecting mirror | [note 2025-03](http://www.reflectometry.org/liquidsurfaces/note_2025-03.md) |
 | 2024.12 | NSLS-II/12ID-SMI-OPLS | OPLS with video tour | n/a |
 | 2024.09 | Ben Ocko (NSLS-II/12ID) | starting of the working group | n/a |
 
