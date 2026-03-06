@@ -15,7 +15,7 @@ Currently this working group includes (alphabetical order on the facilities): AP
 | --- | --- | --- | --- |
 | 2026.06 | Diamond Light Source / I07 | Diamond Light Source / I07 | to come |
 | 2025.03.17 | ILL / FIGARO | ILL / FIGARO: research areas covered by the liquid surface scattering at ILL - one of the most powerful neutron sources, mainly using neutron reflectometry, but as well off-specular scattering and GISANS. | to come |
-| 2025.12.16 | ESRF/ID10-SURF | ID10-SURF | n/a |
+| 2025.12.16 | ESRF/ID10-SURF | ID10-SURF | ./note_2025-12.md |
 | 2025.9 | BESSY II/ELISA | the future ELISA instrument of BESSY II - a soft X-ray / IR instrument for liquid surfaces and interfaces | n/a |
 | 2025.06 | PETRA III/P08 | Langmuir GID setup and pseudo reflectivity method - acquring XRR via single shot GIXS | n/a |
 | 2025.03 | Soleil/SIRIUS | SIRIUS beamline with video tour, and its new XRR option on liquid surface using deflecting mirror | n/a |
