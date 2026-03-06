@@ -1,0 +1,42 @@
+host: ESRF / ID10-SURF, Oleg Konovalov
+
+ID10 consists fo two experimental stations: ID10-SURF / ID10-COH. Manageed by two teams, and the beamtime is shared in 50-50 mode
+ID: U35 + revolver U35/U27 + U27, 1.5m each
+optics
+- high heatload H-deflecting double mirrors, vertical deflecting DCM with channel cut Si111 (or Si311 for high resolution)
+- 4:1 Be 2D lens, R300 -> 10um v x 35um h in SURF hutch, 1D lens to come
+- (optional) vertical deflecting mirror
+- 11:1 Be 2D lens -> 2um v beam
+SURF hutch ~ 41m from ID
+- Double Xtal deflector (DCD), surface scattering (vertical stage unmounted)
+- 4.3m 2nd detector portal, horizontally rotatable
+10^13ph/s at 200mA, 10um v x 35um h beam, standard 22keV
+
+Experimental techniques:
+XRR/GIXRD/GISAXS/GIWAXS/XRF/XANES
+special: XRR with DCD using 333+660 to reach qz = 7.5/A (https://doi.org/10.1107/S1600576724000657)
+liquid surface XANES
+- using 4:1 lens, vertical deflecting mirror, no DCD, scan DCM but fix undulator gap (good for +/-100eV)
+- for different energies: set the 2/3 undulator set differently for different energy
+
+sample environments / experiment:
+- Langmuir trough
+- liquid-liquid Langmuir trough
+- liquid-liquid chamber
+- LMCats chamber from Leiden for 2D material CVD on liquid metal
+- humidity chamber
+- high pressure CO2 chamber (120bar)
+
+data (with Maciej Jankowski):
+- pipeline to XRR (ORSO format), GIXS / azimuthal integration
+- GIXS pipeline uses pyFAI fiberintegration
+- machine learning XRR (Schreiber's group)
+
+beamtime share:
+7 weeks / 6 months, 50% on liquid surface using DCD (mostly Langmuir trough and also LMCats)
+1.2 paper / proposal
+
+Coherence application: liquid-surface XPCS (Amadei, Journal of Physical Chemistry B, 124 (2020))
+
+
+
