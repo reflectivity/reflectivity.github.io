@@ -5,7 +5,7 @@ permalink: /advanced_and_expert_level/file_format/simple_model
 author: "Jochen Stahn"
 ---
 
-Jochen Stahn, Artur Glavic, *Paul Scherrer Institut, Switzerland* <br>
+Jochen Stahn, Artur Glavic, *PSI Center for Neutron and Muon Sciences, Switzerland* <br>
 Brian Maranville, *NIST, USA* <br>
 2022-03-14
 
@@ -266,8 +266,9 @@ It enables an easy way to define mixtures (solvents, interdiffusion, absorption)
 ``` YAML
     composits:
       <name>:
-        <material 1>: <rel. density 1>
-        <material 2>: <rel. density 2>
+        composition:
+          <material 1>: <rel. density 1>
+          <material 2>: <rel. density 2>
 ``` 
  
 > Example:
@@ -275,8 +276,9 @@ It enables an easy way to define mixtures (solvents, interdiffusion, absorption)
 > ``` YAML
 >     composits:
 >       solvent:
->          cyclohexane: 0.6
->          toluene: 0.4
+>         composition:
+>           cyclohexane: 0.6
+>           toluene: 0.4
 > ```
 
 #### materials
@@ -495,7 +497,8 @@ sample:
             material: tailstuff
             thickness: 22.
         composits:
-          water: 
+          water:
+            composition:
               H2O: 0.3
               D2O: 0.7   
         materials:       
