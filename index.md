@@ -40,7 +40,7 @@ of neutron and X-ray reflectometry.*
 > 
 > **tools:**  
 > [\[ **analysis software** \]](https://www.reflectometry.org/learn_about_reflectometry/analysis_software) 
-> [\[ **SLD data base** \]](https://slddb.esss.dk/slddb/)
+> [\[ **SLD data base** \]](https://slddb.reflectometry.org/)
 > [\[ **model library** \]](https://www.reflectometry.org/learn_about_reflectometry/model_library)
 > [\[ **AI tools** \]](https://www.reflectometry.org/learn_about_reflectometry/AI_tools)
 
@@ -55,12 +55,12 @@ of neutron and X-ray reflectometry.*
 > [\[ file format ](https://www.reflectometry.org/advanced_and_expert_level/file_format)
 > & [ **orsopy** \]](https://orsopy.readthedocs.io/en/latest)
 > [\[ model language ](https://www.reflectometry.org/advanced_and_expert_level/file_format/simple_model) 
-> & [ examples \]](https://slddb.esss.dk/slddb/sample)
+> & [ examples \]](https://slddb.reflectometry.org/sample)
 > [\[ standard samples \]](https://www.reflectometry.org/advanced_and_expert_level/standard_samples)
 >
 > **depositing data in public repositories and FAIR data**
 > 
-> [[list of repositories and related efforts ]](https://github.com/reflectivity/reflectivity.github.io/commit/815c703722c365e3794138312518f1746b742f58)
+> [\[ list of repositories and related efforts \]](https://github.com/reflectivity/reflectivity.github.io/commit/815c703722c365e3794138312518f1746b742f58)
 
 ### communication channels:
 
