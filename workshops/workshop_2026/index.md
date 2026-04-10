@@ -5,7 +5,17 @@ permalink: /workshops/workshop_2026/
 ---
 
 # The 8th Open Reflectometry Standards Organisation (ORSO) Annual Meeting  
-will take place at Argonne National Laboratory, USA on 24th July 2026, immediately after the SXNS conference
+will take place at Argonne National Laboratory, USA on 24th July 2026, immediately after the [SXNS18 conference](https://web.cvent.com/event/4ca0912b-5d8a-4250-8c64-0edaa51ea0d5/summary)
+
+The purpose of the meeting is for ORSO administration and to discuss topics of interest to the ORSO community. This year the meeting will take place on site at Argonne National Laboratory so **physical attendance will require [registration at SXNS18](https://web.cvent.com/event/4ca0912b-5d8a-4250-8c64-0edaa51ea0d5/register)** in order for access to be granted. Please note that the registration deadline for non-US citizens requiring a visa letter is very early (15th April 2026). [See detail here](https://web.cvent.com/event/4ca0912b-5d8a-4250-8c64-0edaa51ea0d5/websitePage:fcc8d7a1-3ea3-462c-9704-9d19730c10b7)
+
+For those that cannot attend in person we offer partial participation with free remote access, for which you can register [here](https://indico.ess.eu/event/3461/).
+
+## Confirmed Speakers:
+- Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France)
+- Chen Shen (DESY, Hamburg, Germany)
+- Cheng Wang (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
+
 
 ---
 
