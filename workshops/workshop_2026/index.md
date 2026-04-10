@@ -12,8 +12,8 @@ The purpose of the meeting is for ORSO administration and to discuss topics of i
 For those that cannot attend in person we offer partial participation with free remote access, for which you can register [here](https://indico.ess.eu/event/3461/).
 
 ## Confirmed Speakers:
-- Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France)
-- Chen Shen (DESY, Hamburg, Germany)
+- Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
+- Chen Shen (DESY, Hamburg, Germany): "GIXOS"
 - Cheng Wang (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
 
 
