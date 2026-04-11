@@ -13,7 +13,7 @@ For those that cannot attend in person we offer partial participation with free 
 
 ## Confirmed Speakers:
 - Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
-- Chen Shen (DESY, Hamburg, Germany): "GIXOS"
+- Chen Shen 沈辰 (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
 - Cheng Wang (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
 
 
