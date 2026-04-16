@@ -16,6 +16,7 @@ For those that cannot attend in person we offer partial participation with free 
 - Chen Shen 沈辰 (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
 - Cheng Wang (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
 - Masako Yamada (Institute of Materials Structure Science, KEK, Japan)
+- Mark Schlossman (University of Illinois Chicago, USA)
 
 
 ---
