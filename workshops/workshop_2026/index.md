@@ -14,10 +14,11 @@ For those that cannot attend in person we offer partial participation with free 
 ## Confirmed Speakers:
 - Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
 - Chen Shen 沈辰 (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
-- Cheng Wang (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
+- TBC (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
 - Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA
 - Mark Schlossman (University of Illinois Chicago, USA)
 - Erik Watkins (SNS, ORNL, USA)
+- John Ankner (SNS, ORNL, USA)
 
 
 ---
@@ -28,13 +29,25 @@ For those that cannot attend in person we offer partial participation with free 
 |------|------------------------|
 | **08:50 – 09:00** | **Plenary: Welcome & Introduction**  <br>*Auditorium, Argonne National Laboratory* | 
 | **09:00 – 10:20** | **Plenary Session 1**  <br>*Auditorium, Argonne National Laboratory* | 
+| 09:00 – 09:25 | Philipp Gutfreund  <br>*Combining specular and off-specular scattering for 3D neutron reflectometry* | 
+| 09:25 – 09:50 | Chen Shen  <br>*Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?* | 
+| 09:50 – 10:15 | Mark Schlossman  <br>*TBC* | 
 | **10:20 – 10:40** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
 | **10:40 – 12:00** | **Plenary Session 2**  <br>*Auditorium, Argonne National Laboratory* | 
+| 10:40 – 11:20 | Sophie Ayscough  <br>*A summary of the Sample Environment Working Group discussion forums* | 
+| 11:20 – 12:00 | Discussion  | 
 | **12:00 – 13:00** | 🍽️ **Lunch**  <br> | 
 | **13:00 – 14:45** | **Plenary Session 3**  <br>*Auditorium, Argonne National Laboratory* |  
-| **14:45 – 15:00** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
-| **15:00 – 15:45** | **Plenary: Keynote Talks**  <br>*Auditorium, Argonne National Laboratory* | 
-| **15:45 – 17:00** | **Plenary: ORSO Annual General Meeting (AGM)**  <br>*Auditorium, Argonne National Laboratory* | 
+| 13:00 – 13:25 | John ankner  <br>*The Slow Road to QIKR* | 
+| 13:25 – 13:50 | Massako Yamada  <br>*Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA* | 
+| 13:50 – 14:15 | TBC  <br>*Soft X-ray Refectometry* | 
+| 14:15 – 14:40 | Erik Watkins  <br>*TBC* | 
+| **14:40 – 15:00** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
+| **15:00 – 17:00** | **Plenary: ORSO Annual General Meeting (AGM)**  <br>*Auditorium, Argonne National Laboratory* | 
+| 15:00 – 15:20 | TBC  <br>*Reproducibility best practice* | 
+| 15:20 – 15:50 | AGM Business  <br>*Summaries from the working groups and election of Chairs* | 
+| 15:50 – 17:00 | TBC  <br>*AI and ORSO Talks (to be confirmed)* | 
+
 
 ---
 
