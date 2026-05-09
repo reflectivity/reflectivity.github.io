@@ -15,9 +15,9 @@ For those that cannot attend in person we offer partial participation with free 
 - Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
 - Chen Shen 沈辰 (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
 - TBC (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
-- Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA
+- Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): "Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA"
 - Mark Schlossman (University of Illinois Chicago, USA)
-- Erik Watkins (SNS, ORNL, USA)
+- Erik Watkins (SNS, ORNL, USA): "The Last Three Years on the Liquids Reflectometer at SNS"
 - John Ankner (SNS, ORNL, USA)
 
 
@@ -38,7 +38,7 @@ For those that cannot attend in person we offer partial participation with free 
 | 11:20 – 12:00 | Discussion  | 
 | **12:00 – 13:00** | 🍽️ **Lunch**  <br> | 
 | **13:00 – 14:45** | **Plenary Session 3**  <br>*Auditorium, Argonne National Laboratory* |  
-| 13:00 – 13:25 | John ankner  <br>*The Slow Road to QIKR* | 
+| 13:00 – 13:25 | John Ankner  <br>*The Slow Road to QIKR* | 
 | 13:25 – 13:50 | Massako Yamada  <br>*Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA* | 
 | 13:50 – 14:15 | TBC  <br>*Soft X-ray Refectometry* | 
 | 14:15 – 14:40 | Erik Watkins  <br>*TBC* | 
