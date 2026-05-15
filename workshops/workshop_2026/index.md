@@ -31,21 +31,22 @@ For those that cannot attend in person we offer partial participation with free 
 | **09:00 – 10:20** | **Plenary Session 1**  <br>*Auditorium, Argonne National Laboratory* | 
 | 09:00 – 09:25 | Philipp Gutfreund  <br>*Combining specular and off-specular scattering for 3D neutron reflectometry* | 
 | 09:25 – 09:50 | Chen Shen  <br>*Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?* | 
-| 09:50 – 10:15 | Mark Schlossman  <br>*TBC* | 
+| 09:50 – 10:15 | Mark Schlossman  <br>Rare earth element coordination at liquid interfaces | 
 | **10:20 – 10:40** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
 | **10:40 – 12:00** | **Plenary Session 2**  <br>*Auditorium, Argonne National Laboratory* | 
-| 10:40 – 11:20 | Sophie Ayscough  <br>*A summary of the Sample Environment Working Group discussion forums* | 
-| 11:20 – 12:00 | Discussion  | 
+| 10:40 – 11:00 | Frank Schreiber  <br>*An update on DAPHNE4NFDI* | 
+| 11:00 – 11:30 | Sophie Ayscough  <br>*A summary of the Sample Environment Working Group discussion forums* | 
+| 11:30 – 12:00 | Discussion  | 
 | **12:00 – 13:00** | 🍽️ **Lunch**  <br> | 
 | **13:00 – 14:45** | **Plenary Session 3**  <br>*Auditorium, Argonne National Laboratory* |  
 | 13:00 – 13:25 | John Ankner  <br>*The Slow Road to QIKR* | 
 | 13:25 – 13:50 | Massako Yamada  <br>*Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA* | 
-| 13:50 – 14:15 | TBC  <br>*Soft X-ray Refectometry* | 
-| 14:15 – 14:40 | Erik Watkins  <br>*TBC* | 
+| 13:50 – 14:15 | Thomas J. Ferron <br>*Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials.* | 
+| 14:15 – 14:40 | Erik Watkins  <br>*The Last Three Years on the Liquids Reflectometer at SNS* | 
 | **14:40 – 15:00** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
 | **15:00 – 17:00** | **Plenary: ORSO Annual General Meeting (AGM)**  <br>*Auditorium, Argonne National Laboratory* | 
-| 15:00 – 15:20 | TBC  <br>*Reproducibility best practice* | 
-| 15:20 – 15:50 | AGM Business  <br>*Summaries from the working groups and election of Chairs* | 
+| 15:00 – 15:15 | TBC  <br>*Reproducibility best practice* | 
+| 15:15 – 15:50 | AGM Business  <br>*Summaries from the working groups and election of Chairs* | 
 | 15:50 – 17:00 | TBC  <br>*AI and ORSO Talks (to be confirmed)* | 
 
 
