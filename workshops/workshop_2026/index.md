@@ -13,12 +13,12 @@ For those that cannot attend in person we offer partial participation with free 
 
 ## Confirmed Speakers:
 - Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
-- Chen Shen 沈辰 (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
-- TBC (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)
+- Chen Shen (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
+- ﻿Thomas J. Ferron (Advanced Light Source, Lawrence Berkeley National Laboratory, USA): "﻿Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials."
 - Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): "Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA"
 - Mark Schlossman (University of Illinois Chicago, USA)
 - Erik Watkins (SNS, ORNL, USA): "The Last Three Years on the Liquids Reflectometer at SNS"
-- John Ankner (SNS, ORNL, USA)
+- John Ankner (SNS, ORNL, USA): "The Slow Road to QIKR"
 
 
 ---
