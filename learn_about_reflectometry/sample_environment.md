@@ -48,5 +48,17 @@ Contact persons to be listed when possible and contact details are available on 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |--- | --- |
 | ISIS | POLREF | restive electrode magnet | - | - | - | - | Flat-faced | - | - | - | - | - |- | - |- |
 
+## Table of Furnaces
+
+|Facility/Research Group	| Instruments	| Max Temperature	|Material in beam	|Sample dimensions x height|	Special feature/adaptation|	Contact name + email address| 	Webpages | Literature|
+| PETRA III / P08|	Anton Paar DHS1100	| 1100degC	|graphite / PEEK / Kapton	| up to 1.5mm thick, 15mm x 15mm	|commercial product for grazing incidence x-ray scattering|	Chen Shen|		
+|PETRA III / P08|	Anton Paar DCS500|	500degC	|graphite / PEEK / Kapton|	up to 1.5mm thick, 15mm x 15mm	|commercial product for grazing incidence x-ray scattering|	Chen Shen |		
+ESRF/XDIFF	ID10-SURF	1600K	liquid metals and 2D materials (graphene, hBN, GaN, SiC,…)	20mm x 1mm	gas flow controll system (H2, Ar, H2, CH4, NH3)	O. Konovalov |lmcat.eu 2dengine.eu	M. Saedi, et al., Review of Scientific Instruments, v.91, p.13907 (2020)|
+|ISIS, NR group (POLREF Vac Furnacne)	|POLREF	|350C (620K)	|Cu, Al2O3	30 x 25mm area by 0.5 to 5mm thick	|Requires a Cu puck made to match the area of the sample, to avoid Cu backgorund scattering, we have a large selection now. It also requires a vaccum 1e-6 constantly pumped. Sample has to be stuck down with heat paste. It cannot be run with any gases in teh sampel space volume. it has Al2O3 windows to allow laser alignment.	 ||	https://www.isis.stfc.ac.uk/Pages/polref.aspx	|
+|ISIS, NR group (UFO cells)	|INTER,OFFSPEC, POLREF	|200C	|Al, Cu, Al2O3	100mm diameter discs	Vaccum or 1 bar gas without windows|	Andy Church, James Dalton|https://www.isis.stfc.ac.uk/Pages/polref.aspx	|
+|ANSTO	Spatz	1900 K 	Al, Nb	25 mm x 25 mm max. 	stainless steel sample holder 	spatz@ansto.gov.au	https://www.ansto.gov.au/facilities/australian-centre-for-neutron-scattering/sample-environments	https://doi.org/10.1039/D3RA08289J
+|Swansea University, UK	| d17	| Typically 200 degrees C at present|	Fullerenes, non-fullerenes and polymers	100nm films on 4mm thick, 50mm diameter, silicon blocks	need to heat under vac (1e-5 mbar) or in a well-controlled inert gas environment|	Anthony Higgins; |		A. M. Higgins et al, Soft Matter, 2024, 20, 2532-2546; A. M. Higgins et al, J. Mat. Chem. C , 2023, 11, 2107-2119|
+
+
 
 
