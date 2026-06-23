@@ -17,13 +17,16 @@ For those that cannot attend in person we offer partial participation with free 
 - ﻿Thomas J. Ferron (Advanced Light Source, Lawrence Berkeley National Laboratory, USA): "﻿Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials."
 - Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): "Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA"
 - Mark Schlossman (University of Illinois Chicago, USA)
-- Erik Watkins (SNS, ORNL, USA): "The Last Three Years on the Liquids Reflectometer at SNS"
-- John Ankner (SNS, ORNL, USA): "The Slow Road to QIKR"
+- Erik Watkins (ORNL, USA): "The Last Three Years on the Liquids Reflectometer at SNS"
+- John Ankner (ORNL, USA): "The Slow Road to QIKR"
+- Tim Snow (Diamond Light Source, UK): "Overview of AI/ML developments in x-ray and neutron scattering"
+- Lijie Ding (ORNL, USA): "SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis"
+- Frank Schreiber (University of Tübingen, Germany): "An update on DAPHNE4NFDI"
 
 
 ---
 
-## 🗓️ Provisional Program
+## 🗓️ Program
 
 | Time | Auditorium (Main Hall) | 
 |------|------------------------|
@@ -47,8 +50,10 @@ For those that cannot attend in person we offer partial participation with free 
 | **15:00 – 17:00** | **Plenary: ORSO Annual General Meeting (AGM)**  <br>*Auditorium, Argonne National Laboratory* | 
 | 15:00 – 15:15 | TBC  <br>*Reproducibility best practice* | 
 | 15:15 – 15:50 | AGM Business  <br>*Summaries from the working groups and election of Chairs* | 
-| 15:50 – 17:00 | TBC  <br>*AI and ORSO Talks (to be confirmed)* | 
-
+| 15:50 – 16:15 | Tim Snow  <br>*Overview of AI/ML developments in x-ray and neutron scattering* | 
+| 16:15 – 16:40 | Lijie Ding  <br>*SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis* | 
+| 16:40 – 17:00 | Discussion on the need for an AI working group | 
+| 17:00 | Closing remarks
 
 ---
 
