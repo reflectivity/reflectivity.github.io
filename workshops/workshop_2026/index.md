@@ -112,7 +112,7 @@ For those that cannot attend in person we offer partial participation with free 
 <details markdown="1">
 <summary>16:15 – 16:40: <b>Lijie Ding (ORNL, USA), 'SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis'</b> </summary>
 <br>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> Soft matter research still waits on humans at every step of the cycle: writing and selecting proposals, running experiments and simulations, and analyzing the results. We built three large language model (LLM) agent systems, each aimed at one of these steps. ProposalArena tests whether LLM judge panels can rank beamtime and computing proposals. We score real historical proposals by individual grading and by pairwise comparison, then check the rankings against the publications each proposal later produced. ToPolyAgent runs polymer molecular dynamics with three cooperating agents, one each for system configuration, simulation, and reporting; from a single natural-language prompt it handles linear, ring, brush, star, and dendrimer topologies, in interactive or fully autonomous mode. SasAgent analyzes small-angle scattering data. It wraps SasView's model library, SLD calculator, and fitting routines as callable tools, and retrieves from SasView documentation when choosing a model, taking raw I(q) to a converged fit for colloidal and polymer systems. Each agent removes a different wait from the cycle: for proposal reviewers, for simulation setup expertise, for scattering analysis experience. We see them as working pieces of an eventual autonomous research loop at user facilities.
 </details>
 
 <details markdown="1">
