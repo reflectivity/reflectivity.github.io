@@ -11,50 +11,115 @@ The purpose of the meeting is for ORSO administration and to discuss topics of i
 
 For those that cannot attend in person we offer partial participation with free remote access, for which you can register [here](https://indico.ess.eu/event/3461/).
 
-## Confirmed Speakers:
-- Philipp Gutfreund (Institut Laue-Langevin, Grenoble, France): "Combining specular and off-specular scattering for 3D neutron reflectometry"
-- Chen Shen (Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany): "Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?"
-- ﻿Thomas J. Ferron (Advanced Light Source, Lawrence Berkeley National Laboratory, USA): "﻿Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials."
-- Masako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan): "Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA"
-- Mark Schlossman (University of Illinois Chicago, USA)
-- Erik Watkins (ORNL, USA): "The Last Three Years on the Liquids Reflectometer at SNS"
-- John Ankner (ORNL, USA): "The Slow Road to QIKR"
-- Tim Snow (Diamond Light Source, UK): "Overview of AI/ML developments in x-ray and neutron scattering"
-- Lijie Ding (ORNL, USA): "SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis"
-- Frank Schreiber (University of Tübingen, Germany): "An update on DAPHNE4NFDI"
-
-
----
 
 ## 🗓️ Program
 
-| Time | Auditorium (Main Hall) | 
-|------|------------------------|
-| **08:50 – 09:00** | **Plenary: Welcome & Introduction**  <br>*Auditorium, Argonne National Laboratory* | 
-| **09:00 – 10:20** | **Plenary Session 1**  <br>*Auditorium, Argonne National Laboratory* | 
-| 09:00 – 09:25 | Philipp Gutfreund  <br>*Combining specular and off-specular scattering for 3D neutron reflectometry* | 
-| 09:25 – 09:50 | Chen Shen  <br>*Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?* | 
-| 09:50 – 10:15 | Mark Schlossman  <br>Rare earth element coordination at liquid interfaces | 
-| **10:20 – 10:40** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
-| **10:40 – 12:00** | **Plenary Session 2**  <br>*Auditorium, Argonne National Laboratory* | 
-| 10:40 – 11:00 | Frank Schreiber  <br>*An update on DAPHNE4NFDI* | 
-| 11:00 – 11:30 | Sophie Ayscough  <br>*A summary of the Sample Environment Working Group discussion forums* | 
-| 11:30 – 12:00 | Discussion  | 
-| **12:00 – 13:00** | 🍽️ **Lunch**  <br> | 
-| **13:00 – 14:45** | **Plenary Session 3**  <br>*Auditorium, Argonne National Laboratory* |  
-| 13:00 – 13:25 | John Ankner  <br>*The Slow Road to QIKR* | 
-| 13:25 – 13:50 | Massako Yamada  <br>*Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA* | 
-| 13:50 – 14:15 | Thomas J. Ferron <br>*Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials.* | 
-| 14:15 – 14:40 | Erik Watkins  <br>*The Last Three Years on the Liquids Reflectometer at SNS* | 
-| **14:40 – 15:00** | ☕ **Coffee Break**  <br>*Auditorium, Argonne National Laboratory* | 
-| **15:00 – 17:00** | **Plenary: ORSO Annual General Meeting (AGM)**  <br>*Auditorium, Argonne National Laboratory* | 
-| 15:00 – 15:15 | TBC  <br>*Reproducibility best practice* | 
-| 15:15 – 15:50 | AGM Business  <br>*Summaries from the working groups and election of Chairs* | 
-| 15:50 – 16:15 | Tim Snow  <br>*Overview of AI/ML developments in x-ray and neutron scattering* | 
-| 16:15 – 16:40 | Lijie Ding  <br>*SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis* | 
-| 16:40 – 17:00 | Discussion on the need for an AI working group | 
-| 17:00 | Closing remarks
+## Friday 24th July: 
+**08:50 – 09:00 Welcome & Introduction**
 
----
+**09:00 – 10:20 Plenary Session 1**
+  
+<details markdown="1">
+<summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France), 'Combining specular and off-specular scattering for 3D neutron reflectometry '</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
 
-*Program subject to change. Please check back for updates.*
+<details markdown="1">
+<summary>09:25 – 09:50  : <b>Chen Shen (DESY, Hamburg, Germany), 'Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry? '</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>09:50 – 10:15  : <b>Mark Schlossman (Department of Physics, University of Illinois Chicago, USA), 'Rare earth element coordination at liquid interfaces '</b> </summary>
+<br>
+<b> Abstract:</b> Rare earth elements are utilized in a diverse range of modern and evolving technologies. Current methods for separating and purifying these elements involve their interactions at liquid interfaces. For example, the primary separations technique in current use, known as solvent extraction, involves molecular binding and assisted transport across liquid-liquid interfaces. Other techniques in development utilize rare earth element adsorption to liquid-vapor and liquid-solid interfaces. The development of these techniques has taken place largely in the absence of an understanding of interfacial distributions of rare earth elements, and of the binding, coordination, and ordering of rare-earth elements with molecular species at the interface. This provides an opportunity for the use of X-ray reflectivity and spectroscopy to investigate these issues. I will review some recent X-ray studies in this area, with an emphasis on the use of multiple techniques to understand rare earth element coordination at the liquid-vapor interface.
+</details>
+
+**10:20 – 10:40**  ☕ **Coffee Break**  
+
+**10:40 – 12:00**  **Plenary Session 2**  
+
+<details markdown="1">
+<summary>10:40 – 11:00: <b>Frank Schreiber (University of Tübingen, Germany), 'An update on DAPHNE4NFDI'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>11:00 – 11:30: <b>Sophie Ayscough (ILL, Grenoble, France), 'A summary of the Sample Environment Working Group discussion forums'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+ 
+<details markdown="1">
+<summary>11:30 – 12:00: <b>Discussion </b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+**12:00 – 13:00**  🍽️ **Lunch**  <br> 
+
+**13:00 – 14:45**  **Plenary Session 3**  
+
+<details markdown="1">
+<summary>13:00 – 13:25  : <b>John Ankner (ORNL, USA), 'The Slow Road to QIKR' </b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>13:25 – 13:50: <b>Massako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan), 'Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>13:50 – 14:15: <b>Thomas J. Ferron (Advanced Light Source, Lawrence Berkeley National Laboratory, USA), 'Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials.'</b> </summary>
+<br>
+<b> Abstract:</b> Thin films composed of soft matter often exhibit heterogeneities in composition and molecular orientation distributed throughout the film’s depth. This morphology can dramatically influence a material’s function such as chain orientation in semiconducting polymers that can introduce anisotropic optoelectronic properties. Characterizing such stratification is challenging as few experimental techniques simultaneously resolve depth-dependent composition and molecular orientation, particularly in semi-crystalline or amorphous materials. Resonant soft X-ray reflectivity (RSOXR) is an experimental technique that combines the chemical sensitivity of near-edge X-ray absorption fine structure (NEXAFS) spectroscopy with the depth-profiling capabilities of X-ray reflectivity. Soft X-rays leverage intrinsic chemical contrast near elemental absorption edges relevant for soft matter, including carbon (284 eV), nitrogen (410 eV), and oxygen (543 eV). The application of polarized X-rays extends this capability, providing sensitivity to the alignment of NEXAFS dipoles which directly relates to the orientation of molecules under investigation. This presentation will provide an overview of RSOXR capabilities and ongoing research for studying soft matter at the Advanced Light Source (ALS). Experimental requirements and data analysis strategies will be discussed, including differences from hard X-ray or neutron reflectivity. This will include a brief introduction to our current polarized reflectivity modeling software, pypxr, and future plans to develop a native hyperspectral modeling platform. Challenges for operating in this X-ray regime will be addressed alongside opportunities and use cases in soft matter research.
+</details>
+
+<details markdown="1">
+<summary>14:15 – 14:40: <b>Erik Watkins (ORNL, USA), 'The Last Three Years on the Liquids Reflectometer at SNS'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+**14:40 – 15:00**  ☕ **Coffee Break** 
+
+**15:00 – 17:00**  **Plenary: ORSO Annual General Meeting (AGM)**  
+
+<details markdown="1">
+<summary>15:00 – 15:15: <b>Tom Arnold (ESS, Sweden), 'Reproducibility best practice'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>15:15 – 15:50: <b>AGM Business, 'Summaries from the working groups and election of Chairs'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>15:50 – 16:15: <b>Tim Snow (Diamond Light Source, UK), 'Overview of AI/ML developments in x-ray and neutron scattering'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+ 
+<details markdown="1">
+<summary>16:15 – 16:40: <b>Lijie Ding (ORNL, USA), 'SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis'</b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+<details markdown="1">
+<summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b> </summary>
+<br>
+<b> Abstract:</b> TBC
+</details>
+
+**17:00  Closing remarks**
+
