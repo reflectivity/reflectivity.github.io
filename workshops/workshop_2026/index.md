@@ -21,10 +21,10 @@ Click on the talk to view an abstract!
   
 <details markdown="1">
 <summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France) </b> 
-<br><blockquote>'Combining specular and off-specular scattering for 3D neutron reflectometry '</summary>
+<br><blockquote>'Combining specular and off-specular scattering for 3D neutron reflectometry'</blockquote> </summary>
 <b>Abstract:</b> TBC
 </details>
-</blockquote>
+
   
 <details markdown="1">
 <summary>09:25 – 09:50  : <b>Chen Shen (DESY, Hamburg, Germany)</b> 
