@@ -16,6 +16,8 @@ of neutron and X-ray reflectometry.*
 > [\[ how to participate \]](https://www.reflectometry.org/organisation_and_communication/how_to_participate) 
 > [\[ **orso workshops** \]](https://www.reflectometry.org/workshops) 
 
+## The agenda for the ORSO AGM meeting 20th July 2026 is [here](https://www.reflectometry.org/workshops/workshop_2026/)
+
 ### learn about reflectometry
 
 > [\[ **simple intro** \]](https://www.reflectometry.org/learn_about_reflectometry/simple_intro)
