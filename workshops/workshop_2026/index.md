@@ -21,20 +21,20 @@ Click on the talk to view an abstract!
   
 <details markdown="1">
 <summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France) </b> 
-<br>'Combining specular and off-specular scattering for 3D neutron reflectometry '</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'Combining specular and off-specular scattering for 3D neutron reflectometry '</summary>
+<blockquote><b>Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>09:25 – 09:50  : <b>Chen Shen (DESY, Hamburg, Germany)</b> 
-<br>'Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'Grazing incidence diffuse scattering from liquid surfaces: faster and better than reflectometry?'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>09:50 – 10:15  : <b>Mark Schlossman (Department of Physics, University of Illinois Chicago, USA)</b> 
-<br>'Rare earth element coordination at liquid interfaces' </summary>
-<b> Abstract:</b> Rare earth elements are utilized in a diverse range of modern and evolving technologies. Current methods for separating and purifying these elements involve their interactions at liquid interfaces. For example, the primary separations technique in current use, known as solvent extraction, involves molecular binding and assisted transport across liquid-liquid interfaces. Other techniques in development utilize rare earth element adsorption to liquid-vapor and liquid-solid interfaces. The development of these techniques has taken place largely in the absence of an understanding of interfacial distributions of rare earth elements, and of the binding, coordination, and ordering of rare-earth elements with molecular species at the interface. This provides an opportunity for the use of X-ray reflectivity and spectroscopy to investigate these issues. I will review some recent X-ray studies in this area, with an emphasis on the use of multiple techniques to understand rare earth element coordination at the liquid-vapor interface.
+<br><blockquote>'Rare earth element coordination at liquid interfaces' </summary>
+<blockquote><b> Abstract:</b> Rare earth elements are utilized in a diverse range of modern and evolving technologies. Current methods for separating and purifying these elements involve their interactions at liquid interfaces. For example, the primary separations technique in current use, known as solvent extraction, involves molecular binding and assisted transport across liquid-liquid interfaces. Other techniques in development utilize rare earth element adsorption to liquid-vapor and liquid-solid interfaces. The development of these techniques has taken place largely in the absence of an understanding of interfacial distributions of rare earth elements, and of the binding, coordination, and ordering of rare-earth elements with molecular species at the interface. This provides an opportunity for the use of X-ray reflectivity and spectroscopy to investigate these issues. I will review some recent X-ray studies in this area, with an emphasis on the use of multiple techniques to understand rare earth element coordination at the liquid-vapor interface.
 </details>
 
 ## **10:20 – 10:40**  ☕ **Coffee Break**  
@@ -43,20 +43,20 @@ Click on the talk to view an abstract!
 
 <details markdown="1">
 <summary>10:40 – 11:00: <b>Frank Schreiber (University of Tübingen, Germany)</b> 
-<br> 'An update on DAPHNE4NFDI'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote> 'An update on DAPHNE4NFDI'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>11:00 – 11:30: <b>Sophie Ayscough (ILL, Grenoble, France)</b> 
-<br> 'A summary of the Sample Environment Working Group discussion forums' </summary>
-<b> Abstract:</b> TBC
+<br><blockquote> 'A summary of the Sample Environment Working Group discussion forums' </summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
  
 <details markdown="1">
 <summary>11:30 – 12:00: <b>Discussion </b> </summary>
 <br>
-<b> Abstract:</b> TBC
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 ## **12:00 – 13:00**  🍽️ **Lunch**  <br> 
@@ -65,26 +65,26 @@ Click on the talk to view an abstract!
 
 <details markdown="1">
 <summary>13:00 – 13:25  : <b>John Ankner (ORNL, USA)</b> 
-<br> 'The Slow Road to QIKR' </summary>
-<b> Abstract:</b> TBC
+<br><blockquote> 'The Slow Road to QIKR' </summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>13:25 – 13:50: <b>Massako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan)</b> 
-<br>'Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>13:50 – 14:15: <b>Thomas J. Ferron (Advanced Light Source, Lawrence Berkeley National Laboratory, USA)</b> 
-<br>'Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials.'</summary>
-<b> Abstract:</b> Thin films composed of soft matter often exhibit heterogeneities in composition and molecular orientation distributed throughout the film’s depth. This morphology can dramatically influence a material’s function such as chain orientation in semiconducting polymers that can introduce anisotropic optoelectronic properties. Characterizing such stratification is challenging as few experimental techniques simultaneously resolve depth-dependent composition and molecular orientation, particularly in semi-crystalline or amorphous materials. Resonant soft X-ray reflectivity (RSOXR) is an experimental technique that combines the chemical sensitivity of near-edge X-ray absorption fine structure (NEXAFS) spectroscopy with the depth-profiling capabilities of X-ray reflectivity. Soft X-rays leverage intrinsic chemical contrast near elemental absorption edges relevant for soft matter, including carbon (284 eV), nitrogen (410 eV), and oxygen (543 eV). The application of polarized X-rays extends this capability, providing sensitivity to the alignment of NEXAFS dipoles which directly relates to the orientation of molecules under investigation. This presentation will provide an overview of RSOXR capabilities and ongoing research for studying soft matter at the Advanced Light Source (ALS). Experimental requirements and data analysis strategies will be discussed, including differences from hard X-ray or neutron reflectivity. This will include a brief introduction to our current polarized reflectivity modeling software, pypxr, and future plans to develop a native hyperspectral modeling platform. Challenges for operating in this X-ray regime will be addressed alongside opportunities and use cases in soft matter research.
+<br><blockquote>'Polarized resonant soft X-ray reflectivity for depth-profiling composition and molecular orientation in soft materials.'</summary>
+<blockquote><b> Abstract:</b> Thin films composed of soft matter often exhibit heterogeneities in composition and molecular orientation distributed throughout the film’s depth. This morphology can dramatically influence a material’s function such as chain orientation in semiconducting polymers that can introduce anisotropic optoelectronic properties. Characterizing such stratification is challenging as few experimental techniques simultaneously resolve depth-dependent composition and molecular orientation, particularly in semi-crystalline or amorphous materials. Resonant soft X-ray reflectivity (RSOXR) is an experimental technique that combines the chemical sensitivity of near-edge X-ray absorption fine structure (NEXAFS) spectroscopy with the depth-profiling capabilities of X-ray reflectivity. Soft X-rays leverage intrinsic chemical contrast near elemental absorption edges relevant for soft matter, including carbon (284 eV), nitrogen (410 eV), and oxygen (543 eV). The application of polarized X-rays extends this capability, providing sensitivity to the alignment of NEXAFS dipoles which directly relates to the orientation of molecules under investigation. This presentation will provide an overview of RSOXR capabilities and ongoing research for studying soft matter at the Advanced Light Source (ALS). Experimental requirements and data analysis strategies will be discussed, including differences from hard X-ray or neutron reflectivity. This will include a brief introduction to our current polarized reflectivity modeling software, pypxr, and future plans to develop a native hyperspectral modeling platform. Challenges for operating in this X-ray regime will be addressed alongside opportunities and use cases in soft matter research.
 </details>
 
 <details markdown="1">
 <summary>14:15 – 14:40: <b>Erik Watkins (ORNL, USA)</b> 
-<br>'The Last Three Years on the Liquids Reflectometer at SNS'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'The Last Three Years on the Liquids Reflectometer at SNS'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 ## **14:40 – 15:00**  ☕ **Coffee Break** 
@@ -93,37 +93,37 @@ Click on the talk to view an abstract!
 
 <details markdown="1">
 <summary>15:00 – 15:15: <b>Tom Arnold (ESS, Sweden)</b> 
-<br>'Reproducibility best practice in reflectometry'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'Reproducibility best practice in reflectometry'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
 
 <details markdown="1">
 <summary>15:15 – 15:50: <b>AGM Business, </b> </summary>
-<br>'Summaries from the working groups and election of Chairs'
-<br><b> Data Analysis Working Group</b> 
-<br><b> Reproducibility Working Group</b>
-<br><b> File Formats Working Group</b> 
-<br><b> Education and Outreach Working Group</b> Tom Arnold
+<br><blockquote>'Summaries from the working groups and election of Chairs'
+<br><blockquote><b> Data Analysis Working Group</b> 
+<br><blockquote><b> Reproducibility Working Group</b>
+<br><blockquote><b> File Formats Working Group</b> 
+<br><blockquote><b> Education and Outreach Working Group</b> Tom Arnold
 </details>
 
 <details markdown="1">
 <summary>15:50 – 16:15: <b>Tim Snow (Diamond Light Source, UK)</b> 
-<br>'Overview of AI/ML developments in x-ray and neutron scattering'</summary>
-<b> Abstract:</b> TBC
+<br><blockquote>'Overview of AI/ML developments in x-ray and neutron scattering'</summary>
+<blockquote><b> Abstract:</b> TBC
 </details>
  
 <details markdown="1">
 <summary>16:15 – 16:40: <b>Lijie Ding (ORNL, USA)</b> 
-<br>'SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis'</summary>
-<b> Abstract:</b> Soft matter research still waits on humans at every step of the cycle: writing and selecting proposals, running experiments and simulations, and analyzing the results. We built three large language model (LLM) agent systems, each aimed at one of these steps. ProposalArena tests whether LLM judge panels can rank beamtime and computing proposals. We score real historical proposals by individual grading and by pairwise comparison, then check the rankings against the publications each proposal later produced. ToPolyAgent runs polymer molecular dynamics with three cooperating agents, one each for system configuration, simulation, and reporting; from a single natural-language prompt it handles linear, ring, brush, star, and dendrimer topologies, in interactive or fully autonomous mode. SasAgent analyzes small-angle scattering data. It wraps SasView's model library, SLD calculator, and fitting routines as callable tools, and retrieves from SasView documentation when choosing a model, taking raw I(q) to a converged fit for colloidal and polymer systems. Each agent removes a different wait from the cycle: for proposal reviewers, for simulation setup expertise, for scattering analysis experience. We see them as working pieces of an eventual autonomous research loop at user facilities.
+<br><blockquote>'SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis'</summary>
+<blockquote><b> Abstract:</b> Soft matter research still waits on humans at every step of the cycle: writing and selecting proposals, running experiments and simulations, and analyzing the results. We built three large language model (LLM) agent systems, each aimed at one of these steps. ProposalArena tests whether LLM judge panels can rank beamtime and computing proposals. We score real historical proposals by individual grading and by pairwise comparison, then check the rankings against the publications each proposal later produced. ToPolyAgent runs polymer molecular dynamics with three cooperating agents, one each for system configuration, simulation, and reporting; from a single natural-language prompt it handles linear, ring, brush, star, and dendrimer topologies, in interactive or fully autonomous mode. SasAgent analyzes small-angle scattering data. It wraps SasView's model library, SLD calculator, and fitting routines as callable tools, and retrieves from SasView documentation when choosing a model, taking raw I(q) to a converged fit for colloidal and polymer systems. Each agent removes a different wait from the cycle: for proposal reviewers, for simulation setup expertise, for scattering analysis experience. We see them as working pieces of an eventual autonomous research loop at user facilities.
 </details>
 
 <details markdown="1">
 <summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b> </summary>
 <br>
-<b> Abstract:</b> We would like to discuss how ORSO should contribute to AI and ML developments in reflectometry.
-<br>Which topics should ORSO prioritise?
-<br>How should ORSO organise these activities?  
+<blockquote><b> Abstract:</b> We would like to discuss how ORSO should contribute to AI and ML developments in reflectometry.
+<blockquote><br>Which topics should ORSO prioritise?
+<blockquote><br>How should ORSO organise these activities?  
 </details>
 
 ## **17:00  Closing remarks**
