@@ -103,18 +103,18 @@ Click on the talk to view an abstract!
 
 <details markdown="1">
 <summary>15:00 – 15:15: <b>Tom Arnold (ESS, Sweden)</b> 
-<br><blockquote>'Reproducibility best practice in reflectometry'</blockquote></summary>
+<br><blockquote>'Reproducibility best practice in reflectometry' </blockquote> </summary>
 <b> Abstract:</b> TBC
 </details>
 
   
 <details markdown="1">
-<summary>15:15 – 15:50: <b>AGM Business, </b> </blockquote></summary>
+<summary>15:15 – 15:50: <b>AGM Business</b> </blockquote></summary>
 <br>'Summaries from the working groups and election of Chairs'
 <br><b> Data Analysis Working Group</b> 
 <br><b> Reproducibility Working Group</b>
 <br><b> File Formats Working Group</b> 
-<br><<b> Education and Outreach Working Group</b> Tom Arnold
+<br><b> Education and Outreach Working Group</b> Tom Arnold
 </details>
 
   
