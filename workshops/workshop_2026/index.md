@@ -110,7 +110,7 @@ Click on the talk to view an abstract!
   
 <details markdown="1">
 <summary>15:15 – 15:50: <b>AGM Business, </b> </blockquote></summary>
-<br><blockquote>'Summaries from the working groups and election of Chairs'
+<br>'Summaries from the working groups and election of Chairs'
 <br><b> Data Analysis Working Group</b> 
 <br><b> Reproducibility Working Group</b>
 <br><b> File Formats Working Group</b> 
