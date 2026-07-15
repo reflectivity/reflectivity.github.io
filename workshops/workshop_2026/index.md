@@ -133,9 +133,9 @@ Click on the talk to view an abstract!
 
   
 <details markdown="1">
-<summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b> </blockquote></summary>
+<summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b></summary>
 <br>
-<blockquote><b> Abstract:</b> We would like to discuss how ORSO should contribute to AI and ML developments in reflectometry.
+<b> Abstract:</b> We would like to discuss how ORSO should contribute to AI and ML developments in reflectometry.
 <br>Which topics should ORSO prioritise?
 <br>How should ORSO organise these activities?  
 </details>
