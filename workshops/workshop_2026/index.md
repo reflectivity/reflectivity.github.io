@@ -107,7 +107,8 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 <details markdown="1">
 <summary>15:00 – 15:15: <b>Tom Arnold (ESS, Sweden)</b> 
 <br><blockquote>'Reproducibility best practice in reflectometry' </blockquote> </summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> Neutron and X-ray reflectometry are powerful techniques for the study of interfacial systems and are in widespread use across the world. However, historically these techniques have suffered from the issues of reproducibility, repeatability and replicability seen across all of science. We would like to publish a white paper in the name of ORSO, we aim to establish best-practice for reporting the results of X-ray and neutron reflectometry experiments. We believe that this advice will help to improve the reproducibility of published reflectometry data and to direct the development of appropriate tools to facilitate this.
+We have drafted a paper that considers reproducibility in all aspects of the reflectometry experiment, including the sample, the sample environment, the measurement protocol, the data treatment pipeline and the data analysis process. The aim is to offer pragmatic and practical advice to all working in this field and we are now looking for contributors to help improve the paper and to ensure it truely reperesents a consensus of the ORSO community.
 </details>
 
   
