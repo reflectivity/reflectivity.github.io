@@ -46,8 +46,11 @@ Click on the talk to view an abstract!
 
 <details markdown="1">
 <summary>10:40 – 11:00: <b>Frank Schreiber (University of Tübingen, Germany)</b> 
-<br><blockquote> 'An update on DAPHNE4NFDI'</blockquote></summary>
-<b> Abstract:</b> TBC
+<br><blockquote> 'DAPHNE4NFDI:  DAta from PHoton and Neutron Experiments'</blockquote></summary>
+<b> Abstract: Data derived from photon and neutron experiments are key to many scientific breakthroughs across disciplines ranging from medicine to engineering. </b> Developments in data sources, instrumentation, and detectors lead to rapidly growing data volumes of increased complexity.  These developments present both great opportunities and significant challenges to the community. Addressing them requires systematic and sustainable research data management where data acquisition, analysis, and availability are critically important. 
+The DAPHNE4NFDI consortium (DAta from PHoton and Neutron Experiments for the National Research Data Infrastructure) responds to this need as part of the German National Research Data Infrastructure (NFDI) for harmonized, FAIR compliant data practices and a FAIR ecosystem for the photon and neutron communities. DAPHNE4NFDI develops and maintains community-acknowledged reference databases, integrates open-access repositories and databases, and provides technical tools for metadata collection and storage supporting national and international platforms, while offering and maintaining FAIR software. These efforts aim to establish international research data standards, train early-career researchers, and promote sustainable FAIR data practices and tools. In particular, our reflectivity use-case illustrates a model workflow for FAIR data profiting from machine learning algorithms for live analysis and closed loop experiments
+DAPHNE4NFDI profits from close collaboration between large scale facilities, academic institutions, IT specialists, and user communities, integrating FAIR principles throughout the entire data lifecycle - from data acquisition to long term preservation, publication, and reuse.
+
 </details>
 
   
