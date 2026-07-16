@@ -61,11 +61,7 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 </details>
 
   
-<details markdown="1">
-<summary>11:30 – 12:00: <b>Discussion </b> </summary>
-<br>
-<b> Abstract:</b> TBC
-</details>
+11:30 – 12:00: <b>Discussion on sample environment for reflectometry</b>
 
 
 ## **12:00 – 13:00**  🍽️ **Lunch**  <br> 
