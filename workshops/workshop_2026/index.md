@@ -57,7 +57,7 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 <details markdown="1">
 <summary>11:00 – 11:30: <b>Sophie Ayscough (ILL, Grenoble, France)</b> 
 <br><blockquote> 'A summary of the Sample Environment Working Group discussion forums' </blockquote></summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> The sample environment working group of ORSO have hosted several workshops over the last year to discuss specific sample environments for neutron and x-ray reflectometry. This included sessions on electrochemistry, furnaces and troughs. These sessions involved in-depth talks on sample environments and short flash talks from different scientists (in and out of facilities). The aim of these workshops was to provide a relaxed platform within which sample environments can be discussed and common issues identified. In this talk I will present some brief highlights from these workshops and present how we hope to build up this working group in future, including building up a list of reflectometry sample environments across the world. This presentation will be followed by a discussion section on the limiting factors in developing new environments and how we can better collaborate on sample environments cross-facility.
 </details>
 
   
