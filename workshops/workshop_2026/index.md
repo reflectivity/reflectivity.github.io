@@ -113,7 +113,7 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
 <br><b> Data Analysis Working Group</b> 
 <br><b> Reproducibility Working Group</b>
-<br><b> File Formats Working Group</b> 
+<br><b> File Formats Working Group</b> Max Skoda
 <br><b> Education and Outreach Working Group</b> Tom Arnold
 </details>
 
@@ -135,9 +135,7 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <details markdown="1">
 <summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b></summary>
 <br>
-<b> Abstract:</b> We would like to discuss how ORSO should contribute to AI and ML developments in reflectometry.
-<br>Which topics should ORSO prioritise?
-<br>How should ORSO organise these activities?  
+<b> Abstract:</b> Artificial intelligence and machine learning are generating enormous interest across the physical sciences, but what can they realistically deliver for reflectometry? With potential applications ranging from real-time data analysis and experiment automation to large language models for user support and scientific workflows, this session will feature two invited talks highlighting recent developments and practical applications, followed by an open discussion on the opportunities, challenges and future role of AI/ML within the reflectometry community. The discussion will help inform ORSO's future activities and priorities in this area.
 </details>
 
 
