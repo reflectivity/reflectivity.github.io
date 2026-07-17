@@ -110,37 +110,35 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 We have drafted a paper that considers reproducibility in all aspects of the reflectometry experiment, including the sample, the sample environment, the measurement protocol, the data treatment pipeline and the data analysis process. The aim is to offer pragmatic and practical advice to all working in this field and we are now looking for contributors to help improve the paper and to ensure it truely reperesents a consensus of the ORSO community.
 </details>
 
-  
+   
 <details markdown="1">
-<summary>15:15 – 15:50: <b>AGM Business</b> 
-<br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
-<br><b> Data Analysis Working Group</b> 
-<br><b> Reproducibility Working Group</b>
-<br><b> File Formats Working Group</b> Max Skoda
-<br><b> Education and Outreach Working Group</b> Tom Arnold
-</details>
-
-  
-<details markdown="1">
-<summary>15:50 – 16:15: <b>Tim Snow (Diamond Light Source, UK)</b> 
+<summary>15:15 – 15:40: <b>Tim Snow (Diamond Light Source, UK)</b> 
 <br><blockquote>'Overview of AI/ML developments in x-ray and neutron scattering'</blockquote></summary>
 <b> Abstract:</b> TBC
 </details>
 
   
 <details markdown="1">
-<summary>16:15 – 16:40: <b>Lijie Ding (ORNL, USA)</b> 
+<summary>15:40 – 16:05: <b>Lijie Ding (ORNL, USA)</b> 
 <br><blockquote>'SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis'</blockquote></summary>
 <b> Abstract:</b> Soft matter research still waits on humans at every step of the cycle: writing and selecting proposals, running experiments and simulations, and analyzing the results. We built three large language model (LLM) agent systems, each aimed at one of these steps. ProposalArena tests whether LLM judge panels can rank beamtime and computing proposals. We score real historical proposals by individual grading and by pairwise comparison, then check the rankings against the publications each proposal later produced. ToPolyAgent runs polymer molecular dynamics with three cooperating agents, one each for system configuration, simulation, and reporting; from a single natural-language prompt it handles linear, ring, brush, star, and dendrimer topologies, in interactive or fully autonomous mode. SasAgent analyzes small-angle scattering data. It wraps SasView's model library, SLD calculator, and fitting routines as callable tools, and retrieves from SasView documentation when choosing a model, taking raw I(q) to a converged fit for colloidal and polymer systems. Each agent removes a different wait from the cycle: for proposal reviewers, for simulation setup expertise, for scattering analysis experience. We see them as working pieces of an eventual autonomous research loop at user facilities.
 </details>
 
   
 <details markdown="1">
-<summary>16:40 – 17:00: <b>Discussion on the need for an AI working group </b></summary>
-<br>
+<summary>16:05 – 16:30: <b>Discussion led by Max Skoda and Stefan Kowarik</b>
+<br><blockquote>'The need for an ORSO AI working group'</blockquote></summary>
 <b> Abstract:</b> Artificial intelligence and machine learning are generating enormous interest across the physical sciences, but what can they realistically deliver for reflectometry? With potential applications ranging from real-time data analysis and experiment automation to large language models for user support and scientific workflows, this session will feature two invited talks highlighting recent developments and practical applications, followed by an open discussion on the opportunities, challenges and future role of AI/ML within the reflectometry community. The discussion will help inform ORSO's future activities and priorities in this area.
 </details>
 
+<details markdown="1">
+<summary>16:30 – 17:00: <b>AGM Business</b> 
+<br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
+<br><b> Data Analysis Working Group</b> 
+<br><b> Reproducibility Working Group</b>
+<br><b> File Formats Working Group</b> Max Skoda
+<br><b> Education and Outreach Working Group</b> Tom Arnold
+</details>
 
 ## **17:00  Closing remarks**
 
