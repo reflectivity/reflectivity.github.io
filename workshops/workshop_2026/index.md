@@ -22,7 +22,9 @@ Click on the talk to view an abstract!
 <details markdown="1">
 <summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France) </b> 
 <br><blockquote>'Combining specular and off-specular scattering for 3D neutron reflectometry'</blockquote> </summary>
-<b>Abstract:</b> TBC
+<b>Abstract:</b> I will show the power of the oﬀ-specular scattering (OSS) technique combined with specular reflec-tion (SR) to probe the properties of interfaces, mainly focused on Soft Matter. Although applicable to both X-ray (XRR) and Neutron Reflectometry (NR, in monochromatic and Time-of-Flight (ToF) modes) the focus will be on ToF-NR, which is used more often for Soft Matter reflectometry nowa-days. I will present a novel combined SR and OSS data analysis framework, obtained using a quick and robust originally developed algorithm, including a common absolute scale normalization of both types of scattering, which are intricately linked, constraining the model to a high degree. After an introduction, I will show several example studies using this approach in the field of thin polymer films. I will also present a way for qualitative interpretation of OSS data without quantitative fitting, by a simple eye inspection of OSS maps plotted in different spaces.
+<br>[1] <a href="https://onlinelibrary.wiley.com/doi/10.1107/S1600576721003575">A. Hafner et al., J. Appl. Cryst. (2021), 54, 924.</a>
+<br>[2] <a href="https://iopscience.iop.org/article/10.1088/1361-648X/ac0282/">A. Hafner et al., J. Phys.: Condens. Matter (2021), 33, 364002.</a>
 </details>
 
   
