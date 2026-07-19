@@ -12,7 +12,9 @@ The purpose of the meeting is for ORSO administration and to discuss topics of i
 
 # 🗓️ Program
 
-Click on the talk to view an abstract!
+### Click on the talks to view the corresponding abstract!
+
+### Time zone is Chicago: Central Daylight Time (CDT, UTC-5) 
 
 # Friday 24th July: 
 ## **08:50 – 09:00 Welcome & Introduction**
