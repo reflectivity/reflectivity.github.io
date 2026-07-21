@@ -99,7 +99,7 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 <details markdown="1">
 <summary>14:15 – 14:40: <b>Erik Watkins (ORNL, USA)</b> 
 <br><blockquote>'The Last Three Years on the Liquids Reflectometer at SNS'</blockquote></summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> The Liquids Reflectometer (LR) is a time-of-flight neutron reflectometer at the Spallation Neutron Source (SNS) with a horizontal sample geometry that enables neutron reflectometry measurements at free liquid interfaces. Commissioned 20 years ago, LR began serving the user community in 2007. This presentation will highlight instrument developments over the past five years, focusing on advances that allow measurements to be tailored to particular experiment needs and new capabilities for improving automation, data quality, and throughput.
 </details>
 
   
