@@ -85,7 +85,11 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 <details markdown="1">
 <summary>13:25 – 13:50: <b>Massako Yamada (High Energy Accelerator Research Organization (KEK)/ J-PARC center, Japan)</b> 
 <br><blockquote>'Demonstration of Multi-Incident-angle Neutron Reflectometry (MI-NR) with Focusing Optics at SOFIA'</blockquote></summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> SOFIA is a horizontal-type neutron reflectometer at Beamline 16 (BL16) at MLF, J-PARC. SOFIA provides an advantageous capability for investigating free surfaces (liquid–air and liquid–liquid interfaces), enabling measurements with the sample kept horizontal over the full Qz-range, and has therefore been widely utilized for interfacial studies, particularly in soft-matter science. Benefiting from the high neutron intensity at J-PARC and efficient use of TOF method, SOFIA enables neutron reflectometry (NR) with relatively short data acquisition times.
+<br>At a single incident angle, the accessible Qz-range is limited by the available wavelength band. SOFIA is therefore being upgraded to a multi-incident-angle neutron reflectometer (MI-NR) combined with focusing optics [1]. This system aims to cover a wide Qz-range simultaneously with enhanced neutron intensity at the sample, enabling efficient operando and time-resolved measurements.
+A proof-of-principle demonstration was performed using two detectors to acquire reflectivity profiles at two incident angles simultaneously. A 30-nm-thick deuterated polystyrene film was measured for 30 min at 100 kW, corresponding to approximately 3 min at 1 MW. Despite limited counting statistics, the experiment demonstrated the feasibility of MI-NR and covered a wide single-acquisition Qz-range of 0.1-3 nm<sup>-1</sup>. 
+<br> The first focusing mirrors caused beam broadening because of fabrication issues. New mirror pairs are currently under production, with the goal of completing the MI-NR installation and beginning user operation by the end of 2027.
+<br>[1] <a href="https://doi.org/10.1107/S1600576720013059">N. L. Yamada, et al., J. Appl. Crystallogr., 53 1462–1470 (2020) </a>
 </details>
 
   
