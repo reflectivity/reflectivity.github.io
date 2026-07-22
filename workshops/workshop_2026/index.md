@@ -150,9 +150,11 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <details markdown="1">
 <summary>16:30 – 17:00: <b>AGM Business</b> 
 <br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
-<br><b> Data Analysis Working Group</b> Brian Maranville
-<br><b> File Formats Working Group</b> Max Skoda
-<br><b> Education and Outreach Working Group</b> Tom Arnold
+Reports From the working groups not coverered earlier
+<br><b> Data Analysis Working Group:</b> Brian Maranville
+<br><b> File Formats Working Group:</b> Max Skoda
+<br><b> Education and Outreach Working Group:</b> Tom Arnold
+<br><b> Voting:</b> Restructuring of ORSO? and election of chairs.
 </details>
 
 ## **17:00  Closing remarks**
