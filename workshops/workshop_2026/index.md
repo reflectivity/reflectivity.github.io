@@ -20,6 +20,8 @@ The purpose of the meeting is for ORSO administration and to discuss topics of i
 ## **08:50 – 09:00 Welcome & Introduction**
 
 ## **09:00 – 10:20 Plenary Session 1**
+
+**Chair: Rebecca Anderson**
   
 <details markdown="1">
 <summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France) </b> 
@@ -51,6 +53,8 @@ A so-called pseudoreflectivity method has been developed jointly on the Langmuir
 
 ## **10:40 – 12:00**  **Plenary Session 2**  
 
+**Chair: Sophie Ayscough**
+
 <details markdown="1">
 <summary>10:40 – 11:00: <b>Frank Schreiber (University of Tübingen, Germany)</b> 
 <br><blockquote> 'DAPHNE4NFDI:  DAta from PHoton and Neutron Experiments'</blockquote></summary>
@@ -74,6 +78,8 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 ## **12:00 – 13:00**  🍽️ **Lunch**  <br> 
 
 ## **13:00 – 14:45**  **Plenary Session 3**  
+
+**Chair: TBC**
 
 <details markdown="1">
 <summary>13:00 – 13:25  : <b>John Ankner (ORNL, USA)</b> 
@@ -111,6 +117,8 @@ A proof-of-principle demonstration was performed using two detectors to acquire 
 
 ## **15:00 – 17:00**  **Plenary: ORSO Annual General Meeting (AGM)**  
 
+**Chair: Tom Arnold**
+
 <details markdown="1">
 <summary>15:00 – 15:15: <b>Tom Arnold (ESS, Sweden)</b> 
 <br><blockquote>'Reproducibility best practice in reflectometry' </blockquote> </summary>
@@ -142,8 +150,7 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <details markdown="1">
 <summary>16:30 – 17:00: <b>AGM Business</b> 
 <br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
-<br><b> Data Analysis Working Group</b> 
-<br><b> Reproducibility Working Group</b>
+<br><b> Data Analysis Working Group</b> Brian Maranville
 <br><b> File Formats Working Group</b> Max Skoda
 <br><b> Education and Outreach Working Group</b> Tom Arnold
 </details>
