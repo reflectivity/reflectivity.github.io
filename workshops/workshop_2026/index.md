@@ -84,7 +84,8 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 <details markdown="1">
 <summary>13:00 – 13:25  : <b>John Ankner (ORNL, USA)</b> 
 <br><blockquote> 'The Slow Road to QIKR' </blockquote></summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> QIKR is envisioned as a general-purpose, horizontal-sample-surface neutron reflectometer [1].  The large instantaneous neutron flux and broad wavelength bandwidth of the SNS STS will routinely allow informationally complete specular reflectivity measurements to be carried out at a single instrument setting within seconds.  This “cinematic” measurement capability will make accessible routine time-dependent characterization of interfacial structures over a broad range of scientific disciplines, including energy materials, polymers, and biological membranes.  I will describe QIKR’s design, illustrate its capabilities, and discuss its prospects.
+<br>[1] <a href="https://pubs.aip.org/aip/rsi/article/94/1/013302/2872169/Cinematic-reflectometry-using-QIKR-the-quite">J.F. Ankner, et al., Rev. Sci. Instrum. 94, 013302 (2023)</a>
 </details>
 
   
