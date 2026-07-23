@@ -130,7 +130,7 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <details markdown="1">
 <summary>15:15 – 15:40: <b>Tim Snow (Diamond Light Source, UK)</b> 
 <br><blockquote>'Overview of AI/ML developments in x-ray and neutron scattering'</blockquote></summary>
-<b> Abstract:</b> TBC
+<b> Abstract:</b> This talk will cover a range of topics from the use of AI & Machine Learning as an analytical tool, through to an optimiser for high dimensional problems such as beamline alignment through to improvements for the user experience when acquiring data and how all of this can be linked by a series of latency based development platforms that Diamond is working on as part of its facility upgrade project Diamond-II.
 </details>
 
   
