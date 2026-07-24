@@ -11,6 +11,12 @@ author: "Sophie Ayscough"
 | 19/11/2025  | Electrochemical cells |[Electrochemical cell List](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)|
 |09/02/2026|Furnaces| [Furnace List](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)|
 |26/05/2026|Air-Water trough|[Trough list](https://www.reflectometry.org/learn_about_reflectometry/sample_environments)|
+|---|Humidity Cells||
+|---|Gas Handling||
+|---|Solid Liquid Cells||
+|---|Light Illumination||
+|---|In-situ polymer growth||
+
 
 Do you have a sample environment that you would like to discuss with the community? Either because you have a new development
 or because you want to discuss possibilities with a group of experienced reflectometry scientists. Contact us the sample environment working group 
