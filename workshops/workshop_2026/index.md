@@ -21,7 +21,7 @@ The purpose of the meeting is for ORSO administration and to discuss topics of i
 
 ## **09:00 – 10:20 Plenary Session 1**
 
-**Chair: Rebecca Anderson**
+**Chair: Oleg Konovalov**
   
 <details markdown="1">
 <summary>09:00 – 09:25  : <b>Philipp Gutfreund (ILL, Grenoble, France) </b> 
@@ -79,7 +79,7 @@ DAPHNE4NFDI profits from close collaboration between large scale facilities, aca
 
 ## **13:00 – 14:45**  **Plenary Session 3**  
 
-**Chair: TBC**
+**Chair: Rebecca Anderson**
 
 <details markdown="1">
 <summary>13:00 – 13:25  : <b>John Ankner (ORNL, USA)</b> 
@@ -153,6 +153,7 @@ We have drafted a paper that considers reproducibility in all aspects of the ref
 <br><blockquote> 'Summaries from the working groups and election of Chairs'</blockquote> </summary>
 Reports From the working groups not coverered earlier
 <br><b> Data Analysis Working Group:</b> Brian Maranville
+<br><b> A short summary of progress on the Neutron Round Robin :</b> Rebecca Anderson
 <br><b> File Formats Working Group:</b> Max Skoda
 <br><b> Education and Outreach Working Group:</b> Tom Arnold
 <br><b> Voting:</b> Restructuring of ORSO? and election of chairs.
