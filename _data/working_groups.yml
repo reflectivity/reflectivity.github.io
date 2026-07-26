@@ -1,36 +1,36 @@
 - title: Education & Outreach
   chairs:
-  - name: Tom Arnold
+  - name: Tom Arnold (ESS)
     email: tom.arnold@ess.eu
-  - name: Rebecca Anderson
+  - name: Rebecca Anderson (ORNL)
     email: andersonrj@ornl.gov
 - title: File Formats
   chairs:
-  - name: Chen Shen
+  - name: Chen Shen (DESY)
     email: chen.shen@desy.de
-  - name: Max Skoda
+  - name: Max Skoda (STFC)
     email: maximilian.skoda@stfc.ac.uk
 - title: Analysis
   chairs:
-  - name: Brian Maranville
+  - name: Brian Maranville (NIST)
     email: brian.maranville@nist.gov
-  - name: Andrew Nelson
+  - name: Andrew Nelson (ANSTO)
     email: anz@ansto.gov.au
 - title: Reproducibility
   chairs: 
-  - name: Hayden Robertson
+  - name: Hayden Robertson (TU-Darmstadt)
     email: hayden.robertson@pkm.tu-darmstadt.de
-  - name: Maciej Jankowski   
+  - name: Maciej Jankowski (ESRF)
     email: maciej.jankowski@esrf.fr
-- title: Sample Environments
+- title: Sample Environments 
   chairs:
-  - name: Sophie Ayscough
+  - name: Sophie Ayscough (ILL)
     email: ayscough@ill.fr
-  - name: David Walwark
+  - name: David Walwark (U. Chicago)
     email: walwark@uchicago.edu
 - title: Artificial Intelligence and Machine Learning
   chairs:
-  - name: Tim Snow
+  - name: Tim Snow (Diamond)
     email: tim.snow@diamond.ac.uk
-  - name: Stefan Kowarik
+  - name: Stefan Kowarik (U. Graz)
     email: stefan.kowarik@uni-graz.at
