@@ -157,6 +157,7 @@ Reports From the working groups not coverered earlier
 <br><b> File Formats Working Group:</b> Max Skoda
 <br><b> Education and Outreach Working Group:</b> Tom Arnold
 <br><b> Voting:</b> Restructuring of ORSO? and election of chairs.
+<br><b> The results of the election:</b> It was decided to creat a new working group covering AI. Tim Snow and Stefan Kowarik were elected as the chairs for this group. Rebecca Anderson was elected to E&O, Chen Shen to Data Formats, Hayden Robertson to Reproducibility, and David Walwark to Sample environment. Brian Maranville was reelected to the Data Analysis working group.
 </details>
 
 ## **17:00  Closing remarks**
