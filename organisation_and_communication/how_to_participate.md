@@ -4,7 +4,11 @@ title: "How to interact with ORSO"
 permalink: /organisation_and_communication/how_to_participate
 author: "Wojciech Potrzebowski"
 ---
-If you are interested in joining ORSO you may consider watching following videos:
+If you are interested in joining ORSO please sign up to the [mailing list](https://reflectometry.us10.list-manage.com/subscribe/post?u=e7e953117fa45f665f9030aaa&id=fa298202d4) and [LinkedIn](https://www.linkedin.com/posts/activity-7342987772309241856-VQwA)
+
+There is always something to do, so if you think something needs doing, just get in touch with the relevant chair(s) and discuss. 
+
+You may also consider watching following videos:
 
 You can also learn more about Github in general [here](https://lab.github.com/)
 
