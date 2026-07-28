@@ -110,7 +110,7 @@ The following links provide information about computer programs used for the ana
 
 *   REFLEX: Matlab software developed by Guillaume Vignaud and Alain Gibaud for X-ray, soft X-ray (incorporating polarisation) and neutron reflectivity fitting. [http://reflex.irdl.fr/Reflex/reflex.html](http://reflex.irdl.fr/Reflex/reflex.html).
 
-*   Multifitting: this is software developped by Mikhail Svechnikov, Moscow for fitting multiple layer structures [http://xray-optics.org/products/software-multifitting/](http://xray-optics.org/products/software-multifitting/)
+*   Multifitting: this is software developed by Mikhail Svechnikov for fitting specular, off-specular and GISAXS from layer structures [https://github.com/svech/Multifitting/releases](https://github.com/svech/Multifitting/releases)
 
 *   Zeeman Splitting: a Jupyter notebook from Michael Fitzsimmons that accounts for Zeeman splitting in polarized neutron reflectometry data [https://github.com/mfitzsimmons44/reflectometry-analysis](https://github.com/mfitzsimmons44/reflectometry-analysis)
 
