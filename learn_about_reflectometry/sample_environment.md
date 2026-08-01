@@ -41,6 +41,7 @@ Contact persons to be listed when possible and contact details are available on 
 | ISIS | CRISP/SURF | Static Liquid Troughs | 5 | - | - | - | - | RT to 80 degrees celcius | n/a | - | - | [ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) |- |
 | ISIS | INTER/OFFSPEC/CRISP/SURF | NIMA LANGMUIR TROUGH | 1 | - | - | - | - | -50 to 200 degrees celcius | - | - | - |[ISIS S.E.](https://www.isis.stfc.ac.uk/Pages/Troughs-and-Water-Baths.aspx) | - |
 | PETRA III | P08 - Langmuir GID setup | Kibron G4-P08 Langmuir trough | 1 | 155mm x 350mm, 600mm, 155mm, 60mm | may be vertical... | 280mL, 480mL, 100mL or 25mL | PTFE | 5 to 40degC | 4.5 or 8 | integrated trough in the GID setup | subphase exchange system | [setup paper](https://doi.org/10.1088/1742-6596/2380/1/012047) | [P08 website](https://photon-science.desy.de/facilities/petra_iii/beamlines/p08_high_resolution_diffraction/experimental_hutch/index_eng.html) |
+| ESRF | ID10-SURF | Langmuir Trough | 1 | W * L *D : 170 * 438 * 3 mm | - | Without the meniscus 22.34 cl ; With the meniscus (~2 mm above the edge of the trough) 37.23 cl | PTFE | +10 - +30 degC | Max 6 | When sealed, filled with He | Wilhelmy balance (Surface Pressure Sensor Model PS4, Nima Technology Ltd); active vibration isolation system (MOD-2 S, Halcyonics) | - | [ID10-SURF Langmuir trough](https://www.esrf.fr/UsersAndScience/Experiments/SoftMatter/ID10/ID10EH1/UsersGuide/exphut/langmuir) |
 
 ## Table of magnets
 
