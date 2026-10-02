@@ -31,7 +31,7 @@ Please complete the [survey on the importance of different aspects of the checkl
    4. Have you considered the effect of sample imperfections on your experiment (sample size/flatness/roughness)?
    5. Do you need to prepare the sample at the facility, is there the necessary equipment?
    6. Do you know if there is a suitable sample environment for your study (including simultaneous characterisation), if not can one be developed?
-3. **Have you done your home (preparing for the beamtime)?**
+3. **Have you done your homework (preparing for the beamtime)?**
    1. Does your experimental team have the person power and knowledge to run the experiment?
    2. Do you know (including alignment/temperature ramping/etc) how long the experiments will take, do you need to do a test measurement?
    3. What control and null measurements are necessary for your scientific question/sample environment?
