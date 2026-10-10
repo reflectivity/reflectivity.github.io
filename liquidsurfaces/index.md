@@ -15,7 +15,7 @@ Currently this working group includes (alphabetical order on the facilities): AP
 | --- | --- | --- | --- |
 | 2026.12 / 2027.01 | t.b.a | t.b.a | to come |
 | 2026.09.15 | Uni-Kiel / LISA (PETRA III/P08) | the latest scientific and technological developments at LISA at P08, PETRA III, the latest steps towards FAIR and AI ready workflows in the DAPHNE4NFDI project | [talk](http://www.reflectometry.org/liquidsurfaces/talk_2026-09.pdf) |
-| 2026.06.09 | Diamond Light Source / I07 | Diamond Light Source / I07 - the surface and scattering beamline. Detailed agenda tba | to come |
+| 2026.06.09 | Diamond Light Source / I07 | Diamond Light Source / I07 - the surface and scattering beamline. | to come |
 | 2026.03.17 | ILL / FIGARO | ILL / FIGARO: research areas covered by the liquid surface scattering at ILL - one of the most powerful neutron sources, mainly using neutron reflectometry, but as well off-specular scattering and GISANS. | [talk](http://www.reflectometry.org/liquidsurfaces/talk_2026-03.pdf), [note 2026-03](http://www.reflectometry.org/liquidsurfaces/note_2026-03) |
 | 2025.12.16 | ESRF/ID10-SURF | ID10-SURF: beamline and its science, gain after ESRF-EBS upgrade, CVD growth on liquid metal, etc. | [note 2025-12](http://www.reflectometry.org/liquidsurfaces/note_2025-12)|
 | 2025.9 | BESSY II/ELISA | the future ELISA instrument of BESSY II - a soft X-ray / IR instrument for liquid surfaces and interfaces | [note 2025-09](http://www.reflectometry.org/liquidsurfaces/note_2025-09) |
