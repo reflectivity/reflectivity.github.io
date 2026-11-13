@@ -66,6 +66,26 @@ The idea then is, that recurring fragments (sub-stacks, layers, materials) are d
 local dictionary or even in the orso data base. 
 The model description in the header then stays simple and easy to use.
 
+#### speaking names
+
+If the names of layers or materials are interpreted as references to a data base or as formulae in case
+there is no explicit declaration in the `model`. E.g. since the layer with name `Ni` in the first example above is
+not explicitely declared, it is assumed that this layer contains only the entry `material: Ni`. In case 
+also this material is not expicitely declared or the declaration misses one of the entries `composition`,
+`formula` or `material` (second example), it is assumed that `formula: Ni`.
+
+#### chemical formula
+
+Chemical formulae are resolved as:
+
+- $\mathrm{A_xB_y}$ gives `AxBy`
+- isotops: $\mathrm{^mA_x}$ gives `A[m]x`
+- no spaces are allowed within a formula
+- brackets `()` can not be used on the `stack` or `substack` level because they might be confused
+  with repetition declarations
+- `formula` does not yet allow for brackets, colons or dots to express logical chemical units, alloys,
+  compexation or intercallation. 
+
 ### structure
 
 The model description has the following structure:
